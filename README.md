@@ -39,3 +39,6 @@ This is the actual prelaunch storefront frontend. Search, subject filters, saved
 Orders are not yet open. The simulated checkout, fake order success and demo library have been removed. `/checkout` is an ordering-information page until real checkout is connected. No payment, login, purchase history or paid-file access backend has been implemented. Pricing, final pack contents and delivery format are still business decisions. Sample content is pending teacher/syllabus review.
 
 The custom domain has not been connected. The current Site remains private. Browser QA is unavailable in this environment; build, typechecking and data/business-rule checks are used.
+
+## Account frontend
+`/sign-in`, `/sign-up`, `/forgot-password` and `/account` are implemented and linked from the storefront. Shared Astryx forms provide client-side validation, password visibility, autocomplete and accessible error feedback. The account page is a signed-out entry point. Authentication is not connected: forms explicitly report unavailability rather than creating fake accounts, sessions or reset emails. Credentials are not saved in browser storage or submitted anywhere.

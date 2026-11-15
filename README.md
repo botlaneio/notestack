@@ -61,3 +61,7 @@ Workers Builds is connected to `botlaneio/notestack`, with production builds on 
 The Cloudflare zone is on the Free plan. At Hostinger, change the domain's nameservers to `eoin.ns.cloudflare.com` and `nova.ns.cloudflare.com` after ensuring any existing mail/verification DNS records are copied. The Cloudflare zone initially contained no records; the Worker custom domain is configured automatically. Nameserver changes and certificate activation can take time.
 
 When server routes, real authentication or payments are added, revisit the static export hosting choice.
+
+
+## Guided chapter pilot
+`/learn/maths/real-numbers/` is a free interactive Chapter 1 pilot linked from the homepage. It follows the supplied Real Numbers outline with 15 checks, a factor-tree explorer, worked explanations, graduated hints, retries and a revision recap. Progress saves locally in one browser; it is not account-based or synced across devices. Original content is awaiting teacher review.

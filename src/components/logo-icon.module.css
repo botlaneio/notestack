@@ -1,0 +1,64 @@
+.icon {
+  display: block;
+  overflow: visible;
+  flex-shrink: 0;
+  --logo-fast: 120ms;
+  --logo-enter: 320ms;
+  --logo-ease: cubic-bezier(0.2, 0, 0, 1);
+}
+
+.top, .middle, .bottom {
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+.animated .top, .animated .middle, .animated .bottom {
+  transition: transform var(--logo-fast) var(--logo-ease);
+}
+
+.animated .enter {
+  animation: settle-page var(--logo-enter) var(--logo-ease) both;
+}
+
+.animated .enterBottom { animation-delay: 0ms; }
+.animated .enterMiddle { animation-delay: 35ms; }
+.animated .enterTop { animation-delay: 70ms; }
+
+/* Pointer and keyboard interaction use the same gentle page separation. */
+:global(.brand:hover) .animated .top,
+:global(a:focus-visible) .animated .top,
+.animated:hover .top {
+  transform: translateY(-1.6px);
+}
+
+:global(.brand:hover) .animated .bottom,
+:global(a:focus-visible) .animated .bottom,
+.animated:hover .bottom {
+  transform: translateY(1.2px);
+}
+
+:global(a:active) .animated .top,
+:global(a:active) .animated .bottom {
+  transform: translateY(0);
+}
+
+@keyframes settle-page {
+  from { opacity: 0; transform: translateY(3px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animated .enter { animation: none; }
+  .animated .top, .animated .middle, .animated .bottom { transition: none; }
+  :global(.brand:hover) .animated .top,
+  :global(.brand:hover) .animated .bottom,
+  :global(a:focus-visible) .animated .top,
+  :global(a:focus-visible) .animated .bottom,
+  .animated:hover .top,
+  .animated:hover .bottom { transform: none; }
+}
+
+@media print {
+  .animated .enter { animation: none; }
+  .top, .middle, .bottom { transform: none !important; }
+}

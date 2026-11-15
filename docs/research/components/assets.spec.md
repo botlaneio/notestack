@@ -1,0 +1,4 @@
+# Catalog asset specification
+Target: public/assets/* and src/catalog.json
+Source artifact: docs/research/source.json and https://www.fmpl.in/
+Extract actual product data from Shopify products.json endpoint or homepage product links. Need 8 Class 10 Super10 papers: Science, Mathematics Standard, Mathematics Basic, Social Science, English Language & Literature, English Communicative, Hindi A, Hindi B. Download matching FRONT covers from source.json at width 600, plus actual logo. Include exact price, original title, shortened display title, subject, exam year (do not relabel Basic 2026 as 2027), original URL, source availability. Keep original availability. Use no stock claims. Add 4 Olympiad and all-in-one covers for category art if useful. No UI implementation. Write catalog.json and assets manifest. Asset integrity checks required.

@@ -1,0 +1,58 @@
+[
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10_Science_-_10-Front-Cover.jpg?v=1792140372&width=600",
+    "path": "/assets/science.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10_Mathematics_Standard_-_10-Front-Cover.jpg?v=1792137294&width=600",
+    "path": "/assets/math-standard.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10_Social_Science_-_10-Front-Cover.jpg?v=1792140797&width=600",
+    "path": "/assets/social-science.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10_English_English_Lang_Lit_-_10-Front-Cover.jpg?v=1792136735&width=600",
+    "path": "/assets/english.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10__Hindi_Course_A_-Front-Cover.jpg?v=1792135291&width=600",
+    "path": "/assets/hindi-a.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10_Mathematics_Basic_-_10-Front-Cover.jpg?v=1792137078&width=600",
+    "path": "/assets/math-basic.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10_English_Communicative_-_10-Front-Cover.jpg?v=1792135636&width=600",
+    "path": "/assets/english-communicative.jpg"
+  },
+  {
+    "source": "https://cdn.shopify.com/s/files/1/0586/0828/7819/files/Super_10__Hindi_Course_B_-Front-Cover.jpg?v=1792135366&width=600",
+    "path": "/assets/hindi-b.jpg"
+  },
+  {
+    "source": "https://www.fmpl.in/cdn/shop/files/New_Logo.png?v=1757936513&width=600",
+    "path": "/assets/logo.png"
+  },
+  {
+    "source": "https://www.fmpl.in/cdn/shop/files/Class_1.webp?v=1759361669&width=600",
+    "path": "/assets/category-study.webp"
+  },
+  {
+    "source": "https://www.fmpl.in/cdn/shop/files/1_2.jpg?v=1779209107&width=600",
+    "path": "/assets/category-textbooks.jpg"
+  },
+  {
+    "source": "https://www.fmpl.in/cdn/shop/files/9789370751040NCERTWorkbooksClass-7ScienceFRONT.png?v=1747721136&width=600",
+    "path": "/assets/category-ncert.png"
+  },
+  {
+    "source": "https://www.fmpl.in/cdn/shop/files/9789366299471OGOSLEClass-1EnglishFRONT.png?v=1757057966&width=600",
+    "path": "/assets/category-olympiad.png"
+  },
+  {
+    "source": "https://www.fmpl.in/cdn/shop/files/9789361505737SkillSubjectClass-11YogaFRONT.jpg?v=1737633618&width=600",
+    "path": "/assets/category-skills.jpg"
+  }
+]

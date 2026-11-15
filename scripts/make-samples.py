@@ -3,15 +3,15 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor,white
 from reportlab.lib.utils import simpleSplit
 from pathlib import Path
-products=json.load(open('src/catalog.json'));samples=json.load(open('src/samples.json'))
+products=json.load(open('src/data/catalog.json'));samples=json.load(open('src/data/samples.json'))
 # Built-in PDF fonts are used with plain-text equivalents for mathematical glyphs.
 def plain(t):
  for a,b in [('²','^2'),('₂','2'),('−','-'),('≠','!='),('→','->'),('’',"'"),('·',' / '),('–','-')]:t=t.replace(a,b)
  return t
 for p in products:
- s=samples[p['id']];path=Path('public'+p['sampleFile']);c=canvas.Canvas(str(path),pagesize=(595,842));c.setTitle('NoteStack '+p['title']+' - Illustrative Sample');c.setAuthor('NoteStack / Vedant Ventures')
+ s=samples[p['id']];path=Path('public'+p['sampleFile']);c=canvas.Canvas(str(path),pagesize=(595,842));c.setTitle('NoteStack '+p['title']+' - Sample Notes');c.setAuthor('NoteStack / Vedant Ventures')
  def page(n):
-  c.setFillColor(HexColor('#182c42'));c.rect(0,790,595,52,fill=1,stroke=0);c.setFillColor(white);c.setFont('Helvetica-Bold',19);c.drawString(42,810,'notestack.');c.setFont('Helvetica',9);c.drawRightString(553,813,p['title']+' / SAMPLE');c.setFillColor(HexColor('#8997a4'));c.setFont('Helvetica',8);c.drawString(42,34,'Original demonstration content. Teacher and final syllabus review pending.');c.drawRightString(553,34,f'{n} / 2');c.setFillColor(HexColor('#182c42'))
+  c.setFillColor(HexColor('#182c42'));c.rect(0,790,595,52,fill=1,stroke=0);c.setFillColor(white);c.setFont('Helvetica-Bold',19);c.drawString(42,810,'notestack.');c.setFont('Helvetica',9);c.drawRightString(553,813,p['title']+' / SAMPLE');c.setFillColor(HexColor('#8997a4'));c.setFont('Helvetica',8);c.drawString(42,34,'Sample notes. Teacher and final syllabus review pending.');c.drawRightString(553,34,f'{n} / 2');c.setFillColor(HexColor('#182c42'))
  def text(t,y,size=11,bold=False,color='#607383'):
   c.setFillColor(HexColor(color));c.setFont('Helvetica-Bold' if bold else 'Helvetica',size)
   lines=simpleSplit(plain(t),'Helvetica-Bold' if bold else 'Helvetica',size,507)

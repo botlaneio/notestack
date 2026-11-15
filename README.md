@@ -64,13 +64,15 @@ When server routes, real authentication or payments are added, revisit the stati
 
 
 ## Guided Maths chapters
-`/learn/maths/` lists five interactive chapter pilots linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
+`/learn/maths/` lists seven interactive chapter pilots linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
 
 - Real Numbers: 15 checks and a prime-factor explorer.
 - Polynomials: 13 checks, graph zeroes and quadratic/cubic coefficient relationships.
 - Pair of Linear Equations in Two Variables: 13 checks, three graph cases, substitution and elimination.
 - Quadratic Equations: 13 checks, factorisation and discriminant/root exploration.
 - Arithmetic Progressions: 14 checks, a sequence builder, nth terms and sums.
+- Triangles: 15 checks, similar figures, BPT and its converse, similarity criteria and a parallel-cut explorer.
+- Coordinate Geometry: 15 checks, distances, internal division, midpoint and two coordinate explorers.
 
 Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 2026–27 PDF; explanations and practice are original and awaiting teacher review. The PDF is not included in the published assets.
 

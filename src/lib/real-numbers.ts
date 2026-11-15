@@ -1,7 +1,7 @@
 export type LessonStep = {
  id: string; section: number; title: string; intro: string; simple: string;
  example: string[]; question: string; options: string[]; correct: number;
- feedback: string[]; hints: string[]; explorer?: boolean | 'polynomial' | 'linear' | 'quadratic' | 'ap';
+ feedback: string[]; hints: string[]; explorer?: boolean | 'polynomial' | 'linear' | 'quadratic' | 'ap' | 'triangle' | 'coordinate' | 'section';
 };
 export const sections = ['1.1 Introduction', '1.2 The Fundamental Theorem of Arithmetic', '1.3 Revisiting Irrational Numbers', '1.4 Summary'];
 export const steps: LessonStep[] = [

@@ -14,3 +14,14 @@ export function arithmeticProgression(a:number,d:number,n:number){
  const last=a+(n-1)*d;
  return {terms:Array.from({length:n},(_,i)=>a+i*d),last,sum:n*(a+last)/2};
 }
+export type Point = {x:number;y:number};
+function finitePoint(point:Point){if(!Number.isFinite(point.x)||!Number.isFinite(point.y))throw new Error('Coordinates must be finite.');}
+export function pointDistance(a:Point,b:Point){finitePoint(a);finitePoint(b);const dx=b.x-a.x,dy=b.y-a.y;return {dx,dy,squared:dx*dx+dy*dy,distance:Math.hypot(dx,dy)};}
+export function internalSection(a:Point,b:Point,m:number,n:number):Point{
+ finitePoint(a);finitePoint(b);if(!Number.isFinite(m)||!Number.isFinite(n)||m<=0||n<=0)throw new Error('Internal division needs positive finite ratio parts.');
+ return {x:(m*b.x+n*a.x)/(m+n),y:(m*b.y+n*a.y)/(m+n)};
+}
+export function parallelSplit(t:number){
+ if(!Number.isFinite(t)||t<=0||t>=1)throw new Error('The parallel cut must lie strictly between A and the base.');
+ return {ad:10*t,db:10*(1-t),ae:15*t,ec:15*(1-t),ratio:t/(1-t)};
+}

@@ -9,7 +9,9 @@
     "start": "next start --hostname 0.0.0.0",
     "typecheck": "next typegen && tsc --noEmit",
     "test": "node --test tests/*.test.mjs",
-    "build:static": "node scripts/build-static.mjs"
+    "build:static": "node scripts/build-static.mjs",
+    "build:cloudflare": "npm run build:static && vite build --config cloudflare/vite.config.ts",
+    "deploy:cloudflare": "cd cloudflare && cf deploy --prebuilt --mode production"
   },
   "dependencies": {
     "@astryxdesign/core": "0.7.16",
@@ -21,10 +23,13 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^2.0.0-beta.v.17",
     "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "typescript": "^5"
+    "cf": "^1.0.0-beta.32",
+    "typescript": "^5",
+    "vite": "^8.3.8"
   },
   "engines": {
     "node": ">=20.9.0"

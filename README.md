@@ -38,7 +38,26 @@ This is the actual prelaunch storefront frontend. Search, subject filters, saved
 
 Orders are not yet open. The simulated checkout, fake order success and demo library have been removed. `/checkout` is an ordering-information page until real checkout is connected. No payment, login, purchase history or paid-file access backend has been implemented. Pricing, final pack contents and delivery format are still business decisions. Sample content is pending teacher/syllabus review.
 
-The custom domain has not been connected. The current Site remains private. Browser QA is unavailable in this environment; build, typechecking and data/business-rule checks are used.
+Cloudflare hosting is configured for `notestack.shop`; DNS activation is pending the registrar nameserver change. The existing Sites deployment is separate. Browser QA is unavailable in this environment; build, typechecking and data/business-rule checks are used.
 
 ## Account frontend
 `/sign-in`, `/sign-up`, `/forgot-password` and `/account` are implemented and linked from the storefront. Shared Astryx forms provide client-side validation, password visibility, autocomplete and accessible error feedback. The account page is a signed-out entry point. Authentication is not connected: forms explicitly report unavailability rather than creating fake accounts, sessions or reset emails. Credentials are not saved in browser storage or submitted anywhere.
+
+
+## Cloudflare deployment
+
+Cloudflare Workers Static Assets serves the current Next.js static export. No authentication or payment backend is added by deployment.
+
+```sh
+npm ci
+npm run build:cloudflare
+npm run deploy:cloudflare
+```
+
+The Cloudflare Vite build copies `out/` without transforming Next's output. Configuration lives in `cloudflare/`; `cf deploy --prebuilt` deploys the validated build. Local deployment requires `cf auth login` or `CLOUDFLARE_API_TOKEN`. Never commit credentials.
+
+Workers Builds is connected to `botlaneio/notestack`, with production builds on `main`. Build command: `npm run build:cloudflare`; deploy command: `npm run deploy:cloudflare`. It uses the existing account build token.
+
+The Cloudflare zone is on the Free plan. At Hostinger, change the domain's nameservers to `eoin.ns.cloudflare.com` and `nova.ns.cloudflare.com` after ensuring any existing mail/verification DNS records are copied. The Cloudflare zone initially contained no records; the Worker custom domain is configured automatically. Nameserver changes and certificate activation can take time.
+
+When server routes, real authentication or payments are added, revisit the static export hosting choice.

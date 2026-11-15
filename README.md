@@ -1,8 +1,13 @@
-# Full Marks / Astryx bookstore concept
-An enhanced interpretation of https://www.fmpl.in/ using actual Meta Astryx components.
+# NoteStack / Karnataka SSLC pilot storefront
+A NoteStack presentation demo under Vedant Ventures, evolving the earlier FMPL-inspired storefront with actual Meta Astryx components.
 
-Run `npm install`, `npm run dev`, `npm run build`. `node scripts-check.mjs` verifies rendering and product data.
+## Run
+`npm install`, `npm run dev`, `npm run build`. Run `node scripts-check.mjs` for rendering, cart pricing, data and asset checks. `python scripts/make-samples.py` regenerates the original two-page PDF samples (requires reportlab).
 
-The homepage includes eight real Class 10 sample papers, subject and search filters, class context, saved books, product dialogs and a persistent preview bag. Other classes and collections link to the original store. Real checkout remains on fmpl.in.
+## Demo experience
+Three proposed English-medium Karnataka SSLC Class 10 packs: Mathematics, Science and Social Science at ₹600 each. All three automatically apply the proposed ₹1,500 bundle price. Search, subject filters, saved packs, pack details, contents tabs, interactive three-page sample reader, sample PDFs, persistent bag, simulated checkout and browser-local sample library.
 
-Research, source metadata, redesign decisions and verification limits are in docs/research. Original automated browser inspection and managed preview were unavailable; visual/interaction QA remains unverified.
+No real payment, account, checkout backend or full subject material. All educational sample content is original and illustrative, pending teacher/final syllabus review. No claim of school or board endorsement. Digital delivery is a demonstration assumption. notestack.shop is the intended brand domain and has not been connected here.
+
+## Design and verification
+Source decisions: docs/research/NOTESTACK-DESIGN.md. Prior FMPL research is retained as historical reference. Browser QA remains blocked by the CUA environment; unit pricing, React rendering, assets and production build are checked.

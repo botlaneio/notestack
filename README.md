@@ -63,5 +63,15 @@ The Cloudflare zone is on the Free plan. At Hostinger, change the domain's names
 When server routes, real authentication or payments are added, revisit the static export hosting choice.
 
 
-## Guided chapter pilot
-`/learn/maths/real-numbers/` is a free interactive Chapter 1 pilot linked from the homepage. It follows the supplied Real Numbers outline with 15 checks, a factor-tree explorer, worked explanations, graduated hints, retries and a revision recap. Progress saves locally in one browser; it is not account-based or synced across devices. Original content is awaiting teacher review.
+## Guided Maths chapters
+`/learn/maths/` lists five interactive chapter pilots linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
+
+- Real Numbers: 15 checks and a prime-factor explorer.
+- Polynomials: 13 checks, graph zeroes and quadratic/cubic coefficient relationships.
+- Pair of Linear Equations in Two Variables: 13 checks, three graph cases, substitution and elimination.
+- Quadratic Equations: 13 checks, factorisation and discriminant/root exploration.
+- Arithmetic Progressions: 14 checks, a sequence builder, nth terms and sums.
+
+Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 2026–27 PDF; explanations and practice are original and awaiting teacher review. The PDF is not included in the published assets.
+
+Progress saves separately per chapter in one browser. It is not account-based or synced across devices. The shared lesson player preserves the Chapter 1 storage key and validates restored state against each chapter’s question set.

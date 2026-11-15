@@ -1,7 +1,7 @@
 export type LessonStep = {
  id: string; section: number; title: string; intro: string; simple: string;
  example: string[]; question: string; options: string[]; correct: number;
- feedback: string[]; hints: string[]; explorer?: boolean;
+ feedback: string[]; hints: string[]; explorer?: boolean | 'polynomial' | 'linear' | 'quadratic' | 'ap';
 };
 export const sections = ['1.1 Introduction', '1.2 The Fundamental Theorem of Arithmetic', '1.3 Revisiting Irrational Numbers', '1.4 Summary'];
 export const steps: LessonStep[] = [
@@ -24,23 +24,23 @@ export const steps: LessonStep[] = [
 export type Attempt = {answer: number | null; wrong: boolean; hints: number};
 export type Progress = {version: 1; position: number; attempts: Record<string, Attempt>};
 export const freshProgress = (): Progress => ({version:1,position:0,attempts:{}});
-export function restoreProgress(value: unknown): Progress {
+export function restoreProgress(value: unknown, lessonSteps: LessonStep[] = steps): Progress {
  if (!value || typeof value !== 'object') return freshProgress();
  const v = value as Partial<Progress>;
  if (v.version !== 1) return freshProgress();
  const p = freshProgress();
- if (Number.isInteger(v.position) && v.position! >= 0 && v.position! <= steps.length) p.position = v.position!;
- for (const step of steps) {
+ if (Number.isInteger(v.position) && v.position! >= 0 && v.position! <= lessonSteps.length) p.position = v.position!;
+ for (const step of lessonSteps) {
   const a = v.attempts?.[step.id];
   if (a && (a.answer === null || (Number.isInteger(a.answer) && a.answer >= 0 && a.answer < step.options.length)))
    p.attempts[step.id] = {answer:a.answer,wrong:a.wrong === true,hints:Number.isInteger(a.hints)?Math.max(0,Math.min(2,a.hints)):0};
  }
  // Completion is earned by correct answers, never by an invalid or stale position.
- if (p.position === steps.length && !steps.every(s=>p.attempts[s.id]?.answer === s.correct)) p.position = 0;
+ if (p.position === lessonSteps.length && !lessonSteps.every(s=>p.attempts[s.id]?.answer === s.correct)) p.position = 0;
  return p;
 }
-export function recordAnswer(progress: Progress, id: string, answer: number): Progress {
- const step = steps.find(s=>s.id === id);
+export function recordAnswer(progress: Progress, id: string, answer: number, lessonSteps: LessonStep[] = steps): Progress {
+ const step = lessonSteps.find(s=>s.id === id);
  if (!step || !Number.isInteger(answer) || answer < 0 || answer >= step.options.length) return progress;
  const old = progress.attempts[id] ?? {answer:null,wrong:false,hints:0};
  return {...progress,attempts:{...progress.attempts,[id]:{...old,answer,wrong:old.wrong || answer !== step.correct}}};

@@ -64,7 +64,7 @@ When server routes, real authentication or payments are added, revisit the stati
 
 
 ## Guided Maths chapters
-`/learn/maths/` lists ten interactive guided chapters linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
+`/learn/maths/` lists twelve interactive guided chapters linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
 
 - Real Numbers: 30 guided checks, a prime-factor explorer, all 21 textbook exercise subparts, 5 additional written theorem/example tasks, an independent chapter check and a source coverage map.
 - Polynomials: 18 guided checks, graph zeroes and quadratic/cubic coefficient relationships.
@@ -87,3 +87,6 @@ All six chapters include `/practice/`, `/coverage/` and `/check/` routes, mappin
 
 ### Chapters 8–10: Part 2
 Introduction to Trigonometry (25 guided checks), Some Applications of Trigonometry (18), and Circles (20) now have the same four-mode workspace. The source map includes 84 exercise subparts, 31 worked-example/foundation activities and 21 independent tasks. New explorers cover angle-dependent ratios, elevation with eye height, and tangent counts/contact geometry. See `docs/research/CHAPTERS-8-10-COMPLETE-COVERAGE.md` for every source item, domain restrictions and assessment boundaries. Chapters 11 onward are outside this update.
+
+### Chapters 11–12: mensuration batch
+Areas Related to Circles (18 guided checks) and Surface Areas and Volumes (22) have the same four-mode workspace, mapping all source questions into 37 exercise activities, plus 15 worked-example/foundation activities and 14 independent tasks. New explorers compare sector/segment complements and joined/separate composite boundaries. See `docs/research/CHAPTERS-11-12-COMPLETE-COVERAGE.md` for constants, rounding, boundary conventions and the complete source map. Statistics and Probability remain outside this batch.

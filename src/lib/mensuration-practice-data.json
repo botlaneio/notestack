@@ -1,0 +1,1437 @@
+{
+  "chapters": {
+    "11": [
+      {
+        "id": "c11-Example1",
+        "reference": "Example 1",
+        "title": "Minor and major sectors",
+        "prompt": "For a radius 4 cm circle with sector angle 30°, find minor and corresponding major sector areas using π=3.14. Explain the rounding.",
+        "solution": [
+          "Disc area=3.14×16=50.24 cm².",
+          "Minor sector=50.24/12=4.18666...≈4.19 cm². Major sector=11×50.24/12=46.05333...≈46.05 cm² (or 46.1 to 1 decimal place, as in the book).",
+          "Calculate from the unrounded expression before rounding; the two exact sector areas sum to 50.24."
+        ],
+        "hints": [
+          "Disc area=3.14×16=50.24 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Disc area=3.14×16=50.24 cm².",
+          "Compare step 2: Minor sector=50.24/12=4.18666...≈4.19 cm². Major sector=11×50.24/12=46.05333...≈46.05 cm² (or 46.1 to 1 decimal place, as in the book).",
+          "Compare step 3: Calculate from the unrounded expression before rounding; the two exact sector areas sum to 50.24."
+        ],
+        "sample": "Disc area=3.14×16=50.24 cm². Minor sector=50.24/12=4.18666...≈4.19 cm². Major sector=11×50.24/12=46.05333...≈46.05 cm² (or 46.1 to 1 decimal place, as in the book). Calculate from the unrounded expression before rounding; the two exact sector areas sum to 50.24."
+      },
+      {
+        "id": "c11-Example2",
+        "reference": "Example 2",
+        "title": "Derive a 120° segment",
+        "prompt": "In a radius 21 cm circle, a chord subtends 120°. Find its minor segment area using π=22/7 and exact sqrt(3).",
+        "solution": [
+          "Sector area=(120/360)×(22/7)×21²=462 cm².",
+          "Drop OM perpendicular to chord AB. It bisects the chord and the 120° angle, so OM=21 cos 60°=21/2 and AM=21 sin 60°=21 sqrt(3)/2.",
+          "AB=21 sqrt(3), hence triangle area=(1/2)×AB×OM=441 sqrt(3)/4.",
+          "Segment=462−441 sqrt(3)/4=(21/4)(88−21 sqrt(3)) cm²."
+        ],
+        "hints": [
+          "Sector area=(120/360)×(22/7)×21²=462 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Sector area=(120/360)×(22/7)×21²=462 cm².",
+          "Compare step 2: Drop OM perpendicular to chord AB. It bisects the chord and the 120° angle, so OM=21 cos 60°=21/2 and AM=21 sin 60°=21 sqrt(3)/2.",
+          "Compare step 3: AB=21 sqrt(3), hence triangle area=(1/2)×AB×OM=441 sqrt(3)/4.",
+          "Compare step 4: Segment=462−441 sqrt(3)/4=(21/4)(88−21 sqrt(3)) cm²."
+        ],
+        "sample": "Sector area=(120/360)×(22/7)×21²=462 cm². Drop OM perpendicular to chord AB. It bisects the chord and the 120° angle, so OM=21 cos 60°=21/2 and AM=21 sin 60°=21 sqrt(3)/2. AB=21 sqrt(3), hence triangle area=(1/2)×AB×OM=441 sqrt(3)/4. Segment=462−441 sqrt(3)/4=(21/4)(88−21 sqrt(3)) cm²."
+      },
+      {
+        "id": "c11-11-1·Definitionsandcomplements",
+        "reference": "11.1 · Definitions and complements",
+        "title": "Identify the boundary first",
+        "prompt": "Explain sector versus segment, minor versus major, and how to obtain their major areas.",
+        "solution": [
+          "A sector is bounded by two radii and an arc. A segment is bounded by a chord and its arc. The central triangle is the difference between the minor sector and minor segment.",
+          "A minor central angle θ≤180° has corresponding major angle 360°−θ. Except at a diameter, the major region is larger.",
+          "Major sector=disc−minor sector; major segment=disc−minor segment. Do not exchange a sector complement with a segment complement."
+        ],
+        "hints": [
+          "A sector is bounded by two radii and an arc. A segment is bounded by a chord and its arc. The central triangle is the difference between the minor sector and minor segment.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: A sector is bounded by two radii and an arc. A segment is bounded by a chord and its arc. The central triangle is the difference between the minor sector and minor segment.",
+          "Compare step 2: A minor central angle θ≤180° has corresponding major angle 360°−θ. Except at a diameter, the major region is larger.",
+          "Compare step 3: Major sector=disc−minor sector; major segment=disc−minor segment. Do not exchange a sector complement with a segment complement."
+        ],
+        "sample": "A sector is bounded by two radii and an arc. A segment is bounded by a chord and its arc. The central triangle is the difference between the minor sector and minor segment. A minor central angle θ≤180° has corresponding major angle 360°−θ. Except at a diameter, the major region is larger. Major sector=disc−minor sector; major segment=disc−minor segment. Do not exchange a sector complement with a segment complement."
+      },
+      {
+        "id": "c11-11-1·Formuladerivations",
+        "reference": "11.1 · Formula derivations",
+        "title": "Derive arc length and sector area",
+        "prompt": "Use a full turn to derive arc length and sector area for θ degrees. Include units and the perimeter of a sector.",
+        "solution": [
+          "A full 360° turn has arc length 2πr and disc areaπr². By proportionality, θ degrees gives arc=(θ/360)2πr and sector area=(θ/360)πr².",
+          "Arc length has length units; sector area has square units. The perimeter of a sector with 0°<θ<360° is its arc plus the two radii, not just the arc.",
+          "These forms use degrees. Do not put a radian measure into the degree formula."
+        ],
+        "hints": [
+          "A full 360° turn has arc length 2πr and disc areaπr². By proportionality, θ degrees gives arc=(θ/360)2πr and sector area=(θ/360)πr².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: A full 360° turn has arc length 2πr and disc areaπr². By proportionality, θ degrees gives arc=(θ/360)2πr and sector area=(θ/360)πr².",
+          "Compare step 2: Arc length has length units; sector area has square units. The perimeter of a sector with 0°<θ<360° is its arc plus the two radii, not just the arc.",
+          "Compare step 3: These forms use degrees. Do not put a radian measure into the degree formula."
+        ],
+        "sample": "A full 360° turn has arc length 2πr and disc areaπr². By proportionality, θ degrees gives arc=(θ/360)2πr and sector area=(θ/360)πr². Arc length has length units; sector area has square units. The perimeter of a sector with 0°<θ<360° is its arc plus the two radii, not just the arc. These forms use degrees. Do not put a radian measure into the degree formula."
+      },
+      {
+        "id": "c11-11-1·Segmentderivation",
+        "reference": "11.1 · Segment derivation",
+        "title": "Subtract the central triangle",
+        "prompt": "Explain how to obtain minor segment area for 60°, 90° and 120° central angles.",
+        "solution": [
+          "Minor segment=minor sector−central triangle. For 60°, the triangle is equilateral and its area is(sqrt(3)/4)r².",
+          "For 90°, the two radii are perpendicular, so triangle area=r²/2.",
+          "For 120°, drop a perpendicular from the centre to the chord. The half-angle is 60°, giving altitude r/2 and chord r sqrt(3), hence triangle area=(sqrt(3)/4)r².",
+          "Use the question’s π and sqrt(3) approximations consistently, and keep intermediate values unrounded until the requested final precision."
+        ],
+        "hints": [
+          "Minor segment=minor sector−central triangle. For 60°, the triangle is equilateral and its area is(sqrt(3)/4)r².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Minor segment=minor sector−central triangle. For 60°, the triangle is equilateral and its area is(sqrt(3)/4)r².",
+          "Compare step 2: For 90°, the two radii are perpendicular, so triangle area=r²/2.",
+          "Compare step 3: For 120°, drop a perpendicular from the centre to the chord. The half-angle is 60°, giving altitude r/2 and chord r sqrt(3), hence triangle area=(sqrt(3)/4)r².",
+          "Compare step 4: Use the question’s π and sqrt(3) approximations consistently, and keep intermediate values unrounded until the requested final precision."
+        ],
+        "sample": "Minor segment=minor sector−central triangle. For 60°, the triangle is equilateral and its area is(sqrt(3)/4)r². For 90°, the two radii are perpendicular, so triangle area=r²/2. For 120°, drop a perpendicular from the centre to the chord. The half-angle is 60°, giving altitude r/2 and chord r sqrt(3), hence triangle area=(sqrt(3)/4)r². Use the question’s π and sqrt(3) approximations consistently, and keep intermediate values unrounded until the requested final precision."
+      },
+      {
+        "id": "c11-Exercise11-1·1",
+        "reference": "Exercise 11.1 · 1",
+        "title": "A 60° sector",
+        "prompt": "Find the area of a 60° sector in a circle of radius 6 cm. Use π=22/7 and keep the exact fraction.",
+        "solution": [
+          "The sector occupies 60/360=1/6 of the disc.",
+          "Area=(1/6)×(22/7)×6²=132/7 cm²."
+        ],
+        "hints": [
+          "The sector occupies 60/360=1/6 of the disc.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Area (cm²)",
+            "answer": 18.857142857142858,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·2",
+        "reference": "Exercise 11.1 · 2",
+        "title": "Recover the radius from circumference",
+        "prompt": "A circle has circumference 22 cm. Find the area of one quadrant. Use π=22/7.",
+        "solution": [
+          "2πr=22 gives r=22/[2×(22/7)]=7/2 cm.",
+          "Quadrant area=πr²/4=(22/7)×(49/4)/4=77/8 cm²."
+        ],
+        "hints": [
+          "2πr=22 gives r=22/[2×(22/7)]=7/2 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Quadrant area (cm²)",
+            "answer": 9.625,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·3",
+        "reference": "Exercise 11.1 · 3",
+        "title": "A clock hand sweeps an area",
+        "prompt": "A minute hand is 14 cm long. Find the area it sweeps in 5 minutes. Use π=22/7; keep the exact fraction.",
+        "solution": [
+          "A minute hand makes 360° in 60 minutes, so 5 minutes gives 30°. Its length 14 is the radius.",
+          "Swept area=(30/360)×(22/7)×14²=154/3 cm²."
+        ],
+        "hints": [
+          "A minute hand makes 360° in 60 minutes, so 5 minutes gives 30°. Its length 14 is the radius.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Swept area (cm²)",
+            "answer": 51.333333333333336,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·4-i",
+        "reference": "Exercise 11.1 · 4(i)",
+        "title": "Minor segment, not sector",
+        "prompt": "A chord in a radius 10 cm circle subtends 90° at the centre. Find the minor segment area. Use π=3.14.",
+        "solution": [
+          "Sector area=(90/360)×3.14×100=78.5 cm².",
+          "The two radii form a right triangle of area(1/2)×10×10=50 cm².",
+          "Minor segment=sector−triangle=78.5−50=28.5 cm²."
+        ],
+        "hints": [
+          "Sector area=(90/360)×3.14×100=78.5 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Minor segment area (cm²)",
+            "answer": 28.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·4-ii",
+        "reference": "Exercise 11.1 · 4(ii)",
+        "title": "The corresponding major sector",
+        "prompt": "For the same radius 10 cm circle and 90° chord angle, find the major sector area. Use π=3.14.",
+        "solution": [
+          "Major sector angle=360−90=270°.",
+          "Area=(270/360)×3.14×100=235.5 cm². Do not subtract the minor segment: the question asks for a sector."
+        ],
+        "hints": [
+          "Major sector angle=360−90=270°.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Major sector area (cm²)",
+            "answer": 235.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·5-i",
+        "reference": "Exercise 11.1 · 5(i)",
+        "title": "Arc length",
+        "prompt": "An arc of a radius 21 cm circle subtends 60° at the centre. Find its length using π=22/7.",
+        "solution": [
+          "Arc length=(60/360)×2πr.",
+          "This is(1/6)×2×(22/7)×21=22 cm. Length is measured in cm, not cm²."
+        ],
+        "hints": [
+          "Arc length=(60/360)×2πr.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Arc length (cm)",
+            "answer": 22.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·5-ii",
+        "reference": "Exercise 11.1 · 5(ii)",
+        "title": "Sector area",
+        "prompt": "For radius 21 cm and angle 60°, find the sector area using π=22/7.",
+        "solution": [
+          "Sector area=(60/360)π×21².",
+          "Area=(1/6)×(22/7)×441=231 cm²."
+        ],
+        "hints": [
+          "Sector area=(60/360)π×21².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Sector area (cm²)",
+            "answer": 231.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·5-iii",
+        "reference": "Exercise 11.1 · 5(iii)",
+        "title": "An exact surd segment",
+        "prompt": "For radius 21 cm and central angle 60°, find the minor segment area. Use π=22/7 and keep sqrt(3) exact.",
+        "solution": [
+          "Sector area=231 cm². The two radii and the chord form an equilateral triangle of side 21.",
+          "Triangle area=(sqrt(3)/4)×21²=441 sqrt(3)/4.",
+          "Segment area=231−441 sqrt(3)/4 cm². Enter an exact expression such as 231-441*sqrt(3)/4."
+        ],
+        "hints": [
+          "Sector area=231 cm². The two radii and the chord form an equilateral triangle of side 21.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Segment area (cm²)",
+            "answer": 40.04139846553128,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·6-i",
+        "reference": "Exercise 11.1 · 6(i)",
+        "title": "Minor segment with prescribed approximations",
+        "prompt": "A chord in a radius 15 cm circle subtends 60°. Find the minor segment area using exactly π=3.14 and sqrt(3)=1.73. Do not round further.",
+        "solution": [
+          "The 60° sector area=3.14×225/6=117.75 cm².",
+          "The triangle is equilateral, with area 225×1.73/4=97.3125 cm².",
+          "Minor segment=117.75−97.3125=20.4375 cm²."
+        ],
+        "hints": [
+          "The 60° sector area=3.14×225/6=117.75 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Minor segment area (cm²)",
+            "answer": 20.4375,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·6-ii",
+        "reference": "Exercise 11.1 · 6(ii)",
+        "title": "Major segment with prescribed approximations",
+        "prompt": "For radius 15 cm and central angle 60°, find the major segment area. Use π=3.14 and sqrt(3)=1.73 without further rounding.",
+        "solution": [
+          "The full disc area=3.14×225=706.5 cm². The minor segment is 20.4375 cm².",
+          "Major segment=706.5−20.4375=686.0625 cm². It includes the corresponding major sector and the central triangle."
+        ],
+        "hints": [
+          "The full disc area=3.14×225=706.5 cm². The minor segment is 20.4375 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Major segment area (cm²)",
+            "answer": 686.0625,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·7",
+        "reference": "Exercise 11.1 · 7",
+        "title": "A 120° segment",
+        "prompt": "A chord in a radius 12 cm circle subtends 120°. Find the corresponding minor segment area, using π=3.14 and sqrt(3)=1.73.",
+        "solution": [
+          "Sector area=(120/360)×3.14×144=150.72 cm².",
+          "Bisect the isosceles central triangle: its altitude is 12 cos 60°=6 and its chord is 24 sin 60°=12 sqrt(3).",
+          "Triangle area=(1/2)×6×12×1.73=62.28. Segment=150.72−62.28=88.44 cm²."
+        ],
+        "hints": [
+          "Sector area=(120/360)×3.14×144=150.72 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Segment area (cm²)",
+            "answer": 88.44,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·8-i",
+        "reference": "Exercise 11.1 · 8(i)",
+        "title": "A horse grazes a quadrant",
+        "prompt": "A horse is tied at a corner inside a square field of side 15 m by a 5 m rope. Find accessible grazing area using π=3.14.",
+        "solution": [
+          "The two field edges at the corner meet at 90°, so the reachable region is a quadrant. The rope length is less than either field side.",
+          "Area=(1/4)×3.14×5²=19.625 m²."
+        ],
+        "hints": [
+          "The two field edges at the corner meet at 90°, so the reachable region is a quadrant. The rope length is less than either field side.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Grazing area (m²)",
+            "answer": 19.625,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·8-ii",
+        "reference": "Exercise 11.1 · 8(ii)",
+        "title": "Find the increase, not the new total",
+        "prompt": "In the same 15 m square field, the rope grows from 5 m to 10 m. Find the increase in grazing area. Use π=3.14.",
+        "solution": [
+          "Both reachable regions are quadrants because each rope is shorter than 15 m.",
+          "Increase=(3.14/4)(10²−5²)=58.875 m². The new total is 78.5 m², which is not the requested increase."
+        ],
+        "hints": [
+          "Both reachable regions are quadrants because each rope is shorter than 15 m.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Increase (m²)",
+            "answer": 58.875,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·9-i",
+        "reference": "Exercise 11.1 · 9(i)",
+        "title": "Wire along a circle and five diameters",
+        "prompt": "A circular brooch has diameter 35 mm. Its wire forms the rim and 5 whole diameters, making 10 equal sectors. Find total wire length using π=22/7.",
+        "solution": [
+          "Rim length=πd=(22/7)×35=110 mm.",
+          "Five diameters use 5×35=175 mm. Total=110+175=285 mm. The common crossing point adds no extra length."
+        ],
+        "hints": [
+          "Rim length=πd=(22/7)×35=110 mm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Wire length (mm)",
+            "answer": 285.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·9-ii",
+        "reference": "Exercise 11.1 · 9(ii)",
+        "title": "One of ten equal sectors",
+        "prompt": "The same brooch has diameter 35 mm and 10 equal sectors. Find area of one sector using π=22/7.",
+        "solution": [
+          "Radius=35/2 mm. The disc area is(22/7)(35/2)²=1925/2 mm².",
+          "One-tenth of this is 385/4=96.25 mm²."
+        ],
+        "hints": [
+          "Radius=35/2 mm. The disc area is(22/7)(35/2)²=1925/2 mm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "One sector area (mm²)",
+            "answer": 96.25,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·10",
+        "reference": "Exercise 11.1 · 10",
+        "title": "Between two umbrella ribs",
+        "prompt": "Model an umbrella as a flat circle of radius 45 cm with 8 equally spaced ribs. Find area between two consecutive ribs, using π=22/7. Keep an exact fraction.",
+        "solution": [
+          "The central angle is 360/8=45°, so the required sector is 1/8 of the disc.",
+          "Area=(1/8)×(22/7)×45²=22275/28 cm². The flat-circle assumption is part of the model."
+        ],
+        "hints": [
+          "The central angle is 360/8=45°, so the required sector is 1/8 of the disc.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Area (cm²)",
+            "answer": 795.5357142857143,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·11",
+        "reference": "Exercise 11.1 · 11",
+        "title": "Two non-overlapping wipers",
+        "prompt": "Each of 2 non-overlapping wipers sweeps a radius 25 cm sector through 115°. Find the total cleaned area using π=22/7. Keep the exact fraction.",
+        "solution": [
+          "One blade sweeps(115/360)π×25².",
+          "Non-overlap means add both areas:2×(115/360)×(22/7)×625=158125/126 cm²."
+        ],
+        "hints": [
+          "One blade sweeps(115/360)π×25².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Total cleaned area (cm²)",
+            "answer": 1254.9603174603174,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·12",
+        "reference": "Exercise 11.1 · 12",
+        "title": "A lighthouse warning sector",
+        "prompt": "A lighthouse illuminates a sea sector of angle 80° out to 16.5 km. Find warning area using π=3.14.",
+        "solution": [
+          "Distance 16.5 km is the sector radius.",
+          "Area=(80/360)×3.14×16.5²=189.97 km²."
+        ],
+        "hints": [
+          "Distance 16.5 km is the sector radius.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Warning area (km²)",
+            "answer": 189.97,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·13",
+        "reference": "Exercise 11.1 · 13",
+        "title": "Six equal table-cover designs",
+        "prompt": "A radius 28 cm circular table cover has 6 equal designs between its boundary and an inscribed regular hexagon (Fig.11.11). Find the cost at ₹0.35/cm². Use π=22/7 and sqrt(3)=1.7.",
+        "solution": [
+          "The six designs are the minor segments outside the regular hexagon. Its six central triangles are equilateral, each with side 28.",
+          "Disc area=(22/7)×28²=2464. Hexagon area=6×(1.7/4)×28²=1999.2 cm².",
+          "Design area=2464−1999.2=464.8 cm². Cost=464.8×0.35=₹162.68."
+        ],
+        "hints": [
+          "The six designs are the minor segments outside the regular hexagon. Its six central triangles are equilateral, each with side 28.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Total design area (cm²)",
+            "answer": 464.8,
+            "kind": "expression"
+          },
+          {
+            "label": "Cost (₹)",
+            "answer": 162.68,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Exercise11-1·14",
+        "reference": "Exercise 11.1 · 14",
+        "title": "Choose the sector formula",
+        "prompt": "For sector angle p in degrees and radius R, choose and justify the correct area formula: A (p/180)×2πR; B (p/180)×πR²; C (p/360)×2πR; D (p/720)×2πR².",
+        "solution": [
+          "Sector area is the fraction p/360 of πR².",
+          "Option D=(p/720)×2πR²=(p/360)πR², so D is correct. C is an arc length, not an area; A also has length units and B is twice the desired area."
+        ],
+        "hints": [
+          "Sector area is the fraction p/360 of πR².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Sector area is the fraction p/360 of πR².",
+          "Compare step 2: Option D=(p/720)×2πR²=(p/360)πR², so D is correct. C is an arc length, not an area; A also has length units and B is twice the desired area."
+        ],
+        "sample": "Sector area is the fraction p/360 of πR². Option D=(p/720)×2πR²=(p/360)πR², so D is correct. C is an arc length, not an area; A also has length units and B is twice the desired area."
+      }
+    ],
+    "12": [
+      {
+        "id": "c12-Example1",
+        "reference": "Example 1",
+        "title": "Paint the playing top",
+        "prompt": "A cone joined to a hemisphere has total height 5 cm and diameter 3.5 cm. Find area to colour using π=22/7, explaining the book’s slant-height approximation.",
+        "solution": [
+          "Radius=1.75 cm; cone height=5−1.75=3.25 cm. Slant height=sqrt(1.75²+3.25²)=sqrt(13.625)≈3.6912 cm.",
+          "Area=πrl+2πr². Keeping the unrounded slant gives about 39.55 cm².",
+          "The book uses l≈3.7 cm first, obtaining about 39.6 cm². These are rounding conventions for the same model; the joining disc is excluded."
+        ],
+        "hints": [
+          "Radius=1.75 cm; cone height=5−1.75=3.25 cm. Slant height=sqrt(1.75²+3.25²)=sqrt(13.625)≈3.6912 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Radius=1.75 cm; cone height=5−1.75=3.25 cm. Slant height=sqrt(1.75²+3.25²)=sqrt(13.625)≈3.6912 cm.",
+          "Compare step 2: Area=πrl+2πr². Keeping the unrounded slant gives about 39.55 cm².",
+          "Compare step 3: The book uses l≈3.7 cm first, obtaining about 39.6 cm². These are rounding conventions for the same model; the joining disc is excluded."
+        ],
+        "sample": "Radius=1.75 cm; cone height=5−1.75=3.25 cm. Slant height=sqrt(1.75²+3.25²)=sqrt(13.625)≈3.6912 cm. Area=πrl+2πr². Keeping the unrounded slant gives about 39.55 cm². The book uses l≈3.7 cm first, obtaining about 39.6 cm². These are rounding conventions for the same model; the joining disc is excluded."
+      },
+      {
+        "id": "c12-Example2",
+        "reference": "Example 2",
+        "title": "A decorative hemisphere on a cube",
+        "prompt": "A cube of edge 5 cm has a hemisphere of diameter 4.2 cm attached above it. Find exterior area using π=22/7.",
+        "solution": [
+          "Cube area=6×5²=150 cm². Hemisphere radius=2.1 cm.",
+          "Subtract its covered base disc and add its curved surface:150−πr²+2πr²=150+πr².",
+          "Area=150+(22/7)(2.1)²=163.86 cm²."
+        ],
+        "hints": [
+          "Cube area=6×5²=150 cm². Hemisphere radius=2.1 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Cube area=6×5²=150 cm². Hemisphere radius=2.1 cm.",
+          "Compare step 2: Subtract its covered base disc and add its curved surface:150−πr²+2πr²=150+πr².",
+          "Compare step 3: Area=150+(22/7)(2.1)²=163.86 cm²."
+        ],
+        "sample": "Cube area=6×5²=150 cm². Hemisphere radius=2.1 cm. Subtract its covered base disc and add its curved surface:150−πr²+2πr²=150+πr². Area=150+(22/7)(2.1)²=163.86 cm²."
+      },
+      {
+        "id": "c12-Example3",
+        "reference": "Example 3",
+        "title": "Paint the overhanging rocket",
+        "prompt": "A toy rocket is 26 cm high. Its conical top is 6 cm high and 5 cm in diameter; the cylindrical body is 3 cm in diameter. Find orange cone area and yellow cylinder area, using π=3.14 and including exposed bases.",
+        "solution": [
+          "Cone radius 2.5 cm, cylinder radius 1.5 cm, cylinder height 20 cm. Cone slant=sqrt(2.5²+6²)=6.5 cm.",
+          "The cone overhang leaves an exposed ring. Orange area=π(2.5)(6.5)+π(2.5²−1.5²)=63.585 cm².",
+          "Yellow area=2π(1.5)(20)+π(1.5)²=195.465 cm², including the cylinder’s lower base. The covered joining disc is not exposed."
+        ],
+        "hints": [
+          "Cone radius 2.5 cm, cylinder radius 1.5 cm, cylinder height 20 cm. Cone slant=sqrt(2.5²+6²)=6.5 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Cone radius 2.5 cm, cylinder radius 1.5 cm, cylinder height 20 cm. Cone slant=sqrt(2.5²+6²)=6.5 cm.",
+          "Compare step 2: The cone overhang leaves an exposed ring. Orange area=π(2.5)(6.5)+π(2.5²−1.5²)=63.585 cm².",
+          "Compare step 3: Yellow area=2π(1.5)(20)+π(1.5)²=195.465 cm², including the cylinder’s lower base. The covered joining disc is not exposed."
+        ],
+        "sample": "Cone radius 2.5 cm, cylinder radius 1.5 cm, cylinder height 20 cm. Cone slant=sqrt(2.5²+6²)=6.5 cm. The cone overhang leaves an exposed ring. Orange area=π(2.5)(6.5)+π(2.5²−1.5²)=63.585 cm². Yellow area=2π(1.5)(20)+π(1.5)²=195.465 cm², including the cylinder’s lower base. The covered joining disc is not exposed."
+      },
+      {
+        "id": "c12-Example4",
+        "reference": "Example 4",
+        "title": "A bird-bath’s exposed surface",
+        "prompt": "A cylindrical bird-bath is 1.45 m tall, radius 30 cm, with a hemispherical depression at its top. Find exposed area using π=22/7 and the book’s ground-supported model.",
+        "solution": [
+          "Convert 1.45 m to 145 cm. The ground-contact bottom is excluded in this model.",
+          "Exposed area=curved cylinder+curved depression=2πrh+2πr².",
+          "Area=2×(22/7)×30×(145+30)=33000 cm²=3.3 m². Including a freely exposed bottom would describe a different boundary."
+        ],
+        "hints": [
+          "Convert 1.45 m to 145 cm. The ground-contact bottom is excluded in this model.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Convert 1.45 m to 145 cm. The ground-contact bottom is excluded in this model.",
+          "Compare step 2: Exposed area=curved cylinder+curved depression=2πrh+2πr².",
+          "Compare step 3: Area=2×(22/7)×30×(145+30)=33000 cm²=3.3 m². Including a freely exposed bottom would describe a different boundary."
+        ],
+        "sample": "Convert 1.45 m to 145 cm. The ground-contact bottom is excluded in this model. Exposed area=curved cylinder+curved depression=2πrh+2πr². Area=2×(22/7)×30×(145+30)=33000 cm²=3.3 m². Including a freely exposed bottom would describe a different boundary."
+      },
+      {
+        "id": "c12-Example5",
+        "reference": "Example 5",
+        "title": "Air in a roofed shed",
+        "prompt": "A shed has a 15×7 m cuboid base and walls 8 m high, surmounted by a half-cylinder of radius 3.5 m and length 15 m. Find empty capacity, then air left with 300 m³ of machinery and 20 workers occupying 0.08 m³ each. Use π=22/7.",
+        "solution": [
+          "Cuboid volume=15×7×8=840 m³. Half-cylinder volume=(1/2)π×3.5²×15=288.75 m³.",
+          "Empty capacity=1128.75 m³. Workers occupy 20×0.08=1.6 m³.",
+          "Air left=1128.75−300−1.6=827.15 m³."
+        ],
+        "hints": [
+          "Cuboid volume=15×7×8=840 m³. Half-cylinder volume=(1/2)π×3.5²×15=288.75 m³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Cuboid volume=15×7×8=840 m³. Half-cylinder volume=(1/2)π×3.5²×15=288.75 m³.",
+          "Compare step 2: Empty capacity=1128.75 m³. Workers occupy 20×0.08=1.6 m³.",
+          "Compare step 3: Air left=1128.75−300−1.6=827.15 m³."
+        ],
+        "sample": "Cuboid volume=15×7×8=840 m³. Half-cylinder volume=(1/2)π×3.5²×15=288.75 m³. Empty capacity=1128.75 m³. Workers occupy 20×0.08=1.6 m³. Air left=1128.75−300−1.6=827.15 m³."
+      },
+      {
+        "id": "c12-Example6",
+        "reference": "Example 6",
+        "title": "Apparent and actual glass capacity",
+        "prompt": "A cylindrical glass has inside diameter 5 cm and height 10 cm, but a hemispherical raised bottom reduces the space. Find apparent and actual capacity using π=3.14.",
+        "solution": [
+          "Radius=2.5 cm. Apparent cylindrical capacity=3.14×2.5²×10=196.25 cm³.",
+          "The raised hemisphere occupies(2/3)×3.14×2.5³=32.708333... cm³.",
+          "Actual capacity=196.25−32.708333...≈163.54 cm³. Use inside dimensions and subtract the solid obstruction."
+        ],
+        "hints": [
+          "Radius=2.5 cm. Apparent cylindrical capacity=3.14×2.5²×10=196.25 cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Radius=2.5 cm. Apparent cylindrical capacity=3.14×2.5²×10=196.25 cm³.",
+          "Compare step 2: The raised hemisphere occupies(2/3)×3.14×2.5³=32.708333... cm³.",
+          "Compare step 3: Actual capacity=196.25−32.708333...≈163.54 cm³. Use inside dimensions and subtract the solid obstruction."
+        ],
+        "sample": "Radius=2.5 cm. Apparent cylindrical capacity=3.14×2.5²×10=196.25 cm³. The raised hemisphere occupies(2/3)×3.14×2.5³=32.708333... cm³. Actual capacity=196.25−32.708333...≈163.54 cm³. Use inside dimensions and subtract the solid obstruction."
+      },
+      {
+        "id": "c12-Example7",
+        "reference": "Example 7",
+        "title": "A toy inside a cylinder",
+        "prompt": "A radius 2 cm hemisphere supports a cone of height 2 cm and the same radius. Find toy volume and the empty volume in the smallest enclosing cylinder. Use π=3.14.",
+        "solution": [
+          "Toy volume=(2/3)π×2³+(1/3)π×2²×2=8π=25.12 cm³.",
+          "The enclosing cylinder has radius 2 cm and height 2+2=4 cm, so capacity=16π=50.24 cm³.",
+          "Difference=50.24−25.12=25.12 cm³."
+        ],
+        "hints": [
+          "Toy volume=(2/3)π×2³+(1/3)π×2²×2=8π=25.12 cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Toy volume=(2/3)π×2³+(1/3)π×2²×2=8π=25.12 cm³.",
+          "Compare step 2: The enclosing cylinder has radius 2 cm and height 2+2=4 cm, so capacity=16π=50.24 cm³.",
+          "Compare step 3: Difference=50.24−25.12=25.12 cm³."
+        ],
+        "sample": "Toy volume=(2/3)π×2³+(1/3)π×2²×2=8π=25.12 cm³. The enclosing cylinder has radius 2 cm and height 2+2=4 cm, so capacity=16π=50.24 cm³. Difference=50.24−25.12=25.12 cm³."
+      },
+      {
+        "id": "c12-12-1·Basic-solidformulatoolkit",
+        "reference": "12.1 · Basic-solid formula toolkit",
+        "title": "Recall the basic solid formulas",
+        "prompt": "Record curved/total surface areas and volumes for the basic solids used in this chapter, with symbols defined.",
+        "solution": [
+          "Cuboid dimensions a, b, c:surface 2(ab+bc+ca), volume abc. Cube edge a:surface 6 a², volume a³.",
+          "Cylinder radius r, height h:curved area 2πrh, closed total 2πrh+2πr², volumeπr²h.",
+          "Right cone radius r, vertical height h, slant l=sqrt(r²+h²):curved areaπrl, closed totalπrl+πr², volumeπr²h/3.",
+          "Sphere radius r:surface 4πr², volume 4πr³/3. Hemisphere:curved area 2πr², closed total 3πr², volume 2πr³/3. Area uses square units and volume cubic units."
+        ],
+        "hints": [
+          "Cuboid dimensions a, b, c:surface 2(ab+bc+ca), volume abc. Cube edge a:surface 6 a², volume a³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Cuboid dimensions a, b, c:surface 2(ab+bc+ca), volume abc. Cube edge a:surface 6 a², volume a³.",
+          "Compare step 2: Cylinder radius r, height h:curved area 2πrh, closed total 2πrh+2πr², volumeπr²h.",
+          "Compare step 3: Right cone radius r, vertical height h, slant l=sqrt(r²+h²):curved areaπrl, closed totalπrl+πr², volumeπr²h/3.",
+          "Compare step 4: Sphere radius r:surface 4πr², volume 4πr³/3. Hemisphere:curved area 2πr², closed total 3πr², volume 2πr³/3. Area uses square units and volume cubic units."
+        ],
+        "sample": "Cuboid dimensions a, b, c:surface 2(ab+bc+ca), volume abc. Cube edge a:surface 6 a², volume a³. Cylinder radius r, height h:curved area 2πrh, closed total 2πrh+2πr², volumeπr²h. Right cone radius r, vertical height h, slant l=sqrt(r²+h²):curved areaπrl, closed totalπrl+πr², volumeπr²h/3. Sphere radius r:surface 4πr², volume 4πr³/3. Hemisphere:curved area 2πr², closed total 3πr², volume 2πr³/3. Area uses square units and volume cubic units."
+      },
+      {
+        "id": "c12-12-2·Boundaryaccounting",
+        "reference": "12.2 · Boundary accounting",
+        "title": "Count only the requested boundary",
+        "prompt": "Explain how to decide which surfaces to count when solids are joined, hollowed, open or resting on the ground.",
+        "solution": [
+          "Break the shape into basic solids, label radii, vertical heights and slant heights, and identify the requested inner or outer boundary.",
+          "Joined contact faces disappear from the exterior. Unequal bases can leave an exposed annulus. An open container has no lid surface.",
+          "A scooped cavity contributes its curved wall while replacing the original flat opening; it does not simply make surface area smaller.",
+          "A ground-supported model can exclude its bottom, as in the bird-bath example. State the interpretation rather than mechanically adding total surface areas."
+        ],
+        "hints": [
+          "Break the shape into basic solids, label radii, vertical heights and slant heights, and identify the requested inner or outer boundary.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Break the shape into basic solids, label radii, vertical heights and slant heights, and identify the requested inner or outer boundary.",
+          "Compare step 2: Joined contact faces disappear from the exterior. Unequal bases can leave an exposed annulus. An open container has no lid surface.",
+          "Compare step 3: A scooped cavity contributes its curved wall while replacing the original flat opening; it does not simply make surface area smaller.",
+          "Compare step 4: A ground-supported model can exclude its bottom, as in the bird-bath example. State the interpretation rather than mechanically adding total surface areas."
+        ],
+        "sample": "Break the shape into basic solids, label radii, vertical heights and slant heights, and identify the requested inner or outer boundary. Joined contact faces disappear from the exterior. Unequal bases can leave an exposed annulus. An open container has no lid surface. A scooped cavity contributes its curved wall while replacing the original flat opening; it does not simply make surface area smaller. A ground-supported model can exclude its bottom, as in the bird-bath example. State the interpretation rather than mechanically adding total surface areas."
+      },
+      {
+        "id": "c12-12-3·Volumeandunitaccounting",
+        "reference": "12.3 · Volume and unit accounting",
+        "title": "Add capacity, subtract occupied space",
+        "prompt": "Explain volume addition/subtraction, displacement, density and the length adjustments used for combinations.",
+        "solution": [
+          "Non-overlapping joined solids have additive volumes; cavities and obstructions are subtracted from the original solid or capacity. Hidden interface faces affect area but have no volume to subtract.",
+          "A hemisphere’s axial height equals its radius. Two hemisphere ends reduce a capsule’s straight cylindrical length by 2 r. Two cone ends reduce it by the sum of their vertical heights.",
+          "For a brim-full vessel, a fully submerged object displaces water equal to its own volume. Remaining water=capacity−inserted volume, subject to fitting and full-submersion assumptions.",
+          "Mass=density×volume. Use compatible units:1 cm³=1 mL, 1000 cm³=1 L, 1000 g=1 kg, 1 m²=10000 cm² and 1 m³=1000000 cm³."
+        ],
+        "hints": [
+          "Non-overlapping joined solids have additive volumes; cavities and obstructions are subtracted from the original solid or capacity. Hidden interface faces affect area but have no volume to subtract.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Non-overlapping joined solids have additive volumes; cavities and obstructions are subtracted from the original solid or capacity. Hidden interface faces affect area but have no volume to subtract.",
+          "Compare step 2: A hemisphere’s axial height equals its radius. Two hemisphere ends reduce a capsule’s straight cylindrical length by 2 r. Two cone ends reduce it by the sum of their vertical heights.",
+          "Compare step 3: For a brim-full vessel, a fully submerged object displaces water equal to its own volume. Remaining water=capacity−inserted volume, subject to fitting and full-submersion assumptions.",
+          "Compare step 4: Mass=density×volume. Use compatible units:1 cm³=1 mL, 1000 cm³=1 L, 1000 g=1 kg, 1 m²=10000 cm² and 1 m³=1000000 cm³."
+        ],
+        "sample": "Non-overlapping joined solids have additive volumes; cavities and obstructions are subtracted from the original solid or capacity. Hidden interface faces affect area but have no volume to subtract. A hemisphere’s axial height equals its radius. Two hemisphere ends reduce a capsule’s straight cylindrical length by 2 r. Two cone ends reduce it by the sum of their vertical heights. For a brim-full vessel, a fully submerged object displaces water equal to its own volume. Remaining water=capacity−inserted volume, subject to fitting and full-submersion assumptions. Mass=density×volume. Use compatible units:1 cm³=1 mL, 1000 cm³=1 L, 1000 g=1 kg, 1 m²=10000 cm² and 1 m³=1000000 cm³."
+      },
+      {
+        "id": "c12-Exercise12-1·1",
+        "reference": "Exercise 12.1 · 1",
+        "title": "Two cubes become a cuboid",
+        "prompt": "Two cubes each have volume 64 cm³. They are joined along full faces. Find the resulting cuboid’s total surface area.",
+        "solution": [
+          "Each cube has side 4 cm. Joined dimensions are 8×4×4 cm.",
+          "Surface area=2(8×4+8×4+4×4)=160 cm². The joined faces are hidden."
+        ],
+        "hints": [
+          "Each cube has side 4 cm. Joined dimensions are 8×4×4 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Surface area (cm²)",
+            "answer": 160.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·2",
+        "reference": "Exercise 12.1 · 2",
+        "title": "Inner area of an open vessel",
+        "prompt": "A hollow hemisphere supports a hollow cylinder of the same diameter 14 cm. Total vessel height is 13 cm and its top is open. Find inner surface area using π=22/7.",
+        "solution": [
+          "Radius=7 cm, hemisphere height=7 cm and cylinder height=13−7=6 cm.",
+          "Inner area=2πr²+2πrh=2×(22/7)×7×(7+6)=572 cm². No top disc or internal joining disc is counted."
+        ],
+        "hints": [
+          "Radius=7 cm, hemisphere height=7 cm and cylinder height=13−7=6 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Inner surface area (cm²)",
+            "answer": 572.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·3",
+        "reference": "Exercise 12.1 · 3",
+        "title": "Cone on a hemisphere",
+        "prompt": "A toy combines a cone and hemisphere of common radius 3.5 cm. Total height is 15.5 cm. Find exterior surface area using π=22/7.",
+        "solution": [
+          "Cone height=15.5−3.5=12 cm. Slant height=sqrt(12²+3.5²)=12.5 cm.",
+          "Only the curved cone and curved hemisphere are exposed:πrl+2πr²=214.5 cm². Their common disc is hidden."
+        ],
+        "hints": [
+          "Cone height=15.5−3.5=12 cm. Slant height=sqrt(12²+3.5²)=12.5 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Exterior area (cm²)",
+            "answer": 214.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·4",
+        "reference": "Exercise 12.1 · 4",
+        "title": "A hemisphere on a cube",
+        "prompt": "A cube has edge 7 cm and a hemisphere fixed on its upper face. Find the greatest possible hemisphere diameter and the exterior area using π=22/7.",
+        "solution": [
+          "The hemisphere’s base circle must fit inside the 7 cm square, so its greatest diameter is 7 cm and r=3.5 cm.",
+          "Exterior area=6×7²−πr²+2πr²=294+πr²=332.5 cm²."
+        ],
+        "hints": [
+          "The hemisphere’s base circle must fit inside the 7 cm square, so its greatest diameter is 7 cm and r=3.5 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Greatest diameter (cm)",
+            "answer": 7.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Exterior area (cm²)",
+            "answer": 332.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·5",
+        "reference": "Exercise 12.1 · 5",
+        "title": "A symbolic hemispherical depression",
+        "prompt": "A hemispherical depression is cut from one face of a cube of edge l. Its diameter is also l. Derive the surface area of the remaining solid in terms of l.",
+        "solution": [
+          "Radius=l/2. Start from 6 l² for the cube.",
+          "Remove the flat circular areaπ(l/2)², then add the curved inner hemisphere 2π(l/2)².",
+          "Remaining surface=6 l²+πl²/4=(6+π/4)l² square units. A cavity removes volume but its curved wall is an exposed surface."
+        ],
+        "hints": [
+          "Radius=l/2. Start from 6 l² for the cube.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Radius=l/2. Start from 6 l² for the cube.",
+          "Compare step 2: Remove the flat circular areaπ(l/2)², then add the curved inner hemisphere 2π(l/2)².",
+          "Compare step 3: Remaining surface=6 l²+πl²/4=(6+π/4)l² square units. A cavity removes volume but its curved wall is an exposed surface."
+        ],
+        "sample": "Radius=l/2. Start from 6 l² for the cube. Remove the flat circular areaπ(l/2)², then add the curved inner hemisphere 2π(l/2)². Remaining surface=6 l²+πl²/4=(6+π/4)l² square units. A cavity removes volume but its curved wall is an exposed surface."
+      },
+      {
+        "id": "c12-Exercise12-1·6",
+        "reference": "Exercise 12.1 · 6",
+        "title": "Capsule surface",
+        "prompt": "A capsule is a cylinder with a hemisphere at each end. Entire length 14 mm, diameter 5 mm. Find outer surface area using π=22/7.",
+        "solution": [
+          "Radius=2.5 mm. The two hemispheres together use an axial length 2 r=5 mm, so cylinder height=14−5=9 mm.",
+          "Surface=2πrh+4πr²=2π(2.5)(9)+4π(2.5)²=70π=220 mm²."
+        ],
+        "hints": [
+          "Radius=2.5 mm. The two hemispheres together use an axial length 2 r=5 mm, so cylinder height=14−5=9 mm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Surface area (mm²)",
+            "answer": 220.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·7",
+        "reference": "Exercise 12.1 · 7",
+        "title": "Canvas without a floor",
+        "prompt": "A tent has a cylinder of height 2.1 m and diameter 4 m, with a conical roof of slant height 2.8 m. Its floor has no canvas. Find canvas area and cost at₹500/m², using π=22/7.",
+        "solution": [
+          "Radius=2 m. Canvas consists of the curved cylinder and curved cone only.",
+          "Area=2π(2)(2.1)+π(2)(2.8)=14π=44 m².",
+          "Cost=44×500=₹22000. The roof-cylinder joining disc and the floor are not included."
+        ],
+        "hints": [
+          "Radius=2 m. Canvas consists of the curved cylinder and curved cone only.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Canvas area (m²)",
+            "answer": 44.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Cost (₹)",
+            "answer": 22000.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·8",
+        "reference": "Exercise 12.1 · 8",
+        "title": "A conical cavity",
+        "prompt": "A cone of the same height and diameter is hollowed from a cylinder of height 2.4 cm and diameter 1.4 cm. Find remaining total surface area to the nearest cm². Use π=22/7.",
+        "solution": [
+          "Radius=0.7 cm and cone slant height=sqrt(2.4²+0.7²)=2.5 cm.",
+          "The exposed boundary comprises cylinder curved area, cone cavity curved area, and the lower circular base:2πrh+πrl+πr².",
+          "This equalsπ(3.36+1.75+0.49)=5.6π=17.6 cm², which rounds to 18 cm²."
+        ],
+        "hints": [
+          "Radius=0.7 cm and cone slant height=sqrt(2.4²+0.7²)=2.5 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Surface area, nearest cm²",
+            "answer": 18.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-1·9",
+        "reference": "Exercise 12.1 · 9",
+        "title": "Two scooped hemispheres",
+        "prompt": "A radius 3.5 cm cylinder of height 10 cm has a hemisphere scooped out of each end. Find remaining surface area using π=22/7.",
+        "solution": [
+          "The end discs are replaced by two concave hemispherical surfaces.",
+          "Area=2πrh+2(2πr²)=2π(3.5)(10)+4π(3.5)²=119π=374 cm²."
+        ],
+        "hints": [
+          "The end discs are replaced by two concave hemispherical surfaces.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Surface area (cm²)",
+            "answer": 374.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·1",
+        "reference": "Exercise 12.2 · 1",
+        "title": "A volume in terms of π",
+        "prompt": "A cone stands on a hemisphere, both of radius 1 cm; cone height is also 1 cm. Write volume as kπ cm³ and enter k.",
+        "solution": [
+          "Cone volume=(1/3)πr²h=π/3. Hemisphere volume=(2/3)πr³=2π/3.",
+          "Total=π cm³. Therefore the coefficient k=1. Do not replace π by 22/7 for this “in terms of π” answer."
+        ],
+        "hints": [
+          "Cone volume=(1/3)πr²h=π/3. Hemisphere volume=(2/3)πr³=2π/3.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Coefficient k in V=kπ cm³",
+            "answer": 1.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·2",
+        "reference": "Exercise 12.2 · 2",
+        "title": "Cylinder with two cone ends",
+        "prompt": "An aluminium model has a cylinder and a cone at each end. Diameter 3 cm, entire length 12 cm, each cone height 2 cm. Find air volume using π=22/7; assume negligible sheet thickness.",
+        "solution": [
+          "Radius=1.5 cm. Cylinder height=12−2−2=8 cm.",
+          "Volume=πr²×8+2[(1/3)πr²×2]=21π=66 cm³."
+        ],
+        "hints": [
+          "Radius=1.5 cm. Cylinder height=12−2−2=8 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Air volume (cm³)",
+            "answer": 66.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·3",
+        "reference": "Exercise 12.2 · 3",
+        "title": "Syrup in 45 sweets",
+        "prompt": "Each gulab jamun is a cylinder with two hemispherical ends, entire length 5 cm and diameter 2.8 cm. Syrup occupies about 30%of its volume. Estimate syrup in 45 sweets, to the nearest cm³, using π=22/7.",
+        "solution": [
+          "Radius=1.4 cm and cylindrical length=5−2.8=2.2 cm.",
+          "One sweet’s volume=π(1.4)²(2.2)+(4/3)π(1.4)³=25.050666... cm³.",
+          "Syrup=45×0.30×25.050666...=338.184 cm³, approximately 338 cm³ to the requested precision."
+        ],
+        "hints": [
+          "Radius=1.4 cm and cylindrical length=5−2.8=2.2 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Syrup, nearest cm³",
+            "answer": 338.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·4",
+        "reference": "Exercise 12.2 · 4",
+        "title": "Wood left after four depressions",
+        "prompt": "A 15×10×3.5 cm wooden pen stand has 4 conical depressions, each radius 0.5 cm and depth 1.4 cm. Find remaining wood volume to 2 decimal places, using π=22/7.",
+        "solution": [
+          "Cuboid volume=15×10×3.5=525 cm³.",
+          "Removed volume=4×(1/3)×(22/7)×0.5²×1.4=22/15 cm³.",
+          "Wood=525−22/15=7853/15=523.5333...≈523.53 cm³."
+        ],
+        "hints": [
+          "Cuboid volume=15×10×3.5=525 cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Wood volume, 2 decimal places (cm³)",
+            "answer": 523.53,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·5",
+        "reference": "Exercise 12.2 · 5",
+        "title": "Displaced water counts spheres",
+        "prompt": "An inverted cone, height 8 cm and open radius 5 cm, is full of water. Spherical lead shots of radius 0.5 cm are fully submerged; one-quarter of the original water spills. Find shot count using volume displacement.",
+        "solution": [
+          "Cone volume=(1/3)π×5²×8=200π/3 cm³. Spilled volume=(1/4)×200π/3=50π/3.",
+          "One sphere volume=(4/3)π(0.5)³=π/6.",
+          "Count=(50π/3)/(π/6)=100. π cancels; the shots must be submerged and their volume equals the displaced water."
+        ],
+        "hints": [
+          "Cone volume=(1/3)π×5²×8=200π/3 cm³. Spilled volume=(1/4)×200π/3=50π/3.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Number of shots",
+            "answer": 100.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·6",
+        "reference": "Exercise 12.2 · 6",
+        "title": "Volume becomes mass",
+        "prompt": "An iron pole combines a cylinder of height 220 cm and diameter 24 cm with an upper cylinder of height 60 cm and radius 8 cm. Use π=3.14 and density 8 g/cm³. Find mass in kg without further rounding.",
+        "solution": [
+          "Lower radius=12 cm; upper radius=8 cm. Total volume=3.14[12²×220+8²×60]=111532.8 cm³.",
+          "Mass=111532.8×8=892262.4 g. Divide by 1000 to get 892.2624 kg."
+        ],
+        "hints": [
+          "Lower radius=12 cm; upper radius=8 cm. Total volume=3.14[12²×220+8²×60]=111532.8 cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Mass (kg)",
+            "answer": 892.2624,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·7",
+        "reference": "Exercise 12.2 · 7",
+        "title": "Water left in a full cylinder",
+        "prompt": "A cone of radius 60 cm and height 120 cm stands on a hemisphere of radius 60 cm. It is fully placed in a full cylindrical vessel of radius 60 cm and height 180 cm, touching the bottom. Find water left using π=22/7; keep an exact fraction in cm³.",
+        "solution": [
+          "Cylinder capacity=π×60²×180=648000π cm³.",
+          "Inserted solid volume=(1/3)π×60²×120+(2/3)π×60³=288000π cm³.",
+          "Water left=capacity−displaced volume=360000π=7920000/7 cm³. The solid’s total height 120+60=180 cm fits the cylinder."
+        ],
+        "hints": [
+          "Cylinder capacity=π×60²×180=648000π cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Water left (cm³)",
+            "answer": 1131428.5714285714,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Exercise12-2·8",
+        "reference": "Exercise 12.2 · 8",
+        "title": "Check a measured capacity",
+        "prompt": "A spherical glass vessel has a cylindrical neck 8 cm long and diameter 2 cm. The inside diameter of its spherical part is 8.5 cm. A child reports capacity 345 cm³. Check the claim using π=3.14 and the book’s sphere-plus-cylinder model.",
+        "solution": [
+          "Use inside radii 4.25 cm for the sphere and 1 cm for the neck.",
+          "Model capacity=(4/3)×3.14×4.25³+3.14×1²×8=346.5120833... cm³≈346.51 cm³.",
+          "The stated 345 cm³ does not agree with this model. Both inside measurements and the neck volume matter; a comparison also depends on the stated measuring precision."
+        ],
+        "hints": [
+          "Use inside radii 4.25 cm for the sphere and 1 cm for the neck.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: Use inside radii 4.25 cm for the sphere and 1 cm for the neck.",
+          "Compare step 2: Model capacity=(4/3)×3.14×4.25³+3.14×1²×8=346.5120833... cm³≈346.51 cm³.",
+          "Compare step 3: The stated 345 cm³ does not agree with this model. Both inside measurements and the neck volume matter; a comparison also depends on the stated measuring precision."
+        ],
+        "sample": "Use inside radii 4.25 cm for the sphere and 1 cm for the neck. Model capacity=(4/3)×3.14×4.25³+3.14×1²×8=346.5120833... cm³≈346.51 cm³. The stated 345 cm³ does not agree with this model. Both inside measurements and the neck volume matter; a comparison also depends on the stated measuring precision."
+      }
+    ]
+  },
+  "checks": {
+    "11": [
+      {
+        "id": "c11-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "A fresh sector",
+        "prompt": "Find area of a 45° sector of radius 14 cm, using π=22/7.",
+        "solution": [
+          "Area=(45/360)(22/7)14²=77 cm²."
+        ],
+        "hints": [
+          "Area=(45/360)(22/7)14²=77 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Area (cm²)",
+            "answer": 77.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "Arc versus perimeter",
+        "prompt": "For radius 7 cm and central angle 90°, find arc length and sector perimeter using π=22/7.",
+        "solution": [
+          "Arc=(90/360)2×(22/7)×7=11 cm.",
+          "Sector perimeter=arc+2 r=11+14=25 cm."
+        ],
+        "hints": [
+          "Arc=(90/360)2×(22/7)×7=11 cm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Arc length (cm)",
+            "answer": 11.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Sector perimeter (cm)",
+            "answer": 25.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Explain a major segment",
+        "prompt": "Explain why major segment area is disc area minus minor segment area, not disc area minus minor sector area.",
+        "solution": [
+          "The chord and its two arcs divide the disc into two complementary segments.",
+          "A minor sector includes the central triangle as well as the minor segment. Subtracting that sector produces a major sector, a different region."
+        ],
+        "hints": [
+          "The chord and its two arcs divide the disc into two complementary segments.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: The chord and its two arcs divide the disc into two complementary segments.",
+          "Compare step 2: A minor sector includes the central triangle as well as the minor segment. Subtracting that sector produces a major sector, a different region."
+        ],
+        "sample": "The chord and its two arcs divide the disc into two complementary segments. A minor sector includes the central triangle as well as the minor segment. Subtracting that sector produces a major sector, a different region."
+      },
+      {
+        "id": "c11-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "Segment from a right central triangle",
+        "prompt": "Find minor segment area for radius 8 cm and central angle 90°, using π=3.14.",
+        "solution": [
+          "Sector area=3.14×64/4=50.24 cm². Triangle area=8²/2=32 cm².",
+          "Segment=50.24−32=18.24 cm²."
+        ],
+        "hints": [
+          "Sector area=3.14×64/4=50.24 cm². Triangle area=8²/2=32 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Segment area (cm²)",
+            "answer": 18.24,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Sweep time",
+        "prompt": "A 12 cm minute hand sweeps for 10 minutes. Find swept area using π=22/7; keep the exact fraction.",
+        "solution": [
+          "Angle=360×10/60=60°.",
+          "Area=(60/360)(22/7)12²=528/7 cm²."
+        ],
+        "hints": [
+          "Angle=360×10/60=60°.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Area (cm²)",
+            "answer": 75.42857142857143,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "An increase in grazing area",
+        "prompt": "At a right-angled corner, a rope length grows from 4 m to 8 m; both lengths fit inside the square field. Find the increase in grazing area using π=3.14.",
+        "solution": [
+          "Increase=(π/4)(8²−4²)=12π=37.68 m²."
+        ],
+        "hints": [
+          "Increase=(π/4)(8²−4²)=12π=37.68 m².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Increase (m²)",
+            "answer": 37.68,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c11-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "Audit the units",
+        "prompt": "A learner uses(θ/360)×2πr as a sector area. Explain the error and supply the correct formula.",
+        "solution": [
+          "The expression is a fraction of circumference, so it has length units and is the arc length.",
+          "Sector area is(θ/360)πr² with square units, when θ is measured in degrees."
+        ],
+        "hints": [
+          "The expression is a fraction of circumference, so it has length units and is the arc length.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: The expression is a fraction of circumference, so it has length units and is the arc length.",
+          "Compare step 2: Sector area is(θ/360)πr² with square units, when θ is measured in degrees."
+        ],
+        "sample": "The expression is a fraction of circumference, so it has length units and is the arc length. Sector area is(θ/360)πr² with square units, when θ is measured in degrees."
+      }
+    ],
+    "12": [
+      {
+        "id": "c12-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "Joined cubes",
+        "prompt": "Two cubes of side 3 cm join along full faces. Find exterior area.",
+        "solution": [
+          "The cuboid is 6×3×3. Area=2(18+18+9)=90 cm²."
+        ],
+        "hints": [
+          "The cuboid is 6×3×3. Area=2(18+18+9)=90 cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Area (cm²)",
+            "answer": 90.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "A different capsule",
+        "prompt": "A capsule is 16 mm long and 6 mm in diameter. Find exterior surface area using π=22/7; keep the exact fraction.",
+        "solution": [
+          "Radius 3 mm and cylinder height 16−6=10 mm.",
+          "Area=2π×3×10+4π×9=96π=2112/7 mm²."
+        ],
+        "hints": [
+          "Radius 3 mm and cylinder height 16−6=10 mm.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Area (mm²)",
+            "answer": 301.7142857142857,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Explain the missing discs",
+        "prompt": "Why is the exterior area of a cone joined to an equal-radius hemisphere πrl+2πr² rather than the sum of their closed total areas?",
+        "solution": [
+          "The flat base of the cone and the flat base of the hemisphere are the two sides of one hidden contact interface.",
+          "Neither disc belongs to the exterior boundary. Only the cone’s curved area and the hemisphere’s curved area remain exposed."
+        ],
+        "hints": [
+          "The flat base of the cone and the flat base of the hemisphere are the two sides of one hidden contact interface.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: The flat base of the cone and the flat base of the hemisphere are the two sides of one hidden contact interface.",
+          "Compare step 2: Neither disc belongs to the exterior boundary. Only the cone’s curved area and the hemisphere’s curved area remain exposed."
+        ],
+        "sample": "The flat base of the cone and the flat base of the hemisphere are the two sides of one hidden contact interface. Neither disc belongs to the exterior boundary. Only the cone’s curved area and the hemisphere’s curved area remain exposed."
+      },
+      {
+        "id": "c12-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "An open vessel’s capacity",
+        "prompt": "A cylinder of radius 3 cm and height 5 cm sits above a hollow hemisphere of radius 3 cm. Find capacity using π=22/7; keep an exact fraction.",
+        "solution": [
+          "Capacity=π×3²×5+(2/3)π×3³=63π=198 cm³."
+        ],
+        "hints": [
+          "Capacity=π×3²×5+(2/3)π×3³=63π=198 cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Capacity (cm³)",
+            "answer": 198.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Volume to mass",
+        "prompt": "A metal cylinder has radius 2 cm and height 7 cm. Density is 5 g/cm³. Find mass in kg using π=22/7.",
+        "solution": [
+          "Volume=(22/7)×4×7=88 cm³.",
+          "Mass=88×5=440 g=0.44 kg."
+        ],
+        "hints": [
+          "Volume=(22/7)×4×7=88 cm³.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Mass (kg)",
+            "answer": 0.44,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "Which height belongs in which formula?",
+        "prompt": "A right cone has radius 5 cm and vertical height 12 cm. Find slant height, curved area and volume as multiples of π: enter l, k and m where area=kπ and volume=mπ.",
+        "solution": [
+          "l=sqrt(5²+12²)=13 cm. Curved area=πrl=65π cm².",
+          "Volume=πr²h/3=100π cm³. The volume uses vertical 12, not slant 13."
+        ],
+        "hints": [
+          "l=sqrt(5²+12²)=13 cm. Curved area=πrl=65π cm².",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "fields": [
+          {
+            "label": "Slant height l (cm)",
+            "answer": 13.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Area coefficient k",
+            "answer": 65.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Volume coefficient m",
+            "answer": 100.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c12-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "Cavity area and cavity volume",
+        "prompt": "Explain why cutting out a hemispherical depression can increase surface area while decreasing the volume of a cube.",
+        "solution": [
+          "The cut removes a positive hemisphere volume, decreasing the amount of material.",
+          "For a depression radius r, the opening loses a flat areaπr² but gains a curved wall 2πr²:net exposed area increases byπr². Surface area and volume measure different things."
+        ],
+        "hints": [
+          "The cut removes a positive hemisphere volume, decreasing the amount of material.",
+          "Check the units, the requested region or boundary, and the stated value of π before calculating."
+        ],
+        "checklist": [
+          "Compare step 1: The cut removes a positive hemisphere volume, decreasing the amount of material.",
+          "Compare step 2: For a depression radius r, the opening loses a flat areaπr² but gains a curved wall 2πr²:net exposed area increases byπr². Surface area and volume measure different things."
+        ],
+        "sample": "The cut removes a positive hemisphere volume, decreasing the amount of material. For a depression radius r, the opening loses a flat areaπr² but gains a curved wall 2πr²:net exposed area increases byπr². Surface area and volume measure different things."
+      }
+    ]
+  }
+}

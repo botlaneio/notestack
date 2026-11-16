@@ -2,7 +2,7 @@ import {expandedRealSteps} from './real-numbers-expansion.ts';
 export type LessonStep = {
  id: string; section: number; title: string; intro: string; simple: string;
  example: string[]; question: string; options: string[]; correct: number;
- feedback: string[]; hints: string[]; explorer?: boolean | 'polynomial' | 'linear' | 'quadratic' | 'ap' | 'triangle' | 'coordinate' | 'section' | 'trig' | 'heights' | 'tangent' | 'sector' | 'composite' | 'statistics' | 'chance' | 'logic' | 'modelling' | 'forecast';
+ feedback: string[]; hints: string[]; explorer?: boolean | 'polynomial' | 'linear' | 'quadratic' | 'ap' | 'triangle' | 'coordinate' | 'section' | 'trig' | 'heights' | 'tangent' | 'sector' | 'composite' | 'statistics' | 'chance' | 'logic' | 'modelling' | 'forecast' | 'balance' | 'electrolysis' | 'ph' | 'neutralisation' | 'salts' | 'hydration';
 };
 export const sections = ['1.1 Introduction', '1.2 The Fundamental Theorem of Arithmetic', '1.3 Revisiting Irrational Numbers', '1.4 Summary'];
 export const pilotSteps: LessonStep[] = [

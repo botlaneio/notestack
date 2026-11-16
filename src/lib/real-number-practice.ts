@@ -1,6 +1,6 @@
 import {parseExactAnswer} from './exact-answer.ts';
 export type Field = {label:string; answer:number; kind?:'factors'|'expression'};
-export type PracticeTask = {id:string; reference:string; title:string; prompt:string; fields?:Field[]; checklist?:string[]; solution:string[]; hints:string[]; sample?:string; figure?:string; table?:{headers:string[];rows:(string|number)[][];caption?:string}; graphCases?:number[]; graphCase?:number};
+export type PracticeTask = {id:string; reference:string; title:string; prompt:string; fields?:Field[]; checklist?:string[]; solution:string[]; hints:string[]; sample?:string; figure?:string; equation?:{formulas:string[];left:number;coefficients:number[]}; table?:{headers:string[];rows:(string|number)[][];caption?:string}; graphCases?:number[]; graphCase?:number};
 export function primeFactors(n:number):number[]{if(!Number.isSafeInteger(n)||n<2)throw new Error('Use an integer at least 2.');const factors:number[]=[];let value=n;for(let p=2;p*p<=value;p++){while(value%p===0){factors.push(p);value/=p}}if(value>1)factors.push(value);return factors;}
 export function gcd(a:number,b:number):number{while(b){[a,b]=[b,a%b]}return a;}
 export function hcfLcm(values:number[]){if(!values.length||values.some(n=>!Number.isSafeInteger(n)||n<1))throw new Error('Use positive integers.');return {hcf:values.reduce(gcd),lcm:values.reduce((a,b)=>a/gcd(a,b)*b)};}

@@ -1,0 +1,1799 @@
+[
+  {
+    "number": 1,
+    "subject": "science",
+    "slug": "chemical-reactions-and-equations",
+    "title": "Chemical Reactions and Equations",
+    "sections": [
+      "Introduction · pp1–2",
+      "1.1 Chemical Equations · pp2–6",
+      "1.2 Types of Chemical Reactions · pp6–13",
+      "1.3 Oxidation in Everyday Life · p13",
+      "What you have learnt · p14"
+    ],
+    "steps": [
+      {
+        "id": "sc1-new-substances",
+        "section": 0,
+        "title": "Look for a new substance",
+        "intro": "A chemical reaction rearranges atoms and bonds to make new substances. Milk souring, iron rusting, fermentation, cooking, digestion and respiration are source examples.",
+        "simple": "Bubbles, colour, a solid forming or temperature change can be clues.",
+        "example": [
+          "Bubbles, colour, a solid forming or temperature change can be clues.",
+          "Boiling water makes bubbles but remains H2O; one visible clue alone is not proof of a chemical reaction."
+        ],
+        "question": "Which change produces a new substance?",
+        "options": [
+          "Ice melting",
+          "Water boiling",
+          "Iron rusting"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Check this idea: Bubbles, colour, a solid forming or temperature change can be clues.",
+          "Check this idea: Bubbles, colour, a solid forming or temperature change can be clues.",
+          "Correct. Boiling water makes bubbles but remains H2O; one visible clue alone is not proof of a chemical reaction."
+        ],
+        "hints": [
+          "Bubbles, colour, a solid forming or temperature change can be clues.",
+          "Boiling water makes bubbles but remains H2O; one visible clue alone is not proof of a chemical reaction."
+        ]
+      },
+      {
+        "id": "sc1-observe-safely",
+        "section": 0,
+        "title": "Observe the demonstration",
+        "intro": "The book’s magnesium, acid and gas demonstrations require supervised laboratory conditions. Here you study observations and models.",
+        "simple": "Do not taste, touch or directly inhale laboratory substances.",
+        "example": [
+          "Do not taste, touch or directly inhale laboratory substances.",
+          "For magnesium, the reported observation is a bright white flame and white MgO ash; it is not a task to reproduce at home."
+        ],
+        "question": "What should you use in this lesson?",
+        "options": [
+          "Reported observations and virtual models",
+          "Taste to identify an unknown liquid",
+          "A home flame test"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. For magnesium, the reported observation is a bright white flame and white MgO ash; it is not a task to reproduce at home.",
+          "Check this idea: Do not taste, touch or directly inhale laboratory substances.",
+          "Check this idea: Do not taste, touch or directly inhale laboratory substances."
+        ],
+        "hints": [
+          "Do not taste, touch or directly inhale laboratory substances.",
+          "For magnesium, the reported observation is a bright white flame and white MgO ash; it is not a task to reproduce at home."
+        ]
+      },
+      {
+        "id": "sc1-reactants-products",
+        "section": 1,
+        "title": "Read the arrow",
+        "intro": "A word equation names reactants on the left and products on the right. Formulae make that representation more concise.",
+        "simple": "Magnesium + oxygen → magnesium oxide.",
+        "example": [
+          "Magnesium + oxygen → magnesium oxide.",
+          "Mg + O2 → MgO names the species but is still a skeletal, unbalanced equation."
+        ],
+        "question": "In this equation, which is the product?",
+        "options": [
+          "Oxygen",
+          "Magnesium oxide",
+          "Magnesium"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Magnesium + oxygen → magnesium oxide.",
+          "Correct. Mg + O2 → MgO names the species but is still a skeletal, unbalanced equation.",
+          "Check this idea: Magnesium + oxygen → magnesium oxide."
+        ],
+        "hints": [
+          "Magnesium + oxygen → magnesium oxide.",
+          "Mg + O2 → MgO names the species but is still a skeletal, unbalanced equation."
+        ]
+      },
+      {
+        "id": "sc1-coefficient",
+        "section": 1,
+        "title": "Change the count, not the substance",
+        "intro": "A coefficient multiplies a whole formula. A subscript is part of the chemical identity.",
+        "simple": "2H2O means two water molecules, containing H=4 and O=2.",
+        "example": [
+          "2H2O means two water molecules, containing H=4 and O=2.",
+          "H2O2 is hydrogen peroxide, not two waters; changing subscripts can change the substance."
+        ],
+        "question": "How can you balance without changing identity?",
+        "options": [
+          "Change O2 to O3 whenever convenient",
+          "Remove an element",
+          "Change coefficients before complete formulae"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Check this idea: 2H2O means two water molecules, containing H=4 and O=2.",
+          "Check this idea: 2H2O means two water molecules, containing H=4 and O=2.",
+          "Correct. H2O2 is hydrogen peroxide, not two waters; changing subscripts can change the substance."
+        ],
+        "hints": [
+          "2H2O means two water molecules, containing H=4 and O=2.",
+          "H2O2 is hydrogen peroxide, not two waters; changing subscripts can change the substance."
+        ],
+        "explorer": "balance"
+      },
+      {
+        "id": "sc1-conserve",
+        "section": 1,
+        "title": "Count every kind of atom",
+        "intro": "Balancing represents conservation of mass. For each element, the count on the left must equal the count on the right.",
+        "simple": "2Mg+O2→2MgO has Mg=2 and O=2 on each side.",
+        "example": [
+          "2Mg+O2→2MgO has Mg=2 and O=2 on each side.",
+          "Use the smallest positive whole-number coefficients, then recheck all elements."
+        ],
+        "question": "What is balanced for magnesium burning?",
+        "options": [
+          "Mg+O2→MgO",
+          "2Mg+O2→2MgO",
+          "Mg+O→MgO2"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: 2Mg+O2→2MgO has Mg=2 and O=2 on each side.",
+          "Correct. Use the smallest positive whole-number coefficients, then recheck all elements.",
+          "Check this idea: 2Mg+O2→2MgO has Mg=2 and O=2 on each side."
+        ],
+        "hints": [
+          "2Mg+O2→2MgO has Mg=2 and O=2 on each side.",
+          "Use the smallest positive whole-number coefficients, then recheck all elements."
+        ]
+      },
+      {
+        "id": "sc1-steam",
+        "section": 1,
+        "title": "Balance iron and steam",
+        "intro": "For Fe+H2O→Fe3O4+H2, keep the formulae fixed while matching oxygen, hydrogen and iron.",
+        "simple": "One Fe3O4 needs four H2O for its four oxygens.",
+        "example": [
+          "One Fe3O4 needs four H2O for its four oxygens.",
+          "Then balance eight hydrogens with four H2, and three irons with 3Fe: 3Fe+4H2O→Fe3O4+4H2."
+        ],
+        "question": "How many H2 units are needed with one Fe3O4?",
+        "options": [
+          "2",
+          "4",
+          "8"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: One Fe3O4 needs four H2O for its four oxygens.",
+          "Correct. Then balance eight hydrogens with four H2, and three irons with 3Fe: 3Fe+4H2O→Fe3O4+4H2.",
+          "Check this idea: One Fe3O4 needs four H2O for its four oxygens."
+        ],
+        "hints": [
+          "One Fe3O4 needs four H2O for its four oxygens.",
+          "Then balance eight hydrogens with four H2, and three irons with 3Fe: 3Fe+4H2O→Fe3O4+4H2."
+        ]
+      },
+      {
+        "id": "sc1-states",
+        "section": 1,
+        "title": "Aqueous is not a pure liquid",
+        "intro": "State symbols add information: (s) solid, (l) liquid, (g) gas and (aq) dissolved in water.",
+        "simple": "In the iron–steam example use H2O(g), because the reacting water is steam.",
+        "example": [
+          "In the iron–steam example use H2O(g), because the reacting water is steam.",
+          "NaCl(aq) is a solution; H2O(l) is liquid water."
+        ],
+        "question": "What does (aq) mean?",
+        "options": [
+          "Dissolved in water",
+          "Any liquid",
+          "A gas"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. NaCl(aq) is a solution; H2O(l) is liquid water.",
+          "Check this idea: In the iron–steam example use H2O(g), because the reacting water is steam.",
+          "Check this idea: In the iron–steam example use H2O(g), because the reacting water is steam."
+        ],
+        "hints": [
+          "In the iron–steam example use H2O(g), because the reacting water is steam.",
+          "NaCl(aq) is a solution; H2O(l) is liquid water."
+        ]
+      },
+      {
+        "id": "sc1-conditions",
+        "section": 1,
+        "title": "Conditions belong with the equation",
+        "intro": "Heating, light, electricity, pressure or a catalyst can be needed for a reaction. The equation alone should not be read as a home procedure.",
+        "simple": "The methanol example CO+2H2→CH3OH shows pressure conditions; the source gives 340 atm.",
+        "example": [
+          "The methanol example CO+2H2→CH3OH shows pressure conditions; the source gives 340 atm.",
+          "The photosynthesis example needs light and chlorophyll; its 12-water form balances and simplifies to the familiar net form."
+        ],
+        "question": "What does sunlight over an arrow communicate?",
+        "options": [
+          "A reactant called sunlight has a molecular coefficient",
+          "A condition/energy input",
+          "The products are all gases"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: The methanol example CO+2H2→CH3OH shows pressure conditions; the source gives 340 atm.",
+          "Correct. The photosynthesis example needs light and chlorophyll; its 12-water form balances and simplifies to the familiar net form.",
+          "Check this idea: The methanol example CO+2H2→CH3OH shows pressure conditions; the source gives 340 atm."
+        ],
+        "hints": [
+          "The methanol example CO+2H2→CH3OH shows pressure conditions; the source gives 340 atm.",
+          "The photosynthesis example needs light and chlorophyll; its 12-water form balances and simplifies to the familiar net form."
+        ]
+      },
+      {
+        "id": "sc1-combination",
+        "section": 2,
+        "title": "Several reactants, one product",
+        "intro": "A combination reaction makes one chemical product from two or more reactants.",
+        "simple": "CaO+H2O→Ca(OH)2 makes slaked lime and releases heat.",
+        "example": [
+          "CaO+H2O→Ca(OH)2 makes slaked lime and releases heat.",
+          "Carbon burning, C+O2→CO2, and 2H2+O2→2H2O are other source examples."
+        ],
+        "question": "Which pattern is combination?",
+        "options": [
+          "A→B+C",
+          "A+B→one product",
+          "A+B→C+D always"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: CaO+H2O→Ca(OH)2 makes slaked lime and releases heat.",
+          "Correct. Carbon burning, C+O2→CO2, and 2H2+O2→2H2O are other source examples.",
+          "Check this idea: CaO+H2O→Ca(OH)2 makes slaked lime and releases heat."
+        ],
+        "hints": [
+          "CaO+H2O→Ca(OH)2 makes slaked lime and releases heat.",
+          "Carbon burning, C+O2→CO2, and 2H2+O2→2H2O are other source examples."
+        ]
+      },
+      {
+        "id": "sc1-whitewash",
+        "section": 2,
+        "title": "From quicklime to a wall coating",
+        "intro": "The book’s whitewashing question asks for quicklime, CaO, because it next asks for its reaction with water. The material applied contains slaked lime.",
+        "simple": "CaO+H2O→Ca(OH)2+heat.",
+        "example": [
+          "CaO+H2O→Ca(OH)2+heat.",
+          "Then Ca(OH)2+CO2→CaCO3+H2O; the calcium carbonate coating develops over time."
+        ],
+        "question": "What is the intended precursor X?",
+        "options": [
+          "CaCO3",
+          "CaO",
+          "NaOH"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: CaO+H2O→Ca(OH)2+heat.",
+          "Correct. Then Ca(OH)2+CO2→CaCO3+H2O; the calcium carbonate coating develops over time.",
+          "Check this idea: CaO+H2O→Ca(OH)2+heat."
+        ],
+        "hints": [
+          "CaO+H2O→Ca(OH)2+heat.",
+          "Then Ca(OH)2+CO2→CaCO3+H2O; the calcium carbonate coating develops over time."
+        ]
+      },
+      {
+        "id": "sc1-exothermic",
+        "section": 2,
+        "title": "Energy moves out",
+        "intro": "Exothermic reactions release energy to the surroundings. Heat is not an extra chemical species to balance.",
+        "simple": "Methane combustion and respiration release energy.",
+        "example": [
+          "Methane combustion and respiration release energy.",
+          "C6H12O6+6O2→6CO2+6H2O+energy; composting vegetable matter is another source example."
+        ],
+        "question": "Why is respiration exothermic?",
+        "options": [
+          "Glucose oxidation releases usable energy",
+          "Every process involving oxygen is automatically cold",
+          "It has no products"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. C6H12O6+6O2→6CO2+6H2O+energy; composting vegetable matter is another source example.",
+          "Check this idea: Methane combustion and respiration release energy.",
+          "Check this idea: Methane combustion and respiration release energy."
+        ],
+        "hints": [
+          "Methane combustion and respiration release energy.",
+          "C6H12O6+6O2→6CO2+6H2O+energy; composting vegetable matter is another source example."
+        ]
+      },
+      {
+        "id": "sc1-decomposition",
+        "section": 2,
+        "title": "One compound breaks down",
+        "intro": "Decomposition has one reactant producing two or more substances; the source examples use heat, light or electricity.",
+        "simple": "CaCO3→CaO+CO2 on heating is thermal decomposition.",
+        "example": [
+          "CaCO3→CaO+CO2 on heating is thermal decomposition.",
+          "The pattern is different from combination, even though both conserve atoms."
+        ],
+        "question": "Which is decomposition?",
+        "options": [
+          "Two substances making one",
+          "One reactant making two or more products",
+          "Any equation containing oxygen"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: CaCO3→CaO+CO2 on heating is thermal decomposition.",
+          "Correct. The pattern is different from combination, even though both conserve atoms.",
+          "Check this idea: CaCO3→CaO+CO2 on heating is thermal decomposition."
+        ],
+        "hints": [
+          "CaCO3→CaO+CO2 on heating is thermal decomposition.",
+          "The pattern is different from combination, even though both conserve atoms."
+        ]
+      },
+      {
+        "id": "sc1-ferrous",
+        "section": 2,
+        "title": "First water loss, then breakdown",
+        "intro": "Green ferrous sulphate crystals first lose crystal water; further heating decomposes the salt.",
+        "simple": "2FeSO4→Fe2O3+SO2+SO3.",
+        "example": [
+          "2FeSO4→Fe2O3+SO2+SO3.",
+          "Brown iron(III) oxide remains; do not directly smell the harmful sulphur oxides."
+        ],
+        "question": "What is the solid decomposition product?",
+        "options": [
+          "Fe2O3",
+          "Pure sulphur",
+          "Magnesium oxide"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Brown iron(III) oxide remains; do not directly smell the harmful sulphur oxides.",
+          "Check this idea: 2FeSO4→Fe2O3+SO2+SO3.",
+          "Check this idea: 2FeSO4→Fe2O3+SO2+SO3."
+        ],
+        "hints": [
+          "2FeSO4→Fe2O3+SO2+SO3.",
+          "Brown iron(III) oxide remains; do not directly smell the harmful sulphur oxides."
+        ]
+      },
+      {
+        "id": "sc1-lead",
+        "section": 2,
+        "title": "Interpret the brown fumes",
+        "intro": "Heating lead nitrate in the source demonstration forms lead oxide, nitrogen dioxide and oxygen.",
+        "simple": "2Pb(NO3)2→2PbO+4NO2+O2.",
+        "example": [
+          "2Pb(NO3)2→2PbO+4NO2+O2.",
+          "The brown fumes are NO2; this is a supervised demonstration involving toxic substances."
+        ],
+        "question": "Which gas explains the brown colour?",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen dioxide"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Check this idea: 2Pb(NO3)2→2PbO+4NO2+O2.",
+          "Check this idea: 2Pb(NO3)2→2PbO+4NO2+O2.",
+          "Correct. The brown fumes are NO2; this is a supervised demonstration involving toxic substances."
+        ],
+        "hints": [
+          "2Pb(NO3)2→2PbO+4NO2+O2.",
+          "The brown fumes are NO2; this is a supervised demonstration involving toxic substances."
+        ]
+      },
+      {
+        "id": "sc1-electrolysis",
+        "section": 2,
+        "title": "Two tubes, different volumes",
+        "intro": "Electrical energy can decompose water. Compare gas volumes under the same temperature and pressure.",
+        "simple": "2H2O→2H2+O2, so H2:O2=2:1.",
+        "example": [
+          "2H2O→2H2+O2, so H2:O2=2:1.",
+          "Hydrogen forms at the negative cathode; oxygen at the positive anode."
+        ],
+        "question": "Which gas occupies twice the volume?",
+        "options": [
+          "Oxygen",
+          "Hydrogen",
+          "Both volumes are identical"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: 2H2O→2H2+O2, so H2:O2=2:1.",
+          "Correct. Hydrogen forms at the negative cathode; oxygen at the positive anode.",
+          "Check this idea: 2H2O→2H2+O2, so H2:O2=2:1."
+        ],
+        "hints": [
+          "2H2O→2H2+O2, so H2:O2=2:1.",
+          "Hydrogen forms at the negative cathode; oxygen at the positive anode."
+        ],
+        "explorer": "electrolysis"
+      },
+      {
+        "id": "sc1-sunlight",
+        "section": 2,
+        "title": "White silver chloride turns grey",
+        "intro": "Sunlight decomposes AgCl to metallic silver and chlorine. AgBr has a similar light-sensitive decomposition.",
+        "simple": "2AgCl→2Ag+Cl2 under sunlight; metallic silver explains the grey colour.",
+        "example": [
+          "2AgCl→2Ag+Cl2 under sunlight; metallic silver explains the grey colour.",
+          "These photochemical changes are associated with traditional black-and-white photography."
+        ],
+        "question": "What supplies the decomposition energy?",
+        "options": [
+          "Light",
+          "A new element called grey",
+          "No energy is involved"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. These photochemical changes are associated with traditional black-and-white photography.",
+          "Check this idea: 2AgCl→2Ag+Cl2 under sunlight; metallic silver explains the grey colour.",
+          "Check this idea: 2AgCl→2Ag+Cl2 under sunlight; metallic silver explains the grey colour."
+        ],
+        "hints": [
+          "2AgCl→2Ag+Cl2 under sunlight; metallic silver explains the grey colour.",
+          "These photochemical changes are associated with traditional black-and-white photography."
+        ]
+      },
+      {
+        "id": "sc1-endothermic",
+        "section": 2,
+        "title": "Cooling can mean energy in",
+        "intro": "In the unnumbered barium-hydroxide/ammonium-chloride demonstration, the mixture cools as it absorbs heat from the surroundings.",
+        "simple": "An endothermic process takes energy in.",
+        "example": [
+          "An endothermic process takes energy in.",
+          "Do not decide energy direction just from the presence of a burner; interpret the process and its surroundings."
+        ],
+        "question": "The reported cooling mixture is classified as…",
+        "options": [
+          "Exothermic",
+          "Endothermic",
+          "Necessarily a physical change only"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: An endothermic process takes energy in.",
+          "Correct. Do not decide energy direction just from the presence of a burner; interpret the process and its surroundings.",
+          "Check this idea: An endothermic process takes energy in."
+        ],
+        "hints": [
+          "An endothermic process takes energy in.",
+          "Do not decide energy direction just from the presence of a burner; interpret the process and its surroundings."
+        ]
+      },
+      {
+        "id": "sc1-displacement",
+        "section": 2,
+        "title": "Iron replaces copper",
+        "intro": "In the source comparison, an iron nail in blue CuSO4 solution develops a copper coating and the solution loses its strong blue colour.",
+        "simple": "Fe+CuSO4→FeSO4+Cu.",
+        "example": [
+          "Fe+CuSO4→FeSO4+Cu.",
+          "More reactive iron displaces copper; the pale-green product solution contains iron(II) sulphate."
+        ],
+        "question": "What is the reddish-brown deposit?",
+        "options": [
+          "Iron oxide",
+          "Copper",
+          "Sodium chloride"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Fe+CuSO4→FeSO4+Cu.",
+          "Correct. More reactive iron displaces copper; the pale-green product solution contains iron(II) sulphate.",
+          "Check this idea: Fe+CuSO4→FeSO4+Cu."
+        ],
+        "hints": [
+          "Fe+CuSO4→FeSO4+Cu.",
+          "More reactive iron displaces copper; the pale-green product solution contains iron(II) sulphate."
+        ]
+      },
+      {
+        "id": "sc1-precipitate",
+        "section": 2,
+        "title": "An insoluble product appears",
+        "intro": "Na2SO4 and BaCl2 solutions form white insoluble BaSO4. The remaining ions stay dissolved.",
+        "simple": "Na2SO4+BaCl2→BaSO4(s)+2NaCl.",
+        "example": [
+          "Na2SO4+BaCl2→BaSO4(s)+2NaCl.",
+          "This is double displacement and precipitation; a precipitate is an insoluble solid formed from solution."
+        ],
+        "question": "Which product is the precipitate?",
+        "options": [
+          "NaCl(aq)",
+          "BaSO4(s)",
+          "Water vapour"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Na2SO4+BaCl2→BaSO4(s)+2NaCl.",
+          "Correct. This is double displacement and precipitation; a precipitate is an insoluble solid formed from solution.",
+          "Check this idea: Na2SO4+BaCl2→BaSO4(s)+2NaCl."
+        ],
+        "hints": [
+          "Na2SO4+BaCl2→BaSO4(s)+2NaCl.",
+          "This is double displacement and precipitation; a precipitate is an insoluble solid formed from solution."
+        ]
+      },
+      {
+        "id": "sc1-yellow",
+        "section": 2,
+        "title": "Another colour, same pattern",
+        "intro": "Lead nitrate and potassium iodide form yellow lead(II) iodide in the source activity.",
+        "simple": "Pb(NO3)2+2KI→PbI2(s)+2KNO3.",
+        "example": [
+          "Pb(NO3)2+2KI→PbI2(s)+2KNO3.",
+          "The ion exchange creates a yellow precipitate, not the white BaSO4 from the other example."
+        ],
+        "question": "Which product is yellow?",
+        "options": [
+          "PbI2",
+          "KNO3",
+          "BaSO4"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The ion exchange creates a yellow precipitate, not the white BaSO4 from the other example.",
+          "Check this idea: Pb(NO3)2+2KI→PbI2(s)+2KNO3.",
+          "Check this idea: Pb(NO3)2+2KI→PbI2(s)+2KNO3."
+        ],
+        "hints": [
+          "Pb(NO3)2+2KI→PbI2(s)+2KNO3.",
+          "The ion exchange creates a yellow precipitate, not the white BaSO4 from the other example."
+        ]
+      },
+      {
+        "id": "sc1-solubility",
+        "section": 2,
+        "title": "Check a printed state symbol",
+        "intro": "Exercise 1 Q8(a) prints BaBr2(s). Barium bromide is water-soluble, so the printed state should not be used as evidence of a precipitate.",
+        "simple": "2KBr+BaI2→2KI+BaBr2 is a formal ion-exchange pattern.",
+        "example": [
+          "2KBr+BaI2→2KI+BaBr2 is a formal ion-exchange pattern.",
+          "For the aqueous soluble-salt mixture there is no net ionic precipitation reaction; source notation and actual solubility need separating."
+        ],
+        "question": "Does the printed (s) prove a precipitate actually forms?",
+        "options": [
+          "Yes, never check a source",
+          "No; check the product’s solubility",
+          "All barium salts are insoluble"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: 2KBr+BaI2→2KI+BaBr2 is a formal ion-exchange pattern.",
+          "Correct. For the aqueous soluble-salt mixture there is no net ionic precipitation reaction; source notation and actual solubility need separating.",
+          "Check this idea: 2KBr+BaI2→2KI+BaBr2 is a formal ion-exchange pattern."
+        ],
+        "hints": [
+          "2KBr+BaI2→2KI+BaBr2 is a formal ion-exchange pattern.",
+          "For the aqueous soluble-salt mixture there is no net ionic precipitation reaction; source notation and actual solubility need separating."
+        ]
+      },
+      {
+        "id": "sc1-oxidation",
+        "section": 2,
+        "title": "Follow the oxygen",
+        "intro": "In this chapter’s introductory model, oxidation is gaining oxygen or losing hydrogen; reduction is losing oxygen or gaining hydrogen.",
+        "simple": "2Cu+O2→2CuO: copper gains oxygen and becomes black CuO.",
+        "example": [
+          "2Cu+O2→2CuO: copper gains oxygen and becomes black CuO.",
+          "In CuO+H2→Cu+H2O, CuO loses oxygen while hydrogen gains it."
+        ],
+        "question": "Which reactant is reduced in CuO+H2→Cu+H2O?",
+        "options": [
+          "CuO",
+          "H2",
+          "H2O before it forms"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. In CuO+H2→Cu+H2O, CuO loses oxygen while hydrogen gains it.",
+          "Check this idea: 2Cu+O2→2CuO: copper gains oxygen and becomes black CuO.",
+          "Check this idea: 2Cu+O2→2CuO: copper gains oxygen and becomes black CuO."
+        ],
+        "hints": [
+          "2Cu+O2→2CuO: copper gains oxygen and becomes black CuO.",
+          "In CuO+H2→Cu+H2O, CuO loses oxygen while hydrogen gains it."
+        ]
+      },
+      {
+        "id": "sc1-redox",
+        "section": 2,
+        "title": "Two changes in one reaction",
+        "intro": "In a redox reaction one substance is oxidised while another is reduced. The descriptions must identify the reacting species.",
+        "simple": "ZnO+C→Zn+CO: ZnO is reduced and carbon oxidised.",
+        "example": [
+          "ZnO+C→Zn+CO: ZnO is reduced and carbon oxidised.",
+          "In MnO2+4HCl→MnCl2+2H2O+Cl2, MnO2 is reduced and chloride is oxidised; electron changes give a fuller description."
+        ],
+        "question": "In ZnO+C→Zn+CO, what is oxidised?",
+        "options": [
+          "ZnO",
+          "Carbon",
+          "The zinc product before reaction"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: ZnO+C→Zn+CO: ZnO is reduced and carbon oxidised.",
+          "Correct. In MnO2+4HCl→MnCl2+2H2O+Cl2, MnO2 is reduced and chloride is oxidised; electron changes give a fuller description.",
+          "Check this idea: ZnO+C→Zn+CO: ZnO is reduced and carbon oxidised."
+        ],
+        "hints": [
+          "ZnO+C→Zn+CO: ZnO is reduced and carbon oxidised.",
+          "In MnO2+4HCl→MnCl2+2H2O+Cl2, MnO2 is reduced and chloride is oxidised; electron changes give a fuller description."
+        ]
+      },
+      {
+        "id": "sc1-temperatures",
+        "section": 2,
+        "title": "Compare fairly",
+        "intro": "The group activity compares four temperature changes. Real observations need initial/final readings and consistent conditions.",
+        "simple": "Ammonium nitrate dissolving in water typically cools; hydration/dissolution of anhydrous CuSO4 typically warms.",
+        "example": [
+          "Ammonium nitrate dissolving in water typically cools; hydration/dissolution of anhydrous CuSO4 typically warms.",
+          "Expected trends are not measured data. Record actual temperatures and distinguish dissolution from the displacement reaction Fe+CuSO4."
+        ],
+        "question": "Which supports a fair energy comparison?",
+        "options": [
+          "Inventing equal temperatures",
+          "Recording initial and final temperatures under controlled conditions",
+          "Calling every dissolution the same reaction"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Ammonium nitrate dissolving in water typically cools; hydration/dissolution of anhydrous CuSO4 typically warms.",
+          "Correct. Expected trends are not measured data. Record actual temperatures and distinguish dissolution from the displacement reaction Fe+CuSO4.",
+          "Check this idea: Ammonium nitrate dissolving in water typically cools; hydration/dissolution of anhydrous CuSO4 typically warms."
+        ],
+        "hints": [
+          "Ammonium nitrate dissolving in water typically cools; hydration/dissolution of anhydrous CuSO4 typically warms.",
+          "Expected trends are not measured data. Record actual temperatures and distinguish dissolution from the displacement reaction Fe+CuSO4."
+        ]
+      },
+      {
+        "id": "sc1-corrosion",
+        "section": 3,
+        "title": "Oxidation can damage metal",
+        "intro": "Rust on iron, black tarnish on silver and green coatings on copper illustrate corrosion.",
+        "simple": "A metal reacts with its environment; moisture and air can contribute.",
+        "example": [
+          "A metal reacts with its environment; moisture and air can contribute.",
+          "Painting helps protect iron by limiting contact with its surroundings while the coating remains intact."
+        ],
+        "question": "Why paint iron?",
+        "options": [
+          "To turn it into plastic",
+          "To form a protective barrier",
+          "To provide extra oxygen"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: A metal reacts with its environment; moisture and air can contribute.",
+          "Correct. Painting helps protect iron by limiting contact with its surroundings while the coating remains intact.",
+          "Check this idea: A metal reacts with its environment; moisture and air can contribute."
+        ],
+        "hints": [
+          "A metal reacts with its environment; moisture and air can contribute.",
+          "Painting helps protect iron by limiting contact with its surroundings while the coating remains intact."
+        ]
+      },
+      {
+        "id": "sc1-rancidity",
+        "section": 3,
+        "title": "Oxidation can spoil fats",
+        "intro": "Oxidation of fats and oils can change their smell and taste: rancidity.",
+        "simple": "Airtight storage, suitable cool storage, antioxidants and nitrogen packaging can slow oxidation.",
+        "example": [
+          "Airtight storage, suitable cool storage, antioxidants and nitrogen packaging can slow oxidation.",
+          "Do not taste suspect food; these methods slow deterioration rather than reverse it."
+        ],
+        "question": "Why replace oxygen with nitrogen in a snack packet?",
+        "options": [
+          "To speed up rancidity",
+          "To slow oxidation of fats and oils",
+          "To guarantee food lasts forever"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Airtight storage, suitable cool storage, antioxidants and nitrogen packaging can slow oxidation.",
+          "Correct. Do not taste suspect food; these methods slow deterioration rather than reverse it.",
+          "Check this idea: Airtight storage, suitable cool storage, antioxidants and nitrogen packaging can slow oxidation."
+        ],
+        "hints": [
+          "Airtight storage, suitable cool storage, antioxidants and nitrogen packaging can slow oxidation.",
+          "Do not taste suspect food; these methods slow deterioration rather than reverse it."
+        ]
+      },
+      {
+        "id": "sc1-recap",
+        "section": 4,
+        "title": "Use the equation and the evidence",
+        "intro": "A reaction can carry several valid labels: magnesium burning is combination, oxidation and exothermic.",
+        "simple": "Balance atoms, specify needed states/conditions and connect observations to substances.",
+        "example": [
+          "Balance atoms, specify needed states/conditions and connect observations to substances.",
+          "Complete the written source activities and have explanations verified; a correct multiple-choice selection is not a complete scientific argument."
+        ],
+        "question": "What belongs in a strong response?",
+        "options": [
+          "Only the reaction label",
+          "Only a memorised colour",
+          "Balanced chemistry plus relevant observations and reasoning"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Check this idea: Balance atoms, specify needed states/conditions and connect observations to substances.",
+          "Check this idea: Balance atoms, specify needed states/conditions and connect observations to substances.",
+          "Correct. Complete the written source activities and have explanations verified; a correct multiple-choice selection is not a complete scientific argument."
+        ],
+        "hints": [
+          "Balance atoms, specify needed states/conditions and connect observations to substances.",
+          "Complete the written source activities and have explanations verified; a correct multiple-choice selection is not a complete scientific argument."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Represent",
+        "Keep formulae fixed and balance atom counts."
+      ],
+      [
+        "Classify",
+        "Reaction pattern, energy and redox can describe the same change."
+      ],
+      [
+        "Apply",
+        "Explain corrosion and rancidity using observations and chemistry."
+      ]
+    ],
+    "challenge": "Write the source-mapped explanations and equations without viewing the model first. Compare every step, then ask a teacher to verify your reasoning."
+  },
+  {
+    "number": 2,
+    "subject": "science",
+    "slug": "acids-bases-and-salts",
+    "title": "Acids, Bases and Salts",
+    "sections": [
+      "Introduction and indicators · pp17–19",
+      "2.1 Chemical Properties · pp18–22",
+      "2.2 What Acids and Bases Have in Common · pp22–25",
+      "2.3 Strength, pH and Everyday Life · pp25–28",
+      "2.4 More about Salts · pp28–33",
+      "What you have learnt · pp33–34"
+    ],
+    "steps": [
+      {
+        "id": "sc2-litmus",
+        "section": 0,
+        "title": "Identify without tasting",
+        "intro": "Indicators help distinguish acidic and basic solutions without tasting or touching chemicals.",
+        "simple": "Acids turn blue litmus red; bases turn red litmus blue.",
+        "example": [
+          "Acids turn blue litmus red; bases turn red litmus blue.",
+          "Neutral litmus solution is purple; unchanged red litmus alone does not distinguish acid from neutral water."
+        ],
+        "question": "Which observation indicates a base?",
+        "options": [
+          "Red litmus turns blue",
+          "Blue litmus turns red",
+          "Every unchanged paper proves acid"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Neutral litmus solution is purple; unchanged red litmus alone does not distinguish acid from neutral water.",
+          "Check this idea: Acids turn blue litmus red; bases turn red litmus blue.",
+          "Check this idea: Acids turn blue litmus red; bases turn red litmus blue."
+        ],
+        "hints": [
+          "Acids turn blue litmus red; bases turn red litmus blue.",
+          "Neutral litmus solution is purple; unchanged red litmus alone does not distinguish acid from neutral water."
+        ]
+      },
+      {
+        "id": "sc2-red-only",
+        "section": 0,
+        "title": "Solve the three-tube puzzle",
+        "intro": "The source gives acid, base and distilled water with only red litmus. First find the sample that turns red litmus blue.",
+        "simple": "That sample is the base; use a fresh strip made blue by it on separate portions of the remaining samples.",
+        "example": [
+          "That sample is the base; use a fresh strip made blue by it on separate portions of the remaining samples.",
+          "The acid turns the blue strip red; distilled water leaves it blue. Avoid carrying liquid between samples."
+        ],
+        "question": "Which is identified first?",
+        "options": [
+          "The base",
+          "The acid immediately",
+          "Water by tasting"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The acid turns the blue strip red; distilled water leaves it blue. Avoid carrying liquid between samples.",
+          "Check this idea: That sample is the base; use a fresh strip made blue by it on separate portions of the remaining samples.",
+          "Check this idea: That sample is the base; use a fresh strip made blue by it on separate portions of the remaining samples."
+        ],
+        "hints": [
+          "That sample is the base; use a fresh strip made blue by it on separate portions of the remaining samples.",
+          "The acid turns the blue strip red; distilled water leaves it blue. Avoid carrying liquid between samples."
+        ]
+      },
+      {
+        "id": "sc2-indicators",
+        "section": 0,
+        "title": "Colours depend on the indicator",
+        "intro": "Natural indicators include litmus, turmeric and some plant extracts. Synthetic indicators include methyl orange and phenolphthalein.",
+        "simple": "Phenolphthalein is colourless in acidic/near-neutral solution and pink in sufficiently basic solution.",
+        "example": [
+          "Phenolphthalein is colourless in acidic/near-neutral solution and pink in sufficiently basic solution.",
+          "Methyl orange is red at low pH and yellow above its transition; a chart gives approximate pH, not exact universal colour values."
+        ],
+        "question": "Does colourless phenolphthalein prove pH exactly 7?",
+        "options": [
+          "Yes",
+          "No, it can also be acidic",
+          "It always proves a strong base"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Phenolphthalein is colourless in acidic/near-neutral solution and pink in sufficiently basic solution.",
+          "Correct. Methyl orange is red at low pH and yellow above its transition; a chart gives approximate pH, not exact universal colour values.",
+          "Check this idea: Phenolphthalein is colourless in acidic/near-neutral solution and pink in sufficiently basic solution."
+        ],
+        "hints": [
+          "Phenolphthalein is colourless in acidic/near-neutral solution and pink in sufficiently basic solution.",
+          "Methyl orange is red at low pH and yellow above its transition; a chart gives approximate pH, not exact universal colour values."
+        ],
+        "explorer": "ph"
+      },
+      {
+        "id": "sc2-olfactory",
+        "section": 0,
+        "title": "An odour-based indicator",
+        "intro": "The source compares onion, vanilla and clove under acidic and basic conditions. These are olfactory indicators.",
+        "simple": "Their characteristic odour is generally retained in the acid test and becomes weak/undetectable in the base test under the source conditions.",
+        "example": [
+          "Their characteristic odour is generally retained in the acid test and becomes weak/undetectable in the base test under the source conditions.",
+          "Study the reported observation; never directly sniff unknown reagents or laboratory vapours."
+        ],
+        "question": "What makes an indicator olfactory?",
+        "options": [
+          "Its colour always turns red",
+          "Its useful response involves odour",
+          "Its sample is always safe to taste"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Their characteristic odour is generally retained in the acid test and becomes weak/undetectable in the base test under the source conditions.",
+          "Correct. Study the reported observation; never directly sniff unknown reagents or laboratory vapours.",
+          "Check this idea: Their characteristic odour is generally retained in the acid test and becomes weak/undetectable in the base test under the source conditions."
+        ],
+        "hints": [
+          "Their characteristic odour is generally retained in the acid test and becomes weak/undetectable in the base test under the source conditions.",
+          "Study the reported observation; never directly sniff unknown reagents or laboratory vapours."
+        ]
+      },
+      {
+        "id": "sc2-metal",
+        "section": 1,
+        "title": "Acid plus a reactive metal",
+        "intro": "Zinc with dilute sulphuric acid forms zinc sulphate and hydrogen; the source bubbles and teacher’s pop test identify the gas.",
+        "simple": "Zn+H2SO4→ZnSO4+H2.",
+        "example": [
+          "Zn+H2SO4→ZnSO4+H2.",
+          "The “acid + metal → salt + hydrogen” pattern has conditions and exceptions; nitric acid is an oxidising acid and generally behaves differently with zinc."
+        ],
+        "question": "Which gas forms in the stated zinc–dilute sulphuric acid example?",
+        "options": [
+          "CO2",
+          "Hydrogen",
+          "Chlorine"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Zn+H2SO4→ZnSO4+H2.",
+          "Correct. The “acid + metal → salt + hydrogen” pattern has conditions and exceptions; nitric acid is an oxidising acid and generally behaves differently with zinc.",
+          "Check this idea: Zn+H2SO4→ZnSO4+H2."
+        ],
+        "hints": [
+          "Zn+H2SO4→ZnSO4+H2.",
+          "The “acid + metal → salt + hydrogen” pattern has conditions and exceptions; nitric acid is an oxidising acid and generally behaves differently with zinc."
+        ]
+      },
+      {
+        "id": "sc2-zinc-base",
+        "section": 1,
+        "title": "A base can react with some metals",
+        "intro": "The source zinc–NaOH example forms hydrogen and a zincate salt; it does not describe every metal reacting with a base.",
+        "simple": "The chapter-level equation is Zn+2NaOH→Na2ZnO2+H2.",
+        "example": [
+          "The chapter-level equation is Zn+2NaOH→Na2ZnO2+H2.",
+          "This is a simplified zincate representation; do not generalise its formula/state to all aqueous speciation or all metals."
+        ],
+        "question": "Can you infer that copper must react the same way?",
+        "options": [
+          "Yes, every metal is interchangeable",
+          "No, the specific metal matters",
+          "Yes, because every base is an acid"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: The chapter-level equation is Zn+2NaOH→Na2ZnO2+H2.",
+          "Correct. This is a simplified zincate representation; do not generalise its formula/state to all aqueous speciation or all metals.",
+          "Check this idea: The chapter-level equation is Zn+2NaOH→Na2ZnO2+H2."
+        ],
+        "hints": [
+          "The chapter-level equation is Zn+2NaOH→Na2ZnO2+H2.",
+          "This is a simplified zincate representation; do not generalise its formula/state to all aqueous speciation or all metals."
+        ]
+      },
+      {
+        "id": "sc2-carbonate",
+        "section": 1,
+        "title": "Recognise carbonate effervescence",
+        "intro": "Acids react with metal carbonates/hydrogencarbonates to form a salt, water and carbon dioxide in the source examples.",
+        "simple": "Na2CO3+2HCl→2NaCl+H2O+CO2.",
+        "example": [
+          "Na2CO3+2HCl→2NaCl+H2O+CO2.",
+          "NaHCO3+HCl→NaCl+H2O+CO2; bubbles alone are not a complete gas identification."
+        ],
+        "question": "What gas is expected here?",
+        "options": [
+          "Hydrogen",
+          "CO2",
+          "Oxygen"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Na2CO3+2HCl→2NaCl+H2O+CO2.",
+          "Correct. NaHCO3+HCl→NaCl+H2O+CO2; bubbles alone are not a complete gas identification.",
+          "Check this idea: Na2CO3+2HCl→2NaCl+H2O+CO2."
+        ],
+        "hints": [
+          "Na2CO3+2HCl→2NaCl+H2O+CO2.",
+          "NaHCO3+HCl→NaCl+H2O+CO2; bubbles alone are not a complete gas identification."
+        ]
+      },
+      {
+        "id": "sc2-limewater",
+        "section": 1,
+        "title": "Milkiness can appear and disappear",
+        "intro": "Carbon dioxide first makes limewater milky by forming CaCO3. Excess CO2 can then dissolve that solid as calcium hydrogencarbonate.",
+        "simple": "Ca(OH)2+CO2→CaCO3(s)+H2O.",
+        "example": [
+          "Ca(OH)2+CO2→CaCO3(s)+H2O.",
+          "CaCO3+CO2+H2O→Ca(HCO3)2(aq), explaining the clearing with excess gas."
+        ],
+        "question": "Why does excess CO2 clear the milkiness?",
+        "options": [
+          "It forms a soluble hydrogencarbonate",
+          "It destroys all calcium atoms",
+          "It makes more insoluble carbonate forever"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. CaCO3+CO2+H2O→Ca(HCO3)2(aq), explaining the clearing with excess gas.",
+          "Check this idea: Ca(OH)2+CO2→CaCO3(s)+H2O.",
+          "Check this idea: Ca(OH)2+CO2→CaCO3(s)+H2O."
+        ],
+        "hints": [
+          "Ca(OH)2+CO2→CaCO3(s)+H2O.",
+          "CaCO3+CO2+H2O→Ca(HCO3)2(aq), explaining the clearing with excess gas."
+        ]
+      },
+      {
+        "id": "sc2-neutralisation",
+        "section": 1,
+        "title": "Opposing ions make water",
+        "intro": "For HCl and NaOH, equal reacting amounts consume hydronium/hydroxide to make water, leaving sodium and chloride ions in solution.",
+        "simple": "NaOH+HCl→NaCl+H2O; net H+(aq)+OH⁻(aq)→H2O.",
+        "example": [
+          "NaOH+HCl→NaCl+H2O; net H+(aq)+OH⁻(aq)→H2O.",
+          "An excess of acid or base remains after the other reactant is used up; equal volumes alone are not enough without concentrations."
+        ],
+        "question": "What decides whether acid remains?",
+        "options": [
+          "The labels’ font size",
+          "The reacting amounts, including concentration",
+          "Only which liquid was added first"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: NaOH+HCl→NaCl+H2O; net H+(aq)+OH⁻(aq)→H2O.",
+          "Correct. An excess of acid or base remains after the other reactant is used up; equal volumes alone are not enough without concentrations.",
+          "Check this idea: NaOH+HCl→NaCl+H2O; net H+(aq)+OH⁻(aq)→H2O."
+        ],
+        "hints": [
+          "NaOH+HCl→NaCl+H2O; net H+(aq)+OH⁻(aq)→H2O.",
+          "An excess of acid or base remains after the other reactant is used up; equal volumes alone are not enough without concentrations."
+        ],
+        "explorer": "neutralisation"
+      },
+      {
+        "id": "sc2-metal-oxide",
+        "section": 1,
+        "title": "A basic oxide reacts with acid",
+        "intro": "Black copper(II) oxide reacts with HCl, forming copper(II) chloride solution and water.",
+        "simple": "CuO+2HCl→CuCl2+H2O.",
+        "example": [
+          "CuO+2HCl→CuCl2+H2O.",
+          "The black solid dissolves and the solution can appear blue-green; CuO behaves as a basic oxide."
+        ],
+        "question": "Which products are formed?",
+        "options": [
+          "Hydrogen and oxygen",
+          "A salt and water",
+          "Only carbon dioxide"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: CuO+2HCl→CuCl2+H2O.",
+          "Correct. The black solid dissolves and the solution can appear blue-green; CuO behaves as a basic oxide.",
+          "Check this idea: CuO+2HCl→CuCl2+H2O."
+        ],
+        "hints": [
+          "CuO+2HCl→CuCl2+H2O.",
+          "The black solid dissolves and the solution can appear blue-green; CuO behaves as a basic oxide."
+        ]
+      },
+      {
+        "id": "sc2-nonmetal-oxide",
+        "section": 1,
+        "title": "An acidic oxide reacts with a base",
+        "intro": "CO2 reacts with calcium hydroxide to make calcium carbonate and water.",
+        "simple": "CO2+Ca(OH)2→CaCO3+H2O.",
+        "example": [
+          "CO2+Ca(OH)2→CaCO3+H2O.",
+          "This demonstrates CO2’s acidic-oxide behaviour; it is not proof that every non-metal oxide is acidic without exceptions."
+        ],
+        "question": "What is CO2 acting as here?",
+        "options": [
+          "An acidic oxide",
+          "A metallic element",
+          "A hydroxide"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This demonstrates CO2’s acidic-oxide behaviour; it is not proof that every non-metal oxide is acidic without exceptions.",
+          "Check this idea: CO2+Ca(OH)2→CaCO3+H2O.",
+          "Check this idea: CO2+Ca(OH)2→CaCO3+H2O."
+        ],
+        "hints": [
+          "CO2+Ca(OH)2→CaCO3+H2O.",
+          "This demonstrates CO2’s acidic-oxide behaviour; it is not proof that every non-metal oxide is acidic without exceptions."
+        ]
+      },
+      {
+        "id": "sc2-ions",
+        "section": 2,
+        "title": "Water makes the difference",
+        "intro": "In the chapter’s aqueous model, acids generate hydrated hydrogen ions and bases produce hydroxide ions in their dissolved portion.",
+        "simple": "HCl+H2O→H3O⁺+Cl⁻; H+(aq) is shorthand for hydrated hydrogen ions.",
+        "example": [
+          "HCl+H2O→H3O⁺+Cl⁻; H+(aq) is shorthand for hydrated hydrogen ions.",
+          "A hydrogen atom bonded inside glucose is not the same as hydronium released into water."
+        ],
+        "question": "Which represents hydronium?",
+        "options": [
+          "OH⁻",
+          "H3O⁺",
+          "H2 gas"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: HCl+H2O→H3O⁺+Cl⁻; H+(aq) is shorthand for hydrated hydrogen ions.",
+          "Correct. A hydrogen atom bonded inside glucose is not the same as hydronium released into water.",
+          "Check this idea: HCl+H2O→H3O⁺+Cl⁻; H+(aq) is shorthand for hydrated hydrogen ions."
+        ],
+        "hints": [
+          "HCl+H2O→H3O⁺+Cl⁻; H+(aq) is shorthand for hydrated hydrogen ions.",
+          "A hydrogen atom bonded inside glucose is not the same as hydronium released into water."
+        ]
+      },
+      {
+        "id": "sc2-conductivity",
+        "section": 2,
+        "title": "Mobile ions carry current",
+        "intro": "The source bulb test compares acids and alkalis with glucose and alcohol solutions.",
+        "simple": "Acid and alkali solutions contain mobile ions and show appreciable conductivity in the suitable circuit.",
+        "example": [
+          "Acid and alkali solutions contain mobile ions and show appreciable conductivity in the suitable circuit.",
+          "A dark bulb for glucose/alcohol does not prove literally zero current; the test has a detection threshold."
+        ],
+        "question": "What carries current through the solution?",
+        "options": [
+          "Mobile ions",
+          "Only neutral glucose molecules",
+          "Light from the bulb"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A dark bulb for glucose/alcohol does not prove literally zero current; the test has a detection threshold.",
+          "Check this idea: Acid and alkali solutions contain mobile ions and show appreciable conductivity in the suitable circuit.",
+          "Check this idea: Acid and alkali solutions contain mobile ions and show appreciable conductivity in the suitable circuit."
+        ],
+        "hints": [
+          "Acid and alkali solutions contain mobile ions and show appreciable conductivity in the suitable circuit.",
+          "A dark bulb for glucose/alcohol does not prove literally zero current; the test has a detection threshold."
+        ]
+      },
+      {
+        "id": "sc2-dry-wet",
+        "section": 2,
+        "title": "Dry HCl, dry litmus",
+        "intro": "In the source test, completely dry HCl does not change dry blue litmus. Moist blue litmus becomes red.",
+        "simple": "Water enables the hydronium-ion formation involved in this test.",
+        "example": [
+          "Water enables the hydronium-ion formation involved in this test.",
+          "Dry and humid conditions must be distinguished; this model does not claim that all non-aqueous acid chemistry is impossible."
+        ],
+        "question": "Why does moisture matter?",
+        "options": [
+          "It supplies the aqueous environment for ion formation",
+          "It creates chlorine metal",
+          "It turns every gas into a base"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Dry and humid conditions must be distinguished; this model does not claim that all non-aqueous acid chemistry is impossible.",
+          "Check this idea: Water enables the hydronium-ion formation involved in this test.",
+          "Check this idea: Water enables the hydronium-ion formation involved in this test."
+        ],
+        "hints": [
+          "Water enables the hydronium-ion formation involved in this test.",
+          "Dry and humid conditions must be distinguished; this model does not claim that all non-aqueous acid chemistry is impossible."
+        ]
+      },
+      {
+        "id": "sc2-alkali",
+        "section": 2,
+        "title": "Which bases dissolve?",
+        "intro": "An alkali is a water-soluble base. Not every base dissolves freely in water.",
+        "simple": "NaOH,KOH and aqueous ammonia are source alkali examples.",
+        "example": [
+          "NaOH,KOH and aqueous ammonia are source alkali examples.",
+          "Ca(OH)2 is sparingly soluble but its solution is alkaline; the dissolved portion of Mg(OH)2 supplies Mg²⁺ and 2OH⁻."
+        ],
+        "question": "Is every base freely soluble in water?",
+        "options": [
+          "Yes",
+          "No",
+          "Only if it is blue"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: NaOH,KOH and aqueous ammonia are source alkali examples.",
+          "Correct. Ca(OH)2 is sparingly soluble but its solution is alkaline; the dissolved portion of Mg(OH)2 supplies Mg²⁺ and 2OH⁻.",
+          "Check this idea: NaOH,KOH and aqueous ammonia are source alkali examples."
+        ],
+        "hints": [
+          "NaOH,KOH and aqueous ammonia are source alkali examples.",
+          "Ca(OH)2 is sparingly soluble but its solution is alkaline; the dissolved portion of Mg(OH)2 supplies Mg²⁺ and 2OH⁻."
+        ]
+      },
+      {
+        "id": "sc2-dilution",
+        "section": 2,
+        "title": "Amount per volume can fall",
+        "intro": "Diluting an ordinary acid solution with water lowers hydronium concentration and moves pH towards neutral.",
+        "simple": "Dilution changes concentration, not the acid’s name or definition of strength.",
+        "example": [
+          "Dilution changes concentration, not the acid’s name or definition of strength.",
+          "A weak acid can ionise to a greater fraction on dilution while its hydronium concentration still decreases."
+        ],
+        "question": "What generally decreases when an acid solution is diluted?",
+        "options": [
+          "Hydronium concentration per unit volume",
+          "The number of possible elements in water",
+          "The identity of the acid"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A weak acid can ionise to a greater fraction on dilution while its hydronium concentration still decreases.",
+          "Check this idea: Dilution changes concentration, not the acid’s name or definition of strength.",
+          "Check this idea: Dilution changes concentration, not the acid’s name or definition of strength."
+        ],
+        "hints": [
+          "Dilution changes concentration, not the acid’s name or definition of strength.",
+          "A weak acid can ionise to a greater fraction on dilution while its hydronium concentration still decreases."
+        ]
+      },
+      {
+        "id": "sc2-dilution-heat",
+        "section": 2,
+        "title": "Respect heat during mixing",
+        "intro": "The source concentrated-acid dilution and NaOH dissolution examples can release substantial heat.",
+        "simple": "The teacher’s principle is add acid slowly into water with stirring, not water into concentrated acid.",
+        "example": [
+          "The teacher’s principle is add acid slowly into water with stirring, not water into concentrated acid.",
+          "The larger water amount dissipates heat; intense local heating can cause splashing. This is a laboratory principle, not a home task."
+        ],
+        "question": "Why does the order matter?",
+        "options": [
+          "It changes the identity of hydrogen",
+          "To manage dangerous local heat release",
+          "It makes all chemicals edible"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: The teacher’s principle is add acid slowly into water with stirring, not water into concentrated acid.",
+          "Correct. The larger water amount dissipates heat; intense local heating can cause splashing. This is a laboratory principle, not a home task.",
+          "Check this idea: The teacher’s principle is add acid slowly into water with stirring, not water into concentrated acid."
+        ],
+        "hints": [
+          "The teacher’s principle is add acid slowly into water with stirring, not water into concentrated acid.",
+          "The larger water amount dissipates heat; intense local heating can cause splashing. This is a laboratory principle, not a home task."
+        ]
+      },
+      {
+        "id": "sc2-ph-scale",
+        "section": 3,
+        "title": "Lower pH, more hydronium",
+        "intro": "Use the chapter’s ordinary aqueous convention near 25°C: below 7 acidic, 7 neutral, above 7 basic.",
+        "simple": "pH 6 is more acidic than pH 8.",
+        "example": [
+          "pH 6 is more acidic than pH 8.",
+          "The 0–14 scale is the usual classroom range, not an absolute bound; neutral pH changes with temperature."
+        ],
+        "question": "At about 25°C, which is basic?",
+        "options": [
+          "pH 3",
+          "pH 6",
+          "pH 10"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Check this idea: pH 6 is more acidic than pH 8.",
+          "Check this idea: pH 6 is more acidic than pH 8.",
+          "Correct. The 0–14 scale is the usual classroom range, not an absolute bound; neutral pH changes with temperature."
+        ],
+        "hints": [
+          "pH 6 is more acidic than pH 8.",
+          "The 0–14 scale is the usual classroom range, not an absolute bound; neutral pH changes with temperature."
+        ],
+        "explorer": "ph"
+      },
+      {
+        "id": "sc2-strength",
+        "section": 3,
+        "title": "Strong does not mean concentrated",
+        "intro": "At equal analytical concentration, HCl produces more hydronium than acetic acid because it ionises more completely.",
+        "simple": "Strong/weak describes ionisation; concentrated/dilute describes amount per volume.",
+        "example": [
+          "Strong/weak describes ionisation; concentrated/dilute describes amount per volume.",
+          "A pH value reflects both concentration and ionisation, so labels alone need not order every pair of solutions."
+        ],
+        "question": "Which statement is correct?",
+        "options": [
+          "A dilute strong acid is impossible",
+          "A strong acid can be dilute",
+          "Every weak acid has pH exactly 6"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Strong/weak describes ionisation; concentrated/dilute describes amount per volume.",
+          "Correct. A pH value reflects both concentration and ionisation, so labels alone need not order every pair of solutions.",
+          "Check this idea: Strong/weak describes ionisation; concentrated/dilute describes amount per volume."
+        ],
+        "hints": [
+          "Strong/weak describes ionisation; concentrated/dilute describes amount per volume.",
+          "A pH value reflects both concentration and ionisation, so labels alone need not order every pair of solutions."
+        ]
+      },
+      {
+        "id": "sc2-both-ions",
+        "section": 3,
+        "title": "A base still has hydronium",
+        "intro": "Both hydronium and hydroxide are present in ordinary aqueous solutions. The dominant concentration determines the nature.",
+        "simple": "Basic means [OH⁻] exceeds [H3O⁺], not that hydronium is exactly absent.",
+        "example": [
+          "Basic means [OH⁻] exceeds [H3O⁺], not that hydronium is exactly absent.",
+          "In the idealised 25°C model, a one-unit pH decrease means ten times greater hydronium activity."
+        ],
+        "question": "What is true of a basic aqueous solution?",
+        "options": [
+          "It has no H3O⁺ at all",
+          "It has more OH⁻ than H3O⁺",
+          "It contains only pure OH⁻ with no water"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Basic means [OH⁻] exceeds [H3O⁺], not that hydronium is exactly absent.",
+          "Correct. In the idealised 25°C model, a one-unit pH decrease means ten times greater hydronium activity.",
+          "Check this idea: Basic means [OH⁻] exceeds [H3O⁺], not that hydronium is exactly absent."
+        ],
+        "hints": [
+          "Basic means [OH⁻] exceeds [H3O⁺], not that hydronium is exactly absent.",
+          "In the idealised 25°C model, a one-unit pH decrease means ten times greater hydronium activity."
+        ]
+      },
+      {
+        "id": "sc2-environment",
+        "section": 3,
+        "title": "A narrow range can matter",
+        "intro": "Acid rain can lower the pH of water and soil, affecting organisms. The source uses pH below 5.6 for acid rain.",
+        "simple": "Different organisms and body compartments have different useful pH ranges.",
+        "example": [
+          "Different organisms and body compartments have different useful pH ranges.",
+          "The book’s body-range statement must not be applied to every compartment: the stomach is acidic."
+        ],
+        "question": "Can one pH range describe every tissue and habitat?",
+        "options": [
+          "Yes",
+          "No",
+          "Only if every organism is the same size"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Different organisms and body compartments have different useful pH ranges.",
+          "Correct. The book’s body-range statement must not be applied to every compartment: the stomach is acidic.",
+          "Check this idea: Different organisms and body compartments have different useful pH ranges."
+        ],
+        "hints": [
+          "Different organisms and body compartments have different useful pH ranges.",
+          "The book’s body-range statement must not be applied to every compartment: the stomach is acidic."
+        ]
+      },
+      {
+        "id": "sc2-soil",
+        "section": 3,
+        "title": "Soil tests need context",
+        "intro": "The source filters a soil–water sample, tests the filtrate and compares plant growth.",
+        "simple": "An excessively acidic soil may benefit from appropriate liming materials.",
+        "example": [
+          "An excessively acidic soil may benefit from appropriate liming materials.",
+          "A single pH reading cannot identify an ideal soil for every plant; sampling and crop needs matter."
+        ],
+        "question": "When do the source’s lime examples address the problem?",
+        "options": [
+          "When soil is excessively acidic",
+          "When every soil needs a fixed dose",
+          "Only when soil is already strongly alkaline"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A single pH reading cannot identify an ideal soil for every plant; sampling and crop needs matter.",
+          "Check this idea: An excessively acidic soil may benefit from appropriate liming materials.",
+          "Check this idea: An excessively acidic soil may benefit from appropriate liming materials."
+        ],
+        "hints": [
+          "An excessively acidic soil may benefit from appropriate liming materials.",
+          "A single pH reading cannot identify an ideal soil for every plant; sampling and crop needs matter."
+        ]
+      },
+      {
+        "id": "sc2-stomach",
+        "section": 3,
+        "title": "Neutralisation in the source context",
+        "intro": "The book uses stomach hydrochloric acid and mild-base antacids to illustrate neutralisation.",
+        "simple": "A suitable base can consume excess acid in the textbook model.",
+        "example": [
+          "A suitable base can consume excess acid in the textbook model.",
+          "This explains a chemical concept, not how to diagnose symptoms or choose/dose a medicine."
+        ],
+        "question": "Which category is the source example?",
+        "options": [
+          "Antibiotic",
+          "Antacid",
+          "Analgesic merely because it is a base"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: A suitable base can consume excess acid in the textbook model.",
+          "Correct. This explains a chemical concept, not how to diagnose symptoms or choose/dose a medicine.",
+          "Check this idea: A suitable base can consume excess acid in the textbook model."
+        ],
+        "hints": [
+          "A suitable base can consume excess acid in the textbook model.",
+          "This explains a chemical concept, not how to diagnose symptoms or choose/dose a medicine."
+        ]
+      },
+      {
+        "id": "sc2-teeth",
+        "section": 3,
+        "title": "An acidic environment affects enamel",
+        "intro": "The source connects bacterial acid formation after food with enamel demineralisation, using about pH 5.5 as a useful threshold.",
+        "simple": "Bacteria can form acids from food residues, lowering local pH.",
+        "example": [
+          "Bacteria can form acids from food residues, lowering local pH.",
+          "The threshold is contextual, not an exact universal switch; basic toothpaste is a source neutralisation example."
+        ],
+        "question": "What change is associated with enamel attack in this model?",
+        "options": [
+          "Lower, more acidic pH",
+          "Higher oxygen coefficient in every salt",
+          "Any pH above 7 automatically"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The threshold is contextual, not an exact universal switch; basic toothpaste is a source neutralisation example.",
+          "Check this idea: Bacteria can form acids from food residues, lowering local pH.",
+          "Check this idea: Bacteria can form acids from food residues, lowering local pH."
+        ],
+        "hints": [
+          "Bacteria can form acids from food residues, lowering local pH.",
+          "The threshold is contextual, not an exact universal switch; basic toothpaste is a source neutralisation example."
+        ]
+      },
+      {
+        "id": "sc2-natural-acids",
+        "section": 3,
+        "title": "Learn the examples, keep their scope",
+        "intro": "The source pairs vinegar with acetic acid, citrus with citric acid, curd with lactic acid and other natural sources with named acids.",
+        "simple": "Tamarind—tartaric; tomato—oxalic; ant/nettle sting—methanoic in the textbook account.",
+        "example": [
+          "Tamarind—tartaric; tomato—oxalic; ant/nettle sting—methanoic in the textbook account.",
+          "Natural mixtures are more complex than one label; sting stories do not establish a safe treatment or prove that pH alone explains venom effects."
+        ],
+        "question": "Which is the textbook acid in curd?",
+        "options": [
+          "Lactic acid",
+          "Hydrochloric acid as the only ingredient",
+          "Sodium hydroxide"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Natural mixtures are more complex than one label; sting stories do not establish a safe treatment or prove that pH alone explains venom effects.",
+          "Check this idea: Tamarind—tartaric; tomato—oxalic; ant/nettle sting—methanoic in the textbook account.",
+          "Check this idea: Tamarind—tartaric; tomato—oxalic; ant/nettle sting—methanoic in the textbook account."
+        ],
+        "hints": [
+          "Tamarind—tartaric; tomato—oxalic; ant/nettle sting—methanoic in the textbook account.",
+          "Natural mixtures are more complex than one label; sting stories do not establish a safe treatment or prove that pH alone explains venom effects."
+        ]
+      },
+      {
+        "id": "sc2-families",
+        "section": 4,
+        "title": "A shared ion makes a family",
+        "intro": "Salts can share a cation or anion. Write formulae using ion charges, not by joining names arbitrarily.",
+        "simple": "NaCl,Na2SO4 and NaNO3 share Na⁺; K2SO4,CaSO4,MgSO4 and CuSO4 share sulphate.",
+        "example": [
+          "NaCl,Na2SO4 and NaNO3 share Na⁺; K2SO4,CaSO4,MgSO4 and CuSO4 share sulphate.",
+          "A shared family does not force the same solubility or pH."
+        ],
+        "question": "What do NaCl and Na2SO4 share?",
+        "options": [
+          "Only the chloride ion",
+          "The sodium ion",
+          "Exactly the same full formula"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: NaCl,Na2SO4 and NaNO3 share Na⁺; K2SO4,CaSO4,MgSO4 and CuSO4 share sulphate.",
+          "Correct. A shared family does not force the same solubility or pH.",
+          "Check this idea: NaCl,Na2SO4 and NaNO3 share Na⁺; K2SO4,CaSO4,MgSO4 and CuSO4 share sulphate."
+        ],
+        "hints": [
+          "NaCl,Na2SO4 and NaNO3 share Na⁺; K2SO4,CaSO4,MgSO4 and CuSO4 share sulphate.",
+          "A shared family does not force the same solubility or pH."
+        ]
+      },
+      {
+        "id": "sc2-salt-ph",
+        "section": 4,
+        "title": "Salt does not mean neutral",
+        "intro": "The chapter compares salt solutions through their parent acid/base relationships.",
+        "simple": "NaCl and KNO3 are neutral examples; CuSO4 is acidic; sodium carbonate is basic.",
+        "example": [
+          "NaCl and KNO3 are neutral examples; CuSO4 is acidic; sodium carbonate is basic.",
+          "Concentration,temperature and ion chemistry matter; do not assign pH 7 to every salt."
+        ],
+        "question": "Which is a basic salt example here?",
+        "options": [
+          "Na2CO3",
+          "Every salt without exception",
+          "CuSO4 in the source classification"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Concentration,temperature and ion chemistry matter; do not assign pH 7 to every salt.",
+          "Check this idea: NaCl and KNO3 are neutral examples; CuSO4 is acidic; sodium carbonate is basic.",
+          "Check this idea: NaCl and KNO3 are neutral examples; CuSO4 is acidic; sodium carbonate is basic."
+        ],
+        "hints": [
+          "NaCl and KNO3 are neutral examples; CuSO4 is acidic; sodium carbonate is basic.",
+          "Concentration,temperature and ion chemistry matter; do not assign pH 7 to every salt."
+        ],
+        "explorer": "salts"
+      },
+      {
+        "id": "sc2-common-salt",
+        "section": 4,
+        "title": "One raw material, many products",
+        "intro": "Common salt is sodium chloride. Seawater and rock-salt deposits are source contexts for obtaining it.",
+        "simple": "Brine means aqueous sodium chloride.",
+        "example": [
+          "Brine means aqueous sodium chloride.",
+          "NaCl is a raw material for the source chlor-alkali products and compounds such as baking and washing soda."
+        ],
+        "question": "What is brine?",
+        "options": [
+          "Pure chlorine gas",
+          "Aqueous sodium chloride",
+          "Calcium carbonate rock"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Brine means aqueous sodium chloride.",
+          "Correct. NaCl is a raw material for the source chlor-alkali products and compounds such as baking and washing soda.",
+          "Check this idea: Brine means aqueous sodium chloride."
+        ],
+        "hints": [
+          "Brine means aqueous sodium chloride.",
+          "NaCl is a raw material for the source chlor-alkali products and compounds such as baking and washing soda."
+        ]
+      },
+      {
+        "id": "sc2-chlor-alkali",
+        "section": 4,
+        "title": "Name all three products",
+        "intro": "In the industrial chlor-alkali process,electricity acts on brine to produce NaOH,chlorine and hydrogen.",
+        "simple": "2NaCl+2H2O→2NaOH+Cl2+H2.",
+        "example": [
+          "2NaCl+2H2O→2NaOH+Cl2+H2.",
+          "Chlorine forms at the anode,hydrogen at the cathode; the industrial setup separates hazardous products."
+        ],
+        "question": "Which gas forms at the anode?",
+        "options": [
+          "Hydrogen",
+          "Chlorine",
+          "Carbon dioxide"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: 2NaCl+2H2O→2NaOH+Cl2+H2.",
+          "Correct. Chlorine forms at the anode,hydrogen at the cathode; the industrial setup separates hazardous products.",
+          "Check this idea: 2NaCl+2H2O→2NaOH+Cl2+H2."
+        ],
+        "hints": [
+          "2NaCl+2H2O→2NaOH+Cl2+H2.",
+          "Chlorine forms at the anode,hydrogen at the cathode; the industrial setup separates hazardous products."
+        ]
+      },
+      {
+        "id": "sc2-chlor-uses",
+        "section": 4,
+        "title": "Match products to uses",
+        "intro": "The source diagram links the three chlor-alkali products to different industrial uses.",
+        "simple": "NaOH: degreasing,soaps/detergents,paper,artificial fibres; chlorine: water treatment,pools,PVC,disinfectants,pesticides,and the figure’s CFC example.",
+        "example": [
+          "NaOH: degreasing,soaps/detergents,paper,artificial fibres; chlorine: water treatment,pools,PVC,disinfectants,pesticides,and the figure’s CFC example.",
+          "Hydrogen: fuel,margarine hydrogenation and ammonia for fertilisers. These are source industrial-use examples,not mixing instructions; CFCs need environmental context."
+        ],
+        "question": "Which product is an alkali?",
+        "options": [
+          "Cl2",
+          "NaOH",
+          "H2"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check the products. NaOH: degreasing,soaps/detergents,paper,artificial fibres; chlorine: water treatment,pools,PVC,disinfectants,pesticides,and the figure’s CFC example.",
+          "Correct. Hydrogen: fuel,margarine hydrogenation and ammonia for fertilisers. These are source industrial-use examples,not mixing instructions; CFCs need environmental context.",
+          "Check the products. NaOH: degreasing,soaps/detergents,paper,artificial fibres; chlorine: water treatment,pools,PVC,disinfectants,pesticides,and the figure’s CFC example."
+        ],
+        "hints": [
+          "NaOH: degreasing,soaps/detergents,paper,artificial fibres; chlorine: water treatment,pools,PVC,disinfectants,pesticides,and the figure’s CFC example.",
+          "Hydrogen: fuel,margarine hydrogenation and ammonia for fertilisers. These are source industrial-use examples,not mixing instructions; CFCs need environmental context."
+        ]
+      },
+      {
+        "id": "sc2-bleaching",
+        "section": 4,
+        "title": "Use the book’s representation carefully",
+        "intro": "Bleaching powder is represented as CaOCl2,but the source notes that its actual composition is complex.",
+        "simple": "Ca(OH)2+Cl2→CaOCl2+H2O uses dry slaked lime.",
+        "example": [
+          "Ca(OH)2+Cl2→CaOCl2+H2O uses dry slaked lime.",
+          "The source lists bleaching,oxidising uses and water disinfection; this is not a licence to mix household bleach with acids."
+        ],
+        "question": "Which precursor reacts with chlorine?",
+        "options": [
+          "Dry slaked lime",
+          "Copper metal",
+          "Sugar"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source lists bleaching,oxidising uses and water disinfection; this is not a licence to mix household bleach with acids.",
+          "Check this idea: Ca(OH)2+Cl2→CaOCl2+H2O uses dry slaked lime.",
+          "Check this idea: Ca(OH)2+Cl2→CaOCl2+H2O uses dry slaked lime."
+        ],
+        "hints": [
+          "Ca(OH)2+Cl2→CaOCl2+H2O uses dry slaked lime.",
+          "The source lists bleaching,oxidising uses and water disinfection; this is not a licence to mix household bleach with acids."
+        ]
+      },
+      {
+        "id": "sc2-baking",
+        "section": 4,
+        "title": "Baking soda is not baking powder",
+        "intro": "Baking soda is NaHCO3. Baking powder combines it with a mild edible acid such as tartaric acid.",
+        "simple": "2NaHCO3→Na2CO3+CO2+H2O on heating; reaction with acid also produces CO2.",
+        "example": [
+          "2NaHCO3→Na2CO3+CO2+H2O on heating; reaction with acid also produces CO2.",
+          "CO2 helps dough rise; the acid helps avoid excess alkaline carbonate taste. Other source uses include some antacid ingredients and soda–acid extinguisher models."
+        ],
+        "question": "What makes the dough rise?",
+        "options": [
+          "A nitrogen precipitate",
+          "CO2 gas",
+          "An insoluble sodium metal coating"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: 2NaHCO3→Na2CO3+CO2+H2O on heating; reaction with acid also produces CO2.",
+          "Correct. CO2 helps dough rise; the acid helps avoid excess alkaline carbonate taste. Other source uses include some antacid ingredients and soda–acid extinguisher models.",
+          "Check this idea: 2NaHCO3→Na2CO3+CO2+H2O on heating; reaction with acid also produces CO2."
+        ],
+        "hints": [
+          "2NaHCO3→Na2CO3+CO2+H2O on heating; reaction with acid also produces CO2.",
+          "CO2 helps dough rise; the acid helps avoid excess alkaline carbonate taste. Other source uses include some antacid ingredients and soda–acid extinguisher models."
+        ]
+      },
+      {
+        "id": "sc2-washing",
+        "section": 4,
+        "title": "A different sodium salt",
+        "intro": "Washing soda is sodium carbonate decahydrate,Na2CO3·10H2O—not sodium hydrogencarbonate.",
+        "simple": "Na2CO3+10H2O→Na2CO3·10H2O represents crystallisation.",
+        "example": [
+          "Na2CO3+10H2O→Na2CO3·10H2O represents crystallisation.",
+          "Source uses include cleaning,permanent-hardness removal,glass/soap/paper industries and manufacture of other sodium compounds."
+        ],
+        "question": "Which is washing soda?",
+        "options": [
+          "NaHCO3",
+          "Na2CO3·10H2O",
+          "CaSO4·½H2O"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Na2CO3+10H2O→Na2CO3·10H2O represents crystallisation.",
+          "Correct. Source uses include cleaning,permanent-hardness removal,glass/soap/paper industries and manufacture of other sodium compounds.",
+          "Check this idea: Na2CO3+10H2O→Na2CO3·10H2O represents crystallisation."
+        ],
+        "hints": [
+          "Na2CO3+10H2O→Na2CO3·10H2O represents crystallisation.",
+          "Source uses include cleaning,permanent-hardness removal,glass/soap/paper industries and manufacture of other sodium compounds."
+        ],
+        "explorer": "salts"
+      },
+      {
+        "id": "sc2-crystal-water",
+        "section": 4,
+        "title": "A dry crystal can contain water",
+        "intro": "A hydrate has a fixed water-to-salt formula ratio. The blue copper sulphate example loses crystal water and becomes white on heating.",
+        "simple": "CuSO4·5H2O→CuSO4+5H2O; adding water can restore the blue hydrated form.",
+        "example": [
+          "CuSO4·5H2O→CuSO4+5H2O; adding water can restore the blue hydrated form.",
+          "Water of crystallisation is not simply a wet surface. Gypsum has two waters and washing soda ten per formula unit."
+        ],
+        "question": "How many waters are shown in CuSO4·5H2O?",
+        "options": [
+          "2",
+          "5",
+          "10"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: CuSO4·5H2O→CuSO4+5H2O; adding water can restore the blue hydrated form.",
+          "Correct. Water of crystallisation is not simply a wet surface. Gypsum has two waters and washing soda ten per formula unit.",
+          "Check this idea: CuSO4·5H2O→CuSO4+5H2O; adding water can restore the blue hydrated form."
+        ],
+        "hints": [
+          "CuSO4·5H2O→CuSO4+5H2O; adding water can restore the blue hydrated form.",
+          "Water of crystallisation is not simply a wet surface. Gypsum has two waters and washing soda ten per formula unit."
+        ],
+        "explorer": "hydration"
+      },
+      {
+        "id": "sc2-plaster",
+        "section": 4,
+        "title": "Half a water is a ratio",
+        "intro": "Heating gypsum near 373 K makes calcium sulphate hemihydrate,Plaster of Paris.",
+        "simple": "Gypsum is CaSO4·2H2O; Plaster of Paris is CaSO4·½H2O.",
+        "example": [
+          "Gypsum is CaSO4·2H2O; Plaster of Paris is CaSO4·½H2O.",
+          "Two CaSO4 formula units per one water molecule explain the half; no molecule is cut in half. Adding 1½H2O per unit reforms gypsum and sets hard."
+        ],
+        "question": "Why keep Plaster of Paris dry?",
+        "options": [
+          "Moisture would hydrate it and set it prematurely",
+          "It is the same as table salt",
+          "It needs to form hydrogen gas"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Two CaSO4 formula units per one water molecule explain the half; no molecule is cut in half. Adding 1½H2O per unit reforms gypsum and sets hard.",
+          "Check this idea: Gypsum is CaSO4·2H2O; Plaster of Paris is CaSO4·½H2O.",
+          "Check this idea: Gypsum is CaSO4·2H2O; Plaster of Paris is CaSO4·½H2O."
+        ],
+        "hints": [
+          "Gypsum is CaSO4·2H2O; Plaster of Paris is CaSO4·½H2O.",
+          "Two CaSO4 formula units per one water molecule explain the half; no molecule is cut in half. Adding 1½H2O per unit reforms gypsum and sets hard."
+        ]
+      },
+      {
+        "id": "sc2-group-models",
+        "section": 4,
+        "title": "Compare and explain safely",
+        "intro": "The source group activities investigate natural indicators and a soda–acid extinguisher model.",
+        "simple": "Natural extracts need reference samples and actual observations; exact shades are not invented.",
+        "example": [
+          "Natural extracts need reference samples and actual observations; exact shades are not invented.",
+          "Acid plus NaHCO3 can generate CO2,but students must not build a sealed gas generator or test an improvised device on a real fire."
+        ],
+        "question": "What can you conclude from the virtual extinguisher explanation?",
+        "options": [
+          "That an improvised bottle is a certified extinguisher",
+          "That the source model uses CO2 generation to explain its demonstration",
+          "That every fire is safely treated in the same way"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Natural extracts need reference samples and actual observations; exact shades are not invented.",
+          "Correct. Acid plus NaHCO3 can generate CO2,but students must not build a sealed gas generator or test an improvised device on a real fire.",
+          "Check this idea: Natural extracts need reference samples and actual observations; exact shades are not invented."
+        ],
+        "hints": [
+          "Natural extracts need reference samples and actual observations; exact shades are not invented.",
+          "Acid plus NaHCO3 can generate CO2,but students must not build a sealed gas generator or test an improvised device on a real fire."
+        ]
+      },
+      {
+        "id": "sc2-recap",
+        "section": 5,
+        "title": "Connect particles, pH and products",
+        "intro": "Indicators provide evidence; ions explain aqueous properties; balanced equations represent reactions; salts and hydrates connect the ideas to materials.",
+        "simple": "Use the source tables and written tasks to practise explanations,not only labels.",
+        "example": [
+          "Use the source tables and written tasks to practise explanations,not only labels.",
+          "Teacher-reviewed reasoning is still needed after guided checks and self-review."
+        ],
+        "question": "Which is the strongest study response?",
+        "options": [
+          "Only naming a colour",
+          "Linking observations to ions,equations,conditions and limitations",
+          "Assuming every salt has pH 7"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Check this idea: Use the source tables and written tasks to practise explanations,not only labels.",
+          "Correct. Teacher-reviewed reasoning is still needed after guided checks and self-review.",
+          "Check this idea: Use the source tables and written tasks to practise explanations,not only labels."
+        ],
+        "hints": [
+          "Use the source tables and written tasks to practise explanations,not only labels.",
+          "Teacher-reviewed reasoning is still needed after guided checks and self-review."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Explain",
+        "Use ions and evidence for acid/base behaviour."
+      ],
+      [
+        "Compare",
+        "Separate pH,concentration and ionisation strength."
+      ],
+      [
+        "Apply",
+        "Know the salt formulae,hydration ratios and source uses."
+      ]
+    ],
+    "challenge": "Write the source-mapped explanations and equations without viewing the model first. Compare every step, then ask a teacher to verify your reasoning."
+  }
+]

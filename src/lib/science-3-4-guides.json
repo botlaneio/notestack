@@ -776,7 +776,7 @@
       "4.3 Chemical Properties · pp 33–35",
       "4.4 Ethanol and Ethanoic Acid · pp 35–38",
       "4.5 Soaps and Detergents · pp 38–40",
-      "Provided-content recap · final source pages pending"
+      "What you have learnt and group activities · pp 41–42"
     ],
     "summary": [
       [
@@ -1527,33 +1527,113 @@
         ]
       },
       {
-        "id": "sc4-recap",
+        "id": "sc4-summary-structures",
         "section": 5,
-        "title": "Review what this extract provides",
-        "intro": "The supplied pages cover bonding, carbon structures, reactions and soaps through printed p 40. The chapter’s final pages are not in this file.",
-        "simple": "All 12 supplied numbered activities and 19 in-text parts are mapped.",
+        "title": "Connect the carbon family",
+        "intro": "Carbon makes many structures through tetravalency and catenation. Functional groups help organise this variety into families.",
+        "simple": "Chains may be straight, branched or cyclic, with single or multiple bonds.",
         "example": [
-          "All 12 supplied numbered activities and 19 in-text parts are mapped.",
-          "The app-authored check is available, but the missing textbook summary/end exercises are not claimed complete."
+          "Chains may be straight, branched or cyclic, with single or multiple bonds.",
+          "Successive simple homologues share a functional group and differ by CH2."
         ],
-        "question": "What remains unverified from the uploaded Chapter 4 ending?",
+        "question": "What makes successive simple alcohols members of one homologous series?",
         "options": [
-          "The final source summary and end exercises",
-          "The existence of any carbon atom",
-          "All of Chapter 3"
+          "The same functional group and a CH2 difference",
+          "Exactly identical boiling points",
+          "Different elements replacing every carbon atom"
         ],
         "correct": 0,
         "feedback": [
-          "Correct. The app-authored check is available, but the missing textbook summary/end exercises are not claimed complete.",
-          "Reconsider the condition: All 12 supplied numbered activities and 19 in-text parts are mapped.",
-          "Reconsider the condition: All 12 supplied numbered activities and 19 in-text parts are mapped."
+          "Correct. Successive simple homologues share a functional group and differ by CH2.",
+          "Reconsider: Successive simple homologues share a functional group and differ by CH2.",
+          "Reconsider: Successive simple homologues share a functional group and differ by CH2."
         ],
         "hints": [
-          "All 12 supplied numbered activities and 19 in-text parts are mapped.",
-          "The app-authored check is available, but the missing textbook summary/end exercises are not claimed complete."
+          "Chains may be straight, branched or cyclic, with single or multiple bonds.",
+          "Successive simple homologues share a functional group and differ by CH2."
+        ]
+      },
+      {
+        "id": "sc4-summary-reactions",
+        "section": 5,
+        "title": "Connect properties with useful reactions",
+        "intro": "Carbon fuels, ethanol, ethanoic acid and surfactants have different uses because their structures give different properties.",
+        "simple": "Ethanol can be oxidised to ethanoic acid; an unsaturated bond can undergo addition.",
+        "example": [
+          "Ethanol can be oxidised to ethanoic acid; an unsaturated bond can undergo addition.",
+          "Soap cleaning disperses oily material so rinse water can carry it away."
+        ],
+        "question": "Which account explains ordinary soap cleaning?",
+        "options": [
+          "Water becomes a new element",
+          "Oily dirt is dispersed by molecules with water- and oil-interacting regions",
+          "Every oil molecule is completely burnt"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Soap cleaning disperses oily material so rinse water can carry it away.",
+          "Correct. Soap cleaning disperses oily material so rinse water can carry it away.",
+          "Reconsider: Soap cleaning disperses oily material so rinse water can carry it away."
+        ],
+        "hints": [
+          "Ethanol can be oxidised to ethanoic acid; an unsaturated bond can undergo addition.",
+          "Soap cleaning disperses oily material so rinse water can carry it away."
+        ]
+      },
+      {
+        "id": "sc4-group-models",
+        "section": 5,
+        "title": "Make a model you can explain",
+        "intro": "The first group activity asks for molecular models of compounds from this chapter. Check each bond rather than only matching a silhouette.",
+        "simple": "Ethane has six C–H single bonds and one C–C single bond.",
+        "example": [
+          "Ethane has six C–H single bonds and one C–C single bond.",
+          "Models must conserve the molecular formula and each atom’s valency; a rotation is not a new constitutional isomer."
+        ],
+        "question": "How many covalent bonds are in ethane?",
+        "options": [
+          "6",
+          "7",
+          "8"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Models must conserve the molecular formula and each atom’s valency; a rotation is not a new constitutional isomer.",
+          "Correct. Models must conserve the molecular formula and each atom’s valency; a rotation is not a new constitutional isomer.",
+          "Reconsider: Models must conserve the molecular formula and each atom’s valency; a rotation is not a new constitutional isomer."
+        ],
+        "hints": [
+          "Ethane has six C–H single bonds and one C–C single bond.",
+          "Models must conserve the molecular formula and each atom’s valency; a rotation is not a new constitutional isomer."
+        ]
+      },
+      {
+        "id": "sc4-group-soap",
+        "section": 5,
+        "title": "Explain the group soap activity",
+        "intro": "The second source group activity demonstrates saponification of oils with alkali in a teacher-managed laboratory.",
+        "simple": "Triglyceride hydrolysis yields glycerol and salts of long-chain fatty acids.",
+        "example": [
+          "Triglyceride hydrolysis yields glycerol and salts of long-chain fatty acids.",
+          "Common salt helps separate soap; a set product is not proof of skin safety or absence of excess alkali."
+        ],
+        "question": "What does the common salt help do in this activity?",
+        "options": [
+          "Convert every carbon atom into chlorine",
+          "Prove the soap is safe for skin",
+          "Reduce soap solubility and help separate it"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Common salt helps separate soap; a set product is not proof of skin safety or absence of excess alkali.",
+          "Reconsider: Common salt helps separate soap; a set product is not proof of skin safety or absence of excess alkali.",
+          "Correct. Common salt helps separate soap; a set product is not proof of skin safety or absence of excess alkali."
+        ],
+        "hints": [
+          "Triglyceride hydrolysis yields glycerol and salts of long-chain fatty acids.",
+          "Common salt helps separate soap; a set product is not proof of skin safety or absence of excess alkali."
         ]
       }
-    ],
-    "sourcePending": "The uploaded extract ends at printed page 40. Printed pages 41–42, including the chapter summary and end-of-chapter exercises, have not been supplied or verified. Activities and in-text questions from pp 22–40 are available; the independent check is app-authored and does not replace the missing textbook exercises."
+    ]
   }
 ]

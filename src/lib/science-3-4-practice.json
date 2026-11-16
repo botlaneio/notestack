@@ -2705,6 +2705,437 @@
           "Agitation helps detach oily dirt and disperse it into water with surfactant aggregates.",
           "Use the source evidence, state the conditions and check formulae, charges and atoms."
         ]
+      },
+      {
+        "id": "sc4-043",
+        "reference": "Exercise 4 · Q1",
+        "title": "Count the bonds in ethane",
+        "prompt": "Ethane is C2H6. Choose and justify its number of covalent bonds from 6, 7, 8 or 9.",
+        "solution": [
+          "Ethane is CH3–CH3: six C–H single bonds and one C–C single bond.",
+          "There are seven covalent bonds (option b), each a shared electron pair."
+        ],
+        "sample": "Ethane is CH3–CH3: six C–H single bonds and one C–C single bond. There are seven covalent bonds (option b), each a shared electron pair.",
+        "checklist": [
+          "I included and justified: Ethane is CH3–CH3: six C–H single bonds and one C–C single bond.",
+          "I included and justified: There are seven covalent bonds (option b), each a shared electron pair."
+        ],
+        "hints": [
+          "Ethane is CH3–CH3: six C–H single bonds and one C–C single bond.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-044",
+        "reference": "Exercise 4 · Q2",
+        "title": "Identify butanone’s functional group",
+        "prompt": "Which functional group does four-carbon butanone contain: carboxylic acid, aldehyde, ketone or alcohol? Explain using its structure.",
+        "solution": [
+          "Butanone is CH3–C(=O)–CH2–CH3. Its carbonyl carbon is bonded to carbon groups on both sides.",
+          "It is a ketone (option c), rather than a terminal aldehyde or a carboxyl group."
+        ],
+        "sample": "Butanone is CH3–C(=O)–CH2–CH3. Its carbonyl carbon is bonded to carbon groups on both sides. It is a ketone (option c), rather than a terminal aldehyde or a carboxyl group.",
+        "checklist": [
+          "I included and justified: Butanone is CH3–C(=O)–CH2–CH3. Its carbonyl carbon is bonded to carbon groups on both sides.",
+          "I included and justified: It is a ketone (option c), rather than a terminal aldehyde or a carboxyl group."
+        ],
+        "hints": [
+          "Butanone is CH3–C(=O)–CH2–CH3. Its carbonyl carbon is bonded to carbon groups on both sides.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-045",
+        "reference": "Exercise 4 · Q3",
+        "title": "Explain a blackened cooking vessel",
+        "prompt": "A cooking vessel becomes blackened underneath. Which source option best explains this: incompletely cooked food, incomplete fuel combustion, wet fuel or complete combustion?",
+        "solution": [
+          "Soot on the outside is evidence of incomplete combustion of the fuel (option b), commonly associated with insufficient oxygen or poor mixing.",
+          "This does not establish whether the food is cooked. A flame or soot observation alone is not a complete fuel analysis; a fuel-burning appliance needs appropriate ventilation and maintenance."
+        ],
+        "sample": "Soot on the outside is evidence of incomplete combustion of the fuel (option b), commonly associated with insufficient oxygen or poor mixing. This does not establish whether the food is cooked. A flame or soot observation alone is not a complete fuel analysis; a fuel-burning appliance needs appropriate ventilation and maintenance.",
+        "checklist": [
+          "I included and justified: Soot on the outside is evidence of incomplete combustion of the fuel (option b), commonly associated with insufficient oxygen or poor mixing.",
+          "I included and justified: This does not establish whether the food is cooked. A flame or soot observation alone is not a complete fuel analysis; a fuel-burning appliance needs appropriate ventilation and maintenance."
+        ],
+        "hints": [
+          "Soot on the outside is evidence of incomplete combustion of the fuel (option b), commonly associated with insufficient oxygen or poor mixing.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-046",
+        "reference": "Exercise 4 · Q4",
+        "title": "Explain bonding in chloromethane",
+        "prompt": "Explain covalent bonding through CH3Cl. Draw its electron-dot structure and account for carbon, hydrogen and chlorine outer shells.",
+        "solution": [
+          "Carbon shares one pair with each of three H atoms and one pair with Cl: four single covalent bonds.",
+          "Show three lone pairs on Cl. Four shared pairs plus three lone pairs account for all 14 valence electrons.",
+          "Each H has a duet, while C and Cl have octets; no complete electron transfer is needed in this model."
+        ],
+        "sample": "Carbon shares one pair with each of three H atoms and one pair with Cl: four single covalent bonds. Show three lone pairs on Cl. Four shared pairs plus three lone pairs account for all 14 valence electrons. Each H has a duet, while C and Cl have octets; no complete electron transfer is needed in this model.",
+        "checklist": [
+          "I included and justified: Carbon shares one pair with each of three H atoms and one pair with Cl: four single covalent bonds.",
+          "I included and justified: Show three lone pairs on Cl. Four shared pairs plus three lone pairs account for all 14 valence electrons.",
+          "I included and justified: Each H has a duet, while C and Cl have octets; no complete electron transfer is needed in this model."
+        ],
+        "hints": [
+          "Carbon shares one pair with each of three H atoms and one pair with Cl: four single covalent bonds.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-047",
+        "reference": "Exercise 4 · Q5(a)",
+        "title": "Draw ethanoic acid’s electron dots",
+        "prompt": "Draw the electron-dot structure of ethanoic acid, showing every shared and lone electron pair.",
+        "solution": [
+          "Use CH3–C(=O)–O–H: three C–H bonds, one C–C bond, a C=O double bond, a C–O bond and an O–H bond.",
+          "Put two lone pairs on each O. There are eight shared pairs and four lone pairs: 24 valence electrons in total.",
+          "Every C and O has an octet and every H has a duet."
+        ],
+        "sample": "Use CH3–C(=O)–O–H: three C–H bonds, one C–C bond, a C=O double bond, a C–O bond and an O–H bond. Put two lone pairs on each O. There are eight shared pairs and four lone pairs: 24 valence electrons in total. Every C and O has an octet and every H has a duet.",
+        "checklist": [
+          "I included and justified: Use CH3–C(=O)–O–H: three C–H bonds, one C–C bond, a C=O double bond, a C–O bond and an O–H bond.",
+          "I included and justified: Put two lone pairs on each O. There are eight shared pairs and four lone pairs: 24 valence electrons in total.",
+          "I included and justified: Every C and O has an octet and every H has a duet."
+        ],
+        "hints": [
+          "Use CH3–C(=O)–O–H: three C–H bonds, one C–C bond, a C=O double bond, a C–O bond and an O–H bond.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-048",
+        "reference": "Exercise 4 · Q5(b)",
+        "title": "Draw hydrogen sulphide’s electron dots",
+        "prompt": "Draw the electron-dot structure of H2S, including sulphur’s lone pairs.",
+        "solution": [
+          "Use H–S–H with one shared pair in each S–H bond and two lone pairs on S.",
+          "Two shared pairs and two lone pairs use eight valence electrons; S has an octet and both H atoms have duets."
+        ],
+        "sample": "Use H–S–H with one shared pair in each S–H bond and two lone pairs on S. Two shared pairs and two lone pairs use eight valence electrons; S has an octet and both H atoms have duets.",
+        "checklist": [
+          "I included and justified: Use H–S–H with one shared pair in each S–H bond and two lone pairs on S.",
+          "I included and justified: Two shared pairs and two lone pairs use eight valence electrons; S has an octet and both H atoms have duets."
+        ],
+        "hints": [
+          "Use H–S–H with one shared pair in each S–H bond and two lone pairs on S.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-049",
+        "reference": "Exercise 4 · Q5(c)",
+        "title": "Draw propanone’s electron dots",
+        "prompt": "Draw the electron-dot structure of propanone and identify its carbonyl bond.",
+        "solution": [
+          "Use CH3–C(=O)–CH3. Show six C–H single bonds, two C–C single bonds and one C=O double bond.",
+          "Put two lone pairs on O. Ten shared pairs plus two lone pairs use 24 valence electrons.",
+          "All three C atoms and O have octets, while each H has a duet."
+        ],
+        "sample": "Use CH3–C(=O)–CH3. Show six C–H single bonds, two C–C single bonds and one C=O double bond. Put two lone pairs on O. Ten shared pairs plus two lone pairs use 24 valence electrons. All three C atoms and O have octets, while each H has a duet.",
+        "checklist": [
+          "I included and justified: Use CH3–C(=O)–CH3. Show six C–H single bonds, two C–C single bonds and one C=O double bond.",
+          "I included and justified: Put two lone pairs on O. Ten shared pairs plus two lone pairs use 24 valence electrons.",
+          "I included and justified: All three C atoms and O have octets, while each H has a duet."
+        ],
+        "hints": [
+          "Use CH3–C(=O)–CH3. Show six C–H single bonds, two C–C single bonds and one C=O double bond.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-050",
+        "reference": "Exercise 4 · Q5(d)",
+        "title": "Draw fluorine’s electron dots",
+        "prompt": "Draw the electron-dot structure of F2 and explain how each fluorine atom reaches an octet.",
+        "solution": [
+          "The two F atoms share one pair, making one F–F single covalent bond.",
+          "Each F also has three lone pairs: one shared pair plus six lone pairs use 14 valence electrons. Each F has an octet."
+        ],
+        "sample": "The two F atoms share one pair, making one F–F single covalent bond. Each F also has three lone pairs: one shared pair plus six lone pairs use 14 valence electrons. Each F has an octet.",
+        "checklist": [
+          "I included and justified: The two F atoms share one pair, making one F–F single covalent bond.",
+          "I included and justified: Each F also has three lone pairs: one shared pair plus six lone pairs use 14 valence electrons. Each F has an octet."
+        ],
+        "hints": [
+          "The two F atoms share one pair, making one F–F single covalent bond.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-051",
+        "reference": "Exercise 4 · Q6",
+        "title": "Explain a homologous series",
+        "prompt": "What is a homologous series? Explain with an example and distinguish shared chemical features from changing physical properties.",
+        "solution": [
+          "A homologous series is a family with the same functional group and general formula, whose successive members differ by CH2 (14 u).",
+          "For example methanol CH3OH, ethanol C2H5OH and propanol C3H7OH share the alcohol group; simple saturated monohydric members follow CnH2n+1OH.",
+          "Their chemistry is broadly similar while physical properties such as boiling point vary systematically; they are not identical substances."
+        ],
+        "sample": "A homologous series is a family with the same functional group and general formula, whose successive members differ by CH2 (14 u). For example methanol CH3OH, ethanol C2H5OH and propanol C3H7OH share the alcohol group; simple saturated monohydric members follow CnH2n+1OH. Their chemistry is broadly similar while physical properties such as boiling point vary systematically; they are not identical substances.",
+        "checklist": [
+          "I included and justified: A homologous series is a family with the same functional group and general formula, whose successive members differ by CH2 (14 u).",
+          "I included and justified: For example methanol CH3OH, ethanol C2H5OH and propanol C3H7OH share the alcohol group; simple saturated monohydric members follow CnH2n+1OH.",
+          "I included and justified: Their chemistry is broadly similar while physical properties such as boiling point vary systematically; they are not identical substances."
+        ],
+        "hints": [
+          "A homologous series is a family with the same functional group and general formula, whose successive members differ by CH2 (14 u).",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-052",
+        "reference": "Exercise 4 · Q7",
+        "title": "Distinguish ethanol and ethanoic acid",
+        "prompt": "Compare ethanol and ethanoic acid using physical and chemical properties, including a meaningful experimental distinction.",
+        "solution": [
+          "Both are colourless liquids, so appearance alone is insufficient. Ethanol is miscible with water and boils near 351 K; pure ethanoic acid boils near 391 K and freezes near 290 K. Odours differ, but tasting or directly sniffing unknown chemicals is not a test.",
+          "Ethanoic acid is acidic in water and turns blue litmus red; ethanol is approximately neutral in this school model.",
+          "A supervised carbonate or hydrogencarbonate comparison gives CO2 effervescence with ethanoic acid, but not ethanol: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O.",
+          "Sodium is not a useful distinguishing reagent here: both can evolve hydrogen."
+        ],
+        "sample": "Both are colourless liquids, so appearance alone is insufficient. Ethanol is miscible with water and boils near 351 K; pure ethanoic acid boils near 391 K and freezes near 290 K. Odours differ, but tasting or directly sniffing unknown chemicals is not a test. Ethanoic acid is acidic in water and turns blue litmus red; ethanol is approximately neutral in this school model. A supervised carbonate or hydrogencarbonate comparison gives CO2 effervescence with ethanoic acid, but not ethanol: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O. Sodium is not a useful distinguishing reagent here: both can evolve hydrogen.",
+        "checklist": [
+          "I included and justified: Both are colourless liquids, so appearance alone is insufficient. Ethanol is miscible with water and boils near 351 K; pure ethanoic acid boils near 391 K and freezes near 290 K. Odours differ, but tasting or directly sniffing unknown chemicals is not a test.",
+          "I included and justified: Ethanoic acid is acidic in water and turns blue litmus red; ethanol is approximately neutral in this school model.",
+          "I included and justified: A supervised carbonate or hydrogencarbonate comparison gives CO2 effervescence with ethanoic acid, but not ethanol: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O.",
+          "I included and justified: Sodium is not a useful distinguishing reagent here: both can evolve hydrogen."
+        ],
+        "hints": [
+          "Both are colourless liquids, so appearance alone is insufficient. Ethanol is miscible with water and boils near 351 K; pure ethanoic acid boils near 391 K and freezes near 290 K. Odours differ, but tasting or directly sniffing unknown chemicals is not a test.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-053",
+        "reference": "Exercise 4 · Q8",
+        "title": "Explain micelles and other solvents",
+        "prompt": "Why does soap form micelles in water? Would micelles form in a solvent such as ethanol? Discuss the role of the solvent.",
+        "solution": [
+          "In water the ionic heads interact with water, while hydrocarbon tails avoid it and cluster around oily material. Heads face outward and tails inward in the ordinary micelle model.",
+          "Micelles require suitable solvent, surfactant and concentration conditions; adding soap to any solvent does not guarantee ordinary aqueous micelles.",
+          "The textbook-level ethanol comparison does not predict the same water-driven micelles because ethanol can interact with both regions. In a suitable non-polar solvent, some surfactants can instead form reverse aggregates with heads inward."
+        ],
+        "sample": "In water the ionic heads interact with water, while hydrocarbon tails avoid it and cluster around oily material. Heads face outward and tails inward in the ordinary micelle model. Micelles require suitable solvent, surfactant and concentration conditions; adding soap to any solvent does not guarantee ordinary aqueous micelles. The textbook-level ethanol comparison does not predict the same water-driven micelles because ethanol can interact with both regions. In a suitable non-polar solvent, some surfactants can instead form reverse aggregates with heads inward.",
+        "checklist": [
+          "I included and justified: In water the ionic heads interact with water, while hydrocarbon tails avoid it and cluster around oily material. Heads face outward and tails inward in the ordinary micelle model.",
+          "I included and justified: Micelles require suitable solvent, surfactant and concentration conditions; adding soap to any solvent does not guarantee ordinary aqueous micelles.",
+          "I included and justified: The textbook-level ethanol comparison does not predict the same water-driven micelles because ethanol can interact with both regions. In a suitable non-polar solvent, some surfactants can instead form reverse aggregates with heads inward."
+        ],
+        "hints": [
+          "In water the ionic heads interact with water, while hydrocarbon tails avoid it and cluster around oily material. Heads face outward and tails inward in the ordinary micelle model.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-054",
+        "reference": "Exercise 4 · Q9",
+        "title": "Explain carbon compounds as fuels",
+        "prompt": "Why are carbon and many of its compounds used as fuels in most applications? State a practical limitation of this explanation.",
+        "solution": [
+          "Many common carbon-based fuels release substantial heat on combustion, and suitable fuels can be obtained, stored and transported for practical use.",
+          "Complete combustion of hydrocarbons produces CO2 and water; incomplete combustion can produce soot and toxic CO. Not every carbon compound is a good fuel.",
+          "Fuel choice also depends on ignition, cost, availability and environmental effects; high heat output alone does not imply clean or safe use."
+        ],
+        "sample": "Many common carbon-based fuels release substantial heat on combustion, and suitable fuels can be obtained, stored and transported for practical use. Complete combustion of hydrocarbons produces CO2 and water; incomplete combustion can produce soot and toxic CO. Not every carbon compound is a good fuel. Fuel choice also depends on ignition, cost, availability and environmental effects; high heat output alone does not imply clean or safe use.",
+        "checklist": [
+          "I included and justified: Many common carbon-based fuels release substantial heat on combustion, and suitable fuels can be obtained, stored and transported for practical use.",
+          "I included and justified: Complete combustion of hydrocarbons produces CO2 and water; incomplete combustion can produce soot and toxic CO. Not every carbon compound is a good fuel.",
+          "I included and justified: Fuel choice also depends on ignition, cost, availability and environmental effects; high heat output alone does not imply clean or safe use."
+        ],
+        "hints": [
+          "Many common carbon-based fuels release substantial heat on combustion, and suitable fuels can be obtained, stored and transported for practical use.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-055",
+        "reference": "Exercise 4 · Q10",
+        "title": "Explain hard-water scum",
+        "prompt": "Explain the formation of scum when hard water is treated with soap. How does this affect the soap available for cleaning?",
+        "solution": [
+          "Hard water contains Ca2+ and/or Mg2+ ions that form poorly soluble salts with soap’s long-chain carboxylate ions.",
+          "For example 2RCOO− + Ca2+ → (RCOO)2Ca(s). This curdy precipitate is scum.",
+          "Some soap is consumed in making scum, leaving less available for lather and cleaning; the chapter detergent examples avoid these insoluble salts."
+        ],
+        "sample": "Hard water contains Ca2+ and/or Mg2+ ions that form poorly soluble salts with soap’s long-chain carboxylate ions. For example 2RCOO− + Ca2+ → (RCOO)2Ca(s). This curdy precipitate is scum. Some soap is consumed in making scum, leaving less available for lather and cleaning; the chapter detergent examples avoid these insoluble salts.",
+        "checklist": [
+          "I included and justified: Hard water contains Ca2+ and/or Mg2+ ions that form poorly soluble salts with soap’s long-chain carboxylate ions.",
+          "I included and justified: For example 2RCOO− + Ca2+ → (RCOO)2Ca(s). This curdy precipitate is scum.",
+          "I included and justified: Some soap is consumed in making scum, leaving less available for lather and cleaning; the chapter detergent examples avoid these insoluble salts."
+        ],
+        "hints": [
+          "Hard water contains Ca2+ and/or Mg2+ ions that form poorly soluble salts with soap’s long-chain carboxylate ions.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-056",
+        "reference": "Exercise 4 · Q11",
+        "title": "Predict soap’s effect on litmus",
+        "prompt": "What would you observe when testing an ordinary soap solution with red and blue litmus? Explain the expected result.",
+        "solution": [
+          "An ordinary soap solution is alkaline: red litmus turns blue and blue litmus remains blue.",
+          "Soap is a salt of a weak carboxylic acid and a strong base; hydrolysis can make the aqueous solution alkaline. A formulated commercial cleanser may contain other ingredients, so check its actual pH."
+        ],
+        "sample": "An ordinary soap solution is alkaline: red litmus turns blue and blue litmus remains blue. Soap is a salt of a weak carboxylic acid and a strong base; hydrolysis can make the aqueous solution alkaline. A formulated commercial cleanser may contain other ingredients, so check its actual pH.",
+        "checklist": [
+          "I included and justified: An ordinary soap solution is alkaline: red litmus turns blue and blue litmus remains blue.",
+          "I included and justified: Soap is a salt of a weak carboxylic acid and a strong base; hydrolysis can make the aqueous solution alkaline. A formulated commercial cleanser may contain other ingredients, so check its actual pH."
+        ],
+        "hints": [
+          "An ordinary soap solution is alkaline: red litmus turns blue and blue litmus remains blue.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-057",
+        "reference": "Exercise 4 · Q12",
+        "title": "Explain hydrogenation",
+        "prompt": "What is hydrogenation? Give its industrial application and the role of a catalyst.",
+        "solution": [
+          "Hydrogenation adds H2 across an unsaturated carbon–carbon bond, commonly with a Ni, Pd or Pt catalyst, converting it to a more saturated structure.",
+          "For example CH2=CH2 + H2 → CH3–CH3. The catalyst changes reaction rate and is not consumed overall.",
+          "An industrial application is hardening vegetable oils. Actual products may be partly hydrogenated and their health effects depend on composition; this is not a student preparation task."
+        ],
+        "sample": "Hydrogenation adds H2 across an unsaturated carbon–carbon bond, commonly with a Ni, Pd or Pt catalyst, converting it to a more saturated structure. For example CH2=CH2 + H2 → CH3–CH3. The catalyst changes reaction rate and is not consumed overall. An industrial application is hardening vegetable oils. Actual products may be partly hydrogenated and their health effects depend on composition; this is not a student preparation task.",
+        "checklist": [
+          "I included and justified: Hydrogenation adds H2 across an unsaturated carbon–carbon bond, commonly with a Ni, Pd or Pt catalyst, converting it to a more saturated structure.",
+          "I included and justified: For example CH2=CH2 + H2 → CH3–CH3. The catalyst changes reaction rate and is not consumed overall.",
+          "I included and justified: An industrial application is hardening vegetable oils. Actual products may be partly hydrogenated and their health effects depend on composition; this is not a student preparation task."
+        ],
+        "hints": [
+          "Hydrogenation adds H2 across an unsaturated carbon–carbon bond, commonly with a Ni, Pd or Pt catalyst, converting it to a more saturated structure.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-058",
+        "reference": "Exercise 4 · Q13",
+        "title": "Identify addition-reaction candidates",
+        "prompt": "Which of C2H6, C3H8, C3H6 and C2H2 undergo addition reactions in the chapter’s hydrocarbon model? Explain the structural assumption.",
+        "solution": [
+          "C2H6 and C3H8 are saturated acyclic alkanes in this context; they do not undergo the chapter’s addition across C=C or C≡C.",
+          "C3H6 interpreted as propene contains C=C, and C2H2 (ethyne) contains C≡C, so these are the intended choices.",
+          "Formula C3H6 alone can also describe cyclopropane. The intended answer assumes the unsaturated acyclic structure; a molecular formula alone does not always prove a double bond."
+        ],
+        "sample": "C2H6 and C3H8 are saturated acyclic alkanes in this context; they do not undergo the chapter’s addition across C=C or C≡C. C3H6 interpreted as propene contains C=C, and C2H2 (ethyne) contains C≡C, so these are the intended choices. Formula C3H6 alone can also describe cyclopropane. The intended answer assumes the unsaturated acyclic structure; a molecular formula alone does not always prove a double bond.",
+        "checklist": [
+          "I included and justified: C2H6 and C3H8 are saturated acyclic alkanes in this context; they do not undergo the chapter’s addition across C=C or C≡C.",
+          "I included and justified: C3H6 interpreted as propene contains C=C, and C2H2 (ethyne) contains C≡C, so these are the intended choices.",
+          "I included and justified: Formula C3H6 alone can also describe cyclopropane. The intended answer assumes the unsaturated acyclic structure; a molecular formula alone does not always prove a double bond."
+        ],
+        "hints": [
+          "C2H6 and C3H8 are saturated acyclic alkanes in this context; they do not undergo the chapter’s addition across C=C or C≡C.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-059",
+        "reference": "Exercise 4 · Q14",
+        "title": "Distinguish saturation with a chemical test",
+        "prompt": "Give a test that distinguishes suitable saturated and unsaturated hydrocarbons. State its observation and limitations.",
+        "solution": [
+          "In an appropriately supervised comparison, an alkene or alkyne can decolourise bromine solution by addition; a simple alkane does not under the same conditions without conditions such as UV that promote substitution.",
+          "Alternatively suitable unsaturated compounds can decolourise dilute alkaline KMnO4 on oxidation.",
+          "Control conditions and known sample type matter: other reactive compounds can also give positive results, so neither observation alone proves a unique structure. Do not handle these reagents at home."
+        ],
+        "sample": "In an appropriately supervised comparison, an alkene or alkyne can decolourise bromine solution by addition; a simple alkane does not under the same conditions without conditions such as UV that promote substitution. Alternatively suitable unsaturated compounds can decolourise dilute alkaline KMnO4 on oxidation. Control conditions and known sample type matter: other reactive compounds can also give positive results, so neither observation alone proves a unique structure. Do not handle these reagents at home.",
+        "checklist": [
+          "I included and justified: In an appropriately supervised comparison, an alkene or alkyne can decolourise bromine solution by addition; a simple alkane does not under the same conditions without conditions such as UV that promote substitution.",
+          "I included and justified: Alternatively suitable unsaturated compounds can decolourise dilute alkaline KMnO4 on oxidation.",
+          "I included and justified: Control conditions and known sample type matter: other reactive compounds can also give positive results, so neither observation alone proves a unique structure. Do not handle these reagents at home."
+        ],
+        "hints": [
+          "In an appropriately supervised comparison, an alkene or alkyne can decolourise bromine solution by addition; a simple alkane does not under the same conditions without conditions such as UV that promote substitution.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-060",
+        "reference": "Exercise 4 · Q15",
+        "title": "Explain how soap removes oily dirt",
+        "prompt": "Explain the mechanism of soap cleaning, from the molecular ends to removing dirt in rinse water.",
+        "solution": [
+          "Soap has a water-interacting ionic head and an oil-interacting hydrocarbon tail. Tails associate with oily dirt while heads face the surrounding water.",
+          "Agitation helps detach dirt and disperse it into small droplets stabilised by surfactant; micellar/colloidal material can remain suspended rather than immediately coalescing.",
+          "Rinsing carries the dispersed oily dirt away. In hard water Ca/Mg soap precipitates reduce available soap; lather alone is not a quantitative cleaning measure."
+        ],
+        "sample": "Soap has a water-interacting ionic head and an oil-interacting hydrocarbon tail. Tails associate with oily dirt while heads face the surrounding water. Agitation helps detach dirt and disperse it into small droplets stabilised by surfactant; micellar/colloidal material can remain suspended rather than immediately coalescing. Rinsing carries the dispersed oily dirt away. In hard water Ca/Mg soap precipitates reduce available soap; lather alone is not a quantitative cleaning measure.",
+        "checklist": [
+          "I included and justified: Soap has a water-interacting ionic head and an oil-interacting hydrocarbon tail. Tails associate with oily dirt while heads face the surrounding water.",
+          "I included and justified: Agitation helps detach dirt and disperse it into small droplets stabilised by surfactant; micellar/colloidal material can remain suspended rather than immediately coalescing.",
+          "I included and justified: Rinsing carries the dispersed oily dirt away. In hard water Ca/Mg soap precipitates reduce available soap; lather alone is not a quantitative cleaning measure."
+        ],
+        "hints": [
+          "Soap has a water-interacting ionic head and an oil-interacting hydrocarbon tail. Tails associate with oily dirt while heads face the surrounding water.",
+          "Check the molecular structure, reaction conditions and every part of the source question."
+        ]
+      },
+      {
+        "id": "sc4-061",
+        "reference": "Summary · p41",
+        "title": "Connect the chapter’s main ideas",
+        "prompt": "Explain how tetravalency and catenation connect carbon structures, homologous series, reactions, fuels and cleaning.",
+        "solution": [
+          "Carbon’s tetravalency and catenation allow covalent chains, branches and rings with single, double or triple bonds; sharing electrons gives the simple outer-shell models.",
+          "Carbon forms compounds with H, O, N, S and halogens such as Cl. A common functional group connects members of a homologous series and their characteristic reactions.",
+          "Many carbon compounds are fuels; ethanol and ethanoic acid are important examples. Soap and detergent cleaning depends on water-interacting and oil-interacting regions, not a chemical conversion of dirt into water."
+        ],
+        "sample": "Carbon’s tetravalency and catenation allow covalent chains, branches and rings with single, double or triple bonds; sharing electrons gives the simple outer-shell models. Carbon forms compounds with H, O, N, S and halogens such as Cl. A common functional group connects members of a homologous series and their characteristic reactions. Many carbon compounds are fuels; ethanol and ethanoic acid are important examples. Soap and detergent cleaning depends on water-interacting and oil-interacting regions, not a chemical conversion of dirt into water.",
+        "checklist": [
+          "I included and justified: Carbon’s tetravalency and catenation allow covalent chains, branches and rings with single, double or triple bonds; sharing electrons gives the simple outer-shell models.",
+          "I included and justified: Carbon forms compounds with H, O, N, S and halogens such as Cl. A common functional group connects members of a homologous series and their characteristic reactions.",
+          "I included and justified: Many carbon compounds are fuels; ethanol and ethanoic acid are important examples. Soap and detergent cleaning depends on water-interacting and oil-interacting regions, not a chemical conversion of dirt into water."
+        ],
+        "hints": [
+          "Carbon’s tetravalency and catenation allow covalent chains, branches and rings with single, double or triple bonds; sharing electrons gives the simple outer-shell models.",
+          "Explain the source observation and distinguish a model or plan from a measured result."
+        ]
+      },
+      {
+        "id": "sc4-062",
+        "reference": "Group activity 4 · I · p42",
+        "title": "Build and inspect molecular models",
+        "prompt": "Plan a molecular-model display for compounds in this chapter. Explain how you would check atoms, bonds, lone pairs and possible isomers.",
+        "solution": [
+          "Choose labelled models such as ethane, ethene, ethyne, ethanol, ethanoic acid and a pair of butane isomers. Use a consistent atom key and distinguish single, double and triple bonds.",
+          "Check each molecular formula and carbon valency four; H forms one bond. Use separate dot drawings for lone pairs if the kit only shows bonds.",
+          "Explain that a physical model represents connectivity and approximate geometry; it is not a literal picture of stationary atoms or every electron. Compare constitutional isomers by connectivity, not merely rotating one model."
+        ],
+        "sample": "Choose labelled models such as ethane, ethene, ethyne, ethanol, ethanoic acid and a pair of butane isomers. Use a consistent atom key and distinguish single, double and triple bonds. Check each molecular formula and carbon valency four; H forms one bond. Use separate dot drawings for lone pairs if the kit only shows bonds. Explain that a physical model represents connectivity and approximate geometry; it is not a literal picture of stationary atoms or every electron. Compare constitutional isomers by connectivity, not merely rotating one model.",
+        "checklist": [
+          "I included and justified: Choose labelled models such as ethane, ethene, ethyne, ethanol, ethanoic acid and a pair of butane isomers. Use a consistent atom key and distinguish single, double and triple bonds.",
+          "I included and justified: Check each molecular formula and carbon valency four; H forms one bond. Use separate dot drawings for lone pairs if the kit only shows bonds.",
+          "I included and justified: Explain that a physical model represents connectivity and approximate geometry; it is not a literal picture of stationary atoms or every electron. Compare constitutional isomers by connectivity, not merely rotating one model."
+        ],
+        "hints": [
+          "Choose labelled models such as ethane, ethene, ethyne, ethanol, ethanoic acid and a pair of butane isomers. Use a consistent atom key and distinguish single, double and triple bonds.",
+          "Explain the source observation and distinguish a model or plan from a measured result."
+        ]
+      },
+      {
+        "id": "sc4-063",
+        "reference": "Group activity 4 · II · p42",
+        "title": "Interpret the soap-making activity",
+        "prompt": "Explain what the source’s supervised oil-and-NaOH group activity demonstrates, why common salt is added, and how a group should evaluate the product.",
+        "solution": [
+          "Oils contain triglyceride esters. Alkaline hydrolysis (saponification) gives glycerol and sodium salts of long-chain fatty acids, which are soaps.",
+          "The source adds common salt to reduce soap solubility and help separate it (salting out), then allows the material to cool and set. This is not the small ethyl-ethanoate example: long fatty-acid chains are necessary for ordinary soap.",
+          "Hot alkaline mixtures and concentrated NaOH require a teacher-managed laboratory. This task is an explanation or planning response, not an instruction to prepare soap at home. Setting or adding fragrance does not establish skin safety; residual alkali and formulation need checking before any use."
+        ],
+        "sample": "Oils contain triglyceride esters. Alkaline hydrolysis (saponification) gives glycerol and sodium salts of long-chain fatty acids, which are soaps. The source adds common salt to reduce soap solubility and help separate it (salting out), then allows the material to cool and set. This is not the small ethyl-ethanoate example: long fatty-acid chains are necessary for ordinary soap. Hot alkaline mixtures and concentrated NaOH require a teacher-managed laboratory. This task is an explanation or planning response, not an instruction to prepare soap at home. Setting or adding fragrance does not establish skin safety; residual alkali and formulation need checking before any use.",
+        "checklist": [
+          "I included and justified: Oils contain triglyceride esters. Alkaline hydrolysis (saponification) gives glycerol and sodium salts of long-chain fatty acids, which are soaps.",
+          "I included and justified: The source adds common salt to reduce soap solubility and help separate it (salting out), then allows the material to cool and set. This is not the small ethyl-ethanoate example: long fatty-acid chains are necessary for ordinary soap.",
+          "I included and justified: Hot alkaline mixtures and concentrated NaOH require a teacher-managed laboratory. This task is an explanation or planning response, not an instruction to prepare soap at home. Setting or adding fragrance does not establish skin safety; residual alkali and formulation need checking before any use."
+        ],
+        "hints": [
+          "Oils contain triglyceride esters. Alkaline hydrolysis (saponification) gives glycerol and sodium salts of long-chain fatty acids, which are soaps.",
+          "Explain the source observation and distinguish a model or plan from a measured result."
+        ]
       }
     ]
   },

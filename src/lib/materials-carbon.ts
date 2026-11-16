@@ -36,3 +36,10 @@ lewisModels.push({name:'C2H6 (ethane)',atoms:[a('C',140,130),a('C',260,130),a('H
 const ringAtoms=Array.from({length:5},(_,i)=>a('C',200+60*Math.cos(2*Math.PI*i/5),130+60*Math.sin(2*Math.PI*i/5)));
 for(let i=0;i<5;i++)for(const offset of [-.3,.3]){const angle=2*Math.PI*i/5+offset;ringAtoms.push(a('H',200+112*Math.cos(angle),130+112*Math.sin(angle)))}
 lewisModels.push({name:'C5H10 (cyclopentane)',atoms:ringAtoms,bonds:Array.from({length:5},(_,i)=>[[i,(i+1)%5,1],[i,5+2*i,1],[i,6+2*i,1]] as [number,number,number][]).flat(),valence:30});
+
+// Closing exercise structures: dots account for every valence electron.
+lewisModels.push({name:'CH3Cl (chloromethane)',atoms:[a('C',180,130),a('Cl',310,130,[0,Math.PI/2,-Math.PI/2]),a('H',180,35),a('H',70,130),a('H',180,225)],bonds:[[0,1,1],[0,2,1],[0,3,1],[0,4,1]],valence:14});
+lewisModels.push({name:'C2H4O2 (ethanoic acid)',atoms:[a('C',130,140),a('C',240,140),a('O',240,45,[0,Math.PI]),a('O',340,140,[-Math.PI/2,Math.PI/2]),a('H',340,235),a('H',45,140),a('H',130,45),a('H',130,235)],bonds:[[0,1,1],[1,2,2],[1,3,1],[3,4,1],[0,5,1],[0,6,1],[0,7,1]],valence:24});
+lewisModels.push({name:'H2S',atoms:[a('S',200,110,[-Math.PI/2,Math.PI]),a('H',100,210),a('H',300,210)],bonds:[[0,1,1],[0,2,1]],valence:8});
+lewisModels.push({name:'C3H6O (propanone)',atoms:[a('C',90,140),a('C',200,140),a('C',310,140),a('O',200,45,[0,Math.PI]),a('H',25,140),a('H',90,45),a('H',90,235),a('H',375,140),a('H',310,45),a('H',310,235)],bonds:[[0,1,1],[1,2,1],[1,3,2],[0,4,1],[0,5,1],[0,6,1],[2,7,1],[2,8,1],[2,9,1]],valence:24});
+lewisModels.push({name:'F2',atoms:[a('F',140,130,[Math.PI,Math.PI/2,-Math.PI/2]),a('F',260,130,[0,Math.PI/2,-Math.PI/2])],bonds:[[0,1,1]],valence:14});

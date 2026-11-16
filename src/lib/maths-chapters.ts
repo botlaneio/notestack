@@ -1,10 +1,11 @@
+import {appendices} from './maths-appendices.ts';
 import {finalChapters} from './maths-chapters-13-14.ts';
 import {mensurationChapters} from './maths-chapters-11-12.ts';
 import {partTwoChapters} from './maths-chapters-8-10.ts';
 import {chapterExpansions} from './chapter-expansions.ts';
 import {geometryChapters} from './maths-chapters-6-7.ts';
 import {steps as realSteps, sections as realSections, type LessonStep} from './real-numbers.ts';
-export type Chapter = {number:number; slug:string; title:string; sections:string[]; summary:string[][]; challenge:string; steps:LessonStep[];legacyIds?:string[]};
+export type Chapter = {number:number; code?:string; slug:string; title:string; sections:string[]; summary:string[][]; challenge:string; steps:LessonStep[];legacyIds?:string[]};
 export const realNumbers: Chapter = {
  number:1,slug:'real-numbers',title:'Real Numbers',sections:realSections,steps:realSteps,
  summary:[['Prime factorisation','Composite numbers have a unique set of prime factors, apart from order.'],['HCF & LCM','Smaller shared prime powers for HCF; larger required prime powers for LCM.'],['Irrational numbers','Non-terminating, non-repeating decimals cannot be expressed as ratios of integers.'],['Proof by contradiction','A lowest-terms fraction cannot have a common factor in its numerator and denominator.']],
@@ -1566,3 +1567,6 @@ const foundationChapters: Chapter[] = [
 ];
 export const newChapters: Chapter[] = [...foundationChapters,...geometryChapters,...partTwoChapters,...mensurationChapters,...finalChapters].map(chapter=>({...chapter,legacyIds:chapter.steps.map(s=>s.id),steps:[...chapter.steps,...(chapterExpansions[chapter.number]??[])].sort((a,b)=>a.section-b.section)}));
 export const chapters = [realNumbers,...newChapters];
+
+export {appendices};
+export const additionalStudyUnits=[...newChapters,...appendices];

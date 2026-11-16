@@ -1,0 +1,2393 @@
+{
+  "a1": [
+    {
+      "id": "a1-1",
+      "reference": "Example A1.1",
+      "title": "Statements need a definite meaning",
+      "prompt": "Classify these claims: Sun revolves around Earth; vehicles have four wheels; light travels about 3×10^5 km/s; the road to Kolkata is good in November–March; humans are mortal.",
+      "solution": [
+        "The Sun–Earth claim is false in the usual solar-system model.",
+        "“Vehicles” and “good road” lack a precise scope or criterion: ambiguous.",
+        "The speed of light is approximately 3×10^5 km/s in vacuum; this approximation is true.",
+        "Humans are mortal is treated as true in the stated biological context."
+      ],
+      "hints": [
+        "The Sun–Earth claim is false in the usual solar-system model.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The Sun–Earth claim is false in the usual solar-system model.",
+        "My response includes this point with a reason: “Vehicles” and “good road” lack a precise scope or criterion: ambiguous.",
+        "My response includes this point with a reason: The speed of light is approximately 3×10^5 km/s in vacuum; this approximation is true.",
+        "My response includes this point with a reason: Humans are mortal is treated as true in the stated biological context."
+      ],
+      "sample": "The Sun–Earth claim is false in the usual solar-system model. “Vehicles” and “good road” lack a precise scope or criterion: ambiguous. The speed of light is approximately 3×10^5 km/s in vacuum; this approximation is true. Humans are mortal is treated as true in the stated biological context."
+    },
+    {
+      "id": "a1-2",
+      "reference": "Example A1.2",
+      "title": "Quantifiers change a statement",
+      "prompt": "Judge and justify: all equilateral triangles are isosceles; some isosceles triangles are equilateral; all isosceles are equilateral; some rationals are integers; some rationals are not integers; not all integers are rational; no rational lies between two distinct rationals.",
+      "solution": [
+        "Using the inclusive definition (at least two equal sides), the first two claims are true.",
+        "The third is false: sides 3,3,4 form an isosceles triangle that is not equilateral.",
+        "Some rationals are integers (3=3/1), and some are not (3/2): both true.",
+        "“Not all integers are rational” is false since n=n/1.",
+        "The last claim is false: for rational a<b, (a+b)/2 is a rational strictly between them."
+      ],
+      "hints": [
+        "Using the inclusive definition (at least two equal sides), the first two claims are true.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Using the inclusive definition (at least two equal sides), the first two claims are true.",
+        "My response includes this point with a reason: The third is false: sides 3,3,4 form an isosceles triangle that is not equilateral.",
+        "My response includes this point with a reason: Some rationals are integers (3=3/1), and some are not (3/2): both true.",
+        "My response includes this point with a reason: “Not all integers are rational” is false since n=n/1.",
+        "My response includes this point with a reason: The last claim is false: for rational a<b, (a+b)/2 is a rational strictly between them."
+      ],
+      "sample": "Using the inclusive definition (at least two equal sides), the first two claims are true. The third is false: sides 3,3,4 form an isosceles triangle that is not equilateral. Some rationals are integers (3=3/1), and some are not (3/2): both true. “Not all integers are rational” is false since n=n/1. The last claim is false: for rational a<b, (a+b)/2 is a rational strictly between them."
+    },
+    {
+      "id": "a1-3",
+      "reference": "Example A1.3",
+      "title": "What follows from x<4?",
+      "prompt": "For real x<4, are 2x>8, 2x<6 and 2x<8 guaranteed?",
+      "solution": [
+        "Multiplying by positive 2 preserves the inequality, so 2x<8 is guaranteed.",
+        "2x>8 fails at x=3.",
+        "2x<6 is not guaranteed: x=3.5 satisfies x<4 but gives 7>6."
+      ],
+      "hints": [
+        "Multiplying by positive 2 preserves the inequality, so 2x<8 is guaranteed.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Multiplying by positive 2 preserves the inequality, so 2x<8 is guaranteed.",
+        "My response includes this point with a reason: 2x>8 fails at x=3.",
+        "My response includes this point with a reason: 2x<6 is not guaranteed: x=3.5 satisfies x<4 but gives 7>6."
+      ],
+      "sample": "Multiplying by positive 2 preserves the inequality, so 2x<8 is guaranteed. 2x>8 fails at x=3. 2x<6 is not guaranteed: x=3.5 satisfies x<4 but gives 7>6."
+    },
+    {
+      "id": "a1-4",
+      "reference": "Example A1.4",
+      "title": "Repair the conditions",
+      "prompt": "Repair: equal diagonals imply a rectangle; joining midpoints gives a parallel segment; sqrt(p) is irrational; a quadratic has two real roots.",
+      "solution": [
+        "A parallelogram with equal diagonals is a rectangle.",
+        "The segment joining the midpoints of two sides of a triangle is parallel to the third side.",
+        "sqrt(p) is irrational for prime p; more generally for a positive integer that is not a perfect square.",
+        "A real quadratic has at most two distinct real roots; discriminant determines two, one or none."
+      ],
+      "hints": [
+        "A parallelogram with equal diagonals is a rectangle.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: A parallelogram with equal diagonals is a rectangle.",
+        "My response includes this point with a reason: The segment joining the midpoints of two sides of a triangle is parallel to the third side.",
+        "My response includes this point with a reason: sqrt(p) is irrational for prime p; more generally for a positive integer that is not a perfect square.",
+        "My response includes this point with a reason: A real quadratic has at most two distinct real roots; discriminant determines two, one or none."
+      ],
+      "sample": "A parallelogram with equal diagonals is a rectangle. The segment joining the midpoints of two sides of a triangle is parallel to the third side. sqrt(p) is irrational for prime p; more generally for a positive integer that is not a perfect square. A real quadratic has at most two distinct real roots; discriminant determines two, one or none."
+    },
+    {
+      "id": "a1-5",
+      "reference": "Example A1.5",
+      "title": "A conclusion from location",
+      "prompt": "Given that Shabana lives in Bijapur and Bijapur is in Karnataka, deduce her state.",
+      "solution": [
+        "The first premise locates Shabana in Bijapur.",
+        "The second places Bijapur inside Karnataka.",
+        "Therefore Shabana lives in Karnataka, conditional on the given premises."
+      ],
+      "hints": [
+        "The first premise locates Shabana in Bijapur.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The first premise locates Shabana in Bijapur.",
+        "My response includes this point with a reason: The second places Bijapur inside Karnataka.",
+        "My response includes this point with a reason: Therefore Shabana lives in Karnataka, conditional on the given premises."
+      ],
+      "sample": "The first premise locates Shabana in Bijapur. The second places Bijapur inside Karnataka. Therefore Shabana lives in Karnataka, conditional on the given premises."
+    },
+    {
+      "id": "a1-6",
+      "reference": "Example A1.6",
+      "title": "Validity and truth differ",
+      "prompt": "Assume every mathematics textbook is interesting and this book is a mathematics textbook. What follows, and what does it not establish?",
+      "solution": [
+        "The premises entail that this book is interesting.",
+        "The form of the deduction is valid.",
+        "“Interesting” is subjective in everyday use; the deduction does not prove that its premise is objectively true."
+      ],
+      "hints": [
+        "The premises entail that this book is interesting.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The premises entail that this book is interesting.",
+        "My response includes this point with a reason: The form of the deduction is valid.",
+        "My response includes this point with a reason: “Interesting” is subjective in everyday use; the deduction does not prove that its premise is objectively true."
+      ],
+      "sample": "The premises entail that this book is interesting. The form of the deduction is valid. “Interesting” is subjective in everyday use; the deduction does not prove that its premise is objectively true."
+    },
+    {
+      "id": "a1-7",
+      "reference": "Example A1.7",
+      "title": "Substitute carefully",
+      "prompt": "Use y=−6x+5 with x=3.",
+      "solution": [
+        "Substitution gives y=−6(3)+5.",
+        "Thus y=−18+5=−13."
+      ],
+      "hints": [
+        "Substitution gives y=−6(3)+5.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Substitution gives y=−6(3)+5.",
+        "My response includes this point with a reason: Thus y=−18+5=−13."
+      ],
+      "sample": "Substitution gives y=−6(3)+5. Thus y=−18+5=−13."
+    },
+    {
+      "id": "a1-8",
+      "reference": "Example A1.8",
+      "title": "Opposite sides",
+      "prompt": "ABCD is a parallelogram with AD=5 cm and AB=7 cm. Find BC and CD, giving a reason.",
+      "solution": [
+        "Opposite sides of a parallelogram are equal.",
+        "BC=AD=5 cm and CD=AB=7 cm."
+      ],
+      "hints": [
+        "Opposite sides of a parallelogram are equal.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Opposite sides of a parallelogram are equal.",
+        "My response includes this point with a reason: BC=AD=5 cm and CD=AB=7 cm."
+      ],
+      "sample": "Opposite sides of a parallelogram are equal. BC=AD=5 cm and CD=AB=7 cm."
+    },
+    {
+      "id": "a1-9",
+      "reference": "Example A1.9",
+      "title": "A primality premise",
+      "prompt": "Suppose 19423 is prime, and use the theorem that the square root of a prime is irrational. What follows from these premises?",
+      "solution": [
+        "The theorem applies to any number satisfying the stated primality hypothesis.",
+        "Under that hypothesis sqrt(19423) is irrational.",
+        "This conditional deduction is separate from independently verifying that 19423 is prime."
+      ],
+      "hints": [
+        "The theorem applies to any number satisfying the stated primality hypothesis.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The theorem applies to any number satisfying the stated primality hypothesis.",
+        "My response includes this point with a reason: Under that hypothesis sqrt(19423) is irrational.",
+        "My response includes this point with a reason: This conditional deduction is separate from independently verifying that 19423 is prime."
+      ],
+      "sample": "The theorem applies to any number satisfying the stated primality hypothesis. Under that hypothesis sqrt(19423) is irrational. This conditional deduction is separate from independently verifying that 19423 is prime."
+    },
+    {
+      "id": "a1-10",
+      "reference": "Example A1.10",
+      "title": "Closure under addition",
+      "prompt": "Prove the sum of two rational numbers is rational.",
+      "solution": [
+        "Write a=m/n and b=p/q with integers m,n,p,q and n,q≠0.",
+        "a+b=(mq+pn)/(nq).",
+        "The numerator and denominator are integers and nq≠0, so the sum is rational."
+      ],
+      "hints": [
+        "Write a=m/n and b=p/q with integers m,n,p,q and n,q≠0.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Write a=m/n and b=p/q with integers m,n,p,q and n,q≠0.",
+        "My response includes this point with a reason: a+b=(mq+pn)/(nq).",
+        "My response includes this point with a reason: The numerator and denominator are integers and nq≠0, so the sum is rational."
+      ],
+      "sample": "Write a=m/n and b=p/q with integers m,n,p,q and n,q≠0. a+b=(mq+pn)/(nq). The numerator and denominator are integers and nq≠0, so the sum is rational."
+    },
+    {
+      "id": "a1-11",
+      "reference": "Example A1.11",
+      "title": "An exhaustive prime argument",
+      "prompt": "Show that every prime p>3 has form 6k+1 or 6k+5.",
+      "solution": [
+        "Division by 6 gives remainder 0,1,2,3,4 or 5.",
+        "Remainders 0,2,4 produce an even integer; remainder 3 produces a multiple of 3.",
+        "Since p>3 is prime, these four remainders are impossible; only 1 and 5 remain.",
+        "This is an exhaustive case argument; it does not say every number 6k±1 is prime."
+      ],
+      "hints": [
+        "Division by 6 gives remainder 0,1,2,3,4 or 5.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Division by 6 gives remainder 0,1,2,3,4 or 5.",
+        "My response includes this point with a reason: Remainders 0,2,4 produce an even integer; remainder 3 produces a multiple of 3.",
+        "My response includes this point with a reason: Since p>3 is prime, these four remainders are impossible; only 1 and 5 remain.",
+        "My response includes this point with a reason: This is an exhaustive case argument; it does not say every number 6k±1 is prime."
+      ],
+      "sample": "Division by 6 gives remainder 0,1,2,3,4 or 5. Remainders 0,2,4 produce an even integer; remainder 3 produces a multiple of 3. Since p>3 is prime, these four remainders are impossible; only 1 and 5 remain. This is an exhaustive case argument; it does not say every number 6k±1 is prime."
+    },
+    {
+      "id": "a1-12",
+      "reference": "Example A1.12",
+      "title": "Negations of seven claims",
+      "prompt": "Negate: the dog does not have a black tail; all irrationals are real; 2 is irrational; some rationals are integers; not all teachers are male; some horses are not brown; there is no real x with x²=−1.",
+      "solution": [
+        "The dog has a black tail.",
+        "Some irrational number is not real.",
+        "2 is not irrational.",
+        "No rational number is an integer.",
+        "All teachers are male.",
+        "All horses are brown.",
+        "There exists a real x with x²=−1. A correct negation may itself be false."
+      ],
+      "hints": [
+        "The dog has a black tail.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The dog has a black tail.",
+        "My response includes this point with a reason: Some irrational number is not real.",
+        "My response includes this point with a reason: 2 is not irrational.",
+        "My response includes this point with a reason: No rational number is an integer.",
+        "My response includes this point with a reason: All teachers are male.",
+        "My response includes this point with a reason: All horses are brown.",
+        "My response includes this point with a reason: There exists a real x with x²=−1. A correct negation may itself be false."
+      ],
+      "sample": "The dog has a black tail. Some irrational number is not real. 2 is not irrational. No rational number is an integer. All teachers are male. All horses are brown. There exists a real x with x²=−1. A correct negation may itself be false."
+    },
+    {
+      "id": "a1-13",
+      "reference": "Example A1.13",
+      "title": "Reverse nine implications",
+      "prompt": "Write converses for: Jamila rides → 17 August is Sunday; 17 August is Sunday → Jamila rides; Pauline angry → face red; education degree → allowed to teach; viral infection → high temperature; Ahmad in Mumbai → in India; equilateral → all angles equal; irrational real → nonterminating nonrecurring decimal; x−a factor of p(x) → p(a)=0.",
+      "solution": [
+        "Reverse each arrow without claiming the converse must be true.",
+        "17 August is Sunday → Jamila rides; Jamila rides → 17 August is Sunday.",
+        "Face red → Pauline angry; allowed to teach → education degree; high temperature → viral infection.",
+        "Ahmad in India → in Mumbai; all triangle angles equal → equilateral.",
+        "A real number with a nonterminating nonrecurring decimal → irrational.",
+        "p(a)=0 → x−a is a factor of p(x), for polynomial p. The last three are true in their stated domains; the everyday converses require further information."
+      ],
+      "hints": [
+        "Reverse each arrow without claiming the converse must be true.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Reverse each arrow without claiming the converse must be true.",
+        "My response includes this point with a reason: 17 August is Sunday → Jamila rides; Jamila rides → 17 August is Sunday.",
+        "My response includes this point with a reason: Face red → Pauline angry; allowed to teach → education degree; high temperature → viral infection.",
+        "My response includes this point with a reason: Ahmad in India → in Mumbai; all triangle angles equal → equilateral.",
+        "My response includes this point with a reason: A real number with a nonterminating nonrecurring decimal → irrational.",
+        "My response includes this point with a reason: p(a)=0 → x−a is a factor of p(x), for polynomial p. The last three are true in their stated domains; the everyday converses require further information."
+      ],
+      "sample": "Reverse each arrow without claiming the converse must be true. 17 August is Sunday → Jamila rides; Jamila rides → 17 August is Sunday. Face red → Pauline angry; allowed to teach → education degree; high temperature → viral infection. Ahmad in India → in Mumbai; all triangle angles equal → equilateral. A real number with a nonterminating nonrecurring decimal → irrational. p(a)=0 → x−a is a factor of p(x), for polynomial p. The last three are true in their stated domains; the everyday converses require further information."
+    },
+    {
+      "id": "a1-14",
+      "reference": "Example A1.14",
+      "title": "Test a converse",
+      "prompt": "Form and test converses: n even → 2n+1 odd; terminating decimal → rational; transversal across parallel lines → corresponding angles equal; opposite quadrilateral sides equal → parallelogram; congruent triangles → equal corresponding angles.",
+      "solution": [
+        "For integer n, the first converse is false: n=7 gives 15 odd but n odd.",
+        "Rational → terminating decimal is false: 1/3 repeats.",
+        "Equal corresponding angles → the two coplanar lines are parallel: true.",
+        "Parallelogram → opposite sides equal: true.",
+        "Equal corresponding angles → congruent is false: triangles with sides 3,4,5 and 6,8,10 have the same angles but different sizes."
+      ],
+      "hints": [
+        "For integer n, the first converse is false: n=7 gives 15 odd but n odd.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: For integer n, the first converse is false: n=7 gives 15 odd but n odd.",
+        "My response includes this point with a reason: Rational → terminating decimal is false: 1/3 repeats.",
+        "My response includes this point with a reason: Equal corresponding angles → the two coplanar lines are parallel: true.",
+        "My response includes this point with a reason: Parallelogram → opposite sides equal: true.",
+        "My response includes this point with a reason: Equal corresponding angles → congruent is false: triangles with sides 3,4,5 and 6,8,10 have the same angles but different sizes."
+      ],
+      "sample": "For integer n, the first converse is false: n=7 gives 15 odd but n odd. Rational → terminating decimal is false: 1/3 repeats. Equal corresponding angles → the two coplanar lines are parallel: true. Parallelogram → opposite sides equal: true. Equal corresponding angles → congruent is false: triangles with sides 3,4,5 and 6,8,10 have the same angles but different sizes."
+    },
+    {
+      "id": "a1-15",
+      "reference": "Example A1.15",
+      "title": "A nonzero multiplier",
+      "prompt": "Prove that a nonzero rational r times an irrational x is irrational.",
+      "solution": [
+        "Assume rx=y is rational.",
+        "Because r≠0 is rational, x=y/r is rational by closure under division by a nonzero rational.",
+        "This contradicts x irrational, so rx is irrational.",
+        "The condition r≠0 is essential: 0·x=0 is rational."
+      ],
+      "hints": [
+        "Assume rx=y is rational.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume rx=y is rational.",
+        "My response includes this point with a reason: Because r≠0 is rational, x=y/r is rational by closure under division by a nonzero rational.",
+        "My response includes this point with a reason: This contradicts x irrational, so rx is irrational.",
+        "My response includes this point with a reason: The condition r≠0 is essential: 0·x=0 is rational."
+      ],
+      "sample": "Assume rx=y is rational. Because r≠0 is rational, x=y/r is rational by closure under division by a nonzero rational. This contradicts x irrational, so rx is irrational. The condition r≠0 is essential: 0·x=0 is rational."
+    },
+    {
+      "id": "a1-16",
+      "reference": "Theorem A1.1",
+      "title": "Converse of Pythagoras",
+      "prompt": "If AC²=AB²+BC² in triangle ABC, prove angle ABC is 90°.",
+      "solution": [
+        "Construct BD perpendicular to AB with BD=BC, joining AD.",
+        "In right triangle ABD, AD²=AB²+BD²=AB²+BC²=AC², so AD=AC (lengths are positive).",
+        "Triangles ABC and ABD have AB common, BC=BD and AC=AD: SSS congruence.",
+        "Corresponding angles ABC and ABD are equal, hence angle ABC=90°."
+      ],
+      "hints": [
+        "Construct BD perpendicular to AB with BD=BC, joining AD.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Construct BD perpendicular to AB with BD=BC, joining AD.",
+        "My response includes this point with a reason: In right triangle ABD, AD²=AB²+BD²=AB²+BC²=AC², so AD=AC (lengths are positive).",
+        "My response includes this point with a reason: Triangles ABC and ABD have AB common, BC=BD and AC=AD: SSS congruence.",
+        "My response includes this point with a reason: Corresponding angles ABC and ABD are equal, hence angle ABC=90°."
+      ],
+      "sample": "Construct BD perpendicular to AB with BD=BC, joining AD. In right triangle ABD, AD²=AB²+BD²=AB²+BC²=AC², so AD=AC (lengths are positive). Triangles ABC and ABD have AB common, BC=BD and AC=AD: SSS congruence. Corresponding angles ABC and ABD are equal, hence angle ABC=90°."
+    },
+    {
+      "id": "a1-17",
+      "reference": "Theorem A1.2",
+      "title": "The shortest route to a line",
+      "prompt": "Use contradiction to show that the shortest segment from a point outside a line is perpendicular to the line.",
+      "solution": [
+        "Suppose a shortest segment PM to the line is not perpendicular.",
+        "Draw PN perpendicular to the line. Then N≠M and PNM is a right triangle.",
+        "PM is its hypotenuse, so PM>PN.",
+        "This contradicts the choice of PM as shortest. Therefore a shortest segment must be perpendicular."
+      ],
+      "hints": [
+        "Suppose a shortest segment PM to the line is not perpendicular.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Suppose a shortest segment PM to the line is not perpendicular.",
+        "My response includes this point with a reason: Draw PN perpendicular to the line. Then N≠M and PNM is a right triangle.",
+        "My response includes this point with a reason: PM is its hypotenuse, so PM>PN.",
+        "My response includes this point with a reason: This contradicts the choice of PM as shortest. Therefore a shortest segment must be perpendicular."
+      ],
+      "sample": "Suppose a shortest segment PM to the line is not perpendicular. Draw PN perpendicular to the line. Then N≠M and PNM is a right triangle. PM is its hypotenuse, so PM>PN. This contradicts the choice of PM as shortest. Therefore a shortest segment must be perpendicular."
+    },
+    {
+      "id": "a1-18",
+      "reference": "A1.1–A1.4 Foundation",
+      "title": "Evidence is not a proof",
+      "prompt": "Explain the difference between an observation, conjecture, theorem and proof. Why can a diagram not prove equality for all cases?",
+      "solution": [
+        "An observation records examples or measurements; a conjecture is a proposed general statement.",
+        "A theorem is a statement established by proof. A proof derives the conclusion from hypotheses, definitions, axioms or proved results through valid steps.",
+        "A drawing or rounded measurement can suggest a conjecture but cannot cover all permitted cases. Avoid circular reasoning: do not assume the conclusion you are proving."
+      ],
+      "hints": [
+        "An observation records examples or measurements; a conjecture is a proposed general statement.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: An observation records examples or measurements; a conjecture is a proposed general statement.",
+        "My response includes this point with a reason: A theorem is a statement established by proof. A proof derives the conclusion from hypotheses, definitions, axioms or proved results through valid steps.",
+        "My response includes this point with a reason: A drawing or rounded measurement can suggest a conjecture but cannot cover all permitted cases. Avoid circular reasoning: do not assume the conclusion you are proving."
+      ],
+      "sample": "An observation records examples or measurements; a conjecture is a proposed general statement. A theorem is a statement established by proof. A proof derives the conclusion from hypotheses, definitions, axioms or proved results through valid steps. A drawing or rounded measurement can suggest a conjecture but cannot cover all permitted cases. Avoid circular reasoning: do not assume the conclusion you are proving."
+    },
+    {
+      "id": "a1-19",
+      "reference": "A1.4 Circle-region investigation",
+      "title": "A tempting pattern fails",
+      "prompt": "For points on a circle, draw all chords and consider the maximum possible regions. Compare counts 1,2,4,8,16,31 for 1–6 points with the conjecture 2^(n−1).",
+      "solution": [
+        "Use points in general position, with no three chords meeting at one interior point, to obtain maximum counts.",
+        "The first five counts fit powers of two.",
+        "For six points the maximum is 31, whereas 2^5=32: a counterexample disproves the conjecture.",
+        "A regular arrangement may have concurrent diagonals and fewer regions. Patterns from finitely many cases are not proofs."
+      ],
+      "hints": [
+        "Use points in general position, with no three chords meeting at one interior point, to obtain maximum counts.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Use points in general position, with no three chords meeting at one interior point, to obtain maximum counts.",
+        "My response includes this point with a reason: The first five counts fit powers of two.",
+        "My response includes this point with a reason: For six points the maximum is 31, whereas 2^5=32: a counterexample disproves the conjecture.",
+        "My response includes this point with a reason: A regular arrangement may have concurrent diagonals and fewer regions. Patterns from finitely many cases are not proofs."
+      ],
+      "sample": "Use points in general position, with no three chords meeting at one interior point, to obtain maximum counts. The first five counts fit powers of two. For six points the maximum is 31, whereas 2^5=32: a counterexample disproves the conjecture. A regular arrangement may have concurrent diagonals and fewer regions. Patterns from finitely many cases are not proofs."
+    },
+    {
+      "id": "a1-20",
+      "reference": "A1.7 Foundation",
+      "title": "Exhaustion and contradiction",
+      "prompt": "Explain how the prime-remainder argument can be written as a contradiction proof.",
+      "solution": [
+        "Assume a prime p>3 has neither remainder 1 nor 5 upon division by 6.",
+        "Exhaustion forces remainder 0,2,3 or 4.",
+        "Then p is divisible by 2 or 3 and larger than that divisor, contradicting primality.",
+        "Reject the assumption: p=6k±1. Not every integer of these forms is prime; 25 is a counterexample."
+      ],
+      "hints": [
+        "Assume a prime p>3 has neither remainder 1 nor 5 upon division by 6.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume a prime p>3 has neither remainder 1 nor 5 upon division by 6.",
+        "My response includes this point with a reason: Exhaustion forces remainder 0,2,3 or 4.",
+        "My response includes this point with a reason: Then p is divisible by 2 or 3 and larger than that divisor, contradicting primality.",
+        "My response includes this point with a reason: Reject the assumption: p=6k±1. Not every integer of these forms is prime; 25 is a counterexample."
+      ],
+      "sample": "Assume a prime p>3 has neither remainder 1 nor 5 upon division by 6. Exhaustion forces remainder 0,2,3 or 4. Then p is divisible by 2 or 3 and larger than that divisor, contradicting primality. Reject the assumption: p=6k±1. Not every integer of these forms is prime; 25 is a counterexample."
+    },
+    {
+      "id": "a1-21",
+      "reference": "Exercise A1.1 Q1(1)",
+      "title": "Classify a claim",
+      "prompt": "Classify as true, false or ambiguous, explaining the interpretation: All mathematics textbooks are interesting.",
+      "solution": [
+        "Ambiguous without a criterion for interesting; the judgement is subjective."
+      ],
+      "hints": [
+        "Ambiguous without a criterion for interesting; the judgement is subjective.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Ambiguous without a criterion for interesting; the judgement is subjective."
+      ],
+      "sample": "Ambiguous without a criterion for interesting; the judgement is subjective."
+    },
+    {
+      "id": "a1-22",
+      "reference": "Exercise A1.1 Q1(2)",
+      "title": "Classify a claim",
+      "prompt": "Classify as true, false or ambiguous, explaining the interpretation: The Earth–Sun distance is approximately 1.5×10^8 km.",
+      "solution": [
+        "True as an approximate mean astronomical distance; the actual distance varies over the orbit."
+      ],
+      "hints": [
+        "True as an approximate mean astronomical distance; the actual distance varies over the orbit.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: True as an approximate mean astronomical distance; the actual distance varies over the orbit."
+      ],
+      "sample": "True as an approximate mean astronomical distance; the actual distance varies over the orbit."
+    },
+    {
+      "id": "a1-23",
+      "reference": "Exercise A1.1 Q1(3)",
+      "title": "Classify a claim",
+      "prompt": "Classify as true, false or ambiguous, explaining the interpretation: All humans grow old.",
+      "solution": [
+        "The book treats this as true in its ordinary ageing context. Literally, not every person reaches old age; distinguish ageing from surviving to old age and state the intended meaning."
+      ],
+      "hints": [
+        "The book treats this as true in its ordinary ageing context. Literally, not every person reaches old age; distinguish ageing from surviving to old age and state the intended meaning.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The book treats this as true in its ordinary ageing context. Literally, not every person reaches old age; distinguish ageing from surviving to old age and state the intended meaning."
+      ],
+      "sample": "The book treats this as true in its ordinary ageing context. Literally, not every person reaches old age; distinguish ageing from surviving to old age and state the intended meaning."
+    },
+    {
+      "id": "a1-24",
+      "reference": "Exercise A1.1 Q1(4)",
+      "title": "Classify a claim",
+      "prompt": "Classify as true, false or ambiguous, explaining the interpretation: The journey from Uttarkashi to Harsil is tiring.",
+      "solution": [
+        "Ambiguous: tiring depends on the traveller, transport and conditions."
+      ],
+      "hints": [
+        "Ambiguous: tiring depends on the traveller, transport and conditions.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Ambiguous: tiring depends on the traveller, transport and conditions."
+      ],
+      "sample": "Ambiguous: tiring depends on the traveller, transport and conditions."
+    },
+    {
+      "id": "a1-25",
+      "reference": "Exercise A1.1 Q1(5)",
+      "title": "Classify a claim",
+      "prompt": "Classify as true, false or ambiguous, explaining the interpretation: The woman saw an elephant through binoculars.",
+      "solution": [
+        "Ambiguous wording: it can attach the binoculars to the observer or to the elephant. Rewrite to specify who uses them."
+      ],
+      "hints": [
+        "Ambiguous wording: it can attach the binoculars to the observer or to the elephant. Rewrite to specify who uses them.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Ambiguous wording: it can attach the binoculars to the observer or to the elephant. Rewrite to specify who uses them."
+      ],
+      "sample": "Ambiguous wording: it can attach the binoculars to the observer or to the elephant. Rewrite to specify who uses them."
+    },
+    {
+      "id": "a1-26",
+      "reference": "Exercise A1.1 Q2(1)",
+      "title": "Truth with a reason",
+      "prompt": "Judge and justify: All hexagons are polygons.",
+      "solution": [
+        "True: a hexagon is a polygon with six sides."
+      ],
+      "hints": [
+        "True: a hexagon is a polygon with six sides.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: True: a hexagon is a polygon with six sides."
+      ],
+      "sample": "True: a hexagon is a polygon with six sides."
+    },
+    {
+      "id": "a1-27",
+      "reference": "Exercise A1.1 Q2(2)",
+      "title": "Truth with a reason",
+      "prompt": "Judge and justify: Some polygons are pentagons.",
+      "solution": [
+        "True: a five-sided polygon supplies an example."
+      ],
+      "hints": [
+        "True: a five-sided polygon supplies an example.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: True: a five-sided polygon supplies an example."
+      ],
+      "sample": "True: a five-sided polygon supplies an example."
+    },
+    {
+      "id": "a1-28",
+      "reference": "Exercise A1.1 Q2(3)",
+      "title": "Truth with a reason",
+      "prompt": "Judge and justify: Not all even numbers are divisible by 2.",
+      "solution": [
+        "False: being divisible by 2 defines an even integer."
+      ],
+      "hints": [
+        "False: being divisible by 2 defines an even integer.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: False: being divisible by 2 defines an even integer."
+      ],
+      "sample": "False: being divisible by 2 defines an even integer."
+    },
+    {
+      "id": "a1-29",
+      "reference": "Exercise A1.1 Q2(4)",
+      "title": "Truth with a reason",
+      "prompt": "Judge and justify: Some real numbers are irrational.",
+      "solution": [
+        "True: sqrt(2) is a real irrational number."
+      ],
+      "hints": [
+        "True: sqrt(2) is a real irrational number.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: True: sqrt(2) is a real irrational number."
+      ],
+      "sample": "True: sqrt(2) is a real irrational number."
+    },
+    {
+      "id": "a1-30",
+      "reference": "Exercise A1.1 Q2(5)",
+      "title": "Truth with a reason",
+      "prompt": "Judge and justify: Not all real numbers are rational.",
+      "solution": [
+        "True: sqrt(2) is a real number that is not rational."
+      ],
+      "hints": [
+        "True: sqrt(2) is a real number that is not rational.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: True: sqrt(2) is a real number that is not rational."
+      ],
+      "sample": "True: sqrt(2) is a real number that is not rational."
+    },
+    {
+      "id": "a1-31",
+      "reference": "Exercise A1.1 Q3(1)",
+      "title": "Nonzero product",
+      "prompt": "For real a,b with ab≠0, assess: Both a and b must be zero.",
+      "solution": [
+        "False: ab≠0 rules out a=0 and b=0."
+      ],
+      "hints": [
+        "False: ab≠0 rules out a=0 and b=0.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: False: ab≠0 rules out a=0 and b=0."
+      ],
+      "sample": "False: ab≠0 rules out a=0 and b=0."
+    },
+    {
+      "id": "a1-32",
+      "reference": "Exercise A1.1 Q3(2)",
+      "title": "Nonzero product",
+      "prompt": "For real a,b with ab≠0, assess: Both a and b must be nonzero.",
+      "solution": [
+        "True: if either factor were zero their product would be zero."
+      ],
+      "hints": [
+        "True: if either factor were zero their product would be zero.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: True: if either factor were zero their product would be zero."
+      ],
+      "sample": "True: if either factor were zero their product would be zero."
+    },
+    {
+      "id": "a1-33",
+      "reference": "Exercise A1.1 Q3(3)",
+      "title": "Nonzero product",
+      "prompt": "For real a,b with ab≠0, assess: Either a or b must be nonzero.",
+      "solution": [
+        "The book uses “either … or” exclusively (exactly one), so marks this false: both must be nonzero.",
+        "With inclusive “or” (at least one), it is true. State the convention rather than confusing the two logical meanings."
+      ],
+      "hints": [
+        "The book uses “either … or” exclusively (exactly one), so marks this false: both must be nonzero.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The book uses “either … or” exclusively (exactly one), so marks this false: both must be nonzero.",
+        "My response includes this point with a reason: With inclusive “or” (at least one), it is true. State the convention rather than confusing the two logical meanings."
+      ],
+      "sample": "The book uses “either … or” exclusively (exactly one), so marks this false: both must be nonzero. With inclusive “or” (at least one), it is true. State the convention rather than confusing the two logical meanings."
+    },
+    {
+      "id": "a1-34",
+      "reference": "Exercise A1.1 Q4(1)",
+      "title": "Supply a sufficient condition",
+      "prompt": "Add conditions to make this true and explain: a²>b² implies a>b.",
+      "solution": [
+        "Add a>0, as in the source key: then a>|b|≥b. Restricting both a,b≥0 is another sufficient condition."
+      ],
+      "hints": [
+        "Add a>0, as in the source key: then a>|b|≥b. Restricting both a,b≥0 is another sufficient condition.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Add a>0, as in the source key: then a>|b|≥b. Restricting both a,b≥0 is another sufficient condition."
+      ],
+      "sample": "Add a>0, as in the source key: then a>|b|≥b. Restricting both a,b≥0 is another sufficient condition."
+    },
+    {
+      "id": "a1-35",
+      "reference": "Exercise A1.1 Q4(2)",
+      "title": "Supply a sufficient condition",
+      "prompt": "Add conditions to make this true and explain: x²=y² implies x=y.",
+      "solution": [
+        "Add xy>0, so x and y have the same nonzero sign. Since (x−y)(x+y)=0 and x+y≠0, x=y. Alternatively restrict both to nonnegative numbers."
+      ],
+      "hints": [
+        "Add xy>0, so x and y have the same nonzero sign. Since (x−y)(x+y)=0 and x+y≠0, x=y. Alternatively restrict both to nonnegative numbers.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Add xy>0, so x and y have the same nonzero sign. Since (x−y)(x+y)=0 and x+y≠0, x=y. Alternatively restrict both to nonnegative numbers."
+      ],
+      "sample": "Add xy>0, so x and y have the same nonzero sign. Since (x−y)(x+y)=0 and x+y≠0, x=y. Alternatively restrict both to nonnegative numbers."
+    },
+    {
+      "id": "a1-36",
+      "reference": "Exercise A1.1 Q4(3)",
+      "title": "Supply a sufficient condition",
+      "prompt": "Add conditions to make this true and explain: (x+y)²=x²+y² implies x=0.",
+      "solution": [
+        "For real x,y, expansion gives 2xy=0. Add y≠0, so division by 2y gives x=0."
+      ],
+      "hints": [
+        "For real x,y, expansion gives 2xy=0. Add y≠0, so division by 2y gives x=0.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: For real x,y, expansion gives 2xy=0. Add y≠0, so division by 2y gives x=0."
+      ],
+      "sample": "For real x,y, expansion gives 2xy=0. Add y≠0, so division by 2y gives x=0."
+    },
+    {
+      "id": "a1-37",
+      "reference": "Exercise A1.1 Q4(4)",
+      "title": "Supply a sufficient condition",
+      "prompt": "Add conditions to make this true and explain: The diagonals of a quadrilateral bisect each other.",
+      "solution": [
+        "Restrict the quadrilateral to a parallelogram; its diagonals bisect each other."
+      ],
+      "hints": [
+        "Restrict the quadrilateral to a parallelogram; its diagonals bisect each other.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Restrict the quadrilateral to a parallelogram; its diagonals bisect each other."
+      ],
+      "sample": "Restrict the quadrilateral to a parallelogram; its diagonals bisect each other."
+    },
+    {
+      "id": "a1-38",
+      "reference": "Exercise A1.2 Q1",
+      "title": "Deduce and check the premises",
+      "prompt": "All women are mortal; A is a woman. Deduce a conclusion.",
+      "solution": [
+        "A belongs to the class covered by the first premise. Therefore A is mortal."
+      ],
+      "hints": [
+        "A belongs to the class covered by the first premise. Therefore A is mortal.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: A belongs to the class covered by the first premise. Therefore A is mortal."
+      ],
+      "sample": "A belongs to the class covered by the first premise. Therefore A is mortal."
+    },
+    {
+      "id": "a1-39",
+      "reference": "Exercise A1.2 Q2",
+      "title": "Deduce and check the premises",
+      "prompt": "All products of rational numbers are rational; a,b are rational. What follows?",
+      "solution": [
+        "Apply the rational-product closure premise to a and b: ab is rational."
+      ],
+      "hints": [
+        "Apply the rational-product closure premise to a and b: ab is rational.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Apply the rational-product closure premise to a and b: ab is rational."
+      ],
+      "sample": "Apply the rational-product closure premise to a and b: ab is rational."
+    },
+    {
+      "id": "a1-40",
+      "reference": "Exercise A1.2 Q3",
+      "title": "Deduce and check the premises",
+      "prompt": "sqrt(17) is irrational. Describe its decimal expansion.",
+      "solution": [
+        "An irrational real number has a nonterminating, nonrecurring decimal expansion. Thus sqrt(17) has that expansion."
+      ],
+      "hints": [
+        "An irrational real number has a nonterminating, nonrecurring decimal expansion. Thus sqrt(17) has that expansion.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: An irrational real number has a nonterminating, nonrecurring decimal expansion. Thus sqrt(17) has that expansion."
+      ],
+      "sample": "An irrational real number has a nonterminating, nonrecurring decimal expansion. Thus sqrt(17) has that expansion."
+    },
+    {
+      "id": "a1-41",
+      "reference": "Exercise A1.2 Q4",
+      "title": "Deduce and check the premises",
+      "prompt": "If y=x²+6 and x=−1, find y.",
+      "solution": [
+        "y=(−1)²+6=1+6=7."
+      ],
+      "hints": [
+        "y=(−1)²+6=1+6=7.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: y=(−1)²+6=1+6=7."
+      ],
+      "sample": "y=(−1)²+6=1+6=7."
+    },
+    {
+      "id": "a1-42",
+      "reference": "Exercise A1.2 Q5",
+      "title": "Deduce and check the premises",
+      "prompt": "In parallelogram ABCD, angle B=80°. Find A,C,D.",
+      "solution": [
+        "Opposite angles are equal, so D=80°.",
+        "Adjacent angles are supplementary, so A=C=180°−80°=100°.",
+        "The source answer line prints D=180°; that is inconsistent with the parallelogram and is a typographical error."
+      ],
+      "hints": [
+        "Opposite angles are equal, so D=80°.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Opposite angles are equal, so D=80°.",
+        "My response includes this point with a reason: Adjacent angles are supplementary, so A=C=180°−80°=100°.",
+        "My response includes this point with a reason: The source answer line prints D=180°; that is inconsistent with the parallelogram and is a typographical error."
+      ],
+      "sample": "Opposite angles are equal, so D=80°. Adjacent angles are supplementary, so A=C=180°−80°=100°. The source answer line prints D=180°; that is inconsistent with the parallelogram and is a typographical error."
+    },
+    {
+      "id": "a1-43",
+      "reference": "Exercise A1.2 Q6",
+      "title": "Deduce and check the premises",
+      "prompt": "PQRS is cyclic and its diagonals bisect each other. Classify it, giving reasons.",
+      "solution": [
+        "Bisecting diagonals imply a parallelogram, so opposite angles are equal.",
+        "In a cyclic quadrilateral opposite angles are supplementary. Equal supplementary angles are 90°, hence PQRS is a rectangle."
+      ],
+      "hints": [
+        "Bisecting diagonals imply a parallelogram, so opposite angles are equal.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Bisecting diagonals imply a parallelogram, so opposite angles are equal.",
+        "My response includes this point with a reason: In a cyclic quadrilateral opposite angles are supplementary. Equal supplementary angles are 90°, hence PQRS is a rectangle."
+      ],
+      "sample": "Bisecting diagonals imply a parallelogram, so opposite angles are equal. In a cyclic quadrilateral opposite angles are supplementary. Equal supplementary angles are 90°, hence PQRS is a rectangle."
+    },
+    {
+      "id": "a1-44",
+      "reference": "Exercise A1.2 Q7",
+      "title": "Deduce and check the premises",
+      "prompt": "Suppose 3721 is prime, and square roots of primes are irrational. Can sqrt(3721) be called irrational? Discuss both the deduction and the actual number.",
+      "solution": [
+        "From the stated premises the deduction is formally valid.",
+        "But the primality premise is false: 3721=61².",
+        "In reality sqrt(3721)=61 is rational; valid argument form alone cannot guarantee truth when a premise is false."
+      ],
+      "hints": [
+        "From the stated premises the deduction is formally valid.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: From the stated premises the deduction is formally valid.",
+        "My response includes this point with a reason: But the primality premise is false: 3721=61².",
+        "My response includes this point with a reason: In reality sqrt(3721)=61 is rational; valid argument form alone cannot guarantee truth when a premise is false."
+      ],
+      "sample": "From the stated premises the deduction is formally valid. But the primality premise is false: 3721=61². In reality sqrt(3721)=61 is rational; valid argument form alone cannot guarantee truth when a premise is false."
+    },
+    {
+      "id": "a1-45",
+      "reference": "Exercise A1.3 Q1",
+      "title": "Write a deductive proof",
+      "prompt": "Prove that the sum of two consecutive odd integers is divisible by 4.",
+      "solution": [
+        "Write them as 2n+1 and 2n+3 for integer n.",
+        "Their sum is 4n+4=4(n+1), a multiple of 4."
+      ],
+      "hints": [
+        "Write them as 2n+1 and 2n+3 for integer n.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Write them as 2n+1 and 2n+3 for integer n.",
+        "My response includes this point with a reason: Their sum is 4n+4=4(n+1), a multiple of 4."
+      ],
+      "sample": "Write them as 2n+1 and 2n+3 for integer n. Their sum is 4n+4=4(n+1), a multiple of 4."
+    },
+    {
+      "id": "a1-46",
+      "reference": "Exercise A1.3 Q2",
+      "title": "Write a deductive proof",
+      "prompt": "Prove that the sum of the squares of consecutive odd integers, increased by 6, is divisible by 8.",
+      "solution": [
+        "For integer n the odd integers are 2n+1 and 2n+3.",
+        "Their squared sum plus 6 is 4n²+4n+1+4n²+12n+9+6=8(n²+2n+2).",
+        "The bracket is an integer, so 8 divides the result."
+      ],
+      "hints": [
+        "For integer n the odd integers are 2n+1 and 2n+3.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: For integer n the odd integers are 2n+1 and 2n+3.",
+        "My response includes this point with a reason: Their squared sum plus 6 is 4n²+4n+1+4n²+12n+9+6=8(n²+2n+2).",
+        "My response includes this point with a reason: The bracket is an integer, so 8 divides the result."
+      ],
+      "sample": "For integer n the odd integers are 2n+1 and 2n+3. Their squared sum plus 6 is 4n²+4n+1+4n²+12n+9+6=8(n²+2n+2). The bracket is an integer, so 8 divides the result."
+    },
+    {
+      "id": "a1-47",
+      "reference": "Exercise A1.3 Q3",
+      "title": "Write a deductive proof",
+      "prompt": "For prime p≥5, prove that p²+2 is divisible by 3.",
+      "solution": [
+        "A prime p≥5 is not divisible by 3, so p=3k+1 or 3k−1.",
+        "Squaring gives p²=9k²±6k+1.",
+        "Therefore p²+2=3(3k²±2k+1), a multiple of 3."
+      ],
+      "hints": [
+        "A prime p≥5 is not divisible by 3, so p=3k+1 or 3k−1.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: A prime p≥5 is not divisible by 3, so p=3k+1 or 3k−1.",
+        "My response includes this point with a reason: Squaring gives p²=9k²±6k+1.",
+        "My response includes this point with a reason: Therefore p²+2=3(3k²±2k+1), a multiple of 3."
+      ],
+      "sample": "A prime p≥5 is not divisible by 3, so p=3k+1 or 3k−1. Squaring gives p²=9k²±6k+1. Therefore p²+2=3(3k²±2k+1), a multiple of 3."
+    },
+    {
+      "id": "a1-48",
+      "reference": "Exercise A1.3 Q4",
+      "title": "Write a deductive proof",
+      "prompt": "Prove closure of rational numbers under multiplication.",
+      "solution": [
+        "Let a=m/n and b=p/q for integers m,n,p,q with n,q≠0.",
+        "Then ab=mp/(nq). Both mp,nq are integers and nq≠0, so ab is rational."
+      ],
+      "hints": [
+        "Let a=m/n and b=p/q for integers m,n,p,q with n,q≠0.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Let a=m/n and b=p/q for integers m,n,p,q with n,q≠0.",
+        "My response includes this point with a reason: Then ab=mp/(nq). Both mp,nq are integers and nq≠0, so ab is rational."
+      ],
+      "sample": "Let a=m/n and b=p/q for integers m,n,p,q with n,q≠0. Then ab=mp/(nq). Both mp,nq are integers and nq≠0, so ab is rational."
+    },
+    {
+      "id": "a1-49",
+      "reference": "Exercise A1.3 Q5",
+      "title": "Write a deductive proof",
+      "prompt": "For positive integers a,b with a=bq+r and 0≤r<b, prove gcd(a,b)=gcd(b,r).",
+      "solution": [
+        "Any common divisor d of a,b divides a−bq=r, so it divides b,r.",
+        "Conversely any common divisor of b,r divides bq+r=a, so it divides a,b.",
+        "Thus both pairs have exactly the same positive common divisors, and therefore the same greatest one.",
+        "If r=0 this agrees with gcd(b,0)=b."
+      ],
+      "hints": [
+        "Any common divisor d of a,b divides a−bq=r, so it divides b,r.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Any common divisor d of a,b divides a−bq=r, so it divides b,r.",
+        "My response includes this point with a reason: Conversely any common divisor of b,r divides bq+r=a, so it divides a,b.",
+        "My response includes this point with a reason: Thus both pairs have exactly the same positive common divisors, and therefore the same greatest one.",
+        "My response includes this point with a reason: If r=0 this agrees with gcd(b,0)=b."
+      ],
+      "sample": "Any common divisor d of a,b divides a−bq=r, so it divides b,r. Conversely any common divisor of b,r divides bq+r=a, so it divides a,b. Thus both pairs have exactly the same positive common divisors, and therefore the same greatest one. If r=0 this agrees with gcd(b,0)=b."
+    },
+    {
+      "id": "a1-50",
+      "reference": "Exercise A1.3 Q6",
+      "title": "Write a deductive proof",
+      "prompt": "In triangle ABC, D lies on AB and E on AC, with DE parallel to BC. Prove AD/DB=AE/EC.",
+      "solution": [
+        "Let [XYZ] denote the area of triangle XYZ. Triangles ADE and BDE have bases AD,DB on AB and the same altitude from E, so [ADE]/[BDE]=AD/DB.",
+        "Triangles ADE and CDE have bases AE,EC on AC and the same altitude from D, so [ADE]/[CDE]=AE/EC.",
+        "Triangles BDE and CDE share base DE, and B,C lie on the parallel line BC, so their altitudes to DE are equal and [BDE]=[CDE].",
+        "Equating the two area ratios gives AD/DB=AE/EC. The interior-point condition ensures nonzero denominators. This establishes BPT without assuming it."
+      ],
+      "hints": [
+        "Triangles ADE and ABC have equal corresponding angles, so they are similar by AA.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Let [XYZ] denote the area of triangle XYZ. Triangles ADE and BDE have bases AD,DB on AB and the same altitude from E, so [ADE]/[BDE]=AD/DB.",
+        "My response includes this point with a reason: Triangles ADE and CDE have bases AE,EC on AC and the same altitude from D, so [ADE]/[CDE]=AE/EC.",
+        "My response includes this point with a reason: Triangles BDE and CDE share base DE, and B,C lie on the parallel line BC, so their altitudes to DE are equal and [BDE]=[CDE].",
+        "My response includes this point with a reason: Equating the two area ratios gives AD/DB=AE/EC. The interior-point condition ensures nonzero denominators. This establishes BPT without assuming it."
+      ],
+      "sample": "Let [XYZ] denote the area of triangle XYZ. Triangles ADE and BDE have bases AD,DB on AB and the same altitude from E, so [ADE]/[BDE]=AD/DB. Triangles ADE and CDE have bases AE,EC on AC and the same altitude from D, so [ADE]/[CDE]=AE/EC. Triangles BDE and CDE share base DE, and B,C lie on the parallel line BC, so their altitudes to DE are equal and [BDE]=[CDE]. Equating the two area ratios gives AD/DB=AE/EC. The interior-point condition ensures nonzero denominators. This establishes BPT without assuming it."
+    },
+    {
+      "id": "a1-51",
+      "reference": "Exercise A1.4 Q1(1)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: Man is mortal.",
+      "solution": [
+        "Interpreting this universally: at least one human is not mortal."
+      ],
+      "hints": [
+        "Interpreting this universally: at least one human is not mortal.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Interpreting this universally: at least one human is not mortal."
+      ],
+      "sample": "Interpreting this universally: at least one human is not mortal."
+    },
+    {
+      "id": "a1-52",
+      "reference": "Exercise A1.4 Q1(2)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: Line l is parallel to line m.",
+      "solution": [
+        "Line l is not parallel to line m (same stated plane/domain)."
+      ],
+      "hints": [
+        "Line l is not parallel to line m (same stated plane/domain).",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Line l is not parallel to line m (same stated plane/domain)."
+      ],
+      "sample": "Line l is not parallel to line m (same stated plane/domain)."
+    },
+    {
+      "id": "a1-53",
+      "reference": "Exercise A1.4 Q1(3)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: This chapter has many exercises.",
+      "solution": [
+        "This chapter does not have many exercises. The meaning of “many” must be fixed for a precise proposition."
+      ],
+      "hints": [
+        "This chapter does not have many exercises. The meaning of “many” must be fixed for a precise proposition.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: This chapter does not have many exercises. The meaning of “many” must be fixed for a precise proposition."
+      ],
+      "sample": "This chapter does not have many exercises. The meaning of “many” must be fixed for a precise proposition."
+    },
+    {
+      "id": "a1-54",
+      "reference": "Exercise A1.4 Q1(4)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: All integers are rational.",
+      "solution": [
+        "Some integer is not rational."
+      ],
+      "hints": [
+        "Some integer is not rational.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Some integer is not rational."
+      ],
+      "sample": "Some integer is not rational."
+    },
+    {
+      "id": "a1-55",
+      "reference": "Exercise A1.4 Q1(5)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: Some prime numbers are odd.",
+      "solution": [
+        "No prime number is odd; equivalently every prime is not odd."
+      ],
+      "hints": [
+        "No prime number is odd; equivalently every prime is not odd.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: No prime number is odd; equivalently every prime is not odd."
+      ],
+      "sample": "No prime number is odd; equivalently every prime is not odd."
+    },
+    {
+      "id": "a1-56",
+      "reference": "Exercise A1.4 Q1(6)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: No student is lazy.",
+      "solution": [
+        "At least one student is lazy."
+      ],
+      "hints": [
+        "At least one student is lazy.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: At least one student is lazy."
+      ],
+      "sample": "At least one student is lazy."
+    },
+    {
+      "id": "a1-57",
+      "reference": "Exercise A1.4 Q1(7)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: Some cats are not black.",
+      "solution": [
+        "All cats are black."
+      ],
+      "hints": [
+        "All cats are black.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: All cats are black."
+      ],
+      "sample": "All cats are black."
+    },
+    {
+      "id": "a1-58",
+      "reference": "Exercise A1.4 Q1(8)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: There is no real x such that sqrt(x)=−1.",
+      "solution": [
+        "There exists a real x such that sqrt(x)=−1. It is a false statement, but is the correct negation."
+      ],
+      "hints": [
+        "There exists a real x such that sqrt(x)=−1. It is a false statement, but is the correct negation.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: There exists a real x such that sqrt(x)=−1. It is a false statement, but is the correct negation."
+      ],
+      "sample": "There exists a real x such that sqrt(x)=−1. It is a false statement, but is the correct negation."
+    },
+    {
+      "id": "a1-59",
+      "reference": "Exercise A1.4 Q1(9)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: 2 divides the positive integer a.",
+      "solution": [
+        "2 does not divide a; equivalently a is odd."
+      ],
+      "hints": [
+        "2 does not divide a; equivalently a is odd.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: 2 does not divide a; equivalently a is odd."
+      ],
+      "sample": "2 does not divide a; equivalently a is odd."
+    },
+    {
+      "id": "a1-60",
+      "reference": "Exercise A1.4 Q1(10)",
+      "title": "Negate without changing scope",
+      "prompt": "Write the logical negation: Integers a,b are coprime.",
+      "solution": [
+        "a,b are not coprime: gcd(|a|,|b|)≠1. For positive integers this means they share a factor greater than 1."
+      ],
+      "hints": [
+        "a,b are not coprime: gcd(|a|,|b|)≠1. For positive integers this means they share a factor greater than 1.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: a,b are not coprime: gcd(|a|,|b|)≠1. For positive integers this means they share a factor greater than 1."
+      ],
+      "sample": "a,b are not coprime: gcd(|a|,|b|)≠1. For positive integers this means they share a factor greater than 1."
+    },
+    {
+      "id": "a1-61",
+      "reference": "Exercise A1.4 Q2(1)",
+      "title": "Is this the negation?",
+      "prompt": "Decide whether the second statement negates the first: Mumtaz is hungry / Mumtaz is not hungry.",
+      "solution": [
+        "Yes, with the same person and time, the second is precisely the negation."
+      ],
+      "hints": [
+        "Yes, with the same person and time, the second is precisely the negation.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Yes, with the same person and time, the second is precisely the negation."
+      ],
+      "sample": "Yes, with the same person and time, the second is precisely the negation."
+    },
+    {
+      "id": "a1-62",
+      "reference": "Exercise A1.4 Q2(2)",
+      "title": "Is this the negation?",
+      "prompt": "Decide whether the second statement negates the first: Some cats are black / Some cats are brown.",
+      "solution": [
+        "No: both may be true. The negation of the first is “No cats are black”."
+      ],
+      "hints": [
+        "No: both may be true. The negation of the first is “No cats are black”.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: No: both may be true. The negation of the first is “No cats are black”."
+      ],
+      "sample": "No: both may be true. The negation of the first is “No cats are black”."
+    },
+    {
+      "id": "a1-63",
+      "reference": "Exercise A1.4 Q2(3)",
+      "title": "Is this the negation?",
+      "prompt": "Decide whether the second statement negates the first: “All elephants are huge” / “One elephant is not huge”. Explain the meaning of “one”.",
+      "solution": [
+        "If “one” means at least one, yes: the second is the logical negation of “all elephants are huge”.",
+        "If “one” means exactly one, no: the negation also allows two or more non-huge elephants. The source key says no, consistent with that exclusive reading.",
+        "Write “at least one elephant is not huge” for an unambiguous negation."
+      ],
+      "hints": [
+        "Yes: the negation of “all” is “at least one not”.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: If “one” means at least one, yes: the second is the logical negation of “all elephants are huge”.",
+        "My response includes this point with a reason: If “one” means exactly one, no: the negation also allows two or more non-huge elephants. The source key says no, consistent with that exclusive reading.",
+        "My response includes this point with a reason: Write “at least one elephant is not huge” for an unambiguous negation."
+      ],
+      "sample": "If “one” means at least one, yes: the second is the logical negation of “all elephants are huge”. If “one” means exactly one, no: the negation also allows two or more non-huge elephants. The source key says no, consistent with that exclusive reading. Write “at least one elephant is not huge” for an unambiguous negation."
+    },
+    {
+      "id": "a1-64",
+      "reference": "Exercise A1.4 Q2(4)",
+      "title": "Is this the negation?",
+      "prompt": "Decide whether the second statement negates the first: All fire engines are red / All fire engines are not red.",
+      "solution": [
+        "Under the reading “every fire engine is non-red”, no: it is stronger than the negation.",
+        "The unambiguous negation is “At least one fire engine is not red”. If “not all are red” was intended, that is the correct negation; distinguish the scope of not."
+      ],
+      "hints": [
+        "Under the reading “every fire engine is non-red”, no: it is stronger than the negation.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Under the reading “every fire engine is non-red”, no: it is stronger than the negation.",
+        "My response includes this point with a reason: The unambiguous negation is “At least one fire engine is not red”. If “not all are red” was intended, that is the correct negation; distinguish the scope of not."
+      ],
+      "sample": "Under the reading “every fire engine is non-red”, no: it is stronger than the negation. The unambiguous negation is “At least one fire engine is not red”. If “not all are red” was intended, that is the correct negation; distinguish the scope of not."
+    },
+    {
+      "id": "a1-65",
+      "reference": "Exercise A1.4 Q2(5)",
+      "title": "Is this the negation?",
+      "prompt": "Decide whether the second statement negates the first: No man is a cow / Some men are cows.",
+      "solution": [
+        "Yes: the negation of “no” is “at least one”."
+      ],
+      "hints": [
+        "Yes: the negation of “no” is “at least one”.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Yes: the negation of “no” is “at least one”."
+      ],
+      "sample": "Yes: the negation of “no” is “at least one”."
+    },
+    {
+      "id": "a1-66",
+      "reference": "Exercise A1.5 Q1(1)",
+      "title": "Reverse hypothesis and conclusion",
+      "prompt": "Write the converse; do not assume it is true: If it is hot in Tokyo, Sharan sweats.",
+      "solution": [
+        "If Sharan sweats, then it is hot in Tokyo.",
+        "Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "hints": [
+        "If Sharan sweats, then it is hot in Tokyo.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: If Sharan sweats, then it is hot in Tokyo.",
+        "My response includes this point with a reason: Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "sample": "If Sharan sweats, then it is hot in Tokyo. Forming a converse reverses the implication; it does not establish the converse."
+    },
+    {
+      "id": "a1-67",
+      "reference": "Exercise A1.5 Q1(2)",
+      "title": "Reverse hypothesis and conclusion",
+      "prompt": "Write the converse; do not assume it is true: If Shalini is hungry, her stomach grumbles.",
+      "solution": [
+        "If Shalini’s stomach grumbles, then she is hungry.",
+        "Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "hints": [
+        "If Shalini’s stomach grumbles, then she is hungry.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: If Shalini’s stomach grumbles, then she is hungry.",
+        "My response includes this point with a reason: Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "sample": "If Shalini’s stomach grumbles, then she is hungry. Forming a converse reverses the implication; it does not establish the converse."
+    },
+    {
+      "id": "a1-68",
+      "reference": "Exercise A1.5 Q1(3)",
+      "title": "Reverse hypothesis and conclusion",
+      "prompt": "Write the converse; do not assume it is true: If Jaswant has a scholarship, he can get a degree.",
+      "solution": [
+        "If Jaswant can get a degree, then he has a scholarship.",
+        "Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "hints": [
+        "If Jaswant can get a degree, then he has a scholarship.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: If Jaswant can get a degree, then he has a scholarship.",
+        "My response includes this point with a reason: Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "sample": "If Jaswant can get a degree, then he has a scholarship. Forming a converse reverses the implication; it does not establish the converse."
+    },
+    {
+      "id": "a1-69",
+      "reference": "Exercise A1.5 Q1(4)",
+      "title": "Reverse hypothesis and conclusion",
+      "prompt": "Write the converse; do not assume it is true: If a plant flowers, it is alive.",
+      "solution": [
+        "If a plant is alive, then it flowers.",
+        "Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "hints": [
+        "If a plant is alive, then it flowers.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: If a plant is alive, then it flowers.",
+        "My response includes this point with a reason: Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "sample": "If a plant is alive, then it flowers. Forming a converse reverses the implication; it does not establish the converse."
+    },
+    {
+      "id": "a1-70",
+      "reference": "Exercise A1.5 Q1(5)",
+      "title": "Reverse hypothesis and conclusion",
+      "prompt": "Write the converse; do not assume it is true: If an animal is a cat, it has a tail.",
+      "solution": [
+        "If an animal has a tail, then it is a cat.",
+        "Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "hints": [
+        "If an animal has a tail, then it is a cat.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: If an animal has a tail, then it is a cat.",
+        "My response includes this point with a reason: Forming a converse reverses the implication; it does not establish the converse."
+      ],
+      "sample": "If an animal has a tail, then it is a cat. Forming a converse reverses the implication; it does not establish the converse."
+    },
+    {
+      "id": "a1-71",
+      "reference": "Exercise A1.5 Q2(1)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: An isosceles triangle has equal base angles.",
+      "solution": [
+        "Converse: a triangle with two equal angles has the corresponding opposite sides equal and is isosceles. True by the converse of the isosceles-triangle theorem."
+      ],
+      "hints": [
+        "Converse: a triangle with two equal angles has the corresponding opposite sides equal and is isosceles. True by the converse of the isosceles-triangle theorem.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse: a triangle with two equal angles has the corresponding opposite sides equal and is isosceles. True by the converse of the isosceles-triangle theorem."
+      ],
+      "sample": "Converse: a triangle with two equal angles has the corresponding opposite sides equal and is isosceles. True by the converse of the isosceles-triangle theorem."
+    },
+    {
+      "id": "a1-72",
+      "reference": "Exercise A1.5 Q2(2)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: An odd integer has an odd square.",
+      "solution": [
+        "Converse: if an integer has an odd square, it is odd. True: an even integer 2k has even square 4k²."
+      ],
+      "hints": [
+        "Converse: if an integer has an odd square, it is odd. True: an even integer 2k has even square 4k².",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse: if an integer has an odd square, it is odd. True: an even integer 2k has even square 4k²."
+      ],
+      "sample": "Converse: if an integer has an odd square, it is odd. True: an even integer 2k has even square 4k²."
+    },
+    {
+      "id": "a1-73",
+      "reference": "Exercise A1.5 Q2(3)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: If x²=1, then x=1.",
+      "solution": [
+        "Converse: if x=1 then x²=1, true.",
+        "The original is false over the reals because x=−1 also satisfies x²=1."
+      ],
+      "hints": [
+        "Converse: if x=1 then x²=1, true.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse: if x=1 then x²=1, true.",
+        "My response includes this point with a reason: The original is false over the reals because x=−1 also satisfies x²=1."
+      ],
+      "sample": "Converse: if x=1 then x²=1, true. The original is false over the reals because x=−1 also satisfies x²=1."
+    },
+    {
+      "id": "a1-74",
+      "reference": "Exercise A1.5 Q2(4)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: The diagonals of a parallelogram bisect each other.",
+      "solution": [
+        "Converse: a quadrilateral whose diagonals bisect each other is a parallelogram. True by the converse diagonal criterion."
+      ],
+      "hints": [
+        "Converse: a quadrilateral whose diagonals bisect each other is a parallelogram. True by the converse diagonal criterion.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse: a quadrilateral whose diagonals bisect each other is a parallelogram. True by the converse diagonal criterion."
+      ],
+      "sample": "Converse: a quadrilateral whose diagonals bisect each other is a parallelogram. True by the converse diagonal criterion."
+    },
+    {
+      "id": "a1-75",
+      "reference": "Exercise A1.5 Q2(5)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: If a,b,c are whole numbers, then a+(b+c)=(a+b)+c.",
+      "solution": [
+        "Converse: if the associative equality holds then a,b,c are whole numbers. False: a=b=c=1/2 satisfies the equality but none is whole."
+      ],
+      "hints": [
+        "Converse: if the associative equality holds then a,b,c are whole numbers. False: a=b=c=1/2 satisfies the equality but none is whole.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse: if the associative equality holds then a,b,c are whole numbers. False: a=b=c=1/2 satisfies the equality but none is whole."
+      ],
+      "sample": "Converse: if the associative equality holds then a,b,c are whole numbers. False: a=b=c=1/2 satisfies the equality but none is whole."
+    },
+    {
+      "id": "a1-76",
+      "reference": "Exercise A1.5 Q2(6)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: If x,y are odd integers, then x+y is even.",
+      "solution": [
+        "Converse: if x+y is even then x,y are odd. False: x=2,y=4 give even sum with both even."
+      ],
+      "hints": [
+        "Converse: if x+y is even then x,y are odd. False: x=2,y=4 give even sum with both even.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse: if x+y is even then x,y are odd. False: x=2,y=4 give even sum with both even."
+      ],
+      "sample": "Converse: if x+y is even then x,y are odd. False: x=2,y=4 give even sum with both even."
+    },
+    {
+      "id": "a1-77",
+      "reference": "Exercise A1.5 Q2(7)",
+      "title": "Converse and counterexample",
+      "prompt": "Form the converse and determine its truth: A parallelogram with all vertices on a circle is a rectangle.",
+      "solution": [
+        "Converse (among parallelograms): if it is a rectangle, its four vertices lie on a circle. True: opposite angles sum to 180°, the cyclic criterion."
+      ],
+      "hints": [
+        "Converse (among parallelograms): if it is a rectangle, its four vertices lie on a circle. True: opposite angles sum to 180°, the cyclic criterion.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Converse (among parallelograms): if it is a rectangle, its four vertices lie on a circle. True: opposite angles sum to 180°, the cyclic criterion."
+      ],
+      "sample": "Converse (among parallelograms): if it is a rectangle, its four vertices lie on a circle. True: opposite angles sum to 180°, the cyclic criterion."
+    },
+    {
+      "id": "a1-78",
+      "reference": "Exercise A1.6 Q1",
+      "title": "Proof by contradiction",
+      "prompt": "If a+b=c+d and a<c for real numbers, prove b>d by contradiction.",
+      "solution": [
+        "Assume b≤d.",
+        "Combining a<c and b≤d yields a+b<c+d.",
+        "This contradicts a+b=c+d; hence b>d."
+      ],
+      "hints": [
+        "Assume b≤d.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume b≤d.",
+        "My response includes this point with a reason: Combining a<c and b≤d yields a+b<c+d.",
+        "My response includes this point with a reason: This contradicts a+b=c+d; hence b>d."
+      ],
+      "sample": "Assume b≤d. Combining a<c and b≤d yields a+b<c+d. This contradicts a+b=c+d; hence b>d."
+    },
+    {
+      "id": "a1-79",
+      "reference": "Exercise A1.6 Q2",
+      "title": "Proof by contradiction",
+      "prompt": "If r is rational and x irrational, prove r+x irrational by contradiction.",
+      "solution": [
+        "Assume y=r+x is rational.",
+        "Then x=y−r is rational by closure under subtraction.",
+        "This contradicts the hypothesis that x is irrational; therefore r+x is irrational."
+      ],
+      "hints": [
+        "Assume y=r+x is rational.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume y=r+x is rational.",
+        "My response includes this point with a reason: Then x=y−r is rational by closure under subtraction.",
+        "My response includes this point with a reason: This contradicts the hypothesis that x is irrational; therefore r+x is irrational."
+      ],
+      "sample": "Assume y=r+x is rational. Then x=y−r is rational by closure under subtraction. This contradicts the hypothesis that x is irrational; therefore r+x is irrational."
+    },
+    {
+      "id": "a1-80",
+      "reference": "Exercise A1.6 Q3",
+      "title": "Proof by contradiction",
+      "prompt": "For an integer a, prove a² even implies a even.",
+      "solution": [
+        "Assume a is not even, so a=2k+1 for integer k.",
+        "Then a²=4k²+4k+1=2(2k²+2k)+1 is odd.",
+        "Contradiction: a² was even. Thus a is even."
+      ],
+      "hints": [
+        "Assume a is not even, so a=2k+1 for integer k.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume a is not even, so a=2k+1 for integer k.",
+        "My response includes this point with a reason: Then a²=4k²+4k+1=2(2k²+2k)+1 is odd.",
+        "My response includes this point with a reason: Contradiction: a² was even. Thus a is even."
+      ],
+      "sample": "Assume a is not even, so a=2k+1 for integer k. Then a²=4k²+4k+1=2(2k²+2k)+1 is odd. Contradiction: a² was even. Thus a is even."
+    },
+    {
+      "id": "a1-81",
+      "reference": "Exercise A1.6 Q4",
+      "title": "Proof by contradiction",
+      "prompt": "For an integer a, prove 3 divides a² implies 3 divides a.",
+      "solution": [
+        "Assume 3 does not divide a, so a=3k+1 or 3k−1.",
+        "In either case a²=3(3k²±2k)+1 has remainder 1 upon division by 3.",
+        "This contradicts 3 dividing a², so 3 divides a."
+      ],
+      "hints": [
+        "Assume 3 does not divide a, so a=3k+1 or 3k−1.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume 3 does not divide a, so a=3k+1 or 3k−1.",
+        "My response includes this point with a reason: In either case a²=3(3k²±2k)+1 has remainder 1 upon division by 3.",
+        "My response includes this point with a reason: This contradicts 3 dividing a², so 3 divides a."
+      ],
+      "sample": "Assume 3 does not divide a, so a=3k+1 or 3k−1. In either case a²=3(3k²±2k)+1 has remainder 1 upon division by 3. This contradicts 3 dividing a², so 3 divides a."
+    },
+    {
+      "id": "a1-82",
+      "reference": "Exercise A1.6 Q5",
+      "title": "Proof by contradiction",
+      "prompt": "Prove that 6^n cannot end in digit 0 for any positive integer n.",
+      "solution": [
+        "Assume 6^n ends in 0, so it is divisible by 10 and therefore by 5.",
+        "But 6^n=2^n·3^n has no prime factor 5, by unique prime factorisation.",
+        "Contradiction; no such positive integer n exists."
+      ],
+      "hints": [
+        "Assume 6^n ends in 0, so it is divisible by 10 and therefore by 5.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume 6^n ends in 0, so it is divisible by 10 and therefore by 5.",
+        "My response includes this point with a reason: But 6^n=2^n·3^n has no prime factor 5, by unique prime factorisation.",
+        "My response includes this point with a reason: Contradiction; no such positive integer n exists."
+      ],
+      "sample": "Assume 6^n ends in 0, so it is divisible by 10 and therefore by 5. But 6^n=2^n·3^n has no prime factor 5, by unique prime factorisation. Contradiction; no such positive integer n exists."
+    },
+    {
+      "id": "a1-83",
+      "reference": "Exercise A1.6 Q6",
+      "title": "Proof by contradiction",
+      "prompt": "Prove that two distinct coplanar lines cannot intersect in more than one point.",
+      "solution": [
+        "Assume distinct lines share two distinct points P,Q.",
+        "There is exactly one line through two distinct points.",
+        "Thus both lines would be that same line, a contradiction. Hence distinct lines share at most one point."
+      ],
+      "hints": [
+        "Assume distinct lines share two distinct points P,Q.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Assume distinct lines share two distinct points P,Q.",
+        "My response includes this point with a reason: There is exactly one line through two distinct points.",
+        "My response includes this point with a reason: Thus both lines would be that same line, a contradiction. Hence distinct lines share at most one point."
+      ],
+      "sample": "Assume distinct lines share two distinct points P,Q. There is exactly one line through two distinct points. Thus both lines would be that same line, a contradiction. Hence distinct lines share at most one point."
+    }
+  ],
+  "a2": [
+    {
+      "id": "a2-1",
+      "reference": "A2.1 Introduction",
+      "title": "Mathematics as a model",
+      "prompt": "Explain why a model is useful for questions that are hard to measure directly, and why it is not identical to reality.",
+      "solution": [
+        "A model deliberately simplifies a real situation using selected quantities and relationships.",
+        "It can help estimate inaccessible quantities, understand behaviour and predict outcomes without directly repeating an impractical experiment.",
+        "A useful model states assumptions and units, then compares its output with observations; omitted factors create limitations."
+      ],
+      "hints": [
+        "A model deliberately simplifies a real situation using selected quantities and relationships.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: A model deliberately simplifies a real situation using selected quantities and relationships.",
+        "My response includes this point with a reason: It can help estimate inaccessible quantities, understand behaviour and predict outcomes without directly repeating an impractical experiment.",
+        "My response includes this point with a reason: A useful model states assumptions and units, then compares its output with observations; omitted factors create limitations."
+      ],
+      "sample": "A model deliberately simplifies a real situation using selected quantities and relationships. It can help estimate inaccessible quantities, understand behaviour and predict outcomes without directly repeating an impractical experiment. A useful model states assumptions and units, then compares its output with observations; omitted factors create limitations."
+    },
+    {
+      "id": "a2-2",
+      "reference": "A2.2 Five stages",
+      "title": "A cycle, not just an equation",
+      "prompt": "Describe all five stages of modelling, including what to do when validation fails.",
+      "solution": [
+        "Understand: identify the target, quantities and simplifying assumptions.",
+        "Formulate: choose variables and a mathematical relation.",
+        "Solve: carry out the mathematics with units.",
+        "Interpret: translate the result into the original setting.",
+        "Validate: compare with evidence; revise assumptions or the model when necessary."
+      ],
+      "hints": [
+        "Understand: identify the target, quantities and simplifying assumptions.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: identify the target, quantities and simplifying assumptions.",
+        "My response includes this point with a reason: Formulate: choose variables and a mathematical relation.",
+        "My response includes this point with a reason: Solve: carry out the mathematics with units.",
+        "My response includes this point with a reason: Interpret: translate the result into the original setting.",
+        "My response includes this point with a reason: Validate: compare with evidence; revise assumptions or the model when necessary."
+      ],
+      "sample": "Understand: identify the target, quantities and simplifying assumptions. Formulate: choose variables and a mathematical relation. Solve: carry out the mathematics with units. Interpret: translate the result into the original setting. Validate: compare with evidence; revise assumptions or the model when necessary."
+    },
+    {
+      "id": "a2-3",
+      "reference": "A2.2 Fish illustration",
+      "title": "Mark, release and estimate",
+      "prompt": "Twenty fish are marked and released. Later a sample of 50 contains 5 marked fish. Work through all modelling stages and estimate the population.",
+      "solution": [
+        "Understand: estimate fish population N, assuming a closed population, retained marks, thorough mixing and comparable capture chances.",
+        "Formulate: marked fraction in sample 5/50 approximates population fraction 20/N.",
+        "Solve: 20/N=1/10 gives N=200.",
+        "Interpret: approximately 200 fish, not an exact census.",
+        "Validate: compare repeated representative samples; migration, lost tags or selective capture may bias the estimate."
+      ],
+      "hints": [
+        "Understand: estimate fish population N, assuming a closed population, retained marks, thorough mixing and comparable capture chances.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: estimate fish population N, assuming a closed population, retained marks, thorough mixing and comparable capture chances.",
+        "My response includes this point with a reason: Formulate: marked fraction in sample 5/50 approximates population fraction 20/N.",
+        "My response includes this point with a reason: Solve: 20/N=1/10 gives N=200.",
+        "My response includes this point with a reason: Interpret: approximately 200 fish, not an exact census.",
+        "My response includes this point with a reason: Validate: compare repeated representative samples; migration, lost tags or selective capture may bias the estimate."
+      ],
+      "sample": "Understand: estimate fish population N, assuming a closed population, retained marks, thorough mixing and comparable capture chances. Formulate: marked fraction in sample 5/50 approximates population fraction 20/N. Solve: 20/N=1/10 gives N=200. Interpret: approximately 200 fish, not an exact census. Validate: compare repeated representative samples; migration, lost tags or selective capture may bias the estimate."
+    },
+    {
+      "id": "a2-4",
+      "reference": "Example A2.1",
+      "title": "Choose a dice total",
+      "prompt": "A player guesses the sum of two fair independent dice and gains 2 points if correct, loses 2 otherwise. Model which sum has the best winning chance; explain and validate.",
+      "solution": [
+        "Understand: each ordered pair of die faces is equally likely, with 36 possibilities.",
+        "Formulate: for totals 2–12 the counts are 1,2,3,4,5,6,5,4,3,2,1.",
+        "Solve: 7 has six pairs, the largest count; P(sum 7)=6/36=1/6.",
+        "Interpret: guessing 7 maximises the winning chance, but still loses on 5/6 of rolls. Extension: expected score=2/6−2·5/6=−4/3 points per play.",
+        "Validate: compare many independent trials with these probabilities; short-run differences are expected. Biased or dependent dice invalidate equal-likelihood assumptions."
+      ],
+      "hints": [
+        "Understand: each ordered pair of die faces is equally likely, with 36 possibilities.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: each ordered pair of die faces is equally likely, with 36 possibilities.",
+        "My response includes this point with a reason: Formulate: for totals 2–12 the counts are 1,2,3,4,5,6,5,4,3,2,1.",
+        "My response includes this point with a reason: Solve: 7 has six pairs, the largest count; P(sum 7)=6/36=1/6.",
+        "My response includes this point with a reason: Interpret: guessing 7 maximises the winning chance, but still loses on 5/6 of rolls. Extension: expected score=2/6−2·5/6=−4/3 points per play.",
+        "My response includes this point with a reason: Validate: compare many independent trials with these probabilities; short-run differences are expected. Biased or dependent dice invalidate equal-likelihood assumptions."
+      ],
+      "sample": "Understand: each ordered pair of die faces is equally likely, with 36 possibilities. Formulate: for totals 2–12 the counts are 1,2,3,4,5,6,5,4,3,2,1. Solve: 7 has six pairs, the largest count; P(sum 7)=6/36=1/6. Interpret: guessing 7 maximises the winning chance, but still loses on 5/6 of rolls. Extension: expected score=2/6−2·5/6=−4/3 points per play. Validate: compare many independent trials with these probabilities; short-run differences are expected. Biased or dependent dice invalidate equal-likelihood assumptions.",
+      "table": {
+        "headers": [
+          "Sum",
+          "Ordered outcomes",
+          "Probability"
+        ],
+        "rows": [
+          [
+            2,
+            1,
+            "1/36"
+          ],
+          [
+            3,
+            2,
+            "2/36"
+          ],
+          [
+            4,
+            3,
+            "3/36"
+          ],
+          [
+            5,
+            4,
+            "4/36"
+          ],
+          [
+            6,
+            5,
+            "5/36"
+          ],
+          [
+            7,
+            6,
+            "6/36"
+          ],
+          [
+            8,
+            5,
+            "5/36"
+          ],
+          [
+            9,
+            4,
+            "4/36"
+          ],
+          [
+            10,
+            3,
+            "3/36"
+          ],
+          [
+            11,
+            2,
+            "2/36"
+          ],
+          [
+            12,
+            1,
+            "1/36"
+          ]
+        ],
+        "caption": "Two fair independent dice: all 36 ordered pairs are equally likely."
+      }
+    },
+    {
+      "id": "a2-5",
+      "reference": "A2.3 Instalment terms",
+      "title": "Match prices and timing",
+      "prompt": "Define cash price, down payment, deferred payment and instalment; explain why comparing rate labels alone can mislead.",
+      "solution": [
+        "Cash price is full payment at purchase; down payment is the initial part payment.",
+        "Deferred principal is cash price minus down payment; instalments are later scheduled payments.",
+        "Total interest in the simplified model is total instalments minus deferred principal.",
+        "Compare the same repayment dates, outstanding balances, rate convention and fees. A textbook principal-month approximation is not a full amortised-loan calculation."
+      ],
+      "hints": [
+        "Cash price is full payment at purchase; down payment is the initial part payment.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Cash price is full payment at purchase; down payment is the initial part payment.",
+        "My response includes this point with a reason: Deferred principal is cash price minus down payment; instalments are later scheduled payments.",
+        "My response includes this point with a reason: Total interest in the simplified model is total instalments minus deferred principal.",
+        "My response includes this point with a reason: Compare the same repayment dates, outstanding balances, rate convention and fees. A textbook principal-month approximation is not a full amortised-loan calculation."
+      ],
+      "sample": "Cash price is full payment at purchase; down payment is the initial part payment. Deferred principal is cash price minus down payment; instalments are later scheduled payments. Total interest in the simplified model is total instalments minus deferred principal. Compare the same repayment dates, outstanding balances, rate convention and fees. A textbook principal-month approximation is not a full amortised-loan calculation."
+    },
+    {
+      "id": "a2-6",
+      "reference": "Example A2.2",
+      "title": "Juhi’s bicycle: check the arithmetic",
+      "prompt": "Cash price ₹1800; down payment ₹600; two monthly payments of ₹610. Under the book’s principal-month simple-interest convention, find the annual rate and compare with a 10% bank rate. State limitations.",
+      "solution": [
+        "Understand: deferred principal=1800−600=₹1200; instalments total ₹1220, so interest ₹20. Assume the source’s monthly principal convention and no extra fees.",
+        "Formulate: the source counts principals ₹1200 and ₹590 for one month each, total ₹1790 principal-months. Thus 1790r/1200=20.",
+        "Solve: r=20·1200/1790≈13.41% per annum (two decimal places).",
+        "The book prints 13.14%, an arithmetic error; the displayed formula gives 13.41%.",
+        "Interpret: in this stated approximation, 10% is below 13.41%, favouring the bank. Validate repayment timing, fees and interest accounting before a real comparison; the source subtracts the whole first instalment to form the next principal, rather than performing full amortisation."
+      ],
+      "hints": [
+        "Understand: deferred principal=1800−600=₹1200; instalments total ₹1220, so interest ₹20. Assume the source’s monthly principal convention and no extra fees.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: deferred principal=1800−600=₹1200; instalments total ₹1220, so interest ₹20. Assume the source’s monthly principal convention and no extra fees.",
+        "My response includes this point with a reason: Formulate: the source counts principals ₹1200 and ₹590 for one month each, total ₹1790 principal-months. Thus 1790r/1200=20.",
+        "My response includes this point with a reason: Solve: r=20·1200/1790≈13.41% per annum (two decimal places).",
+        "My response includes this point with a reason: The book prints 13.14%, an arithmetic error; the displayed formula gives 13.41%.",
+        "My response includes this point with a reason: Interpret: in this stated approximation, 10% is below 13.41%, favouring the bank. Validate repayment timing, fees and interest accounting before a real comparison; the source subtracts the whole first instalment to form the next principal, rather than performing full amortisation."
+      ],
+      "sample": "Understand: deferred principal=1800−600=₹1200; instalments total ₹1220, so interest ₹20. Assume the source’s monthly principal convention and no extra fees. Formulate: the source counts principals ₹1200 and ₹590 for one month each, total ₹1790 principal-months. Thus 1790r/1200=20. Solve: r=20·1200/1790≈13.41% per annum (two decimal places). The book prints 13.14%, an arithmetic error; the displayed formula gives 13.41%. Interpret: in this stated approximation, 10% is below 13.41%, favouring the bank. Validate repayment timing, fees and interest accounting before a real comparison; the source subtracts the whole first instalment to form the next principal, rather than performing full amortisation."
+    },
+    {
+      "id": "a2-7",
+      "reference": "Exercise A2.1 Q1",
+      "title": "Fibonacci’s rabbit model",
+      "prompt": "Begin with one pair of newborn rabbits (month 0). Each pair first produces one new pair at age two months, then one each month; no deaths. Model the number of pairs after 16 months through all five stages.",
+      "solution": [
+        "Understand: count pairs, assuming each pair survives, breeds on schedule and produces one male–female pair each month after maturity.",
+        "Formulate: F0=1,F1=1 and Fn=F(n−1)+F(n−2) for n≥2; existing pairs survive and pairs at least two months old add newborns.",
+        "Solve by recurrence: 1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597.",
+        "Interpret: 1597 pairs at month 16 under these assumptions, not 1597 individual rabbits.",
+        "Validate: compare with real birth rates, mortality, resources and maturation. The ideal exponential-style growth eventually becomes unrealistic."
+      ],
+      "hints": [
+        "Understand: count pairs, assuming each pair survives, breeds on schedule and produces one male–female pair each month after maturity.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: count pairs, assuming each pair survives, breeds on schedule and produces one male–female pair each month after maturity.",
+        "My response includes this point with a reason: Formulate: F0=1,F1=1 and Fn=F(n−1)+F(n−2) for n≥2; existing pairs survive and pairs at least two months old add newborns.",
+        "My response includes this point with a reason: Solve by recurrence: 1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597.",
+        "My response includes this point with a reason: Interpret: 1597 pairs at month 16 under these assumptions, not 1597 individual rabbits.",
+        "My response includes this point with a reason: Validate: compare with real birth rates, mortality, resources and maturation. The ideal exponential-style growth eventually becomes unrealistic."
+      ],
+      "sample": "Understand: count pairs, assuming each pair survives, breeds on schedule and produces one male–female pair each month after maturity. Formulate: F0=1,F1=1 and Fn=F(n−1)+F(n−2) for n≥2; existing pairs survive and pairs at least two months old add newborns. Solve by recurrence: 1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597. Interpret: 1597 pairs at month 16 under these assumptions, not 1597 individual rabbits. Validate: compare with real birth rates, mortality, resources and maturation. The ideal exponential-style growth eventually becomes unrealistic.",
+      "table": {
+        "headers": [
+          "Month",
+          "Pairs"
+        ],
+        "rows": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            13
+          ],
+          [
+            7,
+            21
+          ],
+          [
+            8,
+            34
+          ],
+          [
+            9,
+            55
+          ],
+          [
+            10,
+            89
+          ],
+          [
+            11,
+            144
+          ],
+          [
+            12,
+            233
+          ],
+          [
+            13,
+            377
+          ],
+          [
+            14,
+            610
+          ],
+          [
+            15,
+            987
+          ],
+          [
+            16,
+            1597
+          ]
+        ],
+        "caption": "Source model: month 0 and month 1 each have one pair."
+      }
+    },
+    {
+      "id": "a2-8",
+      "reference": "Exercise A2.2 Q1(i)",
+      "title": "A tagged fraction",
+      "prompt": "Of a second catch of 40 parrots, 8 are ringed. Find the ringed fraction and explain its role in a population model.",
+      "solution": [
+        "The observed ringed fraction is 8/40=1/5.",
+        "Under uniform mixing and representative capture, it estimates the fraction of all parrots that are ringed.",
+        "An observed sample fraction is not guaranteed to equal the exact population fraction."
+      ],
+      "hints": [
+        "The observed ringed fraction is 8/40=1/5.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: The observed ringed fraction is 8/40=1/5.",
+        "My response includes this point with a reason: Under uniform mixing and representative capture, it estimates the fraction of all parrots that are ringed.",
+        "My response includes this point with a reason: An observed sample fraction is not guaranteed to equal the exact population fraction."
+      ],
+      "sample": "The observed ringed fraction is 8/40=1/5. Under uniform mixing and representative capture, it estimates the fraction of all parrots that are ringed. An observed sample fraction is not guaranteed to equal the exact population fraction."
+    },
+    {
+      "id": "a2-9",
+      "reference": "Exercise A2.2 Q1(ii)",
+      "title": "Estimate the parrots",
+      "prompt": "Initially 32 parrots were ringed and released. A later catch of 40 has 8 ringed birds. Use all five modelling stages to estimate the population.",
+      "solution": [
+        "Understand: target N, with a closed population, retained rings, mixing, and equal capture chances assumed.",
+        "Formulate: 32/N≈8/40=1/5.",
+        "Solve: N≈32·40/8=160.",
+        "Interpret: approximately 160 parrots; this is an estimate, not a census.",
+        "Validate using repeated representative samples and check assumptions about movement, marks and capture bias."
+      ],
+      "hints": [
+        "Understand: target N, with a closed population, retained rings, mixing, and equal capture chances assumed.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: target N, with a closed population, retained rings, mixing, and equal capture chances assumed.",
+        "My response includes this point with a reason: Formulate: 32/N≈8/40=1/5.",
+        "My response includes this point with a reason: Solve: N≈32·40/8=160.",
+        "My response includes this point with a reason: Interpret: approximately 160 parrots; this is an estimate, not a census.",
+        "My response includes this point with a reason: Validate using repeated representative samples and check assumptions about movement, marks and capture bias."
+      ],
+      "sample": "Understand: target N, with a closed population, retained rings, mixing, and equal capture chances assumed. Formulate: 32/N≈8/40=1/5. Solve: N≈32·40/8=160. Interpret: approximately 160 parrots; this is an estimate, not a census. Validate using repeated representative samples and check assumptions about movement, marks and capture bias."
+    },
+    {
+      "id": "a2-10",
+      "reference": "Exercise A2.2 Q2",
+      "title": "Estimate trees from a forest image",
+      "prompt": "Using the source forest figure shown below, plan an estimate of the number of trees (one dot per tree). Show all five modelling stages; describe how you would handle varying density and uncertainty.",
+      "solution": [
+        "Understand: estimate the tree count in the rectangular image. Define a sampling square and use the same image scale for all areas.",
+        "Formulate: if k trees occur in sample area a and total image area is A, estimate N≈(k/a)A. Better: sample several equal-area squares and use mean count times the number of squares.",
+        "Solve using your measured area and counts. For an explicitly illustrative example, mean 30 trees per square across 24 squares gives 720 trees; those are not measurements from this figure.",
+        "Interpret the result as an approximate tree count, with counting rules for boundary dots.",
+        "Validate by sampling across dense and sparse regions, using more squares or a stratified estimate. A single unrepresentative square can badly bias the result. There is no unique exact numerical answer in the source key."
+      ],
+      "hints": [
+        "Understand: estimate the tree count in the rectangular image. Define a sampling square and use the same image scale for all areas.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: estimate the tree count in the rectangular image. Define a sampling square and use the same image scale for all areas.",
+        "My response includes this point with a reason: Formulate: if k trees occur in sample area a and total image area is A, estimate N≈(k/a)A. Better: sample several equal-area squares and use mean count times the number of squares.",
+        "My response includes this point with a reason: Solve using your measured area and counts. For an explicitly illustrative example, mean 30 trees per square across 24 squares gives 720 trees; those are not measurements from this figure.",
+        "My response includes this point with a reason: Interpret the result as an approximate tree count, with counting rules for boundary dots.",
+        "My response includes this point with a reason: Validate by sampling across dense and sparse regions, using more squares or a stratified estimate. A single unrepresentative square can badly bias the result. There is no unique exact numerical answer in the source key."
+      ],
+      "sample": "Understand: estimate the tree count in the rectangular image. Define a sampling square and use the same image scale for all areas. Formulate: if k trees occur in sample area a and total image area is A, estimate N≈(k/a)A. Better: sample several equal-area squares and use mean count times the number of squares. Solve using your measured area and counts. For an explicitly illustrative example, mean 30 trees per square across 24 squares gives 720 trees; those are not measurements from this figure. Interpret the result as an approximate tree count, with counting rules for boundary dots. Validate by sampling across dense and sparse regions, using more squares or a stratified estimate. A single unrepresentative square can badly bias the result. There is no unique exact numerical answer in the source key.",
+      "figure": "forest"
+    },
+    {
+      "id": "a2-11",
+      "reference": "Exercise A2.2 Q3",
+      "title": "Ali’s television comparison",
+      "prompt": "Cash price ₹24000; down payment ₹8000; six monthly instalments of ₹2800. Compare with an 18% annual simple-interest society loan using the book’s principal-month convention. Show all modelling stages.",
+      "solution": [
+        "Understand: deferred principal=₹16000; instalments total ₹16800, so interest ₹800. Assume no fees and the source’s approximate principal-month convention.",
+        "Formulate monthly principals as 16000,13200,10400,7600,4800,2000; their sum is 54000 principal-months. Interest=54000r/1200.",
+        "Solve: r=800·1200/54000=17.777…%, or 17.78% to two decimals. The answer key’s 17.74% does not follow from these figures.",
+        "Interpret: 17.78% is slightly below 18%, so the instalment option is cheaper under this approximation. At 18%, the same principal-month total corresponds to ₹810 interest, versus ₹800.",
+        "Validate fees, repayment dates and actual interest treatment: this is the source’s simple approximation, not full amortisation. The small difference makes those assumptions material."
+      ],
+      "hints": [
+        "Understand: deferred principal=₹16000; instalments total ₹16800, so interest ₹800. Assume no fees and the source’s approximate principal-month convention.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: deferred principal=₹16000; instalments total ₹16800, so interest ₹800. Assume no fees and the source’s approximate principal-month convention.",
+        "My response includes this point with a reason: Formulate monthly principals as 16000,13200,10400,7600,4800,2000; their sum is 54000 principal-months. Interest=54000r/1200.",
+        "My response includes this point with a reason: Solve: r=800·1200/54000=17.777…%, or 17.78% to two decimals. The answer key’s 17.74% does not follow from these figures.",
+        "My response includes this point with a reason: Interpret: 17.78% is slightly below 18%, so the instalment option is cheaper under this approximation. At 18%, the same principal-month total corresponds to ₹810 interest, versus ₹800.",
+        "My response includes this point with a reason: Validate fees, repayment dates and actual interest treatment: this is the source’s simple approximation, not full amortisation. The small difference makes those assumptions material."
+      ],
+      "sample": "Understand: deferred principal=₹16000; instalments total ₹16800, so interest ₹800. Assume no fees and the source’s approximate principal-month convention. Formulate monthly principals as 16000,13200,10400,7600,4800,2000; their sum is 54000 principal-months. Interest=54000r/1200. Solve: r=800·1200/54000=17.777…%, or 17.78% to two decimals. The answer key’s 17.74% does not follow from these figures. Interpret: 17.78% is slightly below 18%, so the instalment option is cheaper under this approximation. At 18%, the same principal-month total corresponds to ₹810 interest, versus ₹800. Validate fees, repayment dates and actual interest treatment: this is the source’s simple approximation, not full amortisation. The small difference makes those assumptions material.",
+      "table": {
+        "headers": [
+          "Month",
+          "Principal used (₹)"
+        ],
+        "rows": [
+          [
+            1,
+            16000
+          ],
+          [
+            2,
+            13200
+          ],
+          [
+            3,
+            10400
+          ],
+          [
+            4,
+            7600
+          ],
+          [
+            5,
+            4800
+          ],
+          [
+            6,
+            2000
+          ]
+        ],
+        "caption": "The textbook’s principal-month convention, before each instalment."
+      }
+    },
+    {
+      "id": "a2-12",
+      "reference": "A2.4 Importance",
+      "title": "Understand, predict, estimate",
+      "prompt": "Explain three uses of modelling and why collaboration with subject experts matters.",
+      "solution": [
+        "A model can explain behaviour, predict future outcomes or estimate quantities difficult to measure directly.",
+        "Examples include product design, forecasting and population estimation.",
+        "Domain specialists help identify relevant variables and plausible assumptions; mathematicians help formulate and solve relationships.",
+        "More complexity is not always better: balance usefulness, data quality, cost and accuracy, then validate."
+      ],
+      "hints": [
+        "A model can explain behaviour, predict future outcomes or estimate quantities difficult to measure directly.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: A model can explain behaviour, predict future outcomes or estimate quantities difficult to measure directly.",
+        "My response includes this point with a reason: Examples include product design, forecasting and population estimation.",
+        "My response includes this point with a reason: Domain specialists help identify relevant variables and plausible assumptions; mathematicians help formulate and solve relationships.",
+        "My response includes this point with a reason: More complexity is not always better: balance usefulness, data quality, cost and accuracy, then validate."
+      ],
+      "sample": "A model can explain behaviour, predict future outcomes or estimate quantities difficult to measure directly. Examples include product design, forecasting and population estimation. Domain specialists help identify relevant variables and plausible assumptions; mathematicians help formulate and solve relationships. More complexity is not always better: balance usefulness, data quality, cost and accuracy, then validate."
+    },
+    {
+      "id": "a2-13",
+      "reference": "Exercise A2.3 Q1",
+      "title": "Forecast your school’s result",
+      "prompt": "Collect your school’s average Class 10 Maths percentages for the last five years. Propose a forecast for next year, explaining all modelling stages and validation. If data is unavailable, use the explicitly illustrative series 62,64,65,67,68; do not describe it as actual school data.",
+      "solution": [
+        "Understand: define the metric consistently across years and obtain authorised aggregate percentages, not individual student records. The values 62,64,65,67,68 are invented solely for illustration.",
+        "Formulate: one baseline predicts the five-year mean. An alternative fits a straight-line trend to years 1–5; compare rather than assuming a trend must persist.",
+        "Solve for the illustrative series: mean=326/5=65.2%. The least-squares slope is 1.5 percentage points/year and intercept is 60.7, giving year-6 prediction 69.7%.",
+        "Interpret: these are model estimates, not guarantees or actual school forecasts without real data. Percentages must be between 0 and 100; an out-of-range raw prediction signals a poor model.",
+        "Validate by predicting a held-out historical year using earlier years, comparing errors and considering exam, cohort or policy changes. With only five years, uncertainty remains high."
+      ],
+      "hints": [
+        "Understand: define the metric consistently across years and obtain authorised aggregate percentages, not individual student records. The values 62,64,65,67,68 are invented solely for illustration.",
+        "State why each step follows, then check the conclusion in its original context."
+      ],
+      "checklist": [
+        "My response includes this point with a reason: Understand: define the metric consistently across years and obtain authorised aggregate percentages, not individual student records. The values 62,64,65,67,68 are invented solely for illustration.",
+        "My response includes this point with a reason: Formulate: one baseline predicts the five-year mean. An alternative fits a straight-line trend to years 1–5; compare rather than assuming a trend must persist.",
+        "My response includes this point with a reason: Solve for the illustrative series: mean=326/5=65.2%. The least-squares slope is 1.5 percentage points/year and intercept is 60.7, giving year-6 prediction 69.7%.",
+        "My response includes this point with a reason: Interpret: these are model estimates, not guarantees or actual school forecasts without real data. Percentages must be between 0 and 100; an out-of-range raw prediction signals a poor model.",
+        "My response includes this point with a reason: Validate by predicting a held-out historical year using earlier years, comparing errors and considering exam, cohort or policy changes. With only five years, uncertainty remains high."
+      ],
+      "sample": "Understand: define the metric consistently across years and obtain authorised aggregate percentages, not individual student records. The values 62,64,65,67,68 are invented solely for illustration. Formulate: one baseline predicts the five-year mean. An alternative fits a straight-line trend to years 1–5; compare rather than assuming a trend must persist. Solve for the illustrative series: mean=326/5=65.2%. The least-squares slope is 1.5 percentage points/year and intercept is 60.7, giving year-6 prediction 69.7%. Interpret: these are model estimates, not guarantees or actual school forecasts without real data. Percentages must be between 0 and 100; an out-of-range raw prediction signals a poor model. Validate by predicting a held-out historical year using earlier years, comparing errors and considering exam, cohort or policy changes. With only five years, uncertainty remains high."
+    }
+  ],
+  "a1Checks": [
+    {
+      "id": "a1-check-1",
+      "reference": "Independent A1 check",
+      "title": "Negate a universal",
+      "prompt": "Negate “Every integer divisible by 6 is divisible by 3”. Is the negation true? Give a reason.",
+      "solution": [
+        "Negation: there exists an integer divisible by 6 that is not divisible by 3.",
+        "This negation is false: if n=6k, then n=3(2k) is divisible by 3."
+      ],
+      "sample": "Negation: there exists an integer divisible by 6 that is not divisible by 3. This negation is false: if n=6k, then n=3(2k) is divisible by 3.",
+      "checklist": [
+        "I used an existence claim with a negated property.",
+        "I distinguished the correct wording of a negation from its truth."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a1-check-2",
+      "reference": "Independent A1 check",
+      "title": "Test a converse",
+      "prompt": "Form and assess the converse of “If an integer is divisible by 4, it is even”.",
+      "solution": [
+        "Converse: if an integer is even, it is divisible by 4.",
+        "False: 6 is even but is not divisible by 4."
+      ],
+      "sample": "Converse: if an integer is even, it is divisible by 4. False: 6 is even but is not divisible by 4.",
+      "checklist": [
+        "I reversed the hypothesis and conclusion.",
+        "My counterexample satisfies the converse hypothesis but violates its conclusion."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a1-check-3",
+      "reference": "Independent A1 check",
+      "title": "A fresh contradiction",
+      "prompt": "Let x be irrational. Prove by contradiction that x−3 is irrational.",
+      "solution": [
+        "Assume y=x−3 is rational.",
+        "Then x=y+3 is rational because the sum of rational numbers is rational.",
+        "This contradicts the hypothesis; therefore x−3 is irrational."
+      ],
+      "sample": "Assume y=x−3 is rational. Then x=y+3 is rational because the sum of rational numbers is rational. This contradicts the hypothesis; therefore x−3 is irrational.",
+      "checklist": [
+        "I assumed the opposite of the desired conclusion.",
+        "I justified closure and identified the contradiction."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a1-check-4",
+      "reference": "Independent A1 check",
+      "title": "Consecutive even integers",
+      "prompt": "Prove that the sum of two consecutive even integers is congruent to 2 modulo 4.",
+      "solution": [
+        "Write the integers as 2k and 2k+2 for integer k.",
+        "Their sum is 4k+2, which leaves remainder 2 on division by 4."
+      ],
+      "sample": "Write the integers as 2k and 2k+2 for integer k. Their sum is 4k+2, which leaves remainder 2 on division by 4.",
+      "checklist": [
+        "I represented both consecutive even integers with one integer parameter.",
+        "I factored the sum into 4k+2."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a1-check-5",
+      "reference": "Independent A1 check",
+      "title": "A deceptive premise",
+      "prompt": "A friend says “49 is prime, so sqrt(49) is irrational”. Explain the argument form and the error.",
+      "solution": [
+        "The prime-root theorem would apply if the primality premise were true.",
+        "But 49=7² is composite, and sqrt(49)=7 is rational.",
+        "The false premise, not the prime-root theorem, invalidates the truth claim."
+      ],
+      "sample": "The prime-root theorem would apply if the primality premise were true. But 49=7² is composite, and sqrt(49)=7 is rational. The false premise, not the prime-root theorem, invalidates the truth claim.",
+      "checklist": [
+        "I separated formal deduction from a premise being true.",
+        "I gave the exact square root and factorisation."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a1-check-6",
+      "reference": "Independent A1 check",
+      "title": "A sufficient condition",
+      "prompt": "Repair “x²=y² implies x=y” by adding a sufficient condition; justify it and show why it is needed.",
+      "solution": [
+        "Require x,y≥0.",
+        "From (x−y)(x+y)=0 either x=y or x=−y; with nonnegative x,y the second possibility forces both zero, so x=y.",
+        "Without the condition, x=2 and y=−2 is a counterexample."
+      ],
+      "sample": "Require x,y≥0. From (x−y)(x+y)=0 either x=y or x=−y; with nonnegative x,y the second possibility forces both zero, so x=y. Without the condition, x=2 and y=−2 is a counterexample.",
+      "checklist": [
+        "My extra condition is sufficient, including zero.",
+        "I justified the implication and supplied an unrestricted counterexample."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a1-check-7",
+      "reference": "Independent A1 check",
+      "title": "One failed case",
+      "prompt": "The first three values of n²+n+17 at n=0,1,2 are prime. Does this prove it is prime for every nonnegative integer n? Find a counterexample.",
+      "solution": [
+        "A finite list of successful cases does not prove a universal claim.",
+        "At n=16, n²+n+17=256+16+17=289=17², which is composite.",
+        "This single counterexample disproves the universal conjecture."
+      ],
+      "sample": "A finite list of successful cases does not prove a universal claim. At n=16, n²+n+17=256+16+17=289=17², which is composite. This single counterexample disproves the universal conjecture.",
+      "checklist": [
+        "I explained why examples alone are insufficient.",
+        "I checked the counterexample is in the domain and produces a composite."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    }
+  ],
+  "a2Checks": [
+    {
+      "id": "a2-check-1",
+      "reference": "Independent A2 check",
+      "title": "A new capture sample",
+      "prompt": "Mark and release 24 animals. A representative second catch of 60 contains 6 marked animals. Assuming a closed well-mixed population, calculate the observed marked fraction and estimated population.",
+      "fields": [
+        {
+          "label": "Marked fraction",
+          "answer": 0.1,
+          "kind": "expression"
+        },
+        {
+          "label": "Estimated population",
+          "answer": 240,
+          "kind": "expression"
+        }
+      ],
+      "solution": [
+        "Marked fraction=6/60=1/10.",
+        "N≈24/(1/10)=240. This estimate depends on the stated sampling assumptions."
+      ],
+      "hints": [
+        "Identify the quantities and units first.",
+        "Write the relation before substituting the data."
+      ]
+    },
+    {
+      "id": "a2-check-2",
+      "reference": "Independent A2 check",
+      "title": "A new principal-month model",
+      "prompt": "A simplified instalment model has ₹90 total interest across 9000 principal-months. Find its annual simple-interest rate as a percentage.",
+      "fields": [
+        {
+          "label": "Annual rate (%)",
+          "answer": 12,
+          "kind": "expression"
+        }
+      ],
+      "solution": [
+        "9000r/1200=90.",
+        "r=90·1200/9000=12%."
+      ],
+      "hints": [
+        "Identify the quantities and units first.",
+        "Write the relation before substituting the data."
+      ]
+    },
+    {
+      "id": "a2-check-3",
+      "reference": "Independent A2 check",
+      "title": "Rabbit pairs",
+      "prompt": "Under the appendix rabbit assumptions with F0=F1=1, calculate pairs at month 8 and individual rabbits then.",
+      "fields": [
+        {
+          "label": "Pairs at month 8",
+          "answer": 34,
+          "kind": "expression"
+        },
+        {
+          "label": "Individual rabbits",
+          "answer": 68,
+          "kind": "expression"
+        }
+      ],
+      "solution": [
+        "The sequence is 1,1,2,3,5,8,13,21,34.",
+        "At month 8 there are 34 pairs, hence 68 rabbits."
+      ],
+      "hints": [
+        "Identify the quantities and units first.",
+        "Write the relation before substituting the data."
+      ]
+    },
+    {
+      "id": "a2-check-4",
+      "reference": "Independent A2 check",
+      "title": "Repair a sampling model",
+      "prompt": "A mark–recapture estimate is calculated after many tagged animals have left the area. Explain which assumption fails, likely bias when fewer tagged animals remain, and how to improve validation.",
+      "solution": [
+        "The closed-population assumption fails: the original marked count no longer equals the marked population present.",
+        "Other factors fixed, using an overly large original marked count with a lower recapture fraction can overestimate the current population.",
+        "Resample in an appropriate closed interval or use a model that accounts for movement, and compare representative repeated samples."
+      ],
+      "sample": "The closed-population assumption fails: the original marked count no longer equals the marked population present. Other factors fixed, using an overly large original marked count with a lower recapture fraction can overestimate the current population. Resample in an appropriate closed interval or use a model that accounts for movement, and compare representative repeated samples.",
+      "checklist": [
+        "I identified the relevant assumptions and quantities.",
+        "I justified the conclusion and proposed a concrete validation step."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a2-check-5",
+      "reference": "Independent A2 check",
+      "title": "Which sample should you use?",
+      "prompt": "A forest has dense and sparse regions. A student counts only the densest square and scales it to the entire area. Explain the flaw and propose a better five-stage plan.",
+      "solution": [
+        "Understand the target total tree count and identify density differences.",
+        "Formulate a stratified estimate: estimate density separately in dense and sparse regions, multiplying each by its own area.",
+        "Solve by summing estimated counts across regions.",
+        "Interpret an approximate count, not an exact census. Validate with additional representative squares and consistent boundary rules; dense-only sampling overestimates the whole."
+      ],
+      "sample": "Understand the target total tree count and identify density differences. Formulate a stratified estimate: estimate density separately in dense and sparse regions, multiplying each by its own area. Solve by summing estimated counts across regions. Interpret an approximate count, not an exact census. Validate with additional representative squares and consistent boundary rules; dense-only sampling overestimates the whole.",
+      "checklist": [
+        "I identified the relevant assumptions and quantities.",
+        "I justified the conclusion and proposed a concrete validation step."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a2-check-6",
+      "reference": "Independent A2 check",
+      "title": "Validate a forecast",
+      "prompt": "A straight-line model predicts next year’s school average as 103%. Explain why this output needs review and how to test a replacement model.",
+      "solution": [
+        "A school percentage must lie between 0 and 100, so 103% is outside the valid range.",
+        "Report the raw output as a model failure rather than silently replacing it with 100%.",
+        "Compare a mean baseline and a bounded model on held-out historical years; review changing cohorts, exams and data consistency. State uncertainty."
+      ],
+      "sample": "A school percentage must lie between 0 and 100, so 103% is outside the valid range. Report the raw output as a model failure rather than silently replacing it with 100%. Compare a mean baseline and a bounded model on held-out historical years; review changing cohorts, exams and data consistency. State uncertainty.",
+      "checklist": [
+        "I identified the relevant assumptions and quantities.",
+        "I justified the conclusion and proposed a concrete validation step."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    },
+    {
+      "id": "a2-check-7",
+      "reference": "Independent A2 check",
+      "title": "Payment conventions",
+      "prompt": "Two loans advertise the same annual percentage but have different fees and repayment dates. Is that enough to conclude their total costs are equal? Explain what a model must include.",
+      "solution": [
+        "No: equal rate labels do not imply equal total costs.",
+        "Specify principal, fees, interest convention, outstanding balances and exact payment dates.",
+        "Compute cash flows under a common convention, interpret the cost difference and validate the assumptions against the actual terms."
+      ],
+      "sample": "No: equal rate labels do not imply equal total costs. Specify principal, fees, interest convention, outstanding balances and exact payment dates. Compute cash flows under a common convention, interpret the cost difference and validate the assumptions against the actual terms.",
+      "checklist": [
+        "I identified the relevant assumptions and quantities.",
+        "I justified the conclusion and proposed a concrete validation step."
+      ],
+      "hints": [
+        "Begin by writing the hypotheses and the exact conclusion.",
+        "Use a definition or established result to justify each step."
+      ]
+    }
+  ]
+}

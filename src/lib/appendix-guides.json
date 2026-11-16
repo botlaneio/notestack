@@ -1,0 +1,1284 @@
+[
+  {
+    "number": 15,
+    "code": "A1",
+    "slug": "proofs-in-mathematics",
+    "title": "Proofs in Mathematics",
+    "sections": [
+      "A1.1 Introduction",
+      "A1.2 Mathematical Statements Revisited",
+      "A1.3 Deductive Reasoning",
+      "A1.4 Conjectures, Theorems, Proofs and Mathematical Reasoning",
+      "A1.5 Negation of a Statement",
+      "A1.6 Converse of a Statement",
+      "A1.7 Proof by Contradiction",
+      "A1.8 Summary"
+    ],
+    "steps": [
+      {
+        "id": "a1-why-proof",
+        "section": 0,
+        "title": "Why explain the why?",
+        "intro": "A calculation or diagram may suggest a fact. A proof explains why it follows for every case allowed by the hypotheses.",
+        "simple": "Examples are evidence, not a proof of a universal claim.",
+        "example": [
+          "Examples are evidence, not a proof of a universal claim.",
+          "Each proof step needs a definition, hypothesis, axiom or established result."
+        ],
+        "question": "What establishes a general mathematical claim?",
+        "options": [
+          "A convincing picture",
+          "Many successful trials",
+          "A valid argument covering every permitted case"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. Examples are evidence, not a proof of a universal claim.",
+          "Reconsider this choice. Examples are evidence, not a proof of a universal claim.",
+          "Correct. Each proof step needs a definition, hypothesis, axiom or established result."
+        ],
+        "hints": [
+          "Examples are evidence, not a proof of a universal claim.",
+          "Each proof step needs a definition, hypothesis, axiom or established result."
+        ]
+      },
+      {
+        "id": "a1-statements",
+        "section": 1,
+        "title": "Can it be true or false?",
+        "intro": "A mathematical statement has a precise meaning and a definite truth value, even when that value is not yet known.",
+        "simple": "“All hexagons are polygons” is a true statement.",
+        "example": [
+          "“All hexagons are polygons” is a true statement.",
+          "“This textbook is interesting” needs a fixed criterion before it is precise."
+        ],
+        "question": "Which is a precise mathematical statement?",
+        "options": [
+          "This exercise is nice",
+          "All even integers are divisible by 2",
+          "This triangle is beautiful"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. “All hexagons are polygons” is a true statement.",
+          "Correct. “This textbook is interesting” needs a fixed criterion before it is precise.",
+          "Reconsider this choice. “All hexagons are polygons” is a true statement."
+        ],
+        "hints": [
+          "“All hexagons are polygons” is a true statement.",
+          "“This textbook is interesting” needs a fixed criterion before it is precise."
+        ]
+      },
+      {
+        "id": "a1-quantifiers",
+        "section": 1,
+        "title": "All, some and none",
+        "intro": "All means every member of the stated domain. Some means at least one, not necessarily only a few.",
+        "simple": "One counterexample disproves “all”; one example establishes “some”.",
+        "example": [
+          "One counterexample disproves “all”; one example establishes “some”.",
+          "sqrt(2) shows that not all real numbers are rational."
+        ],
+        "question": "What is enough to disprove “all isosceles triangles are equilateral”?",
+        "options": [
+          "One triangle with sides 3,3,4",
+          "One equilateral triangle",
+          "Measuring many equilateral triangles"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. sqrt(2) shows that not all real numbers are rational.",
+          "Reconsider this choice. One counterexample disproves “all”; one example establishes “some”.",
+          "Reconsider this choice. One counterexample disproves “all”; one example establishes “some”."
+        ],
+        "hints": [
+          "One counterexample disproves “all”; one example establishes “some”.",
+          "sqrt(2) shows that not all real numbers are rational."
+        ]
+      },
+      {
+        "id": "a1-domains",
+        "section": 1,
+        "title": "Conditions matter",
+        "intro": "From a²>b² you cannot conclude a>b for unrestricted real numbers.",
+        "simple": "Take a=−3,b=2: 9>4 but −3<2.",
+        "example": [
+          "Take a=−3,b=2: 9>4 but −3<2.",
+          "If a,b≥0 then squaring preserves their order."
+        ],
+        "question": "Which condition makes the implication safe?",
+        "options": [
+          "a,b are nonnegative",
+          "a,b can have any signs",
+          "a is negative"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. If a,b≥0 then squaring preserves their order.",
+          "Reconsider this choice. Take a=−3,b=2: 9>4 but −3<2.",
+          "Reconsider this choice. Take a=−3,b=2: 9>4 but −3<2."
+        ],
+        "hints": [
+          "Take a=−3,b=2: 9>4 but −3<2.",
+          "If a,b≥0 then squaring preserves their order."
+        ]
+      },
+      {
+        "id": "a1-zero-product",
+        "section": 1,
+        "title": "Separate “both” and “either”",
+        "intro": "If ab≠0 then neither factor is zero. Everyday “either … or” can mean at least one or exactly one.",
+        "simple": "Both a and b must be nonzero.",
+        "example": [
+          "Both a and b must be nonzero.",
+          "The book treats “either” exclusively in A1.1 Q3; inclusive OR would give a different truth judgement."
+        ],
+        "question": "Given ab≠0, which is unambiguously true?",
+        "options": [
+          "Exactly one factor is nonzero",
+          "Both factors are nonzero",
+          "Both are zero"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Both a and b must be nonzero.",
+          "Correct. The book treats “either” exclusively in A1.1 Q3; inclusive OR would give a different truth judgement.",
+          "Reconsider this choice. Both a and b must be nonzero."
+        ],
+        "hints": [
+          "Both a and b must be nonzero.",
+          "The book treats “either” exclusively in A1.1 Q3; inclusive OR would give a different truth judgement."
+        ]
+      },
+      {
+        "id": "a1-deduction",
+        "section": 2,
+        "title": "Premises lead to a conclusion",
+        "intro": "A deduction applies general facts or rules to stated hypotheses. Its validity and the truth of its premises are separate questions.",
+        "simple": "All women are mortal; A is a woman; therefore A is mortal.",
+        "example": [
+          "All women are mortal; A is a woman; therefore A is mortal.",
+          "The conclusion follows from the premises in this argument."
+        ],
+        "question": "What is a premise?",
+        "options": [
+          "The statement to be deduced",
+          "A starting assumption or given fact",
+          "An unlabelled guess"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. All women are mortal; A is a woman; therefore A is mortal.",
+          "Correct. The conclusion follows from the premises in this argument.",
+          "Reconsider this choice. All women are mortal; A is a woman; therefore A is mortal."
+        ],
+        "hints": [
+          "All women are mortal; A is a woman; therefore A is mortal.",
+          "The conclusion follows from the premises in this argument."
+        ]
+      },
+      {
+        "id": "a1-substitution",
+        "section": 2,
+        "title": "Justify each calculation",
+        "intro": "In y=x²+6 with x=−1, substitute first and keep the negative number inside brackets.",
+        "simple": "(−1)²=1, not −1.",
+        "example": [
+          "(−1)²=1, not −1.",
+          "y=(−1)²+6=7."
+        ],
+        "question": "What is y?",
+        "options": [
+          "5",
+          "−7",
+          "7"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. (−1)²=1, not −1.",
+          "Reconsider this choice. (−1)²=1, not −1.",
+          "Correct. y=(−1)²+6=7."
+        ],
+        "hints": [
+          "(−1)²=1, not −1.",
+          "y=(−1)²+6=7."
+        ]
+      },
+      {
+        "id": "a1-false-premise",
+        "section": 2,
+        "title": "A valid form can use a false premise",
+        "intro": "Suppose 3721 is prime. The prime-root theorem would then imply sqrt(3721) is irrational, but the premise must be checked.",
+        "simple": "3721=61², so it is not prime.",
+        "example": [
+          "3721=61², so it is not prime.",
+          "In reality sqrt(3721)=61 is rational."
+        ],
+        "question": "What failed in the proposed irrationality claim?",
+        "options": [
+          "The prime-root theorem",
+          "The assumption that 3721 is prime",
+          "The equality 61²=3721"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. 3721=61², so it is not prime.",
+          "Correct. In reality sqrt(3721)=61 is rational.",
+          "Reconsider this choice. 3721=61², so it is not prime."
+        ],
+        "hints": [
+          "3721=61², so it is not prime.",
+          "In reality sqrt(3721)=61 is rational."
+        ]
+      },
+      {
+        "id": "a1-conjecture",
+        "section": 3,
+        "title": "A pattern becomes a question",
+        "intro": "A conjecture is a plausible claim awaiting proof. A theorem has been proved. Measurements of equal tangents suggest a theorem but do not prove all cases.",
+        "simple": "A conjecture may fit many examples and still be false.",
+        "example": [
+          "A conjecture may fit many examples and still be false.",
+          "A theorem needs a valid proof from accepted starting points."
+        ],
+        "question": "Which is a theorem?",
+        "options": [
+          "A statement established by proof",
+          "Any pattern seen five times",
+          "A diagram that looks right"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A theorem needs a valid proof from accepted starting points.",
+          "Reconsider this choice. A conjecture may fit many examples and still be false.",
+          "Reconsider this choice. A conjecture may fit many examples and still be false."
+        ],
+        "hints": [
+          "A conjecture may fit many examples and still be false.",
+          "A theorem needs a valid proof from accepted starting points."
+        ]
+      },
+      {
+        "id": "a1-regions",
+        "section": 3,
+        "title": "The sixth case breaks the pattern",
+        "intro": "Maximum circle regions for 1–6 points are 1,2,4,8,16,31. Use general-position points: no three chords cross at one interior point.",
+        "simple": "The powers-of-two conjecture predicts 32 at six points.",
+        "example": [
+          "The powers-of-two conjecture predicts 32 at six points.",
+          "The actual maximum 31 disproves that conjecture; a regular polygon can create concurrent chords and fewer regions."
+        ],
+        "question": "Which count breaks 2^(n−1)?",
+        "options": [
+          "4 at n=3",
+          "16 at n=5",
+          "31 at n=6"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. The powers-of-two conjecture predicts 32 at six points.",
+          "Reconsider this choice. The powers-of-two conjecture predicts 32 at six points.",
+          "Correct. The actual maximum 31 disproves that conjecture; a regular polygon can create concurrent chords and fewer regions."
+        ],
+        "hints": [
+          "The powers-of-two conjecture predicts 32 at six points.",
+          "The actual maximum 31 disproves that conjecture; a regular polygon can create concurrent chords and fewer regions."
+        ],
+        "explorer": "logic"
+      },
+      {
+        "id": "a1-rational-sum",
+        "section": 3,
+        "title": "Construct a rational sum",
+        "intro": "For integers m,n,p,q with n,q≠0, m/n+p/q=(mq+pn)/(nq).",
+        "simple": "The numerator is an integer and nq is a nonzero integer.",
+        "example": [
+          "The numerator is an integer and nq is a nonzero integer.",
+          "This is the definition of a rational number, so closure follows for all such inputs."
+        ],
+        "question": "Why state n,q≠0?",
+        "options": [
+          "A rational fraction must have nonzero denominator",
+          "It makes every numerator positive",
+          "It forces the sum to be nonzero"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This is the definition of a rational number, so closure follows for all such inputs.",
+          "Reconsider this choice. The numerator is an integer and nq is a nonzero integer.",
+          "Reconsider this choice. The numerator is an integer and nq is a nonzero integer."
+        ],
+        "hints": [
+          "The numerator is an integer and nq is a nonzero integer.",
+          "This is the definition of a rational number, so closure follows for all such inputs."
+        ]
+      },
+      {
+        "id": "a1-prime-cases",
+        "section": 3,
+        "title": "Exhaust all remainders",
+        "intro": "A prime p>3 leaves remainder 0,1,2,3,4 or 5 on division by 6. Four possibilities violate primality.",
+        "simple": "Remainders 0,2,4 make p even; remainder 3 makes it divisible by 3.",
+        "example": [
+          "Remainders 0,2,4 make p even; remainder 3 makes it divisible by 3.",
+          "Only p=6k+1 or 6k+5 remains. The converse is false: 25=6·4+1 is composite."
+        ],
+        "question": "Does 6k±1 guarantee primality?",
+        "options": [
+          "Yes",
+          "No; 25 is a counterexample",
+          "Only if k is positive"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Remainders 0,2,4 make p even; remainder 3 makes it divisible by 3.",
+          "Correct. Only p=6k+1 or 6k+5 remains. The converse is false: 25=6·4+1 is composite.",
+          "Reconsider this choice. Remainders 0,2,4 make p even; remainder 3 makes it divisible by 3."
+        ],
+        "hints": [
+          "Remainders 0,2,4 make p even; remainder 3 makes it divisible by 3.",
+          "Only p=6k+1 or 6k+5 remains. The converse is false: 25=6·4+1 is composite."
+        ]
+      },
+      {
+        "id": "a1-pythagoras",
+        "section": 3,
+        "title": "Prove a converse by construction",
+        "intro": "To prove AC²=AB²+BC² forces a right angle at B, construct BD perpendicular to AB with BD=BC.",
+        "simple": "Pythagoras in ABD gives AD²=AB²+BD²=AC², hence AD=AC.",
+        "example": [
+          "Pythagoras in ABD gives AD²=AB²+BD²=AC², hence AD=AC.",
+          "SSS makes ABC and ABD congruent; therefore angle ABC=90°."
+        ],
+        "question": "Which congruence criterion completes the proof?",
+        "options": [
+          "AAA",
+          "SSS",
+          "Area equality alone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Pythagoras in ABD gives AD²=AB²+BD²=AC², hence AD=AC.",
+          "Correct. SSS makes ABC and ABD congruent; therefore angle ABC=90°.",
+          "Reconsider this choice. Pythagoras in ABD gives AD²=AB²+BD²=AC², hence AD=AC."
+        ],
+        "hints": [
+          "Pythagoras in ABD gives AD²=AB²+BD²=AC², hence AD=AC.",
+          "SSS makes ABC and ABD congruent; therefore angle ABC=90°."
+        ]
+      },
+      {
+        "id": "a1-proof-quality",
+        "section": 3,
+        "title": "Avoid circular arguments",
+        "intro": "A proof cannot assume the very statement it is trying to establish. You may use a theorem already proved independently.",
+        "simple": "Write the hypotheses, goal and reason for each step.",
+        "example": [
+          "Write the hypotheses, goal and reason for each step.",
+          "Using a picture as a reason for an exact equality leaves a gap."
+        ],
+        "question": "Which is circular?",
+        "options": [
+          "Using a previously proved theorem",
+          "Rearranging a given equation",
+          "Assuming the desired conclusion to justify itself"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. Write the hypotheses, goal and reason for each step.",
+          "Reconsider this choice. Write the hypotheses, goal and reason for each step.",
+          "Correct. Using a picture as a reason for an exact equality leaves a gap."
+        ],
+        "hints": [
+          "Write the hypotheses, goal and reason for each step.",
+          "Using a picture as a reason for an exact equality leaves a gap."
+        ]
+      },
+      {
+        "id": "a1-not-all",
+        "section": 4,
+        "title": "Negate the quantifier",
+        "intro": "The negation of “all P have property Q” is “at least one P does not have property Q”.",
+        "simple": "Negating all does not mean changing all to none.",
+        "example": [
+          "Negating all does not mean changing all to none.",
+          "The negation of “all cats are black” is “some cat is not black”."
+        ],
+        "question": "Negate “all integers are rational”.",
+        "options": [
+          "No integers are rational",
+          "Some integer is not rational",
+          "Some integer is rational"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Negating all does not mean changing all to none.",
+          "Correct. The negation of “all cats are black” is “some cat is not black”.",
+          "Reconsider this choice. Negating all does not mean changing all to none."
+        ],
+        "hints": [
+          "Negating all does not mean changing all to none.",
+          "The negation of “all cats are black” is “some cat is not black”."
+        ]
+      },
+      {
+        "id": "a1-not-some",
+        "section": 4,
+        "title": "Some becomes none",
+        "intro": "The negation of an existence claim denies every possible witness. A correct negation need not be true.",
+        "simple": "“Some horses are not brown” negates to “all horses are brown”.",
+        "example": [
+          "“Some horses are not brown” negates to “all horses are brown”.",
+          "“No real x has x²=−1” negates to “there exists a real x with x²=−1”."
+        ],
+        "question": "Negate “some primes are odd”.",
+        "options": [
+          "Some primes are even",
+          "No prime is odd",
+          "Not all primes are odd"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. “Some horses are not brown” negates to “all horses are brown”.",
+          "Correct. “No real x has x²=−1” negates to “there exists a real x with x²=−1”.",
+          "Reconsider this choice. “Some horses are not brown” negates to “all horses are brown”."
+        ],
+        "hints": [
+          "“Some horses are not brown” negates to “all horses are brown”.",
+          "“No real x has x²=−1” negates to “there exists a real x with x²=−1”."
+        ]
+      },
+      {
+        "id": "a1-scope",
+        "section": 4,
+        "title": "Put “not” in the right place",
+        "intro": "“Not all fire engines are red” allows some red and some non-red. “All fire engines are non-red” excludes every red engine.",
+        "simple": "At least one non-red engine disproves “all red”.",
+        "example": [
+          "At least one non-red engine disproves “all red”.",
+          "Scope matters: not all and all not express different claims."
+        ],
+        "question": "What precisely negates “all engines are red”?",
+        "options": [
+          "At least one engine is not red",
+          "Every engine is not red",
+          "Some engines are red"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Scope matters: not all and all not express different claims.",
+          "Reconsider this choice. At least one non-red engine disproves “all red”.",
+          "Reconsider this choice. At least one non-red engine disproves “all red”."
+        ],
+        "hints": [
+          "At least one non-red engine disproves “all red”.",
+          "Scope matters: not all and all not express different claims."
+        ]
+      },
+      {
+        "id": "a1-converse",
+        "section": 5,
+        "title": "Reverse the arrow",
+        "intro": "For “if P then Q”, the converse is “if Q then P”. This is different from negating the statement.",
+        "simple": "A cat implies an animal; an animal need not be a cat.",
+        "example": [
+          "A cat implies an animal; an animal need not be a cat.",
+          "The truth of an implication does not automatically establish its converse."
+        ],
+        "question": "What is the converse of “if a plant flowers, it is alive”?",
+        "options": [
+          "If it is not alive, it does not flower",
+          "If a plant is alive, it flowers",
+          "The plant does not flower"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. A cat implies an animal; an animal need not be a cat.",
+          "Correct. The truth of an implication does not automatically establish its converse.",
+          "Reconsider this choice. A cat implies an animal; an animal need not be a cat."
+        ],
+        "hints": [
+          "A cat implies an animal; an animal need not be a cat.",
+          "The truth of an implication does not automatically establish its converse."
+        ]
+      },
+      {
+        "id": "a1-converse-test",
+        "section": 5,
+        "title": "Test rather than assume",
+        "intro": "If x,y are odd integers their sum is even. The converse is false because an even sum can come from two even integers.",
+        "simple": "2+4=6 is even but neither summand is odd.",
+        "example": [
+          "2+4=6 is even but neither summand is odd.",
+          "A counterexample must satisfy the converse hypothesis and violate its conclusion."
+        ],
+        "question": "Which disproves “even sum implies both odd”?",
+        "options": [
+          "3+5=8",
+          "1+7=8",
+          "2+4=6"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. 2+4=6 is even but neither summand is odd.",
+          "Reconsider this choice. 2+4=6 is even but neither summand is odd.",
+          "Correct. A counterexample must satisfy the converse hypothesis and violate its conclusion."
+        ],
+        "hints": [
+          "2+4=6 is even but neither summand is odd.",
+          "A counterexample must satisfy the converse hypothesis and violate its conclusion."
+        ]
+      },
+      {
+        "id": "a1-true-converse",
+        "section": 5,
+        "title": "Some converses are theorems",
+        "intro": "Equal base angles imply corresponding equal sides, so the isosceles-triangle theorem has a true converse.",
+        "simple": "For integer a, a² odd also implies a odd: an even a would have even square.",
+        "example": [
+          "For integer a, a² odd also implies a odd: an even a would have even square.",
+          "Keep domains explicit; the words integer and triangle carry essential conditions."
+        ],
+        "question": "If an integer a has an odd square, what follows?",
+        "options": [
+          "a is odd",
+          "a is even",
+          "a need not be an integer"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Keep domains explicit; the words integer and triangle carry essential conditions.",
+          "Reconsider this choice. For integer a, a² odd also implies a odd: an even a would have even square.",
+          "Reconsider this choice. For integer a, a² odd also implies a odd: an even a would have even square."
+        ],
+        "hints": [
+          "For integer a, a² odd also implies a odd: an even a would have even square.",
+          "Keep domains explicit; the words integer and triangle carry essential conditions."
+        ]
+      },
+      {
+        "id": "a1-contradiction",
+        "section": 6,
+        "title": "Assume the opposite temporarily",
+        "intro": "A contradiction proof assumes the negation of the desired conclusion, then derives an impossibility using the hypotheses.",
+        "simple": "To show rational r plus irrational x is irrational, suppose y=r+x is rational.",
+        "example": [
+          "To show rational r plus irrational x is irrational, suppose y=r+x is rational.",
+          "Then x=y−r would be rational, contradicting x irrational."
+        ],
+        "question": "What is rejected at the end?",
+        "options": [
+          "The original hypotheses",
+          "The temporary opposite assumption",
+          "All previously proved results"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. To show rational r plus irrational x is irrational, suppose y=r+x is rational.",
+          "Correct. Then x=y−r would be rational, contradicting x irrational.",
+          "Reconsider this choice. To show rational r plus irrational x is irrational, suppose y=r+x is rational."
+        ],
+        "hints": [
+          "To show rational r plus irrational x is irrational, suppose y=r+x is rational.",
+          "Then x=y−r would be rational, contradicting x irrational."
+        ]
+      },
+      {
+        "id": "a1-parity",
+        "section": 6,
+        "title": "An even square forces an even integer",
+        "intro": "Assume a² is even but integer a is odd. Write a=2k+1.",
+        "simple": "a²=4k²+4k+1=2(2k²+2k)+1 is odd.",
+        "example": [
+          "a²=4k²+4k+1=2(2k²+2k)+1 is odd.",
+          "This contradicts the even-square hypothesis, so a must be even."
+        ],
+        "question": "What creates the contradiction?",
+        "options": [
+          "The square is both even and odd",
+          "k might be zero",
+          "An odd integer cannot be squared"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This contradicts the even-square hypothesis, so a must be even.",
+          "Reconsider this choice. a²=4k²+4k+1=2(2k²+2k)+1 is odd.",
+          "Reconsider this choice. a²=4k²+4k+1=2(2k²+2k)+1 is odd."
+        ],
+        "hints": [
+          "a²=4k²+4k+1=2(2k²+2k)+1 is odd.",
+          "This contradicts the even-square hypothesis, so a must be even."
+        ]
+      },
+      {
+        "id": "a1-prime-five",
+        "section": 6,
+        "title": "A final zero requires a factor 5",
+        "intro": "If 6^n ended in zero it would be divisible by 10 and hence by 5.",
+        "simple": "6^n=2^n·3^n has only prime factors 2 and 3.",
+        "example": [
+          "6^n=2^n·3^n has only prime factors 2 and 3.",
+          "Unique prime factorisation rules out a factor 5 for positive integer n."
+        ],
+        "question": "Why can 6^n not end in zero?",
+        "options": [
+          "It is always odd",
+          "It has no prime factor 5",
+          "It is always less than 10"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. 6^n=2^n·3^n has only prime factors 2 and 3.",
+          "Correct. Unique prime factorisation rules out a factor 5 for positive integer n.",
+          "Reconsider this choice. 6^n=2^n·3^n has only prime factors 2 and 3."
+        ],
+        "hints": [
+          "6^n=2^n·3^n has only prime factors 2 and 3.",
+          "Unique prime factorisation rules out a factor 5 for positive integer n."
+        ]
+      },
+      {
+        "id": "a1-shortest",
+        "section": 6,
+        "title": "The perpendicular is shortest",
+        "intro": "Suppose a shortest segment PM from a point to a line is not perpendicular. Draw the perpendicular PN.",
+        "simple": "In right triangle PNM, PM is the hypotenuse and is longer than PN.",
+        "example": [
+          "In right triangle PNM, PM is the hypotenuse and is longer than PN.",
+          "This contradicts PM being shortest; the shortest segment must be perpendicular."
+        ],
+        "question": "What contradicts the shortest assumption?",
+        "options": [
+          "PN is shorter than PM",
+          "PM and PN share P",
+          "N and M are on the line"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This contradicts PM being shortest; the shortest segment must be perpendicular.",
+          "Reconsider this choice. In right triangle PNM, PM is the hypotenuse and is longer than PN.",
+          "Reconsider this choice. In right triangle PNM, PM is the hypotenuse and is longer than PN."
+        ],
+        "hints": [
+          "In right triangle PNM, PM is the hypotenuse and is longer than PN.",
+          "This contradicts PM being shortest; the shortest segment must be perpendicular."
+        ]
+      },
+      {
+        "id": "a1-recap",
+        "section": 7,
+        "title": "Write, justify, challenge",
+        "intro": "Precision, valid deduction and checked premises work together. A guided selection does not replace a complete written proof.",
+        "simple": "Try a proof without viewing the model, then compare every reason.",
+        "example": [
+          "Try a proof without viewing the model, then compare every reason.",
+          "Self-review records your comparison; a teacher still needs to verify validity."
+        ],
+        "question": "What should you do after completing these guided checks?",
+        "options": [
+          "Assume every proof you write is valid",
+          "Skip the exercises",
+          "Write the mapped arguments and have them reviewed"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. Try a proof without viewing the model, then compare every reason.",
+          "Reconsider this choice. Try a proof without viewing the model, then compare every reason.",
+          "Correct. Self-review records your comparison; a teacher still needs to verify validity."
+        ],
+        "hints": [
+          "Try a proof without viewing the model, then compare every reason.",
+          "Self-review records your comparison; a teacher still needs to verify validity."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Statements",
+        "Specify domains, quantifiers and conditions."
+      ],
+      [
+        "Proofs",
+        "Use justified deductions; a pattern is not a proof."
+      ],
+      [
+        "Logic",
+        "Distinguish negation, converse and contradiction."
+      ]
+    ],
+    "challenge": "Complete the source-mapped written activities and explain each step. Ask a teacher to check your reasoning; guided answers and self-review do not establish mastery."
+  },
+  {
+    "number": 16,
+    "code": "A2",
+    "slug": "mathematical-modelling",
+    "title": "Mathematical Modelling",
+    "sections": [
+      "A2.1 Introduction",
+      "A2.2 Stages in Mathematical Modelling",
+      "A2.3 Some Illustrations of Mathematical Modelling",
+      "A2.4 Why is Mathematical Modelling Important?",
+      "A2.5 Summary"
+    ],
+    "steps": [
+      {
+        "id": "a2-why-model",
+        "section": 0,
+        "title": "A useful simplification",
+        "intro": "A mathematical model represents selected aspects of a real problem using variables, equations, tables or probabilities.",
+        "simple": "A model simplifies; it does not reproduce all of reality.",
+        "example": [
+          "A model simplifies; it does not reproduce all of reality.",
+          "Assumptions determine when the result is useful."
+        ],
+        "question": "Why state assumptions?",
+        "options": [
+          "To make every result exact",
+          "To show when the model applies",
+          "To avoid checking evidence"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. A model simplifies; it does not reproduce all of reality.",
+          "Correct. Assumptions determine when the result is useful.",
+          "Reconsider this choice. A model simplifies; it does not reproduce all of reality."
+        ],
+        "hints": [
+          "A model simplifies; it does not reproduce all of reality.",
+          "Assumptions determine when the result is useful."
+        ]
+      },
+      {
+        "id": "a2-estimate",
+        "section": 0,
+        "title": "Reach what is hard to measure",
+        "intro": "Models can estimate a population, predict an outcome or explain behaviour without measuring every object directly.",
+        "simple": "Indirect estimates rely on a relationship between observable data and the target.",
+        "example": [
+          "Indirect estimates rely on a relationship between observable data and the target.",
+          "They should carry units and acknowledge uncertainty."
+        ],
+        "question": "Which is a model output?",
+        "options": [
+          "An unquestionable fact about the future",
+          "A result conditional on data and assumptions",
+          "A replacement for all observations"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Indirect estimates rely on a relationship between observable data and the target.",
+          "Correct. They should carry units and acknowledge uncertainty.",
+          "Reconsider this choice. Indirect estimates rely on a relationship between observable data and the target."
+        ],
+        "hints": [
+          "Indirect estimates rely on a relationship between observable data and the target.",
+          "They should carry units and acknowledge uncertainty."
+        ]
+      },
+      {
+        "id": "a2-stages",
+        "section": 1,
+        "title": "Five stages with a return path",
+        "intro": "Understand and simplify → formulate → solve → interpret → validate. Validation may send you back to change the model.",
+        "simple": "Solving an equation is only one stage.",
+        "example": [
+          "Solving an equation is only one stage.",
+          "A mathematically correct solution may still be inappropriate if the assumptions fail."
+        ],
+        "question": "What follows interpretation?",
+        "options": [
+          "Accept forever",
+          "Ignore real data",
+          "Validate and revise if needed"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. Solving an equation is only one stage.",
+          "Reconsider this choice. Solving an equation is only one stage.",
+          "Correct. A mathematically correct solution may still be inappropriate if the assumptions fail."
+        ],
+        "hints": [
+          "Solving an equation is only one stage.",
+          "A mathematically correct solution may still be inappropriate if the assumptions fail."
+        ]
+      },
+      {
+        "id": "a2-fish",
+        "section": 1,
+        "title": "How a small sample helps",
+        "intro": "Mark 20 fish, release and mix them, then catch 50 with 5 marked. Equate the approximate marked fractions.",
+        "simple": "5/50≈20/N under representative sampling.",
+        "example": [
+          "5/50≈20/N under representative sampling.",
+          "N≈20·50/5=200 fish, an estimate rather than a census."
+        ],
+        "question": "What is the model estimate?",
+        "options": [
+          "50 fish",
+          "200 fish",
+          "1000 fish"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. 5/50≈20/N under representative sampling.",
+          "Correct. N≈20·50/5=200 fish, an estimate rather than a census.",
+          "Reconsider this choice. 5/50≈20/N under representative sampling."
+        ],
+        "hints": [
+          "5/50≈20/N under representative sampling.",
+          "N≈20·50/5=200 fish, an estimate rather than a census."
+        ],
+        "explorer": "modelling"
+      },
+      {
+        "id": "a2-assumptions",
+        "section": 1,
+        "title": "Check how the sample was made",
+        "intro": "Mark–recapture needs retained marks, a closed population, mixing and comparable capture probabilities.",
+        "simple": "If marked animals avoid the trap, the recapture sample is biased.",
+        "example": [
+          "If marked animals avoid the trap, the recapture sample is biased.",
+          "A reliable-looking calculation cannot fix unrepresentative data."
+        ],
+        "question": "Which threatens this model?",
+        "options": [
+          "Using the same units",
+          "Checking a second sample",
+          "Marked animals becoming harder to capture"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. If marked animals avoid the trap, the recapture sample is biased.",
+          "Reconsider this choice. If marked animals avoid the trap, the recapture sample is biased.",
+          "Correct. A reliable-looking calculation cannot fix unrepresentative data."
+        ],
+        "hints": [
+          "If marked animals avoid the trap, the recapture sample is biased.",
+          "A reliable-looking calculation cannot fix unrepresentative data."
+        ]
+      },
+      {
+        "id": "a2-zero-recapture",
+        "section": 1,
+        "title": "A zero is not infinity",
+        "intro": "If no marked animals appear in the second sample, the equation divides by zero and cannot give a finite estimate.",
+        "simple": "Do not report an infinite population from zero recaptures.",
+        "example": [
+          "Do not report an infinite population from zero recaptures.",
+          "Gather better representative data and reconsider the model."
+        ],
+        "question": "What should the app report when recaptured marked count is zero?",
+        "options": [
+          "A population of zero",
+          "No finite estimate from this sample",
+          "Exactly the second sample size"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Do not report an infinite population from zero recaptures.",
+          "Correct. Gather better representative data and reconsider the model.",
+          "Reconsider this choice. Do not report an infinite population from zero recaptures."
+        ],
+        "hints": [
+          "Do not report an infinite population from zero recaptures.",
+          "Gather better representative data and reconsider the model."
+        ]
+      },
+      {
+        "id": "a2-rabbits",
+        "section": 1,
+        "title": "Name the initial conditions",
+        "intro": "In the source rabbit model, start with one newborn pair at month 0; no births occur until the pair reaches age two months.",
+        "simple": "F0=1 and F1=1; count pairs, not individual rabbits.",
+        "example": [
+          "F0=1 and F1=1; count pairs, not individual rabbits.",
+          "At month 2 there are two pairs, not three."
+        ],
+        "question": "How many pairs are present at month 1?",
+        "options": [
+          "0",
+          "1",
+          "2"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. F0=1 and F1=1; count pairs, not individual rabbits.",
+          "Correct. At month 2 there are two pairs, not three.",
+          "Reconsider this choice. F0=1 and F1=1; count pairs, not individual rabbits."
+        ],
+        "hints": [
+          "F0=1 and F1=1; count pairs, not individual rabbits.",
+          "At month 2 there are two pairs, not three."
+        ]
+      },
+      {
+        "id": "a2-recurrence",
+        "section": 1,
+        "title": "Translate the birth rule",
+        "intro": "Existing pairs survive, and pairs already present two months earlier produce new pairs. Thus Fn=F(n−1)+F(n−2).",
+        "simple": "The sequence begins 1,1,2,3,5,8,13.",
+        "example": [
+          "The sequence begins 1,1,2,3,5,8,13.",
+          "At month 16 it reaches 1597 pairs under ideal assumptions."
+        ],
+        "question": "If F5=8 and F6=13, what is F7?",
+        "options": [
+          "21",
+          "26",
+          "5"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. At month 16 it reaches 1597 pairs under ideal assumptions.",
+          "Reconsider this choice. The sequence begins 1,1,2,3,5,8,13.",
+          "Reconsider this choice. The sequence begins 1,1,2,3,5,8,13."
+        ],
+        "hints": [
+          "The sequence begins 1,1,2,3,5,8,13.",
+          "At month 16 it reaches 1597 pairs under ideal assumptions."
+        ]
+      },
+      {
+        "id": "a2-rabbits-validate",
+        "section": 1,
+        "title": "An ideal population is not a forecast",
+        "intro": "The rabbit model assumes no deaths, unlimited resources, fixed maturity and exactly one new pair per mature pair each month.",
+        "simple": "Real populations do not sustain these assumptions indefinitely.",
+        "example": [
+          "Real populations do not sustain these assumptions indefinitely.",
+          "Validation asks whether the assumptions fit the purpose and observed data."
+        ],
+        "question": "Which is a useful validation question?",
+        "options": [
+          "Can every pair really survive and breed as assumed?",
+          "Is the recurrence neatly written?",
+          "Does the number have many digits?"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Validation asks whether the assumptions fit the purpose and observed data.",
+          "Reconsider this choice. Real populations do not sustain these assumptions indefinitely.",
+          "Reconsider this choice. Real populations do not sustain these assumptions indefinitely."
+        ],
+        "hints": [
+          "Real populations do not sustain these assumptions indefinitely.",
+          "Validation asks whether the assumptions fit the purpose and observed data."
+        ]
+      },
+      {
+        "id": "a2-dice",
+        "section": 2,
+        "title": "Count ordered outcomes",
+        "intro": "For two independent fair dice, 36 ordered pairs are equally likely. The totals are not equally likely.",
+        "simple": "A total of 7 has six pairs; a total of 2 has only (1,1).",
+        "example": [
+          "A total of 7 has six pairs; a total of 2 has only (1,1).",
+          "P(sum 7)=6/36=1/6 is the largest winning chance."
+        ],
+        "question": "Which total is the best single guess?",
+        "options": [
+          "2",
+          "12",
+          "7"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. A total of 7 has six pairs; a total of 2 has only (1,1).",
+          "Reconsider this choice. A total of 7 has six pairs; a total of 2 has only (1,1).",
+          "Correct. P(sum 7)=6/36=1/6 is the largest winning chance."
+        ],
+        "hints": [
+          "A total of 7 has six pairs; a total of 2 has only (1,1).",
+          "P(sum 7)=6/36=1/6 is the largest winning chance."
+        ],
+        "explorer": "chance"
+      },
+      {
+        "id": "a2-best-not-certain",
+        "section": 2,
+        "title": "Best chance still usually loses",
+        "intro": "With +2 points for a correct sum and −2 otherwise, even the best guess (7) loses on 5/6 of rolls.",
+        "simple": "Extension: expected score=2(1/6)−2(5/6)=−4/3 per play.",
+        "example": [
+          "Extension: expected score=2(1/6)−2(5/6)=−4/3 per play.",
+          "Maximising a chance does not make success certain or expected score positive."
+        ],
+        "question": "Does guessing 7 guarantee success?",
+        "options": [
+          "Yes",
+          "No; chance of success is only 1/6",
+          "It succeeds on half the rolls"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Extension: expected score=2(1/6)−2(5/6)=−4/3 per play.",
+          "Correct. Maximising a chance does not make success certain or expected score positive.",
+          "Reconsider this choice. Extension: expected score=2(1/6)−2(5/6)=−4/3 per play."
+        ],
+        "hints": [
+          "Extension: expected score=2(1/6)−2(5/6)=−4/3 per play.",
+          "Maximising a chance does not make success certain or expected score positive."
+        ]
+      },
+      {
+        "id": "a2-prices",
+        "section": 2,
+        "title": "Separate payment quantities",
+        "intro": "Cash price minus down payment is the deferred principal. Total instalments minus that principal is interest in the simplified model.",
+        "simple": "For ₹1800 cash, ₹600 down and two ₹610 payments: principal ₹1200, interest ₹20.",
+        "example": [
+          "For ₹1800 cash, ₹600 down and two ₹610 payments: principal ₹1200, interest ₹20.",
+          "The down payment is part of the price, not an extra interest charge."
+        ],
+        "question": "What is the deferred principal?",
+        "options": [
+          "₹1800",
+          "₹1220",
+          "₹1200"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. For ₹1800 cash, ₹600 down and two ₹610 payments: principal ₹1200, interest ₹20.",
+          "Reconsider this choice. For ₹1800 cash, ₹600 down and two ₹610 payments: principal ₹1200, interest ₹20.",
+          "Correct. The down payment is part of the price, not an extra interest charge."
+        ],
+        "hints": [
+          "For ₹1800 cash, ₹600 down and two ₹610 payments: principal ₹1200, interest ₹20.",
+          "The down payment is part of the price, not an extra interest charge."
+        ]
+      },
+      {
+        "id": "a2-principal-months",
+        "section": 2,
+        "title": "Keep time with the balance",
+        "intro": "The book combines each outstanding principal for one month, then applies annual simple interest: I=(sum of principal-months)r/1200.",
+        "simple": "For the bicycle, the book uses 1200+590=1790 principal-months.",
+        "example": [
+          "For the bicycle, the book uses 1200+590=1790 principal-months.",
+          "This is a textbook approximation, not a full amortised-loan schedule."
+        ],
+        "question": "Why divide by 1200?",
+        "options": [
+          "100 for percent and 12 months per year",
+          "There are 1200 months",
+          "It is the down payment"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This is a textbook approximation, not a full amortised-loan schedule.",
+          "Reconsider this choice. For the bicycle, the book uses 1200+590=1790 principal-months.",
+          "Reconsider this choice. For the bicycle, the book uses 1200+590=1790 principal-months."
+        ],
+        "hints": [
+          "For the bicycle, the book uses 1200+590=1790 principal-months.",
+          "This is a textbook approximation, not a full amortised-loan schedule."
+        ]
+      },
+      {
+        "id": "a2-rate-correction",
+        "section": 2,
+        "title": "Check the printed calculation",
+        "intro": "The bicycle formula gives r=20×1200/1790≈13.41%, although the book prints 13.14%.",
+        "simple": "Calculate the displayed formula rather than copying a printed decimal.",
+        "example": [
+          "Calculate the displayed formula rather than copying a printed decimal.",
+          "Within the same convention and no fees, 10% is below 13.41%."
+        ],
+        "question": "What is the rate rounded to two decimal places?",
+        "options": [
+          "13.14%",
+          "13.41%",
+          "10%"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Calculate the displayed formula rather than copying a printed decimal.",
+          "Correct. Within the same convention and no fees, 10% is below 13.41%.",
+          "Reconsider this choice. Calculate the displayed formula rather than copying a printed decimal."
+        ],
+        "hints": [
+          "Calculate the displayed formula rather than copying a printed decimal.",
+          "Within the same convention and no fees, 10% is below 13.41%."
+        ]
+      },
+      {
+        "id": "a2-television",
+        "section": 2,
+        "title": "Compare like with like",
+        "intro": "Ali’s ₹24000 television has ₹8000 down and six ₹2800 instalments. Interest is ₹800; source monthly principals sum to ₹54000.",
+        "simple": "r=800×1200/54000≈17.78%, not the key’s 17.74%.",
+        "example": [
+          "r=800×1200/54000≈17.78%, not the key’s 17.74%.",
+          "Under this approximation and no fees, 17.78% is slightly below the society’s 18%."
+        ],
+        "question": "Which rate follows from the given formula?",
+        "options": [
+          "17.78%",
+          "17.74%",
+          "18.78%"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Under this approximation and no fees, 17.78% is slightly below the society’s 18%.",
+          "Reconsider this choice. r=800×1200/54000≈17.78%, not the key’s 17.74%.",
+          "Reconsider this choice. r=800×1200/54000≈17.78%, not the key’s 17.74%."
+        ],
+        "hints": [
+          "r=800×1200/54000≈17.78%, not the key’s 17.74%.",
+          "Under this approximation and no fees, 17.78% is slightly below the society’s 18%."
+        ]
+      },
+      {
+        "id": "a2-forest",
+        "section": 2,
+        "title": "Scale a representative sample",
+        "intro": "For the forest image, count dots in several known equal-area squares and use mean count × total area/sample area.",
+        "simple": "An illustrative mean of 30 trees per square across 24 squares estimates 720 trees.",
+        "example": [
+          "An illustrative mean of 30 trees per square across 24 squares estimates 720 trees.",
+          "Those illustrative numbers are not measurements from the source photograph. Sample dense and sparse areas, and define boundary rules."
+        ],
+        "question": "What improves the estimate?",
+        "options": [
+          "Choose only the densest square",
+          "Sample representative squares across the image",
+          "Ignore image area"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. An illustrative mean of 30 trees per square across 24 squares estimates 720 trees.",
+          "Correct. Those illustrative numbers are not measurements from the source photograph. Sample dense and sparse areas, and define boundary rules.",
+          "Reconsider this choice. An illustrative mean of 30 trees per square across 24 squares estimates 720 trees."
+        ],
+        "hints": [
+          "An illustrative mean of 30 trees per square across 24 squares estimates 720 trees.",
+          "Those illustrative numbers are not measurements from the source photograph. Sample dense and sparse areas, and define boundary rules."
+        ]
+      },
+      {
+        "id": "a2-roles",
+        "section": 3,
+        "title": "Understand, forecast and estimate",
+        "intro": "Modelling joins mathematics with knowledge of the subject, such as ecology, engineering or education.",
+        "simple": "Specialists help identify meaningful assumptions and quantities.",
+        "example": [
+          "Specialists help identify meaningful assumptions and quantities.",
+          "A useful model balances accuracy, complexity, data and cost."
+        ],
+        "question": "Why involve a subject expert?",
+        "options": [
+          "To replace mathematics",
+          "To ensure relevant assumptions and interpretation",
+          "To remove uncertainty entirely"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Specialists help identify meaningful assumptions and quantities.",
+          "Correct. A useful model balances accuracy, complexity, data and cost.",
+          "Reconsider this choice. Specialists help identify meaningful assumptions and quantities."
+        ],
+        "hints": [
+          "Specialists help identify meaningful assumptions and quantities.",
+          "A useful model balances accuracy, complexity, data and cost."
+        ]
+      },
+      {
+        "id": "a2-forecast",
+        "section": 3,
+        "title": "A forecast needs actual data",
+        "intro": "The school-result exercise asks for five historical school averages. The app’s editable example 62,64,65,67,68 is illustrative, not actual school data.",
+        "simple": "Mean baseline=65.2%; straight-line year-6 forecast=69.7% for those example values.",
+        "example": [
+          "Mean baseline=65.2%; straight-line year-6 forecast=69.7% for those example values.",
+          "Compare predictions against held-out past observations and consider cohort or exam changes."
+        ],
+        "question": "What must be stated when using the example values?",
+        "options": [
+          "They are illustrative, not real school records",
+          "They guarantee next year’s result",
+          "They were collected from your school"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Compare predictions against held-out past observations and consider cohort or exam changes.",
+          "Reconsider this choice. Mean baseline=65.2%; straight-line year-6 forecast=69.7% for those example values.",
+          "Reconsider this choice. Mean baseline=65.2%; straight-line year-6 forecast=69.7% for those example values."
+        ],
+        "hints": [
+          "Mean baseline=65.2%; straight-line year-6 forecast=69.7% for those example values.",
+          "Compare predictions against held-out past observations and consider cohort or exam changes."
+        ],
+        "explorer": "forecast"
+      },
+      {
+        "id": "a2-bounds",
+        "section": 3,
+        "title": "An impossible prediction signals a problem",
+        "intro": "A percentage result must lie between 0 and 100. A straight-line trend can predict outside that range.",
+        "simple": "Report the raw prediction and flag it for model review.",
+        "example": [
+          "Report the raw prediction and flag it for model review.",
+          "Silently clipping an impossible prediction would conceal a model limitation."
+        ],
+        "question": "A model predicts 104% marks. What now?",
+        "options": [
+          "Report a guaranteed 100%",
+          "Review the model because the raw prediction is impossible",
+          "Accept 104%"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider this choice. Report the raw prediction and flag it for model review.",
+          "Correct. Silently clipping an impossible prediction would conceal a model limitation.",
+          "Reconsider this choice. Report the raw prediction and flag it for model review."
+        ],
+        "hints": [
+          "Report the raw prediction and flag it for model review.",
+          "Silently clipping an impossible prediction would conceal a model limitation."
+        ]
+      },
+      {
+        "id": "a2-recap",
+        "section": 4,
+        "title": "Return to the real question",
+        "intro": "A model is useful only when its solution is interpreted, checked and revised in context.",
+        "simple": "Show all five stages in the written source exercises.",
+        "example": [
+          "Show all five stages in the written source exercises.",
+          "State uncertainty and assumptions; a correct calculation is not proof that a model fits reality."
+        ],
+        "question": "What belongs in a complete modelling response?",
+        "options": [
+          "Only a final number",
+          "Only an equation",
+          "Assumptions, formulation, solution, interpretation and validation"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider this choice. Show all five stages in the written source exercises.",
+          "Reconsider this choice. Show all five stages in the written source exercises.",
+          "Correct. State uncertainty and assumptions; a correct calculation is not proof that a model fits reality."
+        ],
+        "hints": [
+          "Show all five stages in the written source exercises.",
+          "State uncertainty and assumptions; a correct calculation is not proof that a model fits reality."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Build",
+        "Understand, formulate and solve."
+      ],
+      [
+        "Check",
+        "Interpret, validate and revise."
+      ],
+      [
+        "Apply",
+        "Sampling, recurrence, probability, costs and forecasting depend on assumptions."
+      ]
+    ],
+    "challenge": "Complete the source-mapped written activities and explain each step. Ask a teacher to check your reasoning; guided answers and self-review do not establish mastery."
+  }
+]

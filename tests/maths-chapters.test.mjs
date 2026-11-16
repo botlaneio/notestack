@@ -3,8 +3,8 @@ import assert from 'node:assert/strict';
 import {chapters,newChapters} from '../src/lib/maths-chapters.ts';
 import {freshProgress,recordAnswer,restoreProgress} from '../src/lib/real-numbers.ts';
 import {quadratic,arithmeticProgression,lineCases} from '../src/lib/maths-explorers.ts';
-test('all twelve supplied chapters have complete navigable section coverage and valid checks',()=>{
- assert.deepEqual(chapters.map(c=>c.number),[1,2,3,4,5,6,7,8,9,10,11,12]);assert.equal(new Set(chapters.map(c=>c.slug)).size,12);
+test('all fourteen supplied chapters have complete navigable section coverage and valid checks',()=>{
+ assert.deepEqual(chapters.map(c=>c.number),[1,2,3,4,5,6,7,8,9,10,11,12,13,14]);assert.equal(new Set(chapters.map(c=>c.slug)).size,14);
  for(const c of chapters){assert.ok(c.steps.length>=12);assert.equal(new Set(c.steps.map(s=>s.id)).size,c.steps.length);for(let i=0;i<c.sections.length;i++)assert.ok(c.steps.some(s=>s.section===i));for(const s of c.steps){assert.ok(s.options[s.correct]);assert.equal(s.feedback.length,s.options.length);assert.equal(s.hints.length,2);assert.ok(s.feedback.every(f=>f.length>15));}}
 });
 test('every chapter earns and restores completion using its own question set',()=>{

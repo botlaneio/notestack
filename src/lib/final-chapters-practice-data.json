@@ -1,0 +1,3946 @@
+{
+  "chapters": {
+    "13": [
+      {
+        "id": "c13-Example1",
+        "reference": "Example 1",
+        "title": "Exact mean and the grouped approximation",
+        "prompt": "Find the mean of the discrete marks distribution, then explain why grouping can change the estimated mean.",
+        "solution": [
+          "The frequencies sum to 30 and Σfx=1779, so the exact discrete mean is 1779/30=59.3.",
+          "Grouping into 10–25, 25–40, 40–55, 55–70, 70–85, 85–100 gives frequencies 2, 3, 7, 6, 6, 6. Class marks 17.5, 32.5, 47.5, 62.5, 77.5, 92.5 give Σfx=1860 and grouped estimate 62.",
+          "The difference is caused by replacing all observations in each class by its midpoint. A mark exactly 40 goes in 40–55, not 25–40."
+        ],
+        "hints": [
+          "The frequencies sum to 30 and Σfx=1779, so the exact discrete mean is 1779/30=59.3.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The frequencies sum to 30 and Σfx=1779, so the exact discrete mean is 1779/30=59.3.",
+          "Compare step 2: Grouping into 10–25, 25–40, 40–55, 55–70, 70–85, 85–100 gives frequencies 2, 3, 7, 6, 6, 6. Class marks 17.5, 32.5, 47.5, 62.5, 77.5, 92.5 give Σfx=1860 and grouped estimate 62.",
+          "Compare step 3: The difference is caused by replacing all observations in each class by its midpoint. A mark exactly 40 goes in 40–55, not 25–40."
+        ],
+        "sample": "The frequencies sum to 30 and Σfx=1779, so the exact discrete mean is 1779/30=59.3. Grouping into 10–25, 25–40, 40–55, 55–70, 70–85, 85–100 gives frequencies 2, 3, 7, 6, 6, 6. Class marks 17.5, 32.5, 47.5, 62.5, 77.5, 92.5 give Σfx=1860 and grouped estimate 62. The difference is caused by replacing all observations in each class by its midpoint. A mark exactly 40 goes in 40–55, not 25–40.",
+        "table": {
+          "headers": [
+            "Marks",
+            "Students"
+          ],
+          "rows": [
+            [
+              "10",
+              "1"
+            ],
+            [
+              "20",
+              "1"
+            ],
+            [
+              "36",
+              "3"
+            ],
+            [
+              "40",
+              "4"
+            ],
+            [
+              "50",
+              "3"
+            ],
+            [
+              "56",
+              "2"
+            ],
+            [
+              "60",
+              "4"
+            ],
+            [
+              "70",
+              "4"
+            ],
+            [
+              "72",
+              "1"
+            ],
+            [
+              "80",
+              "1"
+            ],
+            [
+              "88",
+              "2"
+            ],
+            [
+              "92",
+              "3"
+            ],
+            [
+              "95",
+              "1"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Example2",
+        "reference": "Example 2",
+        "title": "Three methods, one estimate",
+        "prompt": "Find the mean percentage of female teachers using direct, assumed-mean and step-deviation methods; show how the expressions agree. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=35. Class marks: 20, 30, 40, 50, 60, 70, 80.",
+          "Weighted sum Σfᵢxᵢ=1390; grouped mean=Σfᵢxᵢ/N=278/7≈39.71. The class-mark assumption makes this a grouped-data estimate.",
+          "Choose a=50,h=10. Σf=35,Σfx=1390,Σfd=−360,Σfu=−36. All three forms give1390/35=278/7≈39.71."
+        ],
+        "hints": [
+          "Total frequency N=35. Class marks: 20, 30, 40, 50, 60, 70, 80.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 39.71,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "15–25",
+              "6"
+            ],
+            [
+              "25–35",
+              "11"
+            ],
+            [
+              "35–45",
+              "7"
+            ],
+            [
+              "45–55",
+              "4"
+            ],
+            [
+              "55–65",
+              "4"
+            ],
+            [
+              "65–75",
+              "2"
+            ],
+            [
+              "75–85",
+              "1"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Example3",
+        "reference": "Example 3",
+        "title": "Unequal class widths",
+        "prompt": "Find mean wickets per bowler. Show a suitable method even though the class widths vary. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=45. Class marks: 40, 80, 125, 200, 300, 400.",
+          "Weighted sum Σfᵢxᵢ=6880; grouped mean=Σfᵢxᵢ/N=1376/9≈152.89. The class-mark assumption makes this a grouped-data estimate.",
+          "Using a=200 and an arbitrary non-zero scale h=20 gives Σfu=−106, N=45, so mean=200+20(−106/45)=6880/45≈152.89. h need not equal a class width for the mean algebra; equal widths merely simplify the steps."
+        ],
+        "hints": [
+          "Total frequency N=45. Class marks: 40, 80, 125, 200, 300, 400.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 152.89,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "20–60",
+              "7"
+            ],
+            [
+              "60–100",
+              "5"
+            ],
+            [
+              "100–150",
+              "16"
+            ],
+            [
+              "150–250",
+              "12"
+            ],
+            [
+              "250–350",
+              "2"
+            ],
+            [
+              "350–450",
+              "3"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Example4",
+        "reference": "Example 4",
+        "title": "Mode of ungrouped data",
+        "prompt": "Find the mode of wickets 2, 6, 4, 5, 0, 2, 1, 3, 2, 3.",
+        "solution": [
+          "Frequency of 2 is 3, larger than every other value’s frequency.",
+          "Mode=2 wickets. This exact raw-data mode differs from estimating a value within a modal class."
+        ],
+        "hints": [
+          "Frequency of 2 is 3, larger than every other value’s frequency.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mode",
+            "answer": 2.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c13-Example5",
+        "reference": "Example 5",
+        "title": "Household-size mode",
+        "prompt": "Find mode for the 20-household family-size distribution. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=20. Class marks: 2, 4, 6, 8, 10.",
+          "Modal class 3–5; l=3, h=2, f₁=8, f₀=7, f₂=2. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=23/7≈3.29."
+        ],
+        "hints": [
+          "Total frequency N=20. Class marks: 2, 4, 6, 8, 10.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 3.29,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "1–3",
+              "7"
+            ],
+            [
+              "3–5",
+              "8"
+            ],
+            [
+              "5–7",
+              "2"
+            ],
+            [
+              "7–9",
+              "2"
+            ],
+            [
+              "9–11",
+              "1"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Example6",
+        "reference": "Example 6",
+        "title": "Grouped marks mode",
+        "prompt": "For the grouped marks from Example 1, find mode and compare with grouped mean. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=30. Class marks: 35/2, 65/2, 95/2, 125/2, 155/2, 185/2.",
+          "Weighted sum Σfᵢxᵢ=1860; grouped mean=Σfᵢxᵢ/N=62≈62.0. The class-mark assumption makes this a grouped-data estimate.",
+          "Modal class 40–55; l=40, h=15, f₁=7, f₀=3, f₂=6. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=52≈52.0.",
+          "Modal class 40–55 produces mode 52. The grouped mean is 62. These are different summaries; neither must always be larger."
+        ],
+        "hints": [
+          "Total frequency N=30. Class marks: 35/2, 65/2, 95/2, 125/2, 155/2, 185/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 62.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 52.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "10–25",
+              "2"
+            ],
+            [
+              "25–40",
+              "3"
+            ],
+            [
+              "40–55",
+              "7"
+            ],
+            [
+              "55–70",
+              "6"
+            ],
+            [
+              "70–85",
+              "6"
+            ],
+            [
+              "85–100",
+              "6"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Example7",
+        "reference": "Example 7",
+        "title": "Median from a cumulative height table",
+        "prompt": "Find median height for 51 girls from less-than cumulative totals. Give 2 decimal places.",
+        "solution": [
+          "Successive frequencies are 4, 7, 18, 11, 6, 5. The first lower bound is not given, but is not needed because the median is in 145–150.",
+          "N/2=25.5; l=145, cf=11, f=18, h=5. Median=145+[(25.5−11)/18]5≈149.03 cm."
+        ],
+        "hints": [
+          "Successive frequencies are 4, 7, 18, 11, 6, 5. The first lower bound is not given, but is not needed because the median is in 145–150.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median height (2 decimal places)",
+            "answer": 149.03,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Height below (cm)",
+            "Cumulative frequency"
+          ],
+          "rows": [
+            [
+              "140",
+              "4"
+            ],
+            [
+              "145",
+              "11"
+            ],
+            [
+              "150",
+              "29"
+            ],
+            [
+              "155",
+              "40"
+            ],
+            [
+              "160",
+              "46"
+            ],
+            [
+              "165",
+              "51"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Example8",
+        "reference": "Example 8",
+        "title": "Solve missing median frequencies",
+        "prompt": "Median 525, total frequency 100. Find x, y from the table.",
+        "solution": [
+          "Known frequencies sum to 76, so x+y=24. The median class is 500–600, l=500, h=100, f=20 and preceding cf=36+x.",
+          "525=500+[(50−36−x)/20]100 →x=9. Then y=15."
+        ],
+        "hints": [
+          "Known frequencies sum to 76, so x+y=24. The median class is 500–600, l=500, h=100, f=20 and preceding cf=36+x.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "x",
+            "answer": 9.0,
+            "kind": "expression"
+          },
+          {
+            "label": "y",
+            "answer": 15.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–100",
+              "2"
+            ],
+            [
+              "100–200",
+              "5"
+            ],
+            [
+              "200–300",
+              "x"
+            ],
+            [
+              "300–400",
+              "12"
+            ],
+            [
+              "400–500",
+              "17"
+            ],
+            [
+              "500–600",
+              "20"
+            ],
+            [
+              "600–700",
+              "y"
+            ],
+            [
+              "700–800",
+              "9"
+            ],
+            [
+              "800–900",
+              "7"
+            ],
+            [
+              "900–1000",
+              "4"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-13-2·Derivethemeanmethods",
+        "reference": "13.2 · Derive the mean methods",
+        "title": "Direct, assumed mean and step deviation",
+        "prompt": "Derive the three grouped mean expressions and explain their shared approximation.",
+        "solution": [
+          "Use class marks xᵢ=(lower+upper)/2. Mean=Σfᵢxᵢ/Σfᵢ assumes each class frequency is centred at that midpoint.",
+          "Set dᵢ=xᵢ−a. Since xᵢ=a+dᵢ, mean=a+Σfᵢdᵢ/Σfᵢ.",
+          "Choose non-zero scale h and uᵢ=(xᵢ−a)/h; then mean=a+hΣfᵢuᵢ/Σfᵢ. Choosing a central a and convenient h simplifies arithmetic without changing the estimate."
+        ],
+        "hints": [
+          "Use class marks xᵢ=(lower+upper)/2. Mean=Σfᵢxᵢ/Σfᵢ assumes each class frequency is centred at that midpoint.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Use class marks xᵢ=(lower+upper)/2. Mean=Σfᵢxᵢ/Σfᵢ assumes each class frequency is centred at that midpoint.",
+          "Compare step 2: Set dᵢ=xᵢ−a. Since xᵢ=a+dᵢ, mean=a+Σfᵢdᵢ/Σfᵢ.",
+          "Compare step 3: Choose non-zero scale h and uᵢ=(xᵢ−a)/h; then mean=a+hΣfᵢuᵢ/Σfᵢ. Choosing a central a and convenient h simplifies arithmetic without changing the estimate."
+        ],
+        "sample": "Use class marks xᵢ=(lower+upper)/2. Mean=Σfᵢxᵢ/Σfᵢ assumes each class frequency is centred at that midpoint. Set dᵢ=xᵢ−a. Since xᵢ=a+dᵢ, mean=a+Σfᵢdᵢ/Σfᵢ. Choose non-zero scale h and uᵢ=(xᵢ−a)/h; then mean=a+hΣfᵢuᵢ/Σfᵢ. Choosing a central a and convenient h simplifies arithmetic without changing the estimate."
+      },
+      {
+        "id": "c13-13-3·Modalclassandformula",
+        "reference": "13.3 · Modal class and formula",
+        "title": "A peak class is not the mode itself",
+        "prompt": "State the grouped mode formula and conditions; distinguish it from an ungrouped mode.",
+        "solution": [
+          "The modal class has greatest frequency. With equal continuous class widths and one peak, use mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h.",
+          "l is modal-class lower boundary, h its width, f₁ its frequency, f₀ the preceding and f₂ the succeeding frequency. The result is an estimate within the class, not its frequency.",
+          "Raw data can have several equally frequent modes. This chapter’s grouped formula is used for a single modal class; do not silently choose one peak when frequencies tie."
+        ],
+        "hints": [
+          "The modal class has greatest frequency. With equal continuous class widths and one peak, use mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The modal class has greatest frequency. With equal continuous class widths and one peak, use mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h.",
+          "Compare step 2: l is modal-class lower boundary, h its width, f₁ its frequency, f₀ the preceding and f₂ the succeeding frequency. The result is an estimate within the class, not its frequency.",
+          "Compare step 3: Raw data can have several equally frequent modes. This chapter’s grouped formula is used for a single modal class; do not silently choose one peak when frequencies tie."
+        ],
+        "sample": "The modal class has greatest frequency. With equal continuous class widths and one peak, use mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h. l is modal-class lower boundary, h its width, f₁ its frequency, f₀ the preceding and f₂ the succeeding frequency. The result is an estimate within the class, not its frequency. Raw data can have several equally frequent modes. This chapter’s grouped formula is used for a single modal class; do not silently choose one peak when frequencies tie."
+      },
+      {
+        "id": "c13-13-4·Rawmedianandcumulativefrequencies",
+        "reference": "13.4 · Raw median and cumulative frequencies",
+        "title": "Locate positions before interpolating",
+        "prompt": "For the marks 20, 25, 28, 29, 33, 38, 42, 43 with frequencies 6, 20, 24, 28, 15, 4, 2, 1, find the median. Explain cumulative frequency.",
+        "solution": [
+          "Frequencies total 100. The less-than-or-equal cumulative counts are 6, 26, 50, 78, 93, 97, 99, 100.",
+          "For even N=100, median is the average of ordered positions 50 and 51. These values are 28 and 29, so raw median=28.5.",
+          "A less-than cumulative count through a grouped class includes that class and all previous classes. More-than-or-equal counts can be obtained by subtracting lower classes from the total."
+        ],
+        "hints": [
+          "Frequencies total 100. The less-than-or-equal cumulative counts are 6, 26, 50, 78, 93, 97, 99, 100.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Frequencies total 100. The less-than-or-equal cumulative counts are 6, 26, 50, 78, 93, 97, 99, 100.",
+          "Compare step 2: For even N=100, median is the average of ordered positions 50 and 51. These values are 28 and 29, so raw median=28.5.",
+          "Compare step 3: A less-than cumulative count through a grouped class includes that class and all previous classes. More-than-or-equal counts can be obtained by subtracting lower classes from the total."
+        ],
+        "sample": "Frequencies total 100. The less-than-or-equal cumulative counts are 6, 26, 50, 78, 93, 97, 99, 100. For even N=100, median is the average of ordered positions 50 and 51. These values are 28 and 29, so raw median=28.5. A less-than cumulative count through a grouped class includes that class and all previous classes. More-than-or-equal counts can be obtained by subtracting lower classes from the total.",
+        "table": {
+          "headers": [
+            "Marks",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "20",
+              "6"
+            ],
+            [
+              "25",
+              "20"
+            ],
+            [
+              "28",
+              "24"
+            ],
+            [
+              "29",
+              "28"
+            ],
+            [
+              "33",
+              "15"
+            ],
+            [
+              "38",
+              "4"
+            ],
+            [
+              "42",
+              "2"
+            ],
+            [
+              "43",
+              "1"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-13-4·Groupedmedianillustration",
+        "reference": "13.4 · Grouped median illustration",
+        "title": "Interpolate the grouped median",
+        "prompt": "Find the median in the chapter’s 53-student cumulative-frequency illustration. Explain the difference between cf and f. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=53. Class marks: 5, 15, 25, 35, 45, 55, 65, 75, 85, 95.",
+          "Less-than cumulative frequencies: 5, 8, 12, 15, 18, 22, 29, 38, 45, 53.",
+          "N/2=53/2; median class 60–70, lower boundary l=60, preceding cumulative frequency cf=22, f=7, h=10. Median=l+[(N/2−cf)/f]h=465/7≈66.43.",
+          "The less-than totals are 5, 8, 12, 15, 18, 22, 29, 38, 45, 53. The corresponding at-least totals at 0, 10,..., 90 are 53, 48, 45, 41, 38, 35, 31, 24, 15, 8. Median class 60–70 has preceding cf 22 and ordinary f 7."
+        ],
+        "hints": [
+          "Total frequency N=53. Class marks: 5, 15, 25, 35, 45, 55, 65, 75, 85, 95.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 66.43,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–10",
+              "5"
+            ],
+            [
+              "10–20",
+              "3"
+            ],
+            [
+              "20–30",
+              "4"
+            ],
+            [
+              "30–40",
+              "3"
+            ],
+            [
+              "40–50",
+              "3"
+            ],
+            [
+              "50–60",
+              "4"
+            ],
+            [
+              "60–70",
+              "7"
+            ],
+            [
+              "70–80",
+              "9"
+            ],
+            [
+              "80–90",
+              "7"
+            ],
+            [
+              "90–100",
+              "8"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-13-4·Boundariesandempiricalrelation",
+        "reference": "13.4 · Boundaries and empirical relation",
+        "title": "Use an estimate with its assumptions",
+        "prompt": "State the grouped median formula, continuous-boundary rule and the empirical mean/median/mode relationship.",
+        "solution": [
+          "Median=l+[(N/2−cf)/f]h, where cf is cumulative frequency strictly before the median class and f its ordinary frequency. This estimates positions within a continuous class.",
+          "Convert inclusive rounded intervals such as 118–126, 127–135 into 117.5–126.5, 126.5–135.5 before median interpolation.",
+          "The book gives 3 Median≈Mode+2 Mean as an empirical relationship. It is an approximation, not an identity valid for every distribution, and should not replace directly available calculations."
+        ],
+        "hints": [
+          "Median=l+[(N/2−cf)/f]h, where cf is cumulative frequency strictly before the median class and f its ordinary frequency. This estimates positions within a continuous class.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Median=l+[(N/2−cf)/f]h, where cf is cumulative frequency strictly before the median class and f its ordinary frequency. This estimates positions within a continuous class.",
+          "Compare step 2: Convert inclusive rounded intervals such as 118–126, 127–135 into 117.5–126.5, 126.5–135.5 before median interpolation.",
+          "Compare step 3: The book gives 3 Median≈Mode+2 Mean as an empirical relationship. It is an approximation, not an identity valid for every distribution, and should not replace directly available calculations."
+        ],
+        "sample": "Median=l+[(N/2−cf)/f]h, where cf is cumulative frequency strictly before the median class and f its ordinary frequency. This estimates positions within a continuous class. Convert inclusive rounded intervals such as 118–126, 127–135 into 117.5–126.5, 126.5–135.5 before median interpolation. The book gives 3 Median≈Mode+2 Mean as an empirical relationship. It is an approximation, not an identity valid for every distribution, and should not replace directly available calculations."
+      },
+      {
+        "id": "c13-Exercise13-1·1",
+        "reference": "Exercise 13.1 · 1",
+        "title": "Plants per house",
+        "prompt": "The table describes plants in 20 houses. Find the mean number of plants per house; name and justify a method in your working box. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=20. Class marks: 1, 3, 5, 7, 9, 11, 13.",
+          "Weighted sum Σfᵢxᵢ=162; grouped mean=Σfᵢxᵢ/N=81/10≈8.1. The class-mark assumption makes this a grouped-data estimate.",
+          "Direct calculation is convenient because the class marks and frequencies are small: Σfx=162, N=20, so mean=8.1 plants."
+        ],
+        "hints": [
+          "Total frequency N=20. Class marks: 1, 3, 5, 7, 9, 11, 13.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 8.1,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–2",
+              "1"
+            ],
+            [
+              "2–4",
+              "2"
+            ],
+            [
+              "4–6",
+              "1"
+            ],
+            [
+              "6–8",
+              "5"
+            ],
+            [
+              "8–10",
+              "6"
+            ],
+            [
+              "10–12",
+              "2"
+            ],
+            [
+              "12–14",
+              "3"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·2",
+        "reference": "Exercise 13.1 · 2",
+        "title": "Factory wages",
+        "prompt": "Find the mean daily wage for 50 workers (₹). Choose a convenient mean method. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=50. Class marks: 510, 530, 550, 570, 590.",
+          "Weighted sum Σfᵢxᵢ=27260; grouped mean=Σfᵢxᵢ/N=2726/5≈545.2. The class-mark assumption makes this a grouped-data estimate.",
+          "An assumed mean 550 and scale 20 make the deviations small; the direct, assumed-mean and step-deviation forms give the same grouped estimate."
+        ],
+        "hints": [
+          "Total frequency N=50. Class marks: 510, 530, 550, 570, 590.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 545.2,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "500–520",
+              "12"
+            ],
+            [
+              "520–540",
+              "14"
+            ],
+            [
+              "540–560",
+              "8"
+            ],
+            [
+              "560–580",
+              "6"
+            ],
+            [
+              "580–600",
+              "10"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·3",
+        "reference": "Exercise 13.1 · 3",
+        "title": "Recover a missing frequency",
+        "prompt": "The mean daily pocket allowance is₹18. Find missing frequency f.",
+        "solution": [
+          "Class marks are 12, 14, 16, 18, 20, 22, 24. The known frequencies sum to 44 and known weighted total is 752.",
+          "18=(752+20 f)/(44+f). Thus 792+18 f=752+20 f, giving f=20.",
+          "Then N=64 and weighted total 1152, checking 1152/64=18."
+        ],
+        "hints": [
+          "Class marks are 12, 14, 16, 18, 20, 22, 24. The known frequencies sum to 44 and known weighted total is 752.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Missing frequency f",
+            "answer": 20.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Daily allowance (₹)",
+            "Children"
+          ],
+          "rows": [
+            [
+              "11–13",
+              "7"
+            ],
+            [
+              "13–15",
+              "6"
+            ],
+            [
+              "15–17",
+              "9"
+            ],
+            [
+              "17–19",
+              "13"
+            ],
+            [
+              "19–21",
+              "f"
+            ],
+            [
+              "21–23",
+              "5"
+            ],
+            [
+              "23–25",
+              "4"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·4",
+        "reference": "Exercise 13.1 · 4",
+        "title": "Heartbeats per minute",
+        "prompt": "Find the mean heartbeats per minute for 30 women. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=30. Class marks: 133/2, 139/2, 145/2, 151/2, 157/2, 163/2, 169/2.",
+          "Weighted sum Σfᵢxᵢ=2277; grouped mean=Σfᵢxᵢ/N=759/10≈75.9. The class-mark assumption makes this a grouped-data estimate.",
+          "Class marks are spaced by 3, so a=75.5 and h=3 give convenient step deviations."
+        ],
+        "hints": [
+          "Total frequency N=30. Class marks: 133/2, 139/2, 145/2, 151/2, 157/2, 163/2, 169/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 75.9,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "65–68",
+              "2"
+            ],
+            [
+              "68–71",
+              "4"
+            ],
+            [
+              "71–74",
+              "3"
+            ],
+            [
+              "74–77",
+              "8"
+            ],
+            [
+              "77–80",
+              "7"
+            ],
+            [
+              "80–83",
+              "4"
+            ],
+            [
+              "83–86",
+              "2"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·5",
+        "reference": "Exercise 13.1 · 5",
+        "title": "Mangoes per box",
+        "prompt": "Find mean mangoes per box. The original inclusive integer classes are shown; explain a suitable method in your working. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=400. Class marks: 51, 54, 57, 60, 63.",
+          "Weighted sum Σfᵢxᵢ=22875; grouped mean=Σfᵢxᵢ/N=915/16≈57.19. The class-mark assumption makes this a grouped-data estimate.",
+          "Continuous boundaries 49.5–52.5, 52.5–55.5,... preserve class marks 51, 54, 57, 60, 63. Choose a=57 and h=3 for small step deviations."
+        ],
+        "hints": [
+          "Total frequency N=400. Class marks: 51, 54, 57, 60, 63.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 57.19,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "50–52",
+              "15"
+            ],
+            [
+              "53–55",
+              "110"
+            ],
+            [
+              "56–58",
+              "135"
+            ],
+            [
+              "59–61",
+              "115"
+            ],
+            [
+              "62–64",
+              "25"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·6",
+        "reference": "Exercise 13.1 · 6",
+        "title": "Food spending",
+        "prompt": "Find the mean daily food expenditure of 25 households (₹). Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=25. Class marks: 125, 175, 225, 275, 325.",
+          "Weighted sum Σfᵢxᵢ=5275; grouped mean=Σfᵢxᵢ/N=211≈211.0. The class-mark assumption makes this a grouped-data estimate."
+        ],
+        "hints": [
+          "Total frequency N=25. Class marks: 125, 175, 225, 275, 325.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 211.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "100–150",
+              "4"
+            ],
+            [
+              "150–200",
+              "5"
+            ],
+            [
+              "200–250",
+              "12"
+            ],
+            [
+              "250–300",
+              "2"
+            ],
+            [
+              "300–350",
+              "2"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·7",
+        "reference": "Exercise 13.1 · 7",
+        "title": "SO₂ concentration",
+        "prompt": "Find mean SO₂ concentration in 30 localities, in ppm. For this small-scale quantity give 3 decimal places. Use the full table. Round the requested estimates to 3 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=30. Class marks: 1/50, 3/50, 1/10, 7/50, 9/50, 11/50.",
+          "Weighted sum Σfᵢxᵢ=74/25; grouped mean=Σfᵢxᵢ/N=37/375≈0.099. The class-mark assumption makes this a grouped-data estimate."
+        ],
+        "hints": [
+          "Total frequency N=30. Class marks: 1/50, 3/50, 1/10, 7/50, 9/50, 11/50.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (3 decimal places)",
+            "answer": 0.099,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0.00–0.04",
+              "4"
+            ],
+            [
+              "0.04–0.08",
+              "9"
+            ],
+            [
+              "0.08–0.12",
+              "9"
+            ],
+            [
+              "0.12–0.16",
+              "2"
+            ],
+            [
+              "0.16–0.20",
+              "4"
+            ],
+            [
+              "0.20–0.24",
+              "2"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·8",
+        "reference": "Exercise 13.1 · 8",
+        "title": "Days absent",
+        "prompt": "Find mean days absent for 40 students. Class widths are unequal; use their actual midpoints. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=40. Class marks: 3, 8, 12, 17, 24, 33, 39.",
+          "Weighted sum Σfᵢxᵢ=499; grouped mean=Σfᵢxᵢ/N=499/40≈12.48. The class-mark assumption makes this a grouped-data estimate.",
+          "The exact grouped mean is 12.475; standard rounding to 2 decimal places gives 12.48 days. Unequal widths do not invalidate the weighted-mean calculation."
+        ],
+        "hints": [
+          "Total frequency N=40. Class marks: 3, 8, 12, 17, 24, 33, 39.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 12.48,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–6",
+              "11"
+            ],
+            [
+              "6–10",
+              "10"
+            ],
+            [
+              "10–14",
+              "7"
+            ],
+            [
+              "14–20",
+              "4"
+            ],
+            [
+              "20–28",
+              "4"
+            ],
+            [
+              "28–38",
+              "3"
+            ],
+            [
+              "38–40",
+              "1"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-1·9",
+        "reference": "Exercise 13.1 · 9",
+        "title": "Literacy rates",
+        "prompt": "Find the mean literacy percentage across 35 cities. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=35. Class marks: 50, 60, 70, 80, 90.",
+          "Weighted sum Σfᵢxᵢ=2430; grouped mean=Σfᵢxᵢ/N=486/7≈69.43. The class-mark assumption makes this a grouped-data estimate."
+        ],
+        "hints": [
+          "Total frequency N=35. Class marks: 50, 60, 70, 80, 90.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 69.43,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "45–55",
+              "3"
+            ],
+            [
+              "55–65",
+              "10"
+            ],
+            [
+              "65–75",
+              "11"
+            ],
+            [
+              "75–85",
+              "8"
+            ],
+            [
+              "85–95",
+              "3"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-2·1",
+        "reference": "Exercise 13.2 · 1",
+        "title": "Patient ages",
+        "prompt": "Find the mode and mean patient age. Interpret the two estimates in your working box. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=80. Class marks: 10, 20, 30, 40, 50, 60.",
+          "Weighted sum Σfᵢxᵢ=2830; grouped mean=Σfᵢxᵢ/N=283/8≈35.38. The class-mark assumption makes this a grouped-data estimate.",
+          "Modal class 35–45; l=35, h=10, f₁=23, f₀=21, f₂=14. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=405/11≈36.82.",
+          "The modal age estimate 36.818... lies in the most frequent 35–45 class. The grouped mean is exactly 35.375 years, which rounds to 35.38 to 2 decimal places; the book prints 35.37. A modal class is not evidence that every person had the estimated modal age."
+        ],
+        "hints": [
+          "Total frequency N=80. Class marks: 10, 20, 30, 40, 50, 60.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 35.38,
+            "kind": "expression"
+          },
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 36.82,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "5–15",
+              "6"
+            ],
+            [
+              "15–25",
+              "11"
+            ],
+            [
+              "25–35",
+              "21"
+            ],
+            [
+              "35–45",
+              "23"
+            ],
+            [
+              "45–55",
+              "14"
+            ],
+            [
+              "55–65",
+              "5"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-2·2",
+        "reference": "Exercise 13.2 · 2",
+        "title": "Component lifetimes",
+        "prompt": "Find the modal lifetime in hours of 225 electrical components. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=225. Class marks: 10, 30, 50, 70, 90, 110.",
+          "Modal class 60–80; l=60, h=20, f₁=61, f₀=52, f₂=38. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=525/8≈65.63."
+        ],
+        "hints": [
+          "Total frequency N=225. Class marks: 10, 30, 50, 70, 90, 110.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 65.63,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–20",
+              "10"
+            ],
+            [
+              "20–40",
+              "35"
+            ],
+            [
+              "40–60",
+              "52"
+            ],
+            [
+              "60–80",
+              "61"
+            ],
+            [
+              "80–100",
+              "38"
+            ],
+            [
+              "100–120",
+              "29"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-2·3",
+        "reference": "Exercise 13.2 · 3",
+        "title": "Monthly household spending",
+        "prompt": "Find modal and mean monthly expenditure for 200 families (₹). Explain the distinction in your working. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=200. Class marks: 1250, 1750, 2250, 2750, 3250, 3750, 4250, 4750.",
+          "Weighted sum Σfᵢxᵢ=532500; grouped mean=Σfᵢxᵢ/N=5325/2≈2662.5. The class-mark assumption makes this a grouped-data estimate.",
+          "Modal class 1500–2000; l=1500, h=500, f₁=40, f₀=24, f₂=33. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=42500/23≈1847.83.",
+          "The mode estimates the peak within 1500–2000; the weighted mean includes all classes and is₹2662.50, so the two summaries need not be equal."
+        ],
+        "hints": [
+          "Total frequency N=200. Class marks: 1250, 1750, 2250, 2750, 3250, 3750, 4250, 4750.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 2662.5,
+            "kind": "expression"
+          },
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 1847.83,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "1000–1500",
+              "24"
+            ],
+            [
+              "1500–2000",
+              "40"
+            ],
+            [
+              "2000–2500",
+              "33"
+            ],
+            [
+              "2500–3000",
+              "28"
+            ],
+            [
+              "3000–3500",
+              "30"
+            ],
+            [
+              "3500–4000",
+              "22"
+            ],
+            [
+              "4000–4500",
+              "16"
+            ],
+            [
+              "4500–5000",
+              "7"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-2·4",
+        "reference": "Exercise 13.2 · 4",
+        "title": "Students per teacher",
+        "prompt": "Find the mode and mean of the distribution of student-to-teacher ratios across states/U.T.s. Interpret the estimates. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=35. Class marks: 35/2, 45/2, 55/2, 65/2, 75/2, 85/2, 95/2, 105/2.",
+          "Weighted sum Σfᵢxᵢ=2045/2; grouped mean=Σfᵢxᵢ/N=409/14≈29.21. The class-mark assumption makes this a grouped-data estimate.",
+          "Modal class 30–35; l=30, h=5, f₁=10, f₀=9, f₂=3. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=245/8≈30.63.",
+          "Mode 30.625≈30.63 lies in 30–35; mean≈29.21. The book reports these more coarsely as 30.6 and 29.2. The frequencies count states/U.T.s, not individual students."
+        ],
+        "hints": [
+          "Total frequency N=35. Class marks: 35/2, 45/2, 55/2, 65/2, 75/2, 85/2, 95/2, 105/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 29.21,
+            "kind": "expression"
+          },
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 30.63,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "15–20",
+              "3"
+            ],
+            [
+              "20–25",
+              "8"
+            ],
+            [
+              "25–30",
+              "9"
+            ],
+            [
+              "30–35",
+              "10"
+            ],
+            [
+              "35–40",
+              "3"
+            ],
+            [
+              "40–45",
+              "0"
+            ],
+            [
+              "45–50",
+              "0"
+            ],
+            [
+              "50–55",
+              "2"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-2·5",
+        "reference": "Exercise 13.2 · 5",
+        "title": "Cricket run totals",
+        "prompt": "Find the modal run total for the given batsmen distribution. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=49. Class marks: 3500, 4500, 5500, 6500, 7500, 8500, 9500, 10500.",
+          "Modal class 4000–5000; l=4000, h=1000, f₁=18, f₀=4, f₂=9. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=106000/23≈4608.7."
+        ],
+        "hints": [
+          "Total frequency N=49. Class marks: 3500, 4500, 5500, 6500, 7500, 8500, 9500, 10500.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 4608.7,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "3000–4000",
+              "4"
+            ],
+            [
+              "4000–5000",
+              "18"
+            ],
+            [
+              "5000–6000",
+              "9"
+            ],
+            [
+              "6000–7000",
+              "7"
+            ],
+            [
+              "7000–8000",
+              "6"
+            ],
+            [
+              "8000–9000",
+              "3"
+            ],
+            [
+              "9000–10000",
+              "1"
+            ],
+            [
+              "10000–11000",
+              "1"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-2·6",
+        "reference": "Exercise 13.2 · 6",
+        "title": "Cars in three-minute periods",
+        "prompt": "Find the modal number of cars observed during 100 periods, each 3 minutes long. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=100. Class marks: 5, 15, 25, 35, 45, 55, 65, 75.",
+          "Modal class 40–50; l=40, h=10, f₁=20, f₀=12, f₂=11. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=760/17≈44.71."
+        ],
+        "hints": [
+          "Total frequency N=100. Class marks: 5, 15, 25, 35, 45, 55, 65, 75.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 44.71,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–10",
+              "7"
+            ],
+            [
+              "10–20",
+              "14"
+            ],
+            [
+              "20–30",
+              "13"
+            ],
+            [
+              "30–40",
+              "12"
+            ],
+            [
+              "40–50",
+              "20"
+            ],
+            [
+              "50–60",
+              "11"
+            ],
+            [
+              "60–70",
+              "15"
+            ],
+            [
+              "70–80",
+              "8"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·1",
+        "reference": "Exercise 13.3 · 1",
+        "title": "Electricity consumption",
+        "prompt": "For 68 consumers, find median, mean and mode electricity consumption in units. Compare them in your working. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=68. Class marks: 75, 95, 115, 135, 155, 175, 195.",
+          "Weighted sum Σfᵢxᵢ=9320; grouped mean=Σfᵢxᵢ/N=2330/17≈137.06. The class-mark assumption makes this a grouped-data estimate.",
+          "Less-than cumulative frequencies: 4, 9, 22, 42, 56, 64, 68.",
+          "N/2=34; median class 125–145, lower boundary l=125, preceding cumulative frequency cf=22, f=20, h=20. Median=l+[(N/2−cf)/f]h=137≈137.0.",
+          "Modal class 125–145; l=125, h=20, f₁=20, f₀=13, f₂=14. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=1765/13≈135.77.",
+          "All three estimates are close. Exact grouped mean=2330/17≈137.0588 and mode=1765/13≈135.7692, so standard rounding gives137.06 and135.77 (the book prints137.05 and135.76). The median is137. These rounding differences do not change the comparison."
+        ],
+        "hints": [
+          "Total frequency N=68. Class marks: 75, 95, 115, 135, 155, 175, 195.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 137.06,
+            "kind": "expression"
+          },
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 137.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 135.77,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "65–85",
+              "4"
+            ],
+            [
+              "85–105",
+              "5"
+            ],
+            [
+              "105–125",
+              "13"
+            ],
+            [
+              "125–145",
+              "20"
+            ],
+            [
+              "145–165",
+              "14"
+            ],
+            [
+              "165–185",
+              "8"
+            ],
+            [
+              "185–205",
+              "4"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·2",
+        "reference": "Exercise 13.3 · 2",
+        "title": "Two missing frequencies",
+        "prompt": "The grouped median is 28.5 and total frequency 60. Find x, y.",
+        "solution": [
+          "Known frequencies total 45, so x+y=15. The median class is 20–30 because the stated median is 28.5.",
+          "Use l=20, h=10, f=20, cf=5+x, N/2=30:28.5=20+[(30−5−x)/20]10.",
+          "This gives x=8; then y=7. Check cumulative frequency before 20 is 13 and through 30 is 33."
+        ],
+        "hints": [
+          "Known frequencies total 45, so x+y=15. The median class is 20–30 because the stated median is 28.5.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "x",
+            "answer": 8.0,
+            "kind": "expression"
+          },
+          {
+            "label": "y",
+            "answer": 7.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–10",
+              "5"
+            ],
+            [
+              "10–20",
+              "x"
+            ],
+            [
+              "20–30",
+              "20"
+            ],
+            [
+              "30–40",
+              "15"
+            ],
+            [
+              "40–50",
+              "y"
+            ],
+            [
+              "50–60",
+              "5"
+            ],
+            [
+              "Total",
+              "60"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·3",
+        "reference": "Exercise 13.3 · 3",
+        "title": "Median from less-than totals",
+        "prompt": "Policies cover ages 18 onwards but below 60. Find the median age from these less-than cumulative totals, to 2 decimal places.",
+        "solution": [
+          "Recover ordinary frequencies by successive differences:2, 4, 18, 21, 33, 11, 3, 6, 2. The first class is 18–20, then 20–25,... .",
+          "N=100, so N/2=50. Cumulative total is 45 below 35 and 78 below 40; median class 35–40.",
+          "Median=35+[(50−45)/33]×5=35.757575...≈35.76 years. Do not use the cumulative total 78 as f."
+        ],
+        "hints": [
+          "Recover ordinary frequencies by successive differences:2, 4, 18, 21, 33, 11, 3, 6, 2. The first class is 18–20, then 20–25,... .",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median age (2 decimal places)",
+            "answer": 35.76,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Age below (years)",
+            "Cumulative frequency"
+          ],
+          "rows": [
+            [
+              "20",
+              "2"
+            ],
+            [
+              "25",
+              "6"
+            ],
+            [
+              "30",
+              "24"
+            ],
+            [
+              "35",
+              "45"
+            ],
+            [
+              "40",
+              "78"
+            ],
+            [
+              "45",
+              "89"
+            ],
+            [
+              "50",
+              "92"
+            ],
+            [
+              "55",
+              "98"
+            ],
+            [
+              "60",
+              "100"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·4",
+        "reference": "Exercise 13.3 · 4",
+        "title": "Continuous leaf lengths",
+        "prompt": "Lengths of 40 leaves were recorded to the nearest mm. Convert the inclusive classes to continuous boundaries, then find the median length. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=40. Class marks: 122, 131, 140, 149, 158, 167, 176.",
+          "Less-than cumulative frequencies: 3, 8, 17, 29, 34, 38, 40.",
+          "N/2=20; median class 289/2–307/2, lower boundary l=289/2, preceding cumulative frequency cf=17, f=12, h=9. Median=l+[(N/2−cf)/f]h=587/4≈146.75.",
+          "Use boundaries 117.5–126.5, 126.5–135.5,... . The median class is 144.5–153.5, not 145–153; h=9 and median 146.75 mm."
+        ],
+        "hints": [
+          "Total frequency N=40. Class marks: 122, 131, 140, 149, 158, 167, 176.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 146.75,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "118–126",
+              "3"
+            ],
+            [
+              "127–135",
+              "5"
+            ],
+            [
+              "136–144",
+              "9"
+            ],
+            [
+              "145–153",
+              "12"
+            ],
+            [
+              "154–162",
+              "5"
+            ],
+            [
+              "163–171",
+              "4"
+            ],
+            [
+              "172–180",
+              "2"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·5",
+        "reference": "Exercise 13.3 · 5",
+        "title": "Neon lamp lifetimes",
+        "prompt": "Find median lifetime in hours for 400 neon lamps. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=400. Class marks: 1750, 2250, 2750, 3250, 3750, 4250, 4750.",
+          "Less-than cumulative frequencies: 14, 70, 130, 216, 290, 352, 400.",
+          "N/2=200; median class 3000–3500, lower boundary l=3000, preceding cumulative frequency cf=130, f=86, h=500. Median=l+[(N/2−cf)/f]h=146500/43≈3406.98."
+        ],
+        "hints": [
+          "Total frequency N=400. Class marks: 1750, 2250, 2750, 3250, 3750, 4250, 4750.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 3406.98,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "1500–2000",
+              "14"
+            ],
+            [
+              "2000–2500",
+              "56"
+            ],
+            [
+              "2500–3000",
+              "60"
+            ],
+            [
+              "3000–3500",
+              "86"
+            ],
+            [
+              "3500–4000",
+              "74"
+            ],
+            [
+              "4000–4500",
+              "62"
+            ],
+            [
+              "4500–5000",
+              "48"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·6",
+        "reference": "Exercise 13.3 · 6",
+        "title": "Surname lengths",
+        "prompt": "Find median, mean and modal surname size from 100 surnames. Classes use the displayed continuous interval convention. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=100. Class marks: 5/2, 11/2, 17/2, 23/2, 29/2, 35/2.",
+          "Weighted sum Σfᵢxᵢ=832; grouped mean=Σfᵢxᵢ/N=208/25≈8.32. The class-mark assumption makes this a grouped-data estimate.",
+          "Less-than cumulative frequencies: 6, 36, 76, 92, 96, 100.",
+          "N/2=50; median class 7–10, lower boundary l=7, preceding cumulative frequency cf=36, f=40, h=3. Median=l+[(N/2−cf)/f]h=161/20≈8.05.",
+          "Modal class 7–10; l=7, h=3, f₁=40, f₀=30, f₂=16. Mode=l+[(f₁−f₀)/(2 f₁−f₀−f₂)]h=134/17≈7.88."
+        ],
+        "hints": [
+          "Total frequency N=100. Class marks: 5/2, 11/2, 17/2, 23/2, 29/2, 35/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 8.32,
+            "kind": "expression"
+          },
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 8.05,
+            "kind": "expression"
+          },
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 7.88,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "1–4",
+              "6"
+            ],
+            [
+              "4–7",
+              "30"
+            ],
+            [
+              "7–10",
+              "40"
+            ],
+            [
+              "10–13",
+              "16"
+            ],
+            [
+              "13–16",
+              "4"
+            ],
+            [
+              "16–19",
+              "4"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Exercise13-3·7",
+        "reference": "Exercise 13.3 · 7",
+        "title": "Student weights",
+        "prompt": "Find median weight in kg for 30 students. Use the full table. Round the requested estimates to 2 decimal places unless a field states otherwise.",
+        "solution": [
+          "Total frequency N=30. Class marks: 85/2, 95/2, 105/2, 115/2, 125/2, 135/2, 145/2.",
+          "Less-than cumulative frequencies: 2, 5, 13, 19, 25, 28, 30.",
+          "N/2=15; median class 55–60, lower boundary l=55, preceding cumulative frequency cf=13, f=6, h=5. Median=l+[(N/2−cf)/f]h=170/3≈56.67."
+        ],
+        "hints": [
+          "Total frequency N=30. Class marks: 85/2, 95/2, 105/2, 115/2, 125/2, 135/2, 145/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 56.67,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class interval",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "40–45",
+              "2"
+            ],
+            [
+              "45–50",
+              "3"
+            ],
+            [
+              "50–55",
+              "8"
+            ],
+            [
+              "55–60",
+              "6"
+            ],
+            [
+              "60–65",
+              "6"
+            ],
+            [
+              "65–70",
+              "3"
+            ],
+            [
+              "70–75",
+              "2"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      }
+    ],
+    "14": [
+      {
+        "id": "c14-Example1",
+        "reference": "Example 1",
+        "title": "One fair coin",
+        "prompt": "Find P(head) and P(tail) for one fair coin toss.",
+        "solution": [
+          "Sample space{H, T}has 2 equally likely outcomes; each event contains one.",
+          "P(H)=P(T)=1/2 and their sum is 1."
+        ],
+        "hints": [
+          "Sample space{H, T}has 2 equally likely outcomes; each event contains one.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Sample space{H, T}has 2 equally likely outcomes; each event contains one.",
+          "Compare step 2: P(H)=P(T)=1/2 and their sum is 1."
+        ],
+        "sample": "Sample space{H, T}has 2 equally likely outcomes; each event contains one. P(H)=P(T)=1/2 and their sum is 1."
+      },
+      {
+        "id": "c14-Example2",
+        "reference": "Example 2",
+        "title": "Three individual balls",
+        "prompt": "A bag has one each of red, blue, yellow balls of identical size. Find P(yellow), P(red), P(blue) under uniform drawing.",
+        "solution": [
+          "There are 3 individual balls, equally likely to be selected.",
+          "Each named colour has one favourable ball, so each probability is 1/3. Their sum is 1."
+        ],
+        "hints": [
+          "There are 3 individual balls, equally likely to be selected.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: There are 3 individual balls, equally likely to be selected.",
+          "Compare step 2: Each named colour has one favourable ball, so each probability is 1/3. Their sum is 1."
+        ],
+        "sample": "There are 3 individual balls, equally likely to be selected. Each named colour has one favourable ball, so each probability is 1/3. Their sum is 1."
+      },
+      {
+        "id": "c14-Example3",
+        "reference": "Example 3",
+        "title": "Complementary die events",
+        "prompt": "For one fair die, find P(number>4) and P(number≤4).",
+        "solution": [
+          "Faces 5, 6 satisfy>4, giving 2/6=1/3.",
+          "Faces 1, 2, 3, 4 satisfy≤4, giving 4/6=2/3. They are complements; neither is elementary because each contains multiple faces."
+        ],
+        "hints": [
+          "Faces 5, 6 satisfy>4, giving 2/6=1/3.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Faces 5, 6 satisfy>4, giving 2/6=1/3.",
+          "Compare step 2: Faces 1, 2, 3, 4 satisfy≤4, giving 4/6=2/3. They are complements; neither is elementary because each contains multiple faces."
+        ],
+        "sample": "Faces 5, 6 satisfy>4, giving 2/6=1/3. Faces 1, 2, 3, 4 satisfy≤4, giving 4/6=2/3. They are complements; neither is elementary because each contains multiple faces."
+      },
+      {
+        "id": "c14-Example4",
+        "reference": "Example 4",
+        "title": "Ace and not ace",
+        "prompt": "One card is drawn from a well-shuffled 52-card deck. Find P(ace), P(not ace).",
+        "solution": [
+          "There are 4 aces among 52 cards, so P(ace)=4/52=1/13.",
+          "The 48 non-aces give 48/52=12/13=1−1/13."
+        ],
+        "hints": [
+          "There are 4 aces among 52 cards, so P(ace)=4/52=1/13.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: There are 4 aces among 52 cards, so P(ace)=4/52=1/13.",
+          "Compare step 2: The 48 non-aces give 48/52=12/13=1−1/13."
+        ],
+        "sample": "There are 4 aces among 52 cards, so P(ace)=4/52=1/13. The 48 non-aces give 48/52=12/13=1−1/13."
+      },
+      {
+        "id": "c14-Example5",
+        "reference": "Example 5",
+        "title": "Tennis-match complement",
+        "prompt": "Sangeeta and Reshma play a match with exactly one winner. P(Sangeeta wins)=0.62. Find P(Reshma wins).",
+        "solution": [
+          "With exactly one winner and no draw, the two winning events are complementary.",
+          "P(Reshma)=1−0.62=0.38. The no-draw model is required for this complement."
+        ],
+        "hints": [
+          "With exactly one winner and no draw, the two winning events are complementary.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: With exactly one winner and no draw, the two winning events are complementary.",
+          "Compare step 2: P(Reshma)=1−0.62=0.38. The no-draw model is required for this complement."
+        ],
+        "sample": "With exactly one winner and no draw, the two winning events are complementary. P(Reshma)=1−0.62=0.38. The no-draw model is required for this complement."
+      },
+      {
+        "id": "c14-Example6",
+        "reference": "Example 6",
+        "title": "Two birthdays",
+        "prompt": "Ignore leap years and model birthdays independently and uniformly over 365 days. Find P(different), P(same) for Savita and Hamida.",
+        "solution": [
+          "Fix Savita’s day; Hamida has 364 different days and 1 matching day among 365 equally likely days.",
+          "P(different)=364/365; P(same)=1/365. These are complementary under the stated model."
+        ],
+        "hints": [
+          "Fix Savita’s day; Hamida has 364 different days and 1 matching day among 365 equally likely days.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Fix Savita’s day; Hamida has 364 different days and 1 matching day among 365 equally likely days.",
+          "Compare step 2: P(different)=364/365; P(same)=1/365. These are complementary under the stated model."
+        ],
+        "sample": "Fix Savita’s day; Hamida has 364 different days and 1 matching day among 365 equally likely days. P(different)=364/365; P(same)=1/365. These are complementary under the stated model."
+      },
+      {
+        "id": "c14-Example7",
+        "reference": "Example 7",
+        "title": "Choose a class representative",
+        "prompt": "A class has 25 girls and 15 boys. Identical name cards are thoroughly mixed and one is drawn. Find each probability.",
+        "solution": [
+          "All 40 individual name cards are equally likely.",
+          "P(girl)=25/40=5/8; P(boy)=15/40=3/8."
+        ],
+        "hints": [
+          "All 40 individual name cards are equally likely.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: All 40 individual name cards are equally likely.",
+          "Compare step 2: P(girl)=25/40=5/8; P(boy)=15/40=3/8."
+        ],
+        "sample": "All 40 individual name cards are equally likely. P(girl)=25/40=5/8; P(boy)=15/40=3/8."
+      },
+      {
+        "id": "c14-Example8",
+        "reference": "Example 8",
+        "title": "Three marble colours",
+        "prompt": "A box has 3 blue, 2 white, 4 red marbles. Find the probability of each colour under uniform selection.",
+        "solution": [
+          "Total 9 marbles. Count individual marbles, not merely 3 colour labels.",
+          "P(white)=2/9; P(blue)=3/9=1/3; P(red)=4/9. The three probabilities sum to 1."
+        ],
+        "hints": [
+          "Total 9 marbles. Count individual marbles, not merely 3 colour labels.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Total 9 marbles. Count individual marbles, not merely 3 colour labels.",
+          "Compare step 2: P(white)=2/9; P(blue)=3/9=1/3; P(red)=4/9. The three probabilities sum to 1."
+        ],
+        "sample": "Total 9 marbles. Count individual marbles, not merely 3 colour labels. P(white)=2/9; P(blue)=3/9=1/3; P(red)=4/9. The three probabilities sum to 1."
+      },
+      {
+        "id": "c14-Example9",
+        "reference": "Example 9",
+        "title": "At least one head",
+        "prompt": "Toss two fair distinguishable coins. Find P(at least one head).",
+        "solution": [
+          "The four ordered outcomes are HH, HT, TH, TT. HH, HT, TH satisfy the event, so probability 3/4.",
+          "Equivalently complement TT:1−1/4=3/4. “At least one” includes two heads."
+        ],
+        "hints": [
+          "The four ordered outcomes are HH, HT, TH, TT. HH, HT, TH satisfy the event, so probability 3/4.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The four ordered outcomes are HH, HT, TH, TT. HH, HT, TH satisfy the event, so probability 3/4.",
+          "Compare step 2: Equivalently complement TT:1−1/4=3/4. “At least one” includes two heads."
+        ],
+        "sample": "The four ordered outcomes are HH, HT, TH, TT. HH, HT, TH satisfy the event, so probability 3/4. Equivalently complement TT:1−1/4=3/4. “At least one” includes two heads."
+      },
+      {
+        "id": "c14-Example10·additional,notforexamination",
+        "reference": "Example 10 · additional, not for examination",
+        "title": "Uniform stopping time",
+        "prompt": "Music stops uniformly at a time between 0 and 2 minutes. Find P(stops within the first half-minute).",
+        "solution": [
+          "For a uniform time on[0, 2], probability is favourable interval length divided by total interval length.",
+          "P=(1/2)/2=1/4. There are infinitely many possible times; do not use a finite outcome count."
+        ],
+        "hints": [
+          "For a uniform time on[0, 2], probability is favourable interval length divided by total interval length.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: For a uniform time on[0, 2], probability is favourable interval length divided by total interval length.",
+          "Compare step 2: P=(1/2)/2=1/4. There are infinitely many possible times; do not use a finite outcome count."
+        ],
+        "sample": "For a uniform time on[0, 2], probability is favourable interval length divided by total interval length. P=(1/2)/2=1/4. There are infinitely many possible times; do not use a finite outcome count."
+      },
+      {
+        "id": "c14-Example11·additional,notforexamination",
+        "reference": "Example 11 · additional, not for examination",
+        "title": "Uniform location in a lake",
+        "prompt": "A helicopter is modelled as equally likely to have crashed anywhere in a 9 kmby 4.5 kmrectangle. A rectangular lake inside measures 3 kmby 2.5 km. Find P(in the lake).",
+        "solution": [
+          "Total area=9×4.5=40.5 km²; lake area=3×2.5=7.5 km².",
+          "Uniform-location probability=7.5/40.5=5/27. The uniform-area assumption is essential."
+        ],
+        "hints": [
+          "Total area=9×4.5=40.5 km²; lake area=3×2.5=7.5 km².",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Total area=9×4.5=40.5 km²; lake area=3×2.5=7.5 km².",
+          "Compare step 2: Uniform-location probability=7.5/40.5=5/27. The uniform-area assumption is essential."
+        ],
+        "sample": "Total area=9×4.5=40.5 km²; lake area=3×2.5=7.5 km². Uniform-location probability=7.5/40.5=5/27. The uniform-area assumption is essential."
+      },
+      {
+        "id": "c14-Example12",
+        "reference": "Example 12",
+        "title": "Different acceptance rules",
+        "prompt": "A carton has 88 good shirts, 8 with minor defects and 4 with major defects. Jimmy accepts only good shirts; Sujatha rejects only major defects. Find acceptance probabilities.",
+        "solution": [
+          "There are 100 equally likely individual shirts. Jimmy accepts 88, so P=0.88.",
+          "Sujatha accepts 88+8=96, so P=0.96. Read the event carefully: the traders use different criteria."
+        ],
+        "hints": [
+          "There are 100 equally likely individual shirts. Jimmy accepts 88, so P=0.88.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: There are 100 equally likely individual shirts. Jimmy accepts 88, so P=0.88.",
+          "Compare step 2: Sujatha accepts 88+8=96, so P=0.96. Read the event carefully: the traders use different criteria."
+        ],
+        "sample": "There are 100 equally likely individual shirts. Jimmy accepts 88, so P=0.88. Sujatha accepts 88+8=96, so P=0.96. Read the event carefully: the traders use different criteria."
+      },
+      {
+        "id": "c14-Example13",
+        "reference": "Example 13",
+        "title": "Thirty-six ordered dice outcomes",
+        "prompt": "List all ordered outcomes for two fair distinguishable dice, then find P(sum 8), P(sum 13), P(sum≤12).",
+        "solution": [
+          "The sample space is{(i, j):i, j∈{1, 2, 3, 4, 5, 6}}, with 36 equally likely outcomes. The full table below lists every pair.",
+          "Sum 8 comes from(2, 6), (3, 5), (4, 4), (5, 3), (6, 2):5/36. Sum 13 is impossible:0. Every pair has sum≤12:probability 1.",
+          "Pairs(i, j)and(j, i)are distinct when i≠j because the dice are distinguishable."
+        ],
+        "hints": [
+          "The sample space is{(i, j):i, j∈{1, 2, 3, 4, 5, 6}}, with 36 equally likely outcomes. The full table below lists every pair.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The sample space is{(i, j):i, j∈{1, 2, 3, 4, 5, 6}}, with 36 equally likely outcomes. The full table below lists every pair.",
+          "Compare step 2: Sum 8 comes from(2, 6), (3, 5), (4, 4), (5, 3), (6, 2):5/36. Sum 13 is impossible:0. Every pair has sum≤12:probability 1.",
+          "Compare step 3: Pairs(i, j)and(j, i)are distinct when i≠j because the dice are distinguishable."
+        ],
+        "sample": "The sample space is{(i, j):i, j∈{1, 2, 3, 4, 5, 6}}, with 36 equally likely outcomes. The full table below lists every pair. Sum 8 comes from(2, 6), (3, 5), (4, 4), (5, 3), (6, 2):5/36. Sum 13 is impossible:0. Every pair has sum≤12:probability 1. Pairs(i, j)and(j, i)are distinct when i≠j because the dice are distinguishable.",
+        "table": {
+          "headers": [
+            "Blue / grey die",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "rows": [
+            [
+              "1",
+              "(1, 1)",
+              "(1, 2)",
+              "(1, 3)",
+              "(1, 4)",
+              "(1, 5)",
+              "(1, 6)"
+            ],
+            [
+              "2",
+              "(2, 1)",
+              "(2, 2)",
+              "(2, 3)",
+              "(2, 4)",
+              "(2, 5)",
+              "(2, 6)"
+            ],
+            [
+              "3",
+              "(3, 1)",
+              "(3, 2)",
+              "(3, 3)",
+              "(3, 4)",
+              "(3, 5)",
+              "(3, 6)"
+            ],
+            [
+              "4",
+              "(4, 1)",
+              "(4, 2)",
+              "(4, 3)",
+              "(4, 4)",
+              "(4, 5)",
+              "(4, 6)"
+            ],
+            [
+              "5",
+              "(5, 1)",
+              "(5, 2)",
+              "(5, 3)",
+              "(5, 4)",
+              "(5, 5)",
+              "(5, 6)"
+            ],
+            [
+              "6",
+              "(6, 1)",
+              "(6, 2)",
+              "(6, 3)",
+              "(6, 4)",
+              "(6, 5)",
+              "(6, 6)"
+            ]
+          ],
+          "caption": "All equally likely ordered pairs"
+        }
+      },
+      {
+        "id": "c14-14-1·Experimentalandtheoreticalprobability",
+        "reference": "14.1 · Experimental and theoretical probability",
+        "title": "Choose the probability model",
+        "prompt": "Compare empirical frequency with theoretical probability, define elementary and complementary events, and state the basic laws.",
+        "solution": [
+          "Experimental probability is observed favourable trials/total trials and can vary between runs. The theoretical favourable/total count requires finitely many equally likely elementary outcomes.",
+          "An elementary event contains one elementary outcome. An event may contain several; its probability is the sum of their elementary probabilities. All exhaustive elementary probabilities sum to 1.",
+          "The complement “not E” contains exactly the outcomes excluded by E, so P(not E)=1−P(E). Impossible events have 0 and certain events 1; all probabilities lie in[0, 1].",
+          "For continuous uniform time or area, use a ratio of lengths or areas instead of counting infinitely many points. Additional source examples are labelled as non-examination material."
+        ],
+        "hints": [
+          "Experimental probability is observed favourable trials/total trials and can vary between runs. The theoretical favourable/total count requires finitely many equally likely elementary outcomes.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Experimental probability is observed favourable trials/total trials and can vary between runs. The theoretical favourable/total count requires finitely many equally likely elementary outcomes.",
+          "Compare step 2: An elementary event contains one elementary outcome. An event may contain several; its probability is the sum of their elementary probabilities. All exhaustive elementary probabilities sum to 1.",
+          "Compare step 3: The complement “not E” contains exactly the outcomes excluded by E, so P(not E)=1−P(E). Impossible events have 0 and certain events 1; all probabilities lie in[0, 1].",
+          "Compare step 4: For continuous uniform time or area, use a ratio of lengths or areas instead of counting infinitely many points. Additional source examples are labelled as non-examination material."
+        ],
+        "sample": "Experimental probability is observed favourable trials/total trials and can vary between runs. The theoretical favourable/total count requires finitely many equally likely elementary outcomes. An elementary event contains one elementary outcome. An event may contain several; its probability is the sum of their elementary probabilities. All exhaustive elementary probabilities sum to 1. The complement “not E” contains exactly the outcomes excluded by E, so P(not E)=1−P(E). Impossible events have 0 and certain events 1; all probabilities lie in[0, 1]. For continuous uniform time or area, use a ratio of lengths or areas instead of counting infinitely many points. Additional source examples are labelled as non-examination material."
+      },
+      {
+        "id": "c14-Exercise14-1·1-i",
+        "reference": "Exercise 14.1 · 1(i)",
+        "title": "Probability foundations",
+        "prompt": "Complete P(E)+P(not E).",
+        "solution": [
+          "Complementary events partition the sample space, so P(E)+P(not E)=1."
+        ],
+        "hints": [
+          "Complementary events partition the sample space, so P(E)+P(not E)=1.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Complementary events partition the sample space, so P(E)+P(not E)=1."
+        ],
+        "sample": "Complementary events partition the sample space, so P(E)+P(not E)=1."
+      },
+      {
+        "id": "c14-Exercise14-1·1-ii",
+        "reference": "Exercise 14.1 · 1(ii)",
+        "title": "Probability foundations",
+        "prompt": "Give the probability and name of an event that cannot happen.",
+        "solution": [
+          "Probability 0; it is an impossible event."
+        ],
+        "hints": [
+          "Probability 0; it is an impossible event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Probability 0; it is an impossible event."
+        ],
+        "sample": "Probability 0; it is an impossible event."
+      },
+      {
+        "id": "c14-Exercise14-1·1-iii",
+        "reference": "Exercise 14.1 · 1(iii)",
+        "title": "Probability foundations",
+        "prompt": "Give the probability and name of an event certain to happen.",
+        "solution": [
+          "Probability 1; it is a sure or certain event."
+        ],
+        "hints": [
+          "Probability 1; it is a sure or certain event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Probability 1; it is a sure or certain event."
+        ],
+        "sample": "Probability 1; it is a sure or certain event."
+      },
+      {
+        "id": "c14-Exercise14-1·1-iv",
+        "reference": "Exercise 14.1 · 1(iv)",
+        "title": "Probability foundations",
+        "prompt": "What is the sum of probabilities of all elementary events?",
+        "solution": [
+          "The elementary outcomes are mutually exclusive and exhaustive, so their probabilities sum to 1."
+        ],
+        "hints": [
+          "The elementary outcomes are mutually exclusive and exhaustive, so their probabilities sum to 1.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The elementary outcomes are mutually exclusive and exhaustive, so their probabilities sum to 1."
+        ],
+        "sample": "The elementary outcomes are mutually exclusive and exhaustive, so their probabilities sum to 1."
+      },
+      {
+        "id": "c14-Exercise14-1·1-v",
+        "reference": "Exercise 14.1 · 1(v)",
+        "title": "Probability foundations",
+        "prompt": "State the lower and upper bounds on any probability.",
+        "solution": [
+          "Every probability is at least 0 and at most 1:0≤P(E)≤1."
+        ],
+        "hints": [
+          "Every probability is at least 0 and at most 1:0≤P(E)≤1.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Every probability is at least 0 and at most 1:0≤P(E)≤1."
+        ],
+        "sample": "Every probability is at least 0 and at most 1:0≤P(E)≤1."
+      },
+      {
+        "id": "c14-Exercise14-1·2-i",
+        "reference": "Exercise 14.1 · 2(i)",
+        "title": "Check equal likelihood",
+        "prompt": "A driver tries to start a car: it starts or does not start. Are these equally likely?",
+        "solution": [
+          "Not necessarily. Two listed possibilities do not establish equal probabilities; the condition of the car affects the chance of starting."
+        ],
+        "hints": [
+          "Not necessarily. Two listed possibilities do not establish equal probabilities; the condition of the car affects the chance of starting.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Not necessarily. Two listed possibilities do not establish equal probabilities; the condition of the car affects the chance of starting."
+        ],
+        "sample": "Not necessarily. Two listed possibilities do not establish equal probabilities; the condition of the car affects the chance of starting."
+      },
+      {
+        "id": "c14-Exercise14-1·2-ii",
+        "reference": "Exercise 14.1 · 2(ii)",
+        "title": "Check equal likelihood",
+        "prompt": "A basketball player shoots or misses. Are these equally likely?",
+        "solution": [
+          "Not necessarily. Skill and conditions affect success. Counting two event labels does not make each probability 1/2."
+        ],
+        "hints": [
+          "Not necessarily. Skill and conditions affect success. Counting two event labels does not make each probability 1/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Not necessarily. Skill and conditions affect success. Counting two event labels does not make each probability 1/2."
+        ],
+        "sample": "Not necessarily. Skill and conditions affect success. Counting two event labels does not make each probability 1/2."
+      },
+      {
+        "id": "c14-Exercise14-1·2-iii",
+        "reference": "Exercise 14.1 · 2(iii)",
+        "title": "Check equal likelihood",
+        "prompt": "A true/false answer is right or wrong. Explain the equal-likelihood model used in this exercise.",
+        "solution": [
+          "The textbook treats this as a random guess between two answers, one correct and one incorrect, giving equal chances 1/2.",
+          "If the respondent knows the answer or uses other information, right/wrong need not be equally likely. State the random-guess assumption rather than inferring fairness from two labels."
+        ],
+        "hints": [
+          "The textbook treats this as a random guess between two answers, one correct and one incorrect, giving equal chances 1/2.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The textbook treats this as a random guess between two answers, one correct and one incorrect, giving equal chances 1/2.",
+          "Compare step 2: If the respondent knows the answer or uses other information, right/wrong need not be equally likely. State the random-guess assumption rather than inferring fairness from two labels."
+        ],
+        "sample": "The textbook treats this as a random guess between two answers, one correct and one incorrect, giving equal chances 1/2. If the respondent knows the answer or uses other information, right/wrong need not be equally likely. State the random-guess assumption rather than inferring fairness from two labels."
+      },
+      {
+        "id": "c14-Exercise14-1·2-iv",
+        "reference": "Exercise 14.1 · 2(iv)",
+        "title": "Check equal likelihood",
+        "prompt": "A birth is described using the textbook’s boy/girl outcome model. Explain its equal-likelihood assumption.",
+        "solution": [
+          "The exercise idealises the two stated categories as equally likely, assigning 1/2 to each. This is the model used for its answer.",
+          "The list of two categories alone does not prove equal likelihood; such a probability assignment is an assumption of the experiment model."
+        ],
+        "hints": [
+          "The exercise idealises the two stated categories as equally likely, assigning 1/2 to each. This is the model used for its answer.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The exercise idealises the two stated categories as equally likely, assigning 1/2 to each. This is the model used for its answer.",
+          "Compare step 2: The list of two categories alone does not prove equal likelihood; such a probability assignment is an assumption of the experiment model."
+        ],
+        "sample": "The exercise idealises the two stated categories as equally likely, assigning 1/2 to each. This is the model used for its answer. The list of two categories alone does not prove equal likelihood; such a probability assignment is an assumption of the experiment model."
+      },
+      {
+        "id": "c14-Exercise14-1·3",
+        "reference": "Exercise 14.1 · 3",
+        "title": "Why a coin can decide fairly",
+        "prompt": "Explain why tossing a coin is considered fair when deciding which football team receives the ball.",
+        "solution": [
+          "For a fair coin, head and tail are equally likely, each with probability 1/2. Assign one outcome to each team before the toss.",
+          "The argument depends on a fair tossing model; one outcome is realised, but neither team is favoured in advance."
+        ],
+        "hints": [
+          "For a fair coin, head and tail are equally likely, each with probability 1/2. Assign one outcome to each team before the toss.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: For a fair coin, head and tail are equally likely, each with probability 1/2. Assign one outcome to each team before the toss.",
+          "Compare step 2: The argument depends on a fair tossing model; one outcome is realised, but neither team is favoured in advance."
+        ],
+        "sample": "For a fair coin, head and tail are equally likely, each with probability 1/2. Assign one outcome to each team before the toss. The argument depends on a fair tossing model; one outcome is realised, but neither team is favoured in advance."
+      },
+      {
+        "id": "c14-Exercise14-1·4",
+        "reference": "Exercise 14.1 · 4",
+        "title": "An invalid probability",
+        "prompt": "Which cannot be a probability: A2/3, B−1.5, C15%, D0.7? Explain.",
+        "solution": [
+          "Probabilities must lie from 0 to 1 inclusive. −1.5 is negative, so option B is impossible.",
+          "2/3, 15%=0.15 and 0.7 are all within the allowed range."
+        ],
+        "hints": [
+          "Probabilities must lie from 0 to 1 inclusive. −1.5 is negative, so option B is impossible.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Probabilities must lie from 0 to 1 inclusive. −1.5 is negative, so option B is impossible.",
+          "Compare step 2: 2/3, 15%=0.15 and 0.7 are all within the allowed range."
+        ],
+        "sample": "Probabilities must lie from 0 to 1 inclusive. −1.5 is negative, so option B is impossible. 2/3, 15%=0.15 and 0.7 are all within the allowed range."
+      },
+      {
+        "id": "c14-Exercise14-1·5",
+        "reference": "Exercise 14.1 · 5",
+        "title": "Use the complement",
+        "prompt": "If P(E)=0.05, find P(not E).",
+        "solution": [
+          "P(not E)=1−0.05=0.95.",
+          "Probability=95/100=19/20."
+        ],
+        "hints": [
+          "P(not E)=1−0.05=0.95.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.95,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·6-i",
+        "reference": "Exercise 14.1 · 6(i)",
+        "title": "Impossible flavour",
+        "prompt": "A bag contains only lemon candies. Find the chance of drawing an orange candy.",
+        "solution": [
+          "No candy is orange, so the event is impossible.",
+          "Probability=0/1=0."
+        ],
+        "hints": [
+          "No candy is orange, so the event is impossible.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·6-ii",
+        "reference": "Exercise 14.1 · 6(ii)",
+        "title": "Certain flavour",
+        "prompt": "The bag contains only lemon candies. Find the chance of drawing a lemon candy.",
+        "solution": [
+          "Every possible draw is lemon, so the event is certain.",
+          "Probability=1/1=1."
+        ],
+        "hints": [
+          "Every possible draw is lemon, so the event is certain.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 1.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·7",
+        "reference": "Exercise 14.1 · 7",
+        "title": "Complement a stated birthday probability",
+        "prompt": "The question gives probability 0.992 for the stated non-matching-birthday event in a 3-student group. Find the probability of its matching complement.",
+        "solution": [
+          "Use the supplied event probability:1−0.992=0.008. No independent birthday calculation is needed.",
+          "Probability=8/1000=1/125."
+        ],
+        "hints": [
+          "Use the supplied event probability:1−0.992=0.008. No independent birthday calculation is needed.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.008,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·8-i",
+        "reference": "Exercise 14.1 · 8(i)",
+        "title": "Count favourable objects",
+        "prompt": "A bag contains 3 red and 5 black balls. Find P(red).",
+        "solution": [
+          "There are 8 equally likely elementary outcomes; 3 satisfy the event.",
+          "Probability=3/8=3/8."
+        ],
+        "hints": [
+          "There are 8 equally likely elementary outcomes; 3 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.375,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·8-ii",
+        "reference": "Exercise 14.1 · 8(ii)",
+        "title": "Count favourable objects",
+        "prompt": "For the same bag, find P(not red).",
+        "solution": [
+          "There are 8 equally likely elementary outcomes; 5 satisfy the event.",
+          "Probability=5/8=5/8."
+        ],
+        "hints": [
+          "There are 8 equally likely elementary outcomes; 5 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.625,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·9-i",
+        "reference": "Exercise 14.1 · 9(i)",
+        "title": "Count favourable objects",
+        "prompt": "A box contains 5 red, 8 white, 4 green marbles. Find P(red).",
+        "solution": [
+          "There are 17 equally likely elementary outcomes; 5 satisfy the event.",
+          "Probability=5/17=5/17."
+        ],
+        "hints": [
+          "There are 17 equally likely elementary outcomes; 5 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.29411764705882354,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·9-ii",
+        "reference": "Exercise 14.1 · 9(ii)",
+        "title": "Count favourable objects",
+        "prompt": "For the same 5 red, 8 white, 4 green box, find P(white).",
+        "solution": [
+          "There are 17 equally likely elementary outcomes; 8 satisfy the event.",
+          "Probability=8/17=8/17."
+        ],
+        "hints": [
+          "There are 17 equally likely elementary outcomes; 8 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.47058823529411764,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·9-iii",
+        "reference": "Exercise 14.1 · 9(iii)",
+        "title": "Count favourable objects",
+        "prompt": "For the same box, find P(not green).",
+        "solution": [
+          "There are 17 equally likely elementary outcomes; 13 satisfy the event.",
+          "Probability=13/17=13/17."
+        ],
+        "hints": [
+          "There are 17 equally likely elementary outcomes; 13 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.7647058823529411,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·10-i",
+        "reference": "Exercise 14.1 · 10(i)",
+        "title": "Count favourable objects",
+        "prompt": "A bank holds 100 coins of 50 p, 50 of₹1, 20 of₹2 and 10 of₹5. Each individual coin is equally likely to fall out. Find P(50 p).",
+        "solution": [
+          "There are 180 equally likely elementary outcomes; 100 satisfy the event.",
+          "Probability=100/180=5/9."
+        ],
+        "hints": [
+          "There are 180 equally likely elementary outcomes; 100 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.5555555555555556,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·10-ii",
+        "reference": "Exercise 14.1 · 10(ii)",
+        "title": "Count favourable objects",
+        "prompt": "For the same bank of 180 coins, find P(not a₹5 coin).",
+        "solution": [
+          "There are 180 equally likely elementary outcomes; 170 satisfy the event.",
+          "Probability=170/180=17/18."
+        ],
+        "hints": [
+          "There are 180 equally likely elementary outcomes; 170 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.9444444444444444,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·11",
+        "reference": "Exercise 14.1 · 11",
+        "title": "Count favourable objects",
+        "prompt": "A tank contains 5 male and 8 female fish; choose one individual fish uniformly. Find P(male).",
+        "solution": [
+          "There are 13 equally likely elementary outcomes; 5 satisfy the event.",
+          "Probability=5/13=5/13."
+        ],
+        "hints": [
+          "There are 13 equally likely elementary outcomes; 5 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.38461538461538464,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·12-i",
+        "reference": "Exercise 14.1 · 12(i)",
+        "title": "Eight equal spinner outcomes",
+        "prompt": "A fair spinner has 8 equally likely numbered outcomes 1 through 8. Find the chance of 8.",
+        "solution": [
+          "Only8is favourable. Each of the8individual spinner outcomes has equal probability.",
+          "Probability=1/8=1/8."
+        ],
+        "hints": [
+          "There are 8 equally likely elementary outcomes; 1 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.125,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·12-ii",
+        "reference": "Exercise 14.1 · 12(ii)",
+        "title": "Eight equal spinner outcomes",
+        "prompt": "A fair spinner has 8 equally likely numbered outcomes 1 through 8. Find the chance of an odd number.",
+        "solution": [
+          "Favourable labels are1,3,5,7. Each of the8individual spinner outcomes has equal probability.",
+          "Probability=4/8=1/2."
+        ],
+        "hints": [
+          "There are 8 equally likely elementary outcomes; 4 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·12-iii",
+        "reference": "Exercise 14.1 · 12(iii)",
+        "title": "Eight equal spinner outcomes",
+        "prompt": "A fair spinner has 8 equally likely numbered outcomes 1 through 8. Find the chance of a number greater than 2.",
+        "solution": [
+          "Favourable labels are3,4,5,6,7,8. Each of the8individual spinner outcomes has equal probability.",
+          "Probability=6/8=3/4."
+        ],
+        "hints": [
+          "There are 8 equally likely elementary outcomes; 6 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.75,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·12-iv",
+        "reference": "Exercise 14.1 · 12(iv)",
+        "title": "Eight equal spinner outcomes",
+        "prompt": "A fair spinner has 8 equally likely numbered outcomes 1 through 8. Find the chance of a number less than 9.",
+        "solution": [
+          "All labels1through8are less than9. Each of the8individual spinner outcomes has equal probability.",
+          "Probability=8/8=1."
+        ],
+        "hints": [
+          "There are 8 equally likely elementary outcomes; 8 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 1.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·13-i",
+        "reference": "Exercise 14.1 · 13(i)",
+        "title": "One fair die",
+        "prompt": "Roll a fair six-sided die. Find P(a prime number).",
+        "solution": [
+          "Primes on the die are 2, 3, 5;1 is not prime.",
+          "Probability=3/6=1/2."
+        ],
+        "hints": [
+          "Primes on the die are 2, 3, 5;1 is not prime.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·13-ii",
+        "reference": "Exercise 14.1 · 13(ii)",
+        "title": "One fair die",
+        "prompt": "Roll a fair six-sided die. Find P(a number strictly between 2 and 6).",
+        "solution": [
+          "Favourable faces are 3, 4, 5; the endpoints 2 and 6 are excluded.",
+          "Probability=3/6=1/2."
+        ],
+        "hints": [
+          "Favourable faces are 3, 4, 5; the endpoints 2 and 6 are excluded.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·13-iii",
+        "reference": "Exercise 14.1 · 13(iii)",
+        "title": "One fair die",
+        "prompt": "Roll a fair six-sided die. Find P(an odd number).",
+        "solution": [
+          "Favourable faces are 1, 3, 5.",
+          "Probability=3/6=1/2."
+        ],
+        "hints": [
+          "Favourable faces are 1, 3, 5.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·14-i",
+        "reference": "Exercise 14.1 · 14(i)",
+        "title": "A standard 52-card deck",
+        "prompt": "Draw one card from a well-shuffled standard 52-card deck, with no jokers. Find P(a red king).",
+        "solution": [
+          "There are 2 red kings among 52 cards.",
+          "Probability=2/52=1/26."
+        ],
+        "hints": [
+          "There are 2 red kings among 52 cards.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.038461538461538464,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·14-ii",
+        "reference": "Exercise 14.1 · 14(ii)",
+        "title": "A standard 52-card deck",
+        "prompt": "Draw one card from a well-shuffled standard 52-card deck, with no jokers. Find P(a face card).",
+        "solution": [
+          "Jacks, queens, kings:3 per suit×4 suits=12; aces are not face cards.",
+          "Probability=12/52=3/13."
+        ],
+        "hints": [
+          "Jacks, queens, kings:3 per suit×4 suits=12; aces are not face cards.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.23076923076923078,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·14-iii",
+        "reference": "Exercise 14.1 · 14(iii)",
+        "title": "A standard 52-card deck",
+        "prompt": "Draw one card from a well-shuffled standard 52-card deck, with no jokers. Find P(a red face card).",
+        "solution": [
+          "There are 3 face ranks in each of 2 red suits, so 6 cards.",
+          "Probability=6/52=3/26."
+        ],
+        "hints": [
+          "There are 3 face ranks in each of 2 red suits, so 6 cards.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.11538461538461539,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·14-iv",
+        "reference": "Exercise 14.1 · 14(iv)",
+        "title": "A standard 52-card deck",
+        "prompt": "Draw one card from a well-shuffled standard 52-card deck, with no jokers. Find P(the jack of hearts).",
+        "solution": [
+          "This is one specific card among 52.",
+          "Probability=1/52=1/52."
+        ],
+        "hints": [
+          "This is one specific card among 52.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.019230769230769232,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·14-v",
+        "reference": "Exercise 14.1 · 14(v)",
+        "title": "A standard 52-card deck",
+        "prompt": "Draw one card from a well-shuffled standard 52-card deck, with no jokers. Find P(a spade).",
+        "solution": [
+          "One suit has 13 cards.",
+          "Probability=13/52=1/4."
+        ],
+        "hints": [
+          "One suit has 13 cards.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.25,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·14-vi",
+        "reference": "Exercise 14.1 · 14(vi)",
+        "title": "A standard 52-card deck",
+        "prompt": "Draw one card from a well-shuffled standard 52-card deck, with no jokers. Find P(the queen of diamonds).",
+        "solution": [
+          "This is one specific card among 52.",
+          "Probability=1/52=1/52."
+        ],
+        "hints": [
+          "This is one specific card among 52.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.019230769230769232,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·15-i",
+        "reference": "Exercise 14.1 · 15(i)",
+        "title": "Five diamond cards",
+        "prompt": "The ten, jack, queen, king and ace of diamonds are shuffled. Find P(queen) on the first draw.",
+        "solution": [
+          "There are 5 equally likely elementary outcomes; 1 satisfy the event.",
+          "Probability=1/5=1/5."
+        ],
+        "hints": [
+          "There are 5 equally likely elementary outcomes; 1 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.2,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·15-ii-a",
+        "reference": "Exercise 14.1 · 15(ii)(a)",
+        "title": "Remove the queen first",
+        "prompt": "From those 5 diamond cards, the queen has been drawn and set aside. Find the chance the next card is the ace.",
+        "solution": [
+          "Only 4 cards remain; one is the ace. The denominator changes after removal.",
+          "Probability=1/4=1/4."
+        ],
+        "hints": [
+          "Only 4 cards remain; one is the ace. The denominator changes after removal.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.25,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·15-ii-b",
+        "reference": "Exercise 14.1 · 15(ii)(b)",
+        "title": "A removed card cannot recur",
+        "prompt": "From those 5 diamond cards, the queen has been set aside. Find P(queen) on the next draw without replacement.",
+        "solution": [
+          "No queen remains among the 4 cards.",
+          "Probability=0/4=0."
+        ],
+        "hints": [
+          "No queen remains among the 4 cards.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·16",
+        "reference": "Exercise 14.1 · 16",
+        "title": "Good pens",
+        "prompt": "Twelve defective pens mix with 132 good pens. Choose one uniformly. Find P(good).",
+        "solution": [
+          "There are 144 equally likely elementary outcomes; 132 satisfy the event.",
+          "Probability=132/144=11/12."
+        ],
+        "hints": [
+          "There are 144 equally likely elementary outcomes; 132 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.9166666666666666,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·17-i",
+        "reference": "Exercise 14.1 · 17(i)",
+        "title": "Defective bulbs",
+        "prompt": "A lot of 20 bulbs includes 4 defective bulbs. Choose one uniformly. Find P(defective).",
+        "solution": [
+          "There are 20 equally likely elementary outcomes; 4 satisfy the event.",
+          "Probability=4/20=1/5."
+        ],
+        "hints": [
+          "There are 20 equally likely elementary outcomes; 4 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.2,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·17-ii",
+        "reference": "Exercise 14.1 · 17(ii)",
+        "title": "Condition on a good first draw",
+        "prompt": "The first bulb from that lot was good and is not replaced. Find P(the next bulb is good).",
+        "solution": [
+          "Originally 16 good bulbs; removing one good leaves 15 good among 19 total.",
+          "Probability=15/19=15/19."
+        ],
+        "hints": [
+          "Originally 16 good bulbs; removing one good leaves 15 good among 19 total.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.7894736842105263,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·18-i",
+        "reference": "Exercise 14.1 · 18(i)",
+        "title": "Discs numbered 1 to 90",
+        "prompt": "Choose uniformly one disc numbered 1 through 90. Find P(a two-digit number).",
+        "solution": [
+          "The integers 10 through 90 inclusive number 90−10+1=81.",
+          "Probability=81/90=9/10."
+        ],
+        "hints": [
+          "The integers 10 through 90 inclusive number 90−10+1=81.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.9,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·18-ii",
+        "reference": "Exercise 14.1 · 18(ii)",
+        "title": "Discs numbered 1 to 90",
+        "prompt": "Choose uniformly one disc numbered 1 through 90. Find P(a perfect square).",
+        "solution": [
+          "Squares are 1, 4, 9, 16, 25, 36, 49, 64, 81:9 values.",
+          "Probability=9/90=1/10."
+        ],
+        "hints": [
+          "Squares are 1, 4, 9, 16, 25, 36, 49, 64, 81:9 values.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.1,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·18-iii",
+        "reference": "Exercise 14.1 · 18(iii)",
+        "title": "Discs numbered 1 to 90",
+        "prompt": "Choose uniformly one disc numbered 1 through 90. Find P(a multiple of 5).",
+        "solution": [
+          "The numbers 5, 10,..., 90 give 18 multiples.",
+          "Probability=18/90=1/5."
+        ],
+        "hints": [
+          "The numbers 5, 10,..., 90 give 18 multiples.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.2,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·19-i",
+        "reference": "Exercise 14.1 · 19(i)",
+        "title": "Repeated letters on a die",
+        "prompt": "A fair die has faces A, B, C, D, E, A. Find P(A).",
+        "solution": [
+          "Count faces rather than distinct letter labels: two of the six faces show A.",
+          "Probability=2/6=1/3."
+        ],
+        "hints": [
+          "Count faces rather than distinct letter labels: two of the six faces show A.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.3333333333333333,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·19-ii",
+        "reference": "Exercise 14.1 · 19(ii)",
+        "title": "One labelled face",
+        "prompt": "A fair die has faces A, B, C, D, E, A. Find P(D).",
+        "solution": [
+          "There are 6 equally likely elementary outcomes; 1 satisfy the event.",
+          "Probability=1/6=1/6."
+        ],
+        "hints": [
+          "There are 6 equally likely elementary outcomes; 1 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.16666666666666666,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·20·additional,notforexamination",
+        "reference": "Exercise 14.1 · 20 · additional, not for examination",
+        "title": "Uniform area probability",
+        "prompt": "A die is idealised as landing at a uniformly chosen point in a 3 mby 2 mrectangle containing a circle of diameter 1 m. Find probability of the point being inside the circle, in terms ofπ. Enter coefficient k in P=kπ.",
+        "solution": [
+          "Under uniform-area placement, probability=target area/total area. The radius is 1/2 m, so circle area=π/4 and rectangle area=6 m².",
+          "Probability=(π/4)/6=π/24; coefficient k=1/24. This continuous-area model cannot be justified by counting finitely many points."
+        ],
+        "hints": [
+          "Under uniform-area placement, probability=target area/total area. The radius is 1/2 m, so circle area=π/4 and rectangle area=6 m².",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Coefficient k in P=kπ",
+            "answer": 0.041666666666666664,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·21-i",
+        "reference": "Exercise 14.1 · 21(i)",
+        "title": "Will Nuri buy the pen?",
+        "prompt": "Of 144 pens, 20 are defective. Nuri buys only a good pen. Find P(she buys the uniformly selected pen).",
+        "solution": [
+          "There are 144 equally likely elementary outcomes; 124 satisfy the event.",
+          "Probability=124/144=31/36."
+        ],
+        "hints": [
+          "There are 144 equally likely elementary outcomes; 124 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.8611111111111112,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·21-ii",
+        "reference": "Exercise 14.1 · 21(ii)",
+        "title": "Will Nuri reject the pen?",
+        "prompt": "In the same 144-pen lot with 20 defective pens, find P(Nuri does not buy).",
+        "solution": [
+          "There are 144 equally likely elementary outcomes; 20 satisfy the event.",
+          "Probability=20/144=5/36."
+        ],
+        "hints": [
+          "There are 144 equally likely elementary outcomes; 20 satisfy the event.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.1388888888888889,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·22-i",
+        "reference": "Exercise 14.1 · 22(i)",
+        "title": "Complete the two-dice sum table",
+        "prompt": "Two fair distinguishable dice produce 36 equally likely ordered pairs. Complete P(sum=s) for s=2 through 12.",
+        "solution": [
+          "Enumerate each ordered pair(die 1, die 2). For sums 2 through 12, favourable counts are 1, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1.",
+          "Divide every count by 36. The counts total 36, so all listed probabilities sum to 1."
+        ],
+        "hints": [
+          "Enumerate each ordered pair(die 1, die 2). For sums 2 through 12, favourable counts are 1, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "P(sum=2)",
+            "answer": 0.027777777777777776,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=3)",
+            "answer": 0.05555555555555555,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=4)",
+            "answer": 0.08333333333333333,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=5)",
+            "answer": 0.1111111111111111,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=6)",
+            "answer": 0.1388888888888889,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=7)",
+            "answer": 0.16666666666666666,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=8)",
+            "answer": 0.1388888888888889,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=9)",
+            "answer": 0.1111111111111111,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=10)",
+            "answer": 0.08333333333333333,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=11)",
+            "answer": 0.05555555555555555,
+            "kind": "expression"
+          },
+          {
+            "label": "P(sum=12)",
+            "answer": 0.027777777777777776,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Sum",
+            "Favourable ordered pairs"
+          ],
+          "rows": [
+            [
+              "2",
+              "Find this count"
+            ],
+            [
+              "3",
+              "Find this count"
+            ],
+            [
+              "4",
+              "Find this count"
+            ],
+            [
+              "5",
+              "Find this count"
+            ],
+            [
+              "6",
+              "Find this count"
+            ],
+            [
+              "7",
+              "Find this count"
+            ],
+            [
+              "8",
+              "Find this count"
+            ],
+            [
+              "9",
+              "Find this count"
+            ],
+            [
+              "10",
+              "Find this count"
+            ],
+            [
+              "11",
+              "Find this count"
+            ],
+            [
+              "12",
+              "Find this count"
+            ]
+          ],
+          "caption": "Build the eleven probabilities"
+        }
+      },
+      {
+        "id": "c14-Exercise14-1·22-ii",
+        "reference": "Exercise 14.1 · 22(ii)",
+        "title": "Eleven sums are not equally likely",
+        "prompt": "A student says sums 2 through 12 are 11 possible values, so each has probability 1/11. Do you agree?",
+        "solution": [
+          "No. The equally likely elementary outcomes are 36 ordered pairs, not the 11 sum values.",
+          "Sum 2 has only(1, 1), giving 1/36; sum 7 has 6 ordered pairs, giving 6/36. The sums cannot all have probability 1/11."
+        ],
+        "hints": [
+          "No. The equally likely elementary outcomes are 36 ordered pairs, not the 11 sum values.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: No. The equally likely elementary outcomes are 36 ordered pairs, not the 11 sum values.",
+          "Compare step 2: Sum 2 has only(1, 1), giving 1/36; sum 7 has 6 ordered pairs, giving 6/36. The sums cannot all have probability 1/11."
+        ],
+        "sample": "No. The equally likely elementary outcomes are 36 ordered pairs, not the 11 sum values. Sum 2 has only(1, 1), giving 1/36; sum 7 has 6 ordered pairs, giving 6/36. The sums cannot all have probability 1/11."
+      },
+      {
+        "id": "c14-Exercise14-1·23",
+        "reference": "Exercise 14.1 · 23",
+        "title": "Three coin tosses",
+        "prompt": "Hanif wins if 3 fair coin tosses all agree (HHH or TTT) and loses otherwise. Find P(loss).",
+        "solution": [
+          "The 8 equally likely ordered sequences are HHH, HHT, HTH, HTT, THH, THT, TTH, TTT. Two win and six lose.",
+          "Probability=6/8=3/4."
+        ],
+        "hints": [
+          "The 8 equally likely ordered sequences are HHH, HHT, HTH, HTT, THH, THT, TTH, TTT. Two win and six lose.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.75,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·24-i",
+        "reference": "Exercise 14.1 · 24(i)",
+        "title": "No five in two throws",
+        "prompt": "Throw a fair die twice. Find the probability that 5 does not appear either time.",
+        "solution": [
+          "There are 36 ordered pairs. Both coordinates can be any of the 5 non-five faces, giving 5×5=25 favourable pairs.",
+          "Probability=25/36=25/36."
+        ],
+        "hints": [
+          "There are 36 ordered pairs. Both coordinates can be any of the 5 non-five faces, giving 5×5=25 favourable pairs.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.6944444444444444,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·24-ii",
+        "reference": "Exercise 14.1 · 24(ii)",
+        "title": "At least one five",
+        "prompt": "Throw a fair die twice. Find P(at least one 5).",
+        "solution": [
+          "Complement the 25 no-five outcomes:36−25=11. The pair(5, 5)is counted once, not twice.",
+          "Probability=11/36=11/36."
+        ],
+        "hints": [
+          "Complement the 25 no-five outcomes:36−25=11. The pair(5, 5)is counted once, not twice.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.3055555555555556,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Exercise14-1·25-i",
+        "reference": "Exercise 14.1 · 25(i)",
+        "title": "Audit the two-coin argument",
+        "prompt": "A student groups two fair coin tosses into two heads, two tails, or one of each, and assigns 1/3 to each. Is the argument correct?",
+        "solution": [
+          "Incorrect: HH, HT, TH, TT are 4 equally likely ordered outcomes.",
+          "The grouped probabilities are 1/4, 1/4, 1/2 respectively, because “one of each” contains both HT and TH. Three event names do not imply equal likelihood."
+        ],
+        "hints": [
+          "Incorrect: HH, HT, TH, TT are 4 equally likely ordered outcomes.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: Incorrect: HH, HT, TH, TT are 4 equally likely ordered outcomes.",
+          "Compare step 2: The grouped probabilities are 1/4, 1/4, 1/2 respectively, because “one of each” contains both HT and TH. Three event names do not imply equal likelihood."
+        ],
+        "sample": "Incorrect: HH, HT, TH, TT are 4 equally likely ordered outcomes. The grouped probabilities are 1/4, 1/4, 1/2 respectively, because “one of each” contains both HT and TH. Three event names do not imply equal likelihood."
+      },
+      {
+        "id": "c14-Exercise14-1·25-ii",
+        "reference": "Exercise 14.1 · 25(ii)",
+        "title": "Audit the odd/even argument",
+        "prompt": "A student says a die has two outcomes, odd and even, hence P(odd)=1/2. Explain what is correct and what is missing.",
+        "solution": [
+          "For a fair six-sided die the numerical result 1/2 is correct: odd faces 1, 3, 5 are 3 of 6 equally likely faces.",
+          "The justification must use those elementary faces. Simply listing odd and even does not by itself establish equal chances for an arbitrary die."
+        ],
+        "hints": [
+          "For a fair six-sided die the numerical result 1/2 is correct: odd faces 1, 3, 5 are 3 of 6 equally likely faces.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: For a fair six-sided die the numerical result 1/2 is correct: odd faces 1, 3, 5 are 3 of 6 equally likely faces.",
+          "Compare step 2: The justification must use those elementary faces. Simply listing odd and even does not by itself establish equal chances for an arbitrary die."
+        ],
+        "sample": "For a fair six-sided die the numerical result 1/2 is correct: odd faces 1, 3, 5 are 3 of 6 equally likely faces. The justification must use those elementary faces. Simply listing odd and even does not by itself establish equal chances for an arbitrary die."
+      }
+    ]
+  },
+  "checks": {
+    "13": [
+      {
+        "id": "c13-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "Weighted class marks",
+        "prompt": "Find grouped mean for the table, to 2 decimal places.",
+        "solution": [
+          "Class marks 5, 15, 25 with frequencies 2, 5, 3 give weighted sum 160 and N=10.",
+          "Mean=160/10=16.00."
+        ],
+        "hints": [
+          "Class marks 5, 15, 25 with frequencies 2, 5, 3 give weighted sum 160 and N=10.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mean (2 decimal places)",
+            "answer": 16.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–10",
+              "2"
+            ],
+            [
+              "10–20",
+              "5"
+            ],
+            [
+              "20–30",
+              "3"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "Median interpolation",
+        "prompt": "Find grouped median for the table, to 2 decimal places.",
+        "solution": [
+          "N=20, N/2=10; median class 10–20 with preceding cf 4, f 10, h 10, l 10.",
+          "Median=10+[(10−4)/10]10=16.00."
+        ],
+        "hints": [
+          "N=20, N/2=10; median class 10–20 with preceding cf 4, f 10, h 10, l 10.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Median (2 decimal places)",
+            "answer": 16.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–10",
+              "4"
+            ],
+            [
+              "10–20",
+              "10"
+            ],
+            [
+              "20–30",
+              "6"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Modal estimate",
+        "prompt": "Find grouped mode for the table, to 2 decimal places.",
+        "solution": [
+          "Modal class 10–20: l 10, h 10, f₁10, f₀4, f₂6.",
+          "Mode=10+[(10−4)/(20−4−6)]10=16.00."
+        ],
+        "hints": [
+          "Modal class 10–20: l 10, h 10, f₁10, f₀4, f₂6.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Mode (2 decimal places)",
+            "answer": 16.0,
+            "kind": "expression"
+          }
+        ],
+        "table": {
+          "headers": [
+            "Class",
+            "Frequency"
+          ],
+          "rows": [
+            [
+              "0–10",
+              "4"
+            ],
+            [
+              "10–20",
+              "10"
+            ],
+            [
+              "20–30",
+              "6"
+            ]
+          ],
+          "caption": "Given frequency distribution"
+        }
+      },
+      {
+        "id": "c13-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "Cumulative counts are not frequencies",
+        "prompt": "Below 10 there are 3 observations; below 20 there are 11; below 30 there are 20. Find ordinary class frequencies.",
+        "solution": [
+          "Take successive differences:3, 11−3=8, 20−11=9.",
+          "Their sum 20 matches the last cumulative total."
+        ],
+        "hints": [
+          "Take successive differences:3, 11−3=8, 20−11=9.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "0–10 frequency",
+            "answer": 3.0,
+            "kind": "expression"
+          },
+          {
+            "label": "10–20 frequency",
+            "answer": 8.0,
+            "kind": "expression"
+          },
+          {
+            "label": "20–30 frequency",
+            "answer": 9.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c13-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Continuous boundaries",
+        "prompt": "Lengths are rounded to the nearest mm and grouped 10–14, 15–19, 20–24. Give the continuous lower boundary and width of the middle class.",
+        "solution": [
+          "Use boundaries 9.5–14.5, 14.5–19.5, 19.5–24.5.",
+          "The middle lower boundary is 14.5 and width 5."
+        ],
+        "hints": [
+          "Use boundaries 9.5–14.5, 14.5–19.5, 19.5–24.5.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Lower boundary",
+            "answer": 14.5,
+            "kind": "expression"
+          },
+          {
+            "label": "Class width",
+            "answer": 5.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c13-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "Equal methods, approximate source",
+        "prompt": "Explain why direct and assumed-mean calculations must agree but may differ from the exact mean of ungrouped observations.",
+        "solution": [
+          "The two formulas are algebraic rearrangements of the same weighted class-mark sum, so they give the same grouped estimate.",
+          "Grouping discards positions within classes; replacing them by midpoints can differ from the original exact mean."
+        ],
+        "hints": [
+          "The two formulas are algebraic rearrangements of the same weighted class-mark sum, so they give the same grouped estimate.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The two formulas are algebraic rearrangements of the same weighted class-mark sum, so they give the same grouped estimate.",
+          "Compare step 2: Grouping discards positions within classes; replacing them by midpoints can differ from the original exact mean."
+        ],
+        "sample": "The two formulas are algebraic rearrangements of the same weighted class-mark sum, so they give the same grouped estimate. Grouping discards positions within classes; replacing them by midpoints can differ from the original exact mean."
+      },
+      {
+        "id": "c13-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "Empirical is not identical",
+        "prompt": "A learner asserts Mode=3 Median−2 Mean must hold for every data set. Evaluate the assertion.",
+        "solution": [
+          "The relationship is empirical and approximate, not an identity.",
+          "When the full data are available, compute the three measures directly; a discrepancy does not by itself invalidate those calculations."
+        ],
+        "hints": [
+          "The relationship is empirical and approximate, not an identity.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The relationship is empirical and approximate, not an identity.",
+          "Compare step 2: When the full data are available, compute the three measures directly; a discrepancy does not by itself invalidate those calculations."
+        ],
+        "sample": "The relationship is empirical and approximate, not an identity. When the full data are available, compute the three measures directly; a discrepancy does not by itself invalidate those calculations."
+      }
+    ],
+    "14": [
+      {
+        "id": "c14-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "One random ball",
+        "prompt": "A bag has 4 red and 6 blue balls. Choose one uniformly. Find P(red).",
+        "solution": [
+          "There are 10 equally likely individual balls, 4 red.",
+          "P(red)=4/10=2/5."
+        ],
+        "hints": [
+          "There are 10 equally likely individual balls, 4 red.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.4,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "Complement",
+        "prompt": "If P(rain)=0.35 in a stated model, find P(no rain).",
+        "solution": [
+          "The complement probability is 1−0.35=0.65."
+        ],
+        "hints": [
+          "The complement probability is 1−0.35=0.65.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.65,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Ordered sums",
+        "prompt": "Two fair distinguishable dice are rolled. Find P(sum 9).",
+        "solution": [
+          "Pairs(3, 6), (4, 5), (5, 4), (6, 3)give sum 9:4 of 36 outcomes.",
+          "Probability=4/36=1/9."
+        ],
+        "hints": [
+          "Pairs(3, 6), (4, 5), (5, 4), (6, 3)give sum 9:4 of 36 outcomes.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.1111111111111111,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "Without replacement",
+        "prompt": "A box has 5 good and 3 defective items. One good item is removed and not replaced. Find P(the next uniform draw is good).",
+        "solution": [
+          "The remaining box has 4 good among 7 items.",
+          "Probability=4/7."
+        ],
+        "hints": [
+          "The remaining box has 4 good among 7 items.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.5714285714285714,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Grouped labels need not be fair",
+        "prompt": "A fair die has faces R, R, R, B, B, G. Why are R, B, G not equally likely?",
+        "solution": [
+          "The 6 faces are equally likely, but the colour events contain 3, 2, 1 faces.",
+          "Their probabilities are 1/2, 1/3, 1/6, not 1/3 each."
+        ],
+        "hints": [
+          "The 6 faces are equally likely, but the colour events contain 3, 2, 1 faces.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The 6 faces are equally likely, but the colour events contain 3, 2, 1 faces.",
+          "Compare step 2: Their probabilities are 1/2, 1/3, 1/6, not 1/3 each."
+        ],
+        "sample": "The 6 faces are equally likely, but the colour events contain 3, 2, 1 faces. Their probabilities are 1/2, 1/3, 1/6, not 1/3 each."
+      },
+      {
+        "id": "c14-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "At least one head",
+        "prompt": "Toss 3 fair coins. Find P(at least one head).",
+        "solution": [
+          "There are 8 equally likely ordered sequences. Only TTT has no head.",
+          "Complement gives 1−1/8=7/8."
+        ],
+        "hints": [
+          "There are 8 equally likely ordered sequences. Only TTT has no head.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "fields": [
+          {
+            "label": "Probability",
+            "answer": 0.875,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c14-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "Theory versus a short experiment",
+        "prompt": "Ten fair-coin tosses produce 7 heads. Does this prove P(head)=0.7 rather than 0.5?",
+        "solution": [
+          "The observed experimental proportion is 7/10=0.7 for this sample.",
+          "It does not change the theoretical fair-coin model 1/2. A finite random experiment need not match its theoretical probability exactly."
+        ],
+        "hints": [
+          "The observed experimental proportion is 7/10=0.7 for this sample.",
+          "Check the class boundaries, sample space or model assumptions before giving the final answer."
+        ],
+        "checklist": [
+          "Compare step 1: The observed experimental proportion is 7/10=0.7 for this sample.",
+          "Compare step 2: It does not change the theoretical fair-coin model 1/2. A finite random experiment need not match its theoretical probability exactly."
+        ],
+        "sample": "The observed experimental proportion is 7/10=0.7 for this sample. It does not change the theoretical fair-coin model 1/2. A finite random experiment need not match its theoretical probability exactly."
+      }
+    ]
+  }
+}

@@ -1,3 +1,4 @@
+import {finalChapters} from './maths-chapters-13-14.ts';
 import {mensurationChapters} from './maths-chapters-11-12.ts';
 import {partTwoChapters} from './maths-chapters-8-10.ts';
 import {chapterExpansions} from './chapter-expansions.ts';
@@ -1563,5 +1564,5 @@ const foundationChapters: Chapter[] = [
     ]
   }
 ];
-export const newChapters: Chapter[] = [...foundationChapters,...geometryChapters,...partTwoChapters,...mensurationChapters].map(chapter=>({...chapter,legacyIds:chapter.steps.map(s=>s.id),steps:[...chapter.steps,...(chapterExpansions[chapter.number]??[])].sort((a,b)=>a.section-b.section)}));
+export const newChapters: Chapter[] = [...foundationChapters,...geometryChapters,...partTwoChapters,...mensurationChapters,...finalChapters].map(chapter=>({...chapter,legacyIds:chapter.steps.map(s=>s.id),steps:[...chapter.steps,...(chapterExpansions[chapter.number]??[])].sort((a,b)=>a.section-b.section)}));
 export const chapters = [realNumbers,...newChapters];

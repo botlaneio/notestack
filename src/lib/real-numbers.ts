@@ -52,10 +52,10 @@ export function recordAnswer(progress: Progress, id: string, answer: number, les
 
 // Storage records carry their question order so inserting lessons never moves a
 // returning student to an unrelated question. Old Chapter 1 used pilotSteps.
-export function restoreSavedProgress(value: unknown, lessonSteps: LessonStep[] = steps): Progress {
+export function restoreSavedProgress(value: unknown, lessonSteps: LessonStep[] = steps, legacyIds?:string[]): Progress {
  if (!value || typeof value !== 'object') return freshProgress();
  const v=value as Partial<Progress> & {sequence?:unknown};
- const oldSequence=Array.isArray(v.sequence)&&v.sequence.every(id=>typeof id==='string')?v.sequence as string[]:lessonSteps===steps?pilotSteps.map(s=>s.id):null;
+ const oldSequence=Array.isArray(v.sequence)&&v.sequence.every(id=>typeof id==='string')?v.sequence as string[]:lessonSteps===steps?pilotSteps.map(s=>s.id):legacyIds??null;
  let position=v.position;
  if(oldSequence&&Number.isInteger(position)){
   if(position===oldSequence.length){const first=lessonSteps.findIndex(s=>v.attempts?.[s.id]?.answer!==s.correct);position=first<0?lessonSteps.length:first;}

@@ -1,6 +1,7 @@
+import {chapterExpansions} from './chapter-expansions.ts';
 import {geometryChapters} from './maths-chapters-6-7.ts';
 import {steps as realSteps, sections as realSections, type LessonStep} from './real-numbers.ts';
-export type Chapter = {number:number; slug:string; title:string; sections:string[]; summary:string[][]; challenge:string; steps:LessonStep[]};
+export type Chapter = {number:number; slug:string; title:string; sections:string[]; summary:string[][]; challenge:string; steps:LessonStep[];legacyIds?:string[]};
 export const realNumbers: Chapter = {
  number:1,slug:'real-numbers',title:'Real Numbers',sections:realSections,steps:realSteps,
  summary:[['Prime factorisation','Composite numbers have a unique set of prime factors, apart from order.'],['HCF & LCM','Smaller shared prime powers for HCF; larger required prime powers for LCM.'],['Irrational numbers','Non-terminating, non-repeating decimals cannot be expressed as ratios of integers.'],['Proof by contradiction','A lowest-terms fraction cannot have a common factor in its numerator and denominator.']],
@@ -1560,5 +1561,5 @@ const foundationChapters: Chapter[] = [
     ]
   }
 ];
-export const newChapters: Chapter[] = [...foundationChapters,...geometryChapters];
+export const newChapters: Chapter[] = [...foundationChapters,...geometryChapters].map(chapter=>({...chapter,legacyIds:chapter.steps.map(s=>s.id),steps:[...chapter.steps,...(chapterExpansions[chapter.number]??[])].sort((a,b)=>a.section-b.section)}));
 export const chapters = [realNumbers,...newChapters];

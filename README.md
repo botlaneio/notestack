@@ -64,15 +64,15 @@ When server routes, real authentication or payments are added, revisit the stati
 
 
 ## Guided Maths chapters
-`/learn/maths/` lists seven interactive chapter pilots linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
+`/learn/maths/` lists seven interactive guided chapters linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
 
 - Real Numbers: 30 guided checks, a prime-factor explorer, all 21 textbook exercise subparts, 5 additional written theorem/example tasks, an independent chapter check and a source coverage map.
-- Polynomials: 13 checks, graph zeroes and quadratic/cubic coefficient relationships.
-- Pair of Linear Equations in Two Variables: 13 checks, three graph cases, substitution and elimination.
-- Quadratic Equations: 13 checks, factorisation and discriminant/root exploration.
-- Arithmetic Progressions: 14 checks, a sequence builder, nth terms and sums.
-- Triangles: 15 checks, similar figures, BPT and its converse, similarity criteria and a parallel-cut explorer.
-- Coordinate Geometry: 15 checks, distances, internal division, midpoint and two coordinate explorers.
+- Polynomials: 18 guided checks, graph zeroes and quadratic/cubic coefficient relationships.
+- Pair of Linear Equations in Two Variables: 19 guided checks, three graph cases, substitution and elimination.
+- Quadratic Equations: 19 guided checks, factorisation and discriminant/root exploration.
+- Arithmetic Progressions: 21 guided checks, a sequence builder, nth terms and sums.
+- Triangles: 21 guided checks, similar figures, BPT and its converse, similarity criteria and a parallel-cut explorer.
+- Coordinate Geometry: 21 guided checks, distances, internal division, midpoint and two coordinate explorers.
 
 Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 2026–27 PDF; explanations and practice are original and awaiting teacher review. The PDF is not included in the published assets.
 
@@ -80,4 +80,7 @@ Progress saves separately per chapter in one browser. It is not account-based or
 
 
 ### Real Numbers source coverage
-The `/learn/maths/real-numbers/` workspace now has guided learning, `/practice/`, `/check/` and `/coverage/` modes. All Chapter 1 sections, theorem statements, seven worked examples and 21 exercise subparts are explicitly mapped in `docs/research/REAL-NUMBERS-COMPLETE-COVERAGE.md`. Calculations are checked; proof drafts are saved and explicitly self-reviewed against models, not automatically graded as correct. Teacher verification remains pending. Legacy guided progress is migrated by question ID, and inserting new checkpoints does not grant completion of the new material. Other chapters remain pilots rather than exhaustive textbook coverage.
+The `/learn/maths/real-numbers/` workspace now has guided learning, `/practice/`, `/check/` and `/coverage/` modes. All Chapter 1 sections, theorem statements, seven worked examples and 21 exercise subparts are explicitly mapped in `docs/research/REAL-NUMBERS-COMPLETE-COVERAGE.md`. Calculations are checked; proof drafts are saved and explicitly self-reviewed against models, not automatically graded as correct. Teacher verification remains pending. Legacy guided progress is migrated by question ID, and inserting new checkpoints does not grant completion of the new material. Chapters 2–7 now use the same four-mode workspace; see `docs/research/CHAPTERS-2-7-COMPLETE-COVERAGE.md` for the per-item inventory and assessment boundaries.
+
+### Chapters 2–7 expanded practice
+All six chapters include `/practice/`, `/coverage/` and `/check/` routes, mapping 257 exercise subparts and 67 foundation/worked-example activities, plus 42 fresh independent tasks. Fractions and square roots are accepted in typed answers. Written work and graph construction remain explicit self-review rather than automatic proof grading. Construction points, drafts and answers save separately for each chapter and mode.

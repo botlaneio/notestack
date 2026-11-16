@@ -1,13 +1,14 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {scienceChapters,scienceWorkbooks} from '../src/lib/science-chapters.ts';
+import {scienceChapters as allScienceChapters,scienceWorkbooks} from '../src/lib/science-chapters.ts';
 import {formulaAtoms,balanceStatus,equationModels,pHProfile,neutralisationUnits,saltModels} from '../src/lib/chemistry.ts';
 import {freshProgress,recordAnswer,restoreSavedProgress} from '../src/lib/real-numbers.ts';
 import {blankWork,restoreWork,proofReviewed,calculationCorrect} from '../src/lib/real-number-workbook.ts';
 import {checkField} from '../src/lib/real-number-practice.ts';
+const scienceChapters=allScienceChapters.filter(c=>c.number<=2);
 const data=JSON.parse(fs.readFileSync(new URL('../src/lib/science-practice-data.json',import.meta.url)));
-test('Science has only the two requested source chapters, with every section, activity and exercise part',()=>{
+test('Original Science chapters 1–2 retain every source section, activity and exercise part',()=>{
  assert.deepEqual(scienceChapters.map(c=>[c.number,c.title,c.subject]),[[1,'Chemical Reactions and Equations','science'],[2,'Acids, Bases and Salts','science']]);
  for(const c of scienceChapters){const ts=data.chapters[c.number],expected=c.number===1?{activities:11,intext:13,exercises:34,total:67,groups:1}:{activities:15,intext:19,exercises:25,total:72,groups:2};assert.equal(ts.length,expected.total);assert.equal(ts.filter(t=>t.reference.startsWith('Activity')).length,expected.activities);assert.equal(ts.filter(t=>t.reference.startsWith('In-text')).length,expected.intext);assert.equal(ts.filter(t=>t.reference.startsWith('Exercise')).length,expected.exercises);assert.equal(ts.filter(t=>t.reference.startsWith('Group')).length,expected.groups);
   for(let i=1;i<=expected.activities;i++)assert.ok(ts.some(t=>t.reference.startsWith(`Activity ${c.number}.${i} ·`)));for(let i=1;i<=(c.number===1?20:15);i++)assert.ok(ts.some(t=>new RegExp(`^Exercise ${c.number} · Q${i}(?:$|\\()`).test(t.reference)),`Q${i}`);

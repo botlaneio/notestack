@@ -1,0 +1,1559 @@
+[
+  {
+    "number": 3,
+    "subject": "science",
+    "part": 2,
+    "slug": "metals-and-non-metals",
+    "title": "Metals and Non-metals",
+    "sections": [
+      "3.1 Physical Properties · pp 1–4",
+      "3.2 Chemical Properties · pp 4–10",
+      "3.3 Ionic Compounds · pp 10–13",
+      "3.4 Occurrence and Extraction · pp 13–17",
+      "3.5 Corrosion and Alloys · pp 17–19",
+      "What you have learnt · pp 19–20"
+    ],
+    "summary": [
+      [
+        "Compare",
+        "Use trends with exceptions and controlled evidence."
+      ],
+      [
+        "Explain",
+        "Balance electron transfer and ionic charges."
+      ],
+      [
+        "Apply",
+        "Use reactivity for extraction and corrosion."
+      ]
+    ],
+    "challenge": "Explain your equations and diagrams in writing, compare them with the model, and have a teacher verify your reasoning.",
+    "steps": [
+      {
+        "id": "sc3-lustre",
+        "section": 0,
+        "title": "A surface can hide the metal",
+        "intro": "Cleaning can reveal metallic lustre beneath an oxide or tarnish layer. Physical observations are useful, but not perfect classification rules.",
+        "simple": "Iodine is a lustrous non-metal.",
+        "example": [
+          "Iodine is a lustrous non-metal.",
+          "A shiny surface alone does not prove that an element is a metal."
+        ],
+        "question": "What does iodine illustrate?",
+        "options": [
+          "Every shiny element is metallic",
+          "Lustre has classification exceptions",
+          "Iodine must be an alloy"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Iodine is a lustrous non-metal.",
+          "Correct. A shiny surface alone does not prove that an element is a metal.",
+          "Reconsider the condition: Iodine is a lustrous non-metal."
+        ],
+        "hints": [
+          "Iodine is a lustrous non-metal.",
+          "A shiny surface alone does not prove that an element is a metal."
+        ]
+      },
+      {
+        "id": "sc3-shaping",
+        "section": 0,
+        "title": "Sheets and wires are different",
+        "intro": "Malleability means forming thin sheets; ductility means being drawn into wire. These properties help explain uses.",
+        "simple": "Aluminium foil illustrates malleability; copper wire illustrates ductility.",
+        "example": [
+          "Aluminium foil illustrates malleability; copper wire illustrates ductility.",
+          "Sodium is a soft metal and mercury is liquid at ordinary room temperature; do not turn a general trend into an absolute."
+        ],
+        "question": "Which property describes wire drawing?",
+        "options": [
+          "Ductility",
+          "Sonority",
+          "Electrical insulation"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Sodium is a soft metal and mercury is liquid at ordinary room temperature; do not turn a general trend into an absolute.",
+          "Reconsider the condition: Aluminium foil illustrates malleability; copper wire illustrates ductility.",
+          "Reconsider the condition: Aluminium foil illustrates malleability; copper wire illustrates ductility."
+        ],
+        "hints": [
+          "Aluminium foil illustrates malleability; copper wire illustrates ductility.",
+          "Sodium is a soft metal and mercury is liquid at ordinary room temperature; do not turn a general trend into an absolute."
+        ]
+      },
+      {
+        "id": "sc3-conduct",
+        "section": 0,
+        "title": "Heat and charge can travel",
+        "intro": "A source heated-wire demonstration releases a wax-held pin when heat reaches the wax. A separate low-voltage circuit compares electrical conduction.",
+        "simple": "Heat conduction and electrical conduction are different tests.",
+        "example": [
+          "Heat conduction and electrical conduction are different tests.",
+          "A PVC/rubber coating insulates a conducting metal core; never test materials with mains electricity."
+        ],
+        "question": "Why coat an electric wire?",
+        "options": [
+          "To make copper stop being a metal",
+          "To provide insulation around the core",
+          "To increase accidental contact"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Heat conduction and electrical conduction are different tests.",
+          "Correct. A PVC/rubber coating insulates a conducting metal core; never test materials with mains electricity.",
+          "Reconsider the condition: Heat conduction and electrical conduction are different tests."
+        ],
+        "hints": [
+          "Heat conduction and electrical conduction are different tests.",
+          "A PVC/rubber coating insulates a conducting metal core; never test materials with mains electricity."
+        ]
+      },
+      {
+        "id": "sc3-exceptions",
+        "section": 0,
+        "title": "The form of carbon matters",
+        "intro": "Graphite and diamond are both carbon, but have very different physical properties. Non-metals need not all fit one simple physical description.",
+        "simple": "Graphite conducts electricity; diamond is very hard.",
+        "example": [
+          "Graphite conducts electricity; diamond is very hard.",
+          "Record sample form and actual observations rather than treating all carbon as identical."
+        ],
+        "question": "Which non-metal form conducts in the source examples?",
+        "options": [
+          "Graphite",
+          "Every non-metal equally",
+          "Only diamond"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Record sample form and actual observations rather than treating all carbon as identical.",
+          "Reconsider the condition: Graphite conducts electricity; diamond is very hard.",
+          "Reconsider the condition: Graphite conducts electricity; diamond is very hard."
+        ],
+        "hints": [
+          "Graphite conducts electricity; diamond is very hard.",
+          "Record sample form and actual observations rather than treating all carbon as identical."
+        ]
+      },
+      {
+        "id": "sc3-oxides",
+        "section": 1,
+        "title": "Basic or amphoteric?",
+        "intro": "Many metal oxides behave as bases, but Al2O3 and ZnO react with both acids and bases.",
+        "simple": "Al2O3+6HCl→2AlCl3+3H2O; Al2O3+2NaOH→2NaAlO2+H2O.",
+        "example": [
+          "Al2O3+6HCl→2AlCl3+3H2O; Al2O3+2NaOH→2NaAlO2+H2O.",
+          "The ability to react with both is called amphoteric behaviour; the source aluminate equation is a simplified representation."
+        ],
+        "question": "Which oxide is amphoteric?",
+        "options": [
+          "Al2O3",
+          "Every oxide without exception",
+          "Only CO2"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The ability to react with both is called amphoteric behaviour; the source aluminate equation is a simplified representation.",
+          "Reconsider the condition: Al2O3+6HCl→2AlCl3+3H2O; Al2O3+2NaOH→2NaAlO2+H2O.",
+          "Reconsider the condition: Al2O3+6HCl→2AlCl3+3H2O; Al2O3+2NaOH→2NaAlO2+H2O."
+        ],
+        "hints": [
+          "Al2O3+6HCl→2AlCl3+3H2O; Al2O3+2NaOH→2NaAlO2+H2O.",
+          "The ability to react with both is called amphoteric behaviour; the source aluminate equation is a simplified representation."
+        ]
+      },
+      {
+        "id": "sc3-passivation",
+        "section": 1,
+        "title": "A reactive metal can have a protective skin",
+        "intro": "Aluminium’s surface oxide can inhibit further attack. Thickening it by anodising improves protection under suitable conditions.",
+        "simple": "Surface films affect observed reactivity.",
+        "example": [
+          "Surface films affect observed reactivity.",
+          "Sodium is stored away from air/moisture under suitable oil in the laboratory; the app does not ask you to handle it."
+        ],
+        "question": "Why can a reactive aluminium article resist corrosion?",
+        "options": [
+          "It has no oxygen near it anywhere",
+          "An adherent oxide film can protect it",
+          "It has become gold"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Surface films affect observed reactivity.",
+          "Correct. Sodium is stored away from air/moisture under suitable oil in the laboratory; the app does not ask you to handle it.",
+          "Reconsider the condition: Surface films affect observed reactivity."
+        ],
+        "hints": [
+          "Surface films affect observed reactivity.",
+          "Sodium is stored away from air/moisture under suitable oil in the laboratory; the app does not ask you to handle it."
+        ]
+      },
+      {
+        "id": "sc3-water",
+        "section": 1,
+        "title": "The water condition matters",
+        "intro": "The source distinguishes cold water, hot water and steam rather than one universal metal–water reaction.",
+        "simple": "Na/K react vigorously with cold water; Ca less violently; Mg reacts more readily with hot water.",
+        "example": [
+          "Na/K react vigorously with cold water; Ca less violently; Mg reacts more readily with hot water.",
+          "Al, Zn, Fe can react with steam under suitable conditions; 3Fe+4H2O(g)→Fe3O4+4H2."
+        ],
+        "question": "Which equation condition is essential in the iron example?",
+        "options": [
+          "The water is steam",
+          "The water is always frozen",
+          "There is no energy or temperature condition"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Al, Zn, Fe can react with steam under suitable conditions; 3Fe+4H2O(g)→Fe3O4+4H2.",
+          "Reconsider the condition: Na/K react vigorously with cold water; Ca less violently; Mg reacts more readily with hot water.",
+          "Reconsider the condition: Na/K react vigorously with cold water; Ca less violently; Mg reacts more readily with hot water."
+        ],
+        "hints": [
+          "Na/K react vigorously with cold water; Ca less violently; Mg reacts more readily with hot water.",
+          "Al, Zn, Fe can react with steam under suitable conditions; 3Fe+4H2O(g)→Fe3O4+4H2."
+        ]
+      },
+      {
+        "id": "sc3-acid",
+        "section": 1,
+        "title": "Above hydrogen is a useful reference",
+        "intro": "Mg, Al, Zn and Fe can release hydrogen with suitable dilute non-oxidising acids; Cu does not in the source HCl test.",
+        "simple": "For comparable source conditions, the order is Mg>Al>Zn>Fe.",
+        "example": [
+          "For comparable source conditions, the order is Mg>Al>Zn>Fe.",
+          "Nitric acid is usually an oxidising exception; very dilute HNO3 with Mg/Mn is a further source qualification."
+        ],
+        "question": "Can you say every metal with every acid always gives H2?",
+        "options": [
+          "Yes",
+          "No, acid and conditions matter",
+          "Only if the formula contains oxygen"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: For comparable source conditions, the order is Mg>Al>Zn>Fe.",
+          "Correct. Nitric acid is usually an oxidising exception; very dilute HNO3 with Mg/Mn is a further source qualification.",
+          "Reconsider the condition: For comparable source conditions, the order is Mg>Al>Zn>Fe."
+        ],
+        "hints": [
+          "For comparable source conditions, the order is Mg>Al>Zn>Fe.",
+          "Nitric acid is usually an oxidising exception; very dilute HNO3 with Mg/Mn is a further source qualification."
+        ]
+      },
+      {
+        "id": "sc3-displace",
+        "section": 1,
+        "title": "A metal can replace another",
+        "intro": "The source pair Fe/CuSO4 reacts, but Cu/FeSO4 does not under the same comparison.",
+        "simple": "Fe+CuSO4→FeSO4+Cu.",
+        "example": [
+          "Fe+CuSO4→FeSO4+Cu.",
+          "More reactive Fe displaces Cu; the reverse source combination has no net displacement."
+        ],
+        "question": "What does this comparison show?",
+        "options": [
+          "Cu is more reactive than Fe",
+          "Fe is more reactive than Cu",
+          "Their reactivities must be identical"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Fe+CuSO4→FeSO4+Cu.",
+          "Correct. More reactive Fe displaces Cu; the reverse source combination has no net displacement.",
+          "Reconsider the condition: Fe+CuSO4→FeSO4+Cu."
+        ],
+        "hints": [
+          "Fe+CuSO4→FeSO4+Cu.",
+          "More reactive Fe displaces Cu; the reverse source combination has no net displacement."
+        ],
+        "explorer": "displacement"
+      },
+      {
+        "id": "sc3-series",
+        "section": 1,
+        "title": "Read a series with its limits",
+        "intro": "The source activity series decreases from K to Au, with hydrogen as a reference between Pb and Cu.",
+        "simple": "Hydrogen is not a metal in this list.",
+        "example": [
+          "Hydrogen is not a metal in this list.",
+          "Aqueous reactions can involve water, passivation or insoluble coatings, so a ranking is not a promise of identical visible behaviour."
+        ],
+        "question": "What does the H position help predict?",
+        "options": [
+          "Hydrogen release with suitable dilute acids",
+          "A universal flame colour",
+          "That hydrogen is a metal"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Aqueous reactions can involve water, passivation or insoluble coatings, so a ranking is not a promise of identical visible behaviour.",
+          "Reconsider the condition: Hydrogen is not a metal in this list.",
+          "Reconsider the condition: Hydrogen is not a metal in this list."
+        ],
+        "hints": [
+          "Hydrogen is not a metal in this list.",
+          "Aqueous reactions can involve water, passivation or insoluble coatings, so a ranking is not a promise of identical visible behaviour."
+        ]
+      },
+      {
+        "id": "sc3-unknowns",
+        "section": 1,
+        "title": "Do not fill blank evidence with guesses",
+        "intro": "The A–D source table leaves some cells blank. They mean not reported, not no reaction.",
+        "simple": "B>A>C>D follows from the reported displacement comparisons.",
+        "example": [
+          "B>A>C>D follows from the reported displacement comparisons.",
+          "The order does not uniquely identify every unknown metal or its salt colour."
+        ],
+        "question": "What should you do with a blank source cell?",
+        "options": [
+          "Treat it as not reported",
+          "Invent a temperature",
+          "Automatically mark no reaction"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The order does not uniquely identify every unknown metal or its salt colour.",
+          "Reconsider the condition: B>A>C>D follows from the reported displacement comparisons.",
+          "Reconsider the condition: B>A>C>D follows from the reported displacement comparisons."
+        ],
+        "hints": [
+          "B>A>C>D follows from the reported displacement comparisons.",
+          "The order does not uniquely identify every unknown metal or its salt colour."
+        ]
+      },
+      {
+        "id": "sc3-ions",
+        "section": 2,
+        "title": "An electron changes charge, not identity",
+        "intro": "Na has 11 protons and 11 electrons; losing one electron gives Na+ with 11 protons and 10 electrons.",
+        "simple": "Na→Na⁺+e⁻; Cl+e⁻→Cl⁻.",
+        "example": [
+          "Na→Na⁺+e⁻; Cl+e⁻→Cl⁻.",
+          "The proton count stays fixed, so Na remains sodium while becoming a cation."
+        ],
+        "question": "What gives Na+ its positive charge?",
+        "options": [
+          "Losing a proton",
+          "Losing one electron",
+          "Gaining one neutron"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Na→Na⁺+e⁻; Cl+e⁻→Cl⁻.",
+          "Correct. The proton count stays fixed, so Na remains sodium while becoming a cation.",
+          "Reconsider the condition: Na→Na⁺+e⁻; Cl+e⁻→Cl⁻."
+        ],
+        "hints": [
+          "Na→Na⁺+e⁻; Cl+e⁻→Cl⁻.",
+          "The proton count stays fixed, so Na remains sodium while becoming a cation."
+        ],
+        "explorer": "ionic"
+      },
+      {
+        "id": "sc3-ratio",
+        "section": 2,
+        "title": "Balance charge in the formula",
+        "intro": "Mg loses two electrons, one to each of two Cl atoms. The ratio is determined by charges, not by a drawing’s apparent spacing.",
+        "simple": "Mg²⁺+2Cl⁻ gives a neutral MgCl2 formula unit.",
+        "example": [
+          "Mg²⁺+2Cl⁻ gives a neutral MgCl2 formula unit.",
+          "Na⁺ and O²⁻ require 2: 1 in Na2O; Mg²⁺ and O²⁻ require 1: 1 in MgO."
+        ],
+        "question": "What is the Mg:Cl ratio in magnesium chloride?",
+        "options": [
+          "2:1",
+          "1:1",
+          "1:2"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider the condition: Mg²⁺+2Cl⁻ gives a neutral MgCl2 formula unit.",
+          "Reconsider the condition: Mg²⁺+2Cl⁻ gives a neutral MgCl2 formula unit.",
+          "Correct. Na⁺ and O²⁻ require 2: 1 in Na2O; Mg²⁺ and O²⁻ require 1: 1 in MgO."
+        ],
+        "hints": [
+          "Mg²⁺+2Cl⁻ gives a neutral MgCl2 formula unit.",
+          "Na⁺ and O²⁻ require 2: 1 in Na2O; Mg²⁺ and O²⁻ require 1: 1 in MgO."
+        ]
+      },
+      {
+        "id": "sc3-lattice",
+        "section": 2,
+        "title": "A lattice is not a molecule collection",
+        "intro": "Solid NaCl is an extended arrangement of opposite ions held by electrostatic attraction.",
+        "simple": "The formula gives the simplest ion ratio.",
+        "example": [
+          "The formula gives the simplest ion ratio.",
+          "It does not imply isolated NaCl molecules in the solid."
+        ],
+        "question": "What does NaCl represent for its solid lattice?",
+        "options": [
+          "A simplest1:1 ion ratio",
+          "A pair of neutral gases",
+          "A carbon molecule"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. It does not imply isolated NaCl molecules in the solid.",
+          "Reconsider the condition: The formula gives the simplest ion ratio.",
+          "Reconsider the condition: The formula gives the simplest ion ratio."
+        ],
+        "hints": [
+          "The formula gives the simplest ion ratio.",
+          "It does not imply isolated NaCl molecules in the solid."
+        ]
+      },
+      {
+        "id": "sc3-mobility",
+        "section": 2,
+        "title": "Charged does not always mean mobile",
+        "intro": "A solid ionic lattice contains ions, but they cannot migrate freely. Molten salts and solutions of soluble salts have mobile ions.",
+        "simple": "Conduction depends on mobile charge carriers.",
+        "example": [
+          "Conduction depends on mobile charge carriers.",
+          "Many ionic salts dissolve in water, but ionic does not mean every salt is freely soluble."
+        ],
+        "question": "Why can molten salt conduct while its solid does not?",
+        "options": [
+          "Melting creates new protons",
+          "Ions become mobile",
+          "Every atom becomes an electron"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Conduction depends on mobile charge carriers.",
+          "Correct. Many ionic salts dissolve in water, but ionic does not mean every salt is freely soluble.",
+          "Reconsider the condition: Conduction depends on mobile charge carriers."
+        ],
+        "hints": [
+          "Conduction depends on mobile charge carriers.",
+          "Many ionic salts dissolve in water, but ionic does not mean every salt is freely soluble."
+        ]
+      },
+      {
+        "id": "sc3-ore",
+        "section": 3,
+        "title": "A mineral is not automatically an ore",
+        "intro": "An ore is a natural material from which the metal can be extracted economically under given conditions.",
+        "simple": "Gangue is unwanted associated earthy material.",
+        "example": [
+          "Gangue is unwanted associated earthy material.",
+          "Enrichment removes gangue; extraction obtains metal; refining improves purity."
+        ],
+        "question": "What distinguishes an ore here?",
+        "options": [
+          "Economic extraction under stated conditions",
+          "Being any shiny stone",
+          "Containing no impurities at all"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Enrichment removes gangue; extraction obtains metal; refining improves purity.",
+          "Reconsider the condition: Gangue is unwanted associated earthy material.",
+          "Reconsider the condition: Gangue is unwanted associated earthy material."
+        ],
+        "hints": [
+          "Gangue is unwanted associated earthy material.",
+          "Enrichment removes gangue; extraction obtains metal; refining improves purity."
+        ]
+      },
+      {
+        "id": "sc3-routes",
+        "section": 3,
+        "title": "Choose a route from reactivity",
+        "intro": "The source groups extraction routes by low, middle and high reactivity. One method does not suit every oxide.",
+        "simple": "Low-reactivity examples can occur native or be obtained through heating-related routes.",
+        "example": [
+          "Low-reactivity examples can occur native or be obtained through heating-related routes.",
+          "Middle-series oxides may be reduced with suitable agents; high-series metals commonly need electrolytic reduction."
+        ],
+        "question": "Which route matches a highly reactive metal like sodium?",
+        "options": [
+          "Ordinary carbon reduction of any compound",
+          "Electrolytic reduction of an appropriate molten salt",
+          "Painting the ore"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Low-reactivity examples can occur native or be obtained through heating-related routes.",
+          "Correct. Middle-series oxides may be reduced with suitable agents; high-series metals commonly need electrolytic reduction.",
+          "Reconsider the condition: Low-reactivity examples can occur native or be obtained through heating-related routes."
+        ],
+        "hints": [
+          "Low-reactivity examples can occur native or be obtained through heating-related routes.",
+          "Middle-series oxides may be reduced with suitable agents; high-series metals commonly need electrolytic reduction."
+        ],
+        "explorer": "extraction"
+      },
+      {
+        "id": "sc3-low",
+        "section": 3,
+        "title": "A low-series pathway can have stages",
+        "intro": "The mercury source example first converts HgS to HgO, then decomposes the oxide on heating.",
+        "simple": "2HgS+3O2→2HgO+2SO2;2HgO→2Hg+O2.",
+        "example": [
+          "2HgS+3O2→2HgO+2SO2;2HgO→2Hg+O2.",
+          "These industrial/source equations are not instructions to heat toxic mercury compounds."
+        ],
+        "question": "Which gas is released when HgO decomposes in the stated equation?",
+        "options": [
+          "O2",
+          "H2",
+          "NaCl vapour"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. These industrial/source equations are not instructions to heat toxic mercury compounds.",
+          "Reconsider the condition: 2HgS+3O2→2HgO+2SO2; 2HgO→2Hg+O2.",
+          "Reconsider the condition: 2HgS+3O2→2HgO+2SO2; 2HgO→2Hg+O2."
+        ],
+        "hints": [
+          "2HgS+3O2→2HgO+2SO2;2HgO→2Hg+O2.",
+          "These industrial/source equations are not instructions to heat toxic mercury compounds."
+        ]
+      },
+      {
+        "id": "sc3-roast",
+        "section": 3,
+        "title": "Two ways to prepare an oxide",
+        "intro": "Roasting uses oxygen-rich conditions to convert a suitable sulphide; calcination heats a carbonate in limited/no air.",
+        "simple": "2ZnS+3O2→2ZnO+2SO2; ZnCO3→ZnO+CO2.",
+        "example": [
+          "2ZnS+3O2→2ZnO+2SO2; ZnCO3→ZnO+CO2.",
+          "Preparing an oxide is a separate step from reducing that oxide to metal."
+        ],
+        "question": "Which starting material fits the source calcination example?",
+        "options": [
+          "ZnCO3",
+          "Pure copper wire",
+          "NaCl solution as a universal substitute"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Preparing an oxide is a separate step from reducing that oxide to metal.",
+          "Reconsider the condition: 2ZnS+3O2→2ZnO+2SO2; ZnCO3→ZnO+CO2.",
+          "Reconsider the condition: 2ZnS+3O2→2ZnO+2SO2; ZnCO3→ZnO+CO2."
+        ],
+        "hints": [
+          "2ZnS+3O2→2ZnO+2SO2; ZnCO3→ZnO+CO2.",
+          "Preparing an oxide is a separate step from reducing that oxide to metal."
+        ]
+      },
+      {
+        "id": "sc3-reduction",
+        "section": 3,
+        "title": "Track oxygen in the reduction",
+        "intro": "ZnO+C→Zn+CO reduces zinc oxide while oxidising carbon. Aluminium can reduce some lower-reactivity metal oxides.",
+        "simple": "Fe2O3+2Al→2Fe+Al2O3+heat is the source thermite example.",
+        "example": [
+          "Fe2O3+2Al→2Fe+Al2O3+heat is the source thermite example.",
+          "A balanced equation explains chemistry; it is not a school workshop preparation task."
+        ],
+        "question": "In ZnO+C→Zn+CO, what is reduced?",
+        "options": [
+          "Carbon",
+          "ZnO",
+          "CO before it forms"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Fe2O3+2Al→2Fe+Al2O3+heat is the source thermite example.",
+          "Correct. A balanced equation explains chemistry; it is not a school workshop preparation task.",
+          "Reconsider the condition: Fe2O3+2Al→2Fe+Al2O3+heat is the source thermite example."
+        ],
+        "hints": [
+          "Fe2O3+2Al→2Fe+Al2O3+heat is the source thermite example.",
+          "A balanced equation explains chemistry; it is not a school workshop preparation task."
+        ]
+      },
+      {
+        "id": "sc3-molten",
+        "section": 3,
+        "title": "Molten chloride is not brine",
+        "intro": "Electrolytic extraction of Na uses an appropriate molten salt; water would change which reactions occur.",
+        "simple": "Na⁺+e⁻→Na at the cathode; 2Cl⁻→Cl2+2e⁻ at the anode.",
+        "example": [
+          "Na⁺+e⁻→Na at the cathode; 2Cl⁻→Cl2+2e⁻ at the anode.",
+          "Aqueous brine electrolysis instead belongs to the earlier chlor-alkali model."
+        ],
+        "question": "Can brine electrolysis simply replace molten-NaCl extraction to collect sodium metal?",
+        "options": [
+          "Yes",
+          "No, the presence of water changes the chemistry",
+          "Only if the beaker is blue"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Na⁺+e⁻→Na at the cathode; 2Cl⁻→Cl2+2e⁻ at the anode.",
+          "Correct. Aqueous brine electrolysis instead belongs to the earlier chlor-alkali model.",
+          "Reconsider the condition: Na⁺+e⁻→Na at the cathode; 2Cl⁻→Cl2+2e⁻ at the anode."
+        ],
+        "hints": [
+          "Na⁺+e⁻→Na at the cathode; 2Cl⁻→Cl2+2e⁻ at the anode.",
+          "Aqueous brine electrolysis instead belongs to the earlier chlor-alkali model."
+        ]
+      },
+      {
+        "id": "sc3-refine",
+        "section": 3,
+        "title": "Purify an already obtained metal",
+        "intro": "For electrolytic copper refining, the impure metal is the anode and the receiving pure-metal strip is the cathode.",
+        "simple": "Cu dissolves to Cu²⁺ at the anode and deposits as Cu at the cathode.",
+        "example": [
+          "Cu dissolves to Cu²⁺ at the anode and deposits as Cu at the cathode.",
+          "Insoluble impurities form anode mud; soluble impurities behave differently."
+        ],
+        "question": "Where is pure copper deposited?",
+        "options": [
+          "Cathode",
+          "The air above the cell only",
+          "Anode mud"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Insoluble impurities form anode mud; soluble impurities behave differently.",
+          "Reconsider the condition: Cu dissolves to Cu²⁺ at the anode and deposits as Cu at the cathode.",
+          "Reconsider the condition: Cu dissolves to Cu²⁺ at the anode and deposits as Cu at the cathode."
+        ],
+        "hints": [
+          "Cu dissolves to Cu²⁺ at the anode and deposits as Cu at the cathode.",
+          "Insoluble impurities form anode mud; soluble impurities behave differently."
+        ]
+      },
+      {
+        "id": "sc3-rust",
+        "section": 4,
+        "title": "Use controls to test rusting",
+        "intro": "The source nail comparison separates air+water, oxygen-excluded water, and dry air.",
+        "simple": "Ordinary rusting needs both moisture and oxygen.",
+        "example": [
+          "Ordinary rusting needs both moisture and oxygen.",
+          "Expected control outcomes are not app measurements; keeping the exclusions effective matters."
+        ],
+        "question": "Which source condition gives ordinary rusting?",
+        "options": [
+          "Dry air alone",
+          "Both moist air and water exposure",
+          "Completely oxygen-excluded water alone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Ordinary rusting needs both moisture and oxygen.",
+          "Correct. Expected control outcomes are not app measurements; keeping the exclusions effective matters.",
+          "Reconsider the condition: Ordinary rusting needs both moisture and oxygen."
+        ],
+        "hints": [
+          "Ordinary rusting needs both moisture and oxygen.",
+          "Expected control outcomes are not app measurements; keeping the exclusions effective matters."
+        ],
+        "explorer": "rust"
+      },
+      {
+        "id": "sc3-coatings",
+        "section": 4,
+        "title": "A scratch has different consequences",
+        "intro": "Paint mainly provides a barrier. Zinc can add sacrificial protection while zinc remains in electrical contact with iron.",
+        "simple": "Damaged paint can expose iron directly.",
+        "example": [
+          "Damaged paint can expose iron directly.",
+          "Zinc protection is not permanent after all zinc is consumed; stainless is corrosion-resistant, not immune to every condition."
+        ],
+        "question": "Why can some scratched zinc coatings still protect iron?",
+        "options": [
+          "Zinc can react sacrificially",
+          "A scratch creates gold",
+          "All metals stop reacting after one scratch"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Zinc protection is not permanent after all zinc is consumed; stainless is corrosion-resistant, not immune to every condition.",
+          "Reconsider the condition: Damaged paint can expose iron directly.",
+          "Reconsider the condition: Damaged paint can expose iron directly."
+        ],
+        "hints": [
+          "Damaged paint can expose iron directly.",
+          "Zinc protection is not permanent after all zinc is consumed; stainless is corrosion-resistant, not immune to every condition."
+        ]
+      },
+      {
+        "id": "sc3-alloys",
+        "section": 4,
+        "title": "Change properties by alloying",
+        "intro": "Brass is Cu/Zn; bronze Cu/Sn; the source solder Pb/Sn; stainless is an Fe-based corrosion-resistant alloy.",
+        "simple": "Alloy composition and structure affect properties.",
+        "example": [
+          "Alloy composition and structure affect properties.",
+          "Do not generalise that every alloy has a lower melting point or is a single homogeneous phase at every scale."
+        ],
+        "question": "Which source pairing makes brass?",
+        "options": [
+          "Cu and Zn",
+          "Cu and Sn",
+          "Only pure Fe"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Do not generalise that every alloy has a lower melting point or is a single homogeneous phase at every scale.",
+          "Reconsider the condition: Alloy composition and structure affect properties.",
+          "Reconsider the condition: Alloy composition and structure affect properties."
+        ],
+        "hints": [
+          "Alloy composition and structure affect properties.",
+          "Do not generalise that every alloy has a lower melting point or is a single homogeneous phase at every scale."
+        ]
+      },
+      {
+        "id": "sc3-carat",
+        "section": 4,
+        "title": "Carat is a composition ratio",
+        "intro": "In the source 24-part model, 22-carat gold contains 22 parts gold and 2 parts other alloying metals.",
+        "simple": "The gold fraction is 22/24.",
+        "example": [
+          "The gold fraction is 22/24.",
+          "This is a composition model, not a guarantee of a particular object’s assay or purity."
+        ],
+        "question": "What fraction is gold in the model?",
+        "options": [
+          "22/24",
+          "2/24",
+          "24/22"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This is a composition model, not a guarantee of a particular object’s assay or purity.",
+          "Reconsider the condition: The gold fraction is 22/24.",
+          "Reconsider the condition: The gold fraction is 22/24."
+        ],
+        "hints": [
+          "The gold fraction is 22/24.",
+          "This is a composition model, not a guarantee of a particular object’s assay or purity."
+        ]
+      },
+      {
+        "id": "sc3-recap",
+        "section": 5,
+        "title": "Connect properties, particles and processes",
+        "intro": "Properties explain useful trends; electron transfer explains ionic formulae; reactivity explains extraction and corrosion comparisons.",
+        "simple": "Use balanced atoms and charges and state reaction conditions.",
+        "example": [
+          "Use balanced atoms and charges and state reaction conditions.",
+          "Written explanations and diagrams still need review beyond a guided selection."
+        ],
+        "question": "What makes a stronger scientific response?",
+        "options": [
+          "Only a memorised colour",
+          "Evidence, particle reasoning and stated conditions",
+          "An invented observation"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Use balanced atoms and charges and state reaction conditions.",
+          "Correct. Written explanations and diagrams still need review beyond a guided selection.",
+          "Reconsider the condition: Use balanced atoms and charges and state reaction conditions."
+        ],
+        "hints": [
+          "Use balanced atoms and charges and state reaction conditions.",
+          "Written explanations and diagrams still need review beyond a guided selection."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "subject": "science",
+    "part": 2,
+    "slug": "carbon-and-its-compounds",
+    "title": "Carbon and its Compounds",
+    "sections": [
+      "Introduction and 4.1 Covalent Bonding · pp 22–25",
+      "4.2 Versatile Nature of Carbon · pp 26–33",
+      "4.3 Chemical Properties · pp 33–35",
+      "4.4 Ethanol and Ethanoic Acid · pp 35–38",
+      "4.5 Soaps and Detergents · pp 38–40",
+      "Provided-content recap · final source pages pending"
+    ],
+    "summary": [
+      [
+        "Build",
+        "Count bond orders, lone pairs and carbon valency."
+      ],
+      [
+        "Compare",
+        "Distinguish structures, groups and reaction patterns."
+      ],
+      [
+        "Track the gap",
+        "Provided content is mapped; the final two source pages are still needed."
+      ]
+    ],
+    "challenge": "Explain your equations and diagrams in writing, compare them with the model, and have a teacher verify your reasoning.",
+    "steps": [
+      {
+        "id": "sc4-everyday",
+        "section": 0,
+        "title": "Find carbon without burning unknown things",
+        "intro": "Many everyday materials contain carbon compounds, but appearance alone is not a composition test.",
+        "simple": "A mixed-material item can belong in more than one source table column.",
+        "example": [
+          "A mixed-material item can belong in more than one source table column.",
+          "The book’s 0.03% atmospheric CO2 figure is historical approximation, not a current atmospheric reading."
+        ],
+        "question": "Which is a sensible response to the source sorting task?",
+        "options": [
+          "Record actual items and allow mixed categories",
+          "Burn every household object",
+          "Assume every shiny thing contains no carbon"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book’s 0.03% atmospheric CO2 figure is historical approximation, not a current atmospheric reading.",
+          "Reconsider the condition: A mixed-material item can belong in more than one source table column.",
+          "Reconsider the condition: A mixed-material item can belong in more than one source table column."
+        ],
+        "hints": [
+          "A mixed-material item can belong in more than one source table column.",
+          "The book’s 0.03% atmospheric CO2 figure is historical approximation, not a current atmospheric reading."
+        ]
+      },
+      {
+        "id": "sc4-four",
+        "section": 0,
+        "title": "Four valence electrons favour sharing",
+        "intro": "Carbon’s neutral shell configuration is 2, 4. Losing or gaining four electrons is not its ordinary bonding route in these simple compounds.",
+        "simple": "Carbon usually shares electron pairs to satisfy four bonding valencies.",
+        "example": [
+          "Carbon usually shares electron pairs to satisfy four bonding valencies.",
+          "Sharing is different from making an ionic lattice through electron transfer."
+        ],
+        "question": "How many valence electrons does neutral carbon have?",
+        "options": [
+          "2",
+          "4",
+          "8"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Carbon usually shares electron pairs to satisfy four bonding valencies.",
+          "Correct. Sharing is different from making an ionic lattice through electron transfer.",
+          "Reconsider the condition: Carbon usually shares electron pairs to satisfy four bonding valencies."
+        ],
+        "hints": [
+          "Carbon usually shares electron pairs to satisfy four bonding valencies.",
+          "Sharing is different from making an ionic lattice through electron transfer."
+        ]
+      },
+      {
+        "id": "sc4-pairs",
+        "section": 0,
+        "title": "One, two or three shared pairs",
+        "intro": "A single bond represents one shared pair, a double bond two and a triple bond three. Lone pairs are not shared bonds.",
+        "simple": "H2 has one bond pair; O2 two; N2 three.",
+        "example": [
+          "H2 has one bond pair; O2 two; N2 three.",
+          "Count all valence electrons, including lone pairs, not just the drawn lines."
+        ],
+        "question": "How many shared electron pairs make a triple bond?",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider the condition: H2 has one bond pair; O2 two; N2 three.",
+          "Reconsider the condition: H2 has one bond pair; O2 two; N2 three.",
+          "Correct. Count all valence electrons, including lone pairs, not just the drawn lines."
+        ],
+        "hints": [
+          "H2 has one bond pair; O2 two; N2 three.",
+          "Count all valence electrons, including lone pairs, not just the drawn lines."
+        ],
+        "explorer": "covalent"
+      },
+      {
+        "id": "sc4-lone",
+        "section": 0,
+        "title": "Lone pairs complete the diagram",
+        "intro": "The source H2O, NH3 and CH4 examples show different lone-pair counts despite all satisfying the relevant duet/octet model.",
+        "simple": "H2O:two O lone pairs; NH3:one N lone pair; CH4:no C lone pair.",
+        "example": [
+          "H2O:two O lone pairs; NH3:one N lone pair; CH4:no C lone pair.",
+          "Cl2 needs three lone pairs per Cl; the bond alone does not account for every electron."
+        ],
+        "question": "How many lone pairs are on O in water’s usual Lewis structure?",
+        "options": [
+          "0",
+          "1",
+          "2"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider the condition: H2O:two O lone pairs; NH3:one N lone pair; CH4:no C lone pair.",
+          "Reconsider the condition: H2O:two O lone pairs; NH3:one N lone pair; CH4:no C lone pair.",
+          "Correct. Cl2 needs three lone pairs per Cl; the bond alone does not account for every electron."
+        ],
+        "hints": [
+          "H2O:two O lone pairs; NH3:one N lone pair; CH4:no C lone pair.",
+          "Cl2 needs three lone pairs per Cl; the bond alone does not account for every electron."
+        ]
+      },
+      {
+        "id": "sc4-co2",
+        "section": 0,
+        "title": "Double bonds can satisfy all octets",
+        "intro": "CO2 is represented O=C=O, with two lone pairs on each oxygen and none on carbon.",
+        "simple": "There are four shared pairs in the two double bonds.",
+        "example": [
+          "There are four shared pairs in the two double bonds.",
+          "The total valence-electron count is 16; the O atoms are not ionic O²⁻ in this covalent diagram."
+        ],
+        "question": "How many shared pairs are shown in CO2?",
+        "options": [
+          "2",
+          "4",
+          "8"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: There are four shared pairs in the two double bonds.",
+          "Correct. The total valence-electron count is 16; the O atoms are not ionic O²⁻ in this covalent diagram.",
+          "Reconsider the condition: There are four shared pairs in the two double bonds."
+        ],
+        "hints": [
+          "There are four shared pairs in the two double bonds.",
+          "The total valence-electron count is 16; the O atoms are not ionic O²⁻ in this covalent diagram."
+        ]
+      },
+      {
+        "id": "sc4-sulphur",
+        "section": 0,
+        "title": "Close the S8 ring",
+        "intro": "The source sulphur molecule has eight S atoms in a ring, each single-bonded to two neighbours.",
+        "simple": "Each S has two lone pairs in the usual structure.",
+        "example": [
+          "Each S has two lone pairs in the usual structure.",
+          "Eight bond pairs plus 16 lone pairs use 48 valence electrons."
+        ],
+        "question": "Does an S8 ring need eight disconnected S atoms?",
+        "options": [
+          "Yes",
+          "No, adjacent atoms share bond pairs",
+          "Only if each S becomes a metal"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Each S has two lone pairs in the usual structure.",
+          "Correct. Eight bond pairs plus 16 lone pairs use 48 valence electrons.",
+          "Reconsider the condition: Each S has two lone pairs in the usual structure."
+        ],
+        "hints": [
+          "Each S has two lone pairs in the usual structure.",
+          "Eight bond pairs plus 16 lone pairs use 48 valence electrons."
+        ]
+      },
+      {
+        "id": "sc4-allotropes",
+        "section": 0,
+        "title": "Different carbon networks, different properties",
+        "intro": "Diamond has four bonded neighbours per carbon; graphite has three in sheets and delocalised electrons.",
+        "simple": "Graphite’s mobile delocalised electrons explain conduction.",
+        "example": [
+          "Graphite’s mobile delocalised electrons explain conduction.",
+          "Small molecular covalent compounds and extended diamond networks need not share melting or conductivity properties."
+        ],
+        "question": "Why is “all covalent substances melt easily” wrong?",
+        "options": [
+          "Diamond is an extended covalent network",
+          "All bonds are weak",
+          "Every carbon structure is identical"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Small molecular covalent compounds and extended diamond networks need not share melting or conductivity properties.",
+          "Reconsider the condition: Graphite’s mobile delocalised electrons explain conduction.",
+          "Reconsider the condition: Graphite’s mobile delocalised electrons explain conduction."
+        ],
+        "hints": [
+          "Graphite’s mobile delocalised electrons explain conduction.",
+          "Small molecular covalent compounds and extended diamond networks need not share melting or conductivity properties."
+        ]
+      },
+      {
+        "id": "sc4-versatile",
+        "section": 1,
+        "title": "Build chains, branches and rings",
+        "intro": "Catenation and tetravalency allow a large variety of stable carbon frameworks and heteroatom attachments.",
+        "simple": "Catenation means bonding to other carbon atoms.",
+        "example": [
+          "Catenation means bonding to other carbon atoms.",
+          "Four bonding valencies do not force carbon to have four different neighbouring atoms:double/triple bonds also use valency."
+        ],
+        "question": "Which term means carbon–carbon chain formation?",
+        "options": [
+          "Catenation",
+          "Corrosion",
+          "Neutralisation"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Four bonding valencies do not force carbon to have four different neighbouring atoms:double/triple bonds also use valency.",
+          "Reconsider the condition: Catenation means bonding to other carbon atoms.",
+          "Reconsider the condition: Catenation means bonding to other carbon atoms."
+        ],
+        "hints": [
+          "Catenation means bonding to other carbon atoms.",
+          "Four bonding valencies do not force carbon to have four different neighbouring atoms:double/triple bonds also use valency."
+        ]
+      },
+      {
+        "id": "sc4-alkane",
+        "section": 1,
+        "title": "Finish each carbon’s valency",
+        "intro": "Start with an acyclic chain of single-bonded carbon atoms, then add enough H to give every C four bonding valencies.",
+        "simple": "The simple alkane formula is CnH2n+2.",
+        "example": [
+          "The simple alkane formula is CnH2n+2.",
+          "Ethane is C2H6 and propane C3H8; do not change a carbon’s valency just to match a guessed formula."
+        ],
+        "question": "What is the acyclic alkane formula with 4 carbons?",
+        "options": [
+          "C4H8",
+          "C4H10",
+          "C4H6"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: The simple alkane formula is CnH2n+2.",
+          "Correct. Ethane is C2H6 and propane C3H8; do not change a carbon’s valency just to match a guessed formula.",
+          "Reconsider the condition: The simple alkane formula is CnH2n+2."
+        ],
+        "hints": [
+          "The simple alkane formula is CnH2n+2.",
+          "Ethane is C2H6 and propane C3H8; do not change a carbon’s valency just to match a guessed formula."
+        ],
+        "explorer": "carbon"
+      },
+      {
+        "id": "sc4-unsaturated",
+        "section": 1,
+        "title": "A double or triple bond uses extra valency",
+        "intro": "For the simple acyclic one-multiple-bond series, alkenes have CnH2n and alkynes CnH2n−2.",
+        "simple": "These formulae assume the stated structure class and n≥2.",
+        "example": [
+          "These formulae assume the stated structure class and n≥2.",
+          "Ethene is C2H4; ethyne C2H2. Additional rings or multiple bonds change the count."
+        ],
+        "question": "Which two-carbon hydrocarbon has a triple bond?",
+        "options": [
+          "C2H6",
+          "C2H4",
+          "C2H2"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider the condition: These formulae assume the stated structure class and n≥2.",
+          "Reconsider the condition: These formulae assume the stated structure class and n≥2.",
+          "Correct. Ethene is C2H4; ethyne C2H2. Additional rings or multiple bonds change the count."
+        ],
+        "hints": [
+          "These formulae assume the stated structure class and n≥2.",
+          "Ethene is C2H4; ethyne C2H2. Additional rings or multiple bonds change the count."
+        ]
+      },
+      {
+        "id": "sc4-ring",
+        "section": 1,
+        "title": "A formula can hide a ring",
+        "intro": "Cyclohexane C6H12 and cyclopentane C5H10 are saturated rings with only single C–C bonds.",
+        "simple": "CnH2n alone does not prove an alkene.",
+        "example": [
+          "CnH2n alone does not prove an alkene.",
+          "Benzene’s aromatic delocalised ring is more subtle than a fixed alternating-bond sketch."
+        ],
+        "question": "Must every C5H10 molecule contain a C=C bond?",
+        "options": [
+          "Yes",
+          "No, cyclopentane is a counterexample",
+          "Only if the sample is liquid"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: CnH2n alone does not prove an alkene.",
+          "Correct. Benzene’s aromatic delocalised ring is more subtle than a fixed alternating-bond sketch.",
+          "Reconsider the condition: CnH2n alone does not prove an alkene."
+        ],
+        "hints": [
+          "CnH2n alone does not prove an alkene.",
+          "Benzene’s aromatic delocalised ring is more subtle than a fixed alternating-bond sketch."
+        ]
+      },
+      {
+        "id": "sc4-isomers",
+        "section": 1,
+        "title": "Connectivity, not drawing rotation",
+        "intro": "Structural isomers have the same molecular formula but different atom connections.",
+        "simple": "Butane has two constitutional isomers; pentane has three.",
+        "example": [
+          "Butane has two constitutional isomers; pentane has three.",
+          "Redrawing or rotating the same connected skeleton does not create another constitutional isomer."
+        ],
+        "question": "What makes two drawings structural isomers?",
+        "options": [
+          "Different page positions only",
+          "Same formula, different connectivity",
+          "Different chemical formulae always"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Butane has two constitutional isomers; pentane has three.",
+          "Correct. Redrawing or rotating the same connected skeleton does not create another constitutional isomer.",
+          "Reconsider the condition: Butane has two constitutional isomers; pentane has three."
+        ],
+        "hints": [
+          "Butane has two constitutional isomers; pentane has three.",
+          "Redrawing or rotating the same connected skeleton does not create another constitutional isomer."
+        ]
+      },
+      {
+        "id": "sc4-groups",
+        "section": 1,
+        "title": "Recognise the reactive group",
+        "intro": "OH, CHO, internal C=O, COOH and halo substituents distinguish important source compound classes.",
+        "simple": "CH3CH2CHO is propanal; CH3COCH3 is propanone.",
+        "example": [
+          "CH3CH2CHO is propanal; CH3COCH3 is propanone.",
+          "The aldehyde and ketone both contain a carbonyl, but its position/connections differ."
+        ],
+        "question": "Which group identifies a carboxylic acid?",
+        "options": [
+          "–COOH",
+          "Only –Cl",
+          "Any single C–H bond"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The aldehyde and ketone both contain a carbonyl, but its position/connections differ.",
+          "Reconsider the condition: CH3CH2CHO is propanal; CH3COCH3 is propanone.",
+          "Reconsider the condition: CH3CH2CHO is propanal; CH3COCH3 is propanone."
+        ],
+        "hints": [
+          "CH3CH2CHO is propanal; CH3COCH3 is propanone.",
+          "The aldehyde and ketone both contain a carbonyl, but its position/connections differ."
+        ]
+      },
+      {
+        "id": "sc4-homologues",
+        "section": 1,
+        "title": "One CH2 step adds14u",
+        "intro": "The source alcohol series CH3OH, C2H5OH, C3H7OH, C4H9OH differs by CH2 between adjacent simple members.",
+        "simple": "Mass increment=12+2×1=14u.",
+        "example": [
+          "Mass increment=12+2×1=14u.",
+          "A common functional group gives related chemistry; physical trends and isomer effects still need conditions."
+        ],
+        "question": "What is the adjacent-member mass difference here?",
+        "options": [
+          "12u",
+          "14u",
+          "16u"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Mass increment=12+2×1=14u.",
+          "Correct. A common functional group gives related chemistry; physical trends and isomer effects still need conditions.",
+          "Reconsider the condition: Mass increment=12+2×1=14u."
+        ],
+        "hints": [
+          "Mass increment=12+2×1=14u.",
+          "A common functional group gives related chemistry; physical trends and isomer effects still need conditions."
+        ]
+      },
+      {
+        "id": "sc4-naming",
+        "section": 1,
+        "title": "Count the carbonyl carbon too",
+        "intro": "Aldehyde and carboxylic-acid names count the carbonyl carbon within the parent chain. Locants identify positions when necessary.",
+        "simple": "CH3COOH has two carbons:ethanoic acid.",
+        "example": [
+          "CH3COOH has two carbons:ethanoic acid.",
+          "A ketone needs an internal carbonyl and at least three carbons; butan-2-one is CH3COCH2CH3."
+        ],
+        "question": "How many carbons are in ethanoic acid?",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: CH3COOH has two carbons:ethanoic acid.",
+          "Correct. A ketone needs an internal carbonyl and at least three carbons; butan-2-one is CH3COCH2CH3.",
+          "Reconsider the condition: CH3COOH has two carbons:ethanoic acid."
+        ],
+        "hints": [
+          "CH3COOH has two carbons:ethanoic acid.",
+          "A ketone needs an internal carbonyl and at least three carbons; butan-2-one is CH3COCH2CH3."
+        ]
+      },
+      {
+        "id": "sc4-names",
+        "section": 1,
+        "title": "Read the source structural diagrams",
+        "intro": "The supplied p 33 structures include bromoethane, methanal and a six-carbon terminal alkyne.",
+        "simple": "CH3CH2CH2CH2C≡CH is hex-1-yne.",
+        "example": [
+          "CH3CH2CH2CH2C≡CH is hex-1-yne.",
+          "“Bromopentane” without a position can describe several constitutional structures; straight-chain positions are not the entire set."
+        ],
+        "question": "Which name matches CH3CH2Br?",
+        "options": [
+          "Bromoethane",
+          "Bromomethane",
+          "Ethanoic acid"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. “Bromopentane” without a position can describe several constitutional structures; straight-chain positions are not the entire set.",
+          "Reconsider the condition: CH3CH2CH2CH2C≡CH is hex-1-yne.",
+          "Reconsider the condition: CH3CH2CH2CH2C≡CH is hex-1-yne."
+        ],
+        "hints": [
+          "CH3CH2CH2CH2C≡CH is hex-1-yne.",
+          "“Bromopentane” without a position can describe several constitutional structures; straight-chain positions are not the entire set."
+        ]
+      },
+      {
+        "id": "sc4-combust",
+        "section": 2,
+        "title": "Oxygen supply changes products",
+        "intro": "Complete-combustion equations are idealised oxygen-rich models; limited oxygen can produce soot and toxic CO.",
+        "simple": "CH4+2O2→CO2+2H2O.",
+        "example": [
+          "CH4+2O2→CO2+2H2O.",
+          "Even a saturated fuel can burn incompletely; flame colour alone does not prove saturation or safety."
+        ],
+        "question": "Can a yellow flame alone establish that a sample is an unsaturated hydrocarbon?",
+        "options": [
+          "Yes",
+          "No, air supply and other factors matter",
+          "Only if it is seen at night"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: CH4+2O2→CO2+2H2O.",
+          "Correct. Even a saturated fuel can burn incompletely; flame colour alone does not prove saturation or safety.",
+          "Reconsider the condition: CH4+2O2→CO2+2H2O."
+        ],
+        "hints": [
+          "CH4+2O2→CO2+2H2O.",
+          "Even a saturated fuel can burn incompletely; flame colour alone does not prove saturation or safety."
+        ]
+      },
+      {
+        "id": "sc4-oxidise",
+        "section": 2,
+        "title": "An oxidising agent is reduced",
+        "intro": "Suitable oxidants convert ethanol towards ethanoic-acid/carboxylate products; the agent supplies oxidation capacity and changes itself.",
+        "simple": "Ethanol+2[O]→ethanoic acid+H2O is the chapter shorthand.",
+        "example": [
+          "Ethanol+2[O]→ethanoic acid+H2O is the chapter shorthand.",
+          "Permanganate can lose colour as it is consumed; excess can persist after the reacting material is used up."
+        ],
+        "question": "Is an oxidising agent necessarily an unchanged catalyst?",
+        "options": [
+          "Yes",
+          "No, it is itself reduced",
+          "Only if it is purple"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: Ethanol+2[O]→ethanoic acid+H2O is the chapter shorthand.",
+          "Correct. Permanganate can lose colour as it is consumed; excess can persist after the reacting material is used up.",
+          "Reconsider the condition: Ethanol+2[O]→ethanoic acid+H2O is the chapter shorthand."
+        ],
+        "hints": [
+          "Ethanol+2[O]→ethanoic acid+H2O is the chapter shorthand.",
+          "Permanganate can lose colour as it is consumed; excess can persist after the reacting material is used up."
+        ]
+      },
+      {
+        "id": "sc4-addition",
+        "section": 2,
+        "title": "Add across a multiple bond",
+        "intro": "Hydrogenation can add H2 across an alkene’s C=C with a suitable catalyst, such as Ni.",
+        "simple": "C2H4+H2→C2H6 illustrates addition.",
+        "example": [
+          "C2H4+H2→C2H6 illustrates addition.",
+          "A catalyst alters rate without being consumed in the overall reaction, though it participates in reaction steps."
+        ],
+        "question": "Which change represents addition?",
+        "options": [
+          "C2H4 becomes C2H6 with H2",
+          "CH4 replaces H by Cl",
+          "A salt simply dissolves"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A catalyst alters rate without being consumed in the overall reaction, though it participates in reaction steps.",
+          "Reconsider the condition: C2H4+H2→C2H6 illustrates addition.",
+          "Reconsider the condition: C2H4+H2→C2H6 illustrates addition."
+        ],
+        "hints": [
+          "C2H4+H2→C2H6 illustrates addition.",
+          "A catalyst alters rate without being consumed in the overall reaction, though it participates in reaction steps."
+        ]
+      },
+      {
+        "id": "sc4-substitution",
+        "section": 2,
+        "title": "Replace an atom rather than add to the chain",
+        "intro": "The source methane/chlorine reaction under light replaces an H with Cl; further substitutions can also occur.",
+        "simple": "CH4+Cl2→CH3Cl+HCl.",
+        "example": [
+          "CH4+Cl2→CH3Cl+HCl.",
+          "Chlorine is not simply added to methane without another product; atoms remain conserved."
+        ],
+        "question": "What reaction pattern is this?",
+        "options": [
+          "Substitution",
+          "Neutralisation only",
+          "No reaction under any condition"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Chlorine is not simply added to methane without another product; atoms remain conserved.",
+          "Reconsider the condition: CH4+Cl2→CH3Cl+HCl.",
+          "Reconsider the condition: CH4+Cl2→CH3Cl+HCl."
+        ],
+        "hints": [
+          "CH4+Cl2→CH3Cl+HCl.",
+          "Chlorine is not simply added to methane without another product; atoms remain conserved."
+        ]
+      },
+      {
+        "id": "sc4-ethanol",
+        "section": 3,
+        "title": "Properties do not make alcohol safe to drink",
+        "intro": "Ethanol is water-miscible and a useful solvent/fuel component; industrial alcohol and methanol are not beverages.",
+        "simple": "2Na+2C2H5OH→2C2H5ONa+H2 is the teacher’s source reaction.",
+        "example": [
+          "2Na+2C2H5OH→2C2H5ONa+H2 is the teacher’s source reaction.",
+          "Methanol toxicity and denatured-alcohol warnings are not student tasting or identification tasks."
+        ],
+        "question": "What salt forms in the source sodium/ethanol reaction?",
+        "options": [
+          "Sodium ethoxide",
+          "Sodium carbonate automatically",
+          "Only pure sodium chloride"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Methanol toxicity and denatured-alcohol warnings are not student tasting or identification tasks.",
+          "Reconsider the condition: 2Na+2C2H5OH→2C2H5ONa+H2 is the teacher’s source reaction.",
+          "Reconsider the condition: 2Na+2C2H5OH→2C2H5ONa+H2 is the teacher’s source reaction."
+        ],
+        "hints": [
+          "2Na+2C2H5OH→2C2H5ONa+H2 is the teacher’s source reaction.",
+          "Methanol toxicity and denatured-alcohol warnings are not student tasting or identification tasks."
+        ]
+      },
+      {
+        "id": "sc4-dehydrate",
+        "section": 3,
+        "title": "Remove water, not the same as oxidation",
+        "intro": "The source ethanol-dehydration equation gives ethene under its stated heated-acid conditions.",
+        "simple": "C2H5OH→C2H4+H2O.",
+        "example": [
+          "C2H5OH→C2H4+H2O.",
+          "This differs from oxidising ethanol to ethanoic acid; conditions and products identify the change."
+        ],
+        "question": "Which is dehydration of ethanol?",
+        "options": [
+          "Formation of ethene and water",
+          "Formation of only ethanoic acid",
+          "Formation of an ionic chloride lattice"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This differs from oxidising ethanol to ethanoic acid; conditions and products identify the change.",
+          "Reconsider the condition: C2H5OH→C2H4+H2O.",
+          "Reconsider the condition: C2H5OH→C2H4+H2O."
+        ],
+        "hints": [
+          "C2H5OH→C2H4+H2O.",
+          "This differs from oxidising ethanol to ethanoic acid; conditions and products identify the change."
+        ]
+      },
+      {
+        "id": "sc4-acid",
+        "section": 3,
+        "title": "A weak acid can still react with carbonate",
+        "intro": "Ethanoic acid is weak relative to HCl at comparable concentration, but it can neutralise bases and release CO2 with suitable carbonate.",
+        "simple": "CH3COOH+NaOH→CH3COONa+H2O.",
+        "example": [
+          "CH3COOH+NaOH→CH3COONa+H2O.",
+          "CH3COOH+NaHCO3→CH3COONa+H2O+CO2. Weak does not mean no acid reactions."
+        ],
+        "question": "What gas supports the carbonate interpretation?",
+        "options": [
+          "CO2",
+          "Cl2",
+          "Only H2 in every case"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. CH3COOH+NaHCO3→CH3COONa+H2O+CO2. Weak does not mean no acid reactions.",
+          "Reconsider the condition: CH3COOH+NaOH→CH3COONa+H2O.",
+          "Reconsider the condition: CH3COOH+NaOH→CH3COONa+H2O."
+        ],
+        "hints": [
+          "CH3COOH+NaOH→CH3COONa+H2O.",
+          "CH3COOH+NaHCO3→CH3COONa+H2O+CO2. Weak does not mean no acid reactions."
+        ]
+      },
+      {
+        "id": "sc4-ester",
+        "section": 3,
+        "title": "Esterification is reversible",
+        "intro": "Ethanoic acid and ethanol can form ethyl ethanoate and water under acid catalysis. Alkaline hydrolysis forms a salt and alcohol.",
+        "simple": "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O.",
+        "example": [
+          "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O.",
+          "CH3COOC2H5+NaOH→CH3COONa+C2H5OH; small-ester hydrolysis is not the same as making useful long-chain soap."
+        ],
+        "question": "Which is the ester here?",
+        "options": [
+          "Ethyl ethanoate",
+          "Sodium chloride",
+          "Water alone"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. CH3COOC2H5+NaOH→CH3COONa+C2H5OH; small-ester hydrolysis is not the same as making useful long-chain soap.",
+          "Reconsider the condition: CH3COOH+C2H5OH⇌CH3COOC2H5+H2O.",
+          "Reconsider the condition: CH3COOH+C2H5OH⇌CH3COOC2H5+H2O."
+        ],
+        "hints": [
+          "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O.",
+          "CH3COOC2H5+NaOH→CH3COONa+C2H5OH; small-ester hydrolysis is not the same as making useful long-chain soap."
+        ]
+      },
+      {
+        "id": "sc4-micelle",
+        "section": 4,
+        "title": "Two ends prefer different environments",
+        "intro": "A soap molecule has an ionic water-interacting head and a hydrocarbon oil-interacting tail.",
+        "simple": "In an aqueous micelle, tails point inward and heads outward.",
+        "example": [
+          "In an aqueous micelle, tails point inward and heads outward.",
+          "Surfactant organisation helps disperse oily dirt; it does not make oil and water identical substances."
+        ],
+        "question": "Where do ionic heads face in an ordinary aqueous micelle?",
+        "options": [
+          "Out towards water",
+          "Only towards the oil centre",
+          "They disappear"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Surfactant organisation helps disperse oily dirt; it does not make oil and water identical substances.",
+          "Reconsider the condition: In an aqueous micelle, tails point inward and heads outward.",
+          "Reconsider the condition: In an aqueous micelle, tails point inward and heads outward."
+        ],
+        "hints": [
+          "In an aqueous micelle, tails point inward and heads outward.",
+          "Surfactant organisation helps disperse oily dirt; it does not make oil and water identical substances."
+        ],
+        "explorer": "soap"
+      },
+      {
+        "id": "sc4-hardness",
+        "section": 4,
+        "title": "Hard-water ions can use up soap",
+        "intro": "Ca/Mg ions can form insoluble fatty-acid salts, causing soap scum and less useful lather.",
+        "simple": "The chapter detergents can remain effective in hard water.",
+        "example": [
+          "The chapter detergents can remain effective in hard water.",
+          "Detergent lather alone cannot diagnose whether the water is soft."
+        ],
+        "question": "Can detergent distinguish soft water from hard water on its own?",
+        "options": [
+          "Yes, always",
+          "No, it can work in both",
+          "Only if it is coloured"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider the condition: The chapter detergents can remain effective in hard water.",
+          "Correct. Detergent lather alone cannot diagnose whether the water is soft.",
+          "Reconsider the condition: The chapter detergents can remain effective in hard water."
+        ],
+        "hints": [
+          "The chapter detergents can remain effective in hard water.",
+          "Detergent lather alone cannot diagnose whether the water is soft."
+        ]
+      },
+      {
+        "id": "sc4-agitate",
+        "section": 4,
+        "title": "Help detach and disperse the dirt",
+        "intro": "Shaking, scrubbing and machine agitation can assist surfactants in detaching and dispersing oily material for rinsing.",
+        "simple": "Compare samples with the same agitation and amounts.",
+        "example": [
+          "Compare samples with the same agitation and amounts.",
+          "More foam is not an exact universal measure of cleaning performance."
+        ],
+        "question": "Why does the source ask for equal shaking time?",
+        "options": [
+          "To support a fair comparison",
+          "To make every liquid into an acid",
+          "To change the chemical identity of all water"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. More foam is not an exact universal measure of cleaning performance.",
+          "Reconsider the condition: Compare samples with the same agitation and amounts.",
+          "Reconsider the condition: Compare samples with the same agitation and amounts."
+        ],
+        "hints": [
+          "Compare samples with the same agitation and amounts.",
+          "More foam is not an exact universal measure of cleaning performance."
+        ]
+      },
+      {
+        "id": "sc4-recap",
+        "section": 5,
+        "title": "Review what this extract provides",
+        "intro": "The supplied pages cover bonding, carbon structures, reactions and soaps through printed p 40. The chapter’s final pages are not in this file.",
+        "simple": "All 12 supplied numbered activities and 19 in-text parts are mapped.",
+        "example": [
+          "All 12 supplied numbered activities and 19 in-text parts are mapped.",
+          "The app-authored check is available, but the missing textbook summary/end exercises are not claimed complete."
+        ],
+        "question": "What remains unverified from the uploaded Chapter 4 ending?",
+        "options": [
+          "The final source summary and end exercises",
+          "The existence of any carbon atom",
+          "All of Chapter 3"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The app-authored check is available, but the missing textbook summary/end exercises are not claimed complete.",
+          "Reconsider the condition: All 12 supplied numbered activities and 19 in-text parts are mapped.",
+          "Reconsider the condition: All 12 supplied numbered activities and 19 in-text parts are mapped."
+        ],
+        "hints": [
+          "All 12 supplied numbered activities and 19 in-text parts are mapped.",
+          "The app-authored check is available, but the missing textbook summary/end exercises are not claimed complete."
+        ]
+      }
+    ],
+    "sourcePending": "The uploaded extract ends at printed page 40. Printed pages 41–42, including the chapter summary and end-of-chapter exercises, have not been supplied or verified. Activities and in-text questions from pp 22–40 are available; the independent check is app-authored and does not replace the missing textbook exercises."
+  }
+]

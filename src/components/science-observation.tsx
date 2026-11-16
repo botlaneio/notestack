@@ -1,3 +1,4 @@
+import {MaterialsCarbonObservation} from './materials-carbon-observation';
 import {WaterGasDiagram} from './science-explorers';
 import styles from './science-explorers.module.css';
 type View={before:string;after:string;from:string;to:string;note:string;bubbles?:boolean;solid?:boolean};
@@ -24,7 +25,8 @@ const observations:Record<string,View>={
  '2.15':{before:'CuSO4·5H2O crystals',after:'Anhydrous CuSO4',from:'#6398d3',to:'#fff',note:'Heating removes five waters per formula unit. Rehydration can restore the blue colour.',solid:true}
 };
 function Sample({colour,solid,bubbles}:{colour:string;solid?:boolean;bubbles?:boolean}){return <svg viewBox="0 0 100 110" aria-hidden="true"><path d="M20 12V90Q20 98 30 98H70Q80 98 80 90V12" fill="#fff" stroke="#62768c" strokeWidth="2"/>{solid?<><path d="M25 90L34 66L45 86L56 65L75 90Z" fill={colour} stroke="#8b9aab"/><path d="M35 70L39 86M57 69L60 85" stroke="#a9b5c2"/></>:<path d="M22 47Q50 42 78 47V89Q78 96 70 96H30Q22 96 22 89Z" fill={colour} stroke="#b7c6d6"/>}{bubbles&&[28,40,23].map((y,i)=><circle key={i} cx={43+i*8} cy={y} r={3+i%2} fill="#fff" stroke="#7b95ac"/>)}</svg>}
-export function ScienceObservation({reference}:{reference:string}){
+export function ScienceObservation({reference,chapter}:{reference:string;chapter?:number}){
+ if(chapter===3||chapter===4)return <MaterialsCarbonObservation chapter={chapter} reference={reference}/>;
  const activity=reference.match(/^Activity (\d+\.\d+)\b/)?.[1];
  if(activity==='1.7')return <figure className={styles.diagram}><WaterGasDiagram oxygen={1}/><figcaption>Activity 1.7 · Redrawn electrolysis model, not to scale: theoretical 2:1 gas volumes at the same temperature and pressure. These are illustrative units, not measured readings.</figcaption></figure>;
  if(activity==='2.1'||activity==='2.11'||activity==='2.14')return <figure className={styles.diagram}><div className={styles.phbar} aria-hidden="true"/><figcaption>{reference.split(' · ')[0]} · Approximate indicator-colour model. Read the supplied chart and the source table; colours alone do not provide an exact pH.</figcaption></figure>;

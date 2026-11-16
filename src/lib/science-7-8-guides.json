@@ -1,0 +1,976 @@
+[
+  {
+    "number": 7,
+    "subject": "science",
+    "part": 2,
+    "title": "How do Organisms Reproduce?",
+    "slug": "how-do-organisms-reproduce",
+    "sections": [
+      "7.1 DNA Copying and Variation · pp 43–44",
+      "7.2 Asexual Reproduction · pp 45–49",
+      "7.3 Sexual Reproduction and Flowering Plants · pp 49–51",
+      "7.3.3 Human Reproduction and Health · pp 51–56",
+      "What you have learnt · p56"
+    ],
+    "summary": [
+      [
+        "Explain",
+        "Connect labelled structures to their biological functions."
+      ],
+      [
+        "Use evidence",
+        "Distinguish predicted ratios and observations, with clear assumptions."
+      ],
+      [
+        "Review",
+        "Compare your own answers with the models and seek teacher verification."
+      ]
+    ],
+    "challenge": "Explain a labelled diagram and a new application in your own words. Complete the mapped textbook tasks and have your written work verified by a teacher.",
+    "steps": [
+      {
+        "id": "sc7-continuity",
+        "section": 0,
+        "title": "Keep a population going",
+        "intro": "Reproduction is not necessary for an individual’s moment-to-moment survival, but it supports continuity of populations.",
+        "simple": "Births replace losses over generations; population size also depends on deaths, migration and resources.",
+        "example": [
+          "Births replace losses over generations; population size also depends on deaths, migration and resources.",
+          "Reproduction does not guarantee an unchanging population size or survival of every offspring."
+        ],
+        "question": "Why is reproduction important?",
+        "options": [
+          "It is required before every individual can breathe",
+          "It supports continuity over generations",
+          "It prevents every possible death"
+        ],
+        "correct": 1,
+        "hints": [
+          "Births replace losses over generations; population size also depends on deaths, migration and resources.",
+          "Reproduction does not guarantee an unchanging population size or survival of every offspring."
+        ],
+        "feedback": [
+          "Reconsider: Reproduction does not guarantee an unchanging population size or survival of every offspring.",
+          "Correct. Reproduction does not guarantee an unchanging population size or survival of every offspring.",
+          "Reconsider: Reproduction does not guarantee an unchanging population size or survival of every offspring."
+        ],
+        "explorer": "variation"
+      },
+      {
+        "id": "sc7-dna",
+        "section": 0,
+        "title": "Copy information and a working cell",
+        "intro": "DNA carries information used to make proteins and organise inherited features. Reproduction requires cellular machinery as well as copied DNA.",
+        "simple": "Cell division partitions DNA with organised cellular components; naked DNA alone is not a complete daughter cell.",
+        "example": [
+          "Cell division partitions DNA with organised cellular components; naked DNA alone is not a complete daughter cell.",
+          "Copying is highly accurate but not perfect. Some changes are neutral, harmful or beneficial in a particular environment; variation is not always an improvement."
+        ],
+        "question": "What must a reproducing cell provide besides a DNA copy?",
+        "options": [
+          "Additional organised cellular apparatus",
+          "Only a larger empty shell",
+          "Nothing else"
+        ],
+        "correct": 0,
+        "hints": [
+          "Cell division partitions DNA with organised cellular components; naked DNA alone is not a complete daughter cell.",
+          "Copying is highly accurate but not perfect. Some changes are neutral, harmful or beneficial in a particular environment; variation is not always an improvement."
+        ],
+        "feedback": [
+          "Correct. Copying is highly accurate but not perfect. Some changes are neutral, harmful or beneficial in a particular environment; variation is not always an improvement.",
+          "Reconsider: Copying is highly accurate but not perfect. Some changes are neutral, harmful or beneficial in a particular environment; variation is not always an improvement.",
+          "Reconsider: Copying is highly accurate but not perfect. Some changes are neutral, harmful or beneficial in a particular environment; variation is not always an improvement."
+        ]
+      },
+      {
+        "id": "sc7-variation",
+        "section": 0,
+        "title": "Variation can matter when conditions change",
+        "intro": "Inherited differences can accumulate. A pre-existing heat-tolerant variant may survive a temperature change better than other variants.",
+        "simple": "The environment does not deliberately create the exact useful mutation a population needs.",
+        "example": [
+          "The environment does not deliberately create the exact useful mutation a population needs.",
+          "A useful variant may help population persistence without benefiting every individual; identical descendants can share a vulnerability."
+        ],
+        "question": "Why can variation help a population?",
+        "options": [
+          "All variations guarantee survival",
+          "Every individual acquires the same needed mutation",
+          "Some variants may suit changed conditions"
+        ],
+        "correct": 2,
+        "hints": [
+          "The environment does not deliberately create the exact useful mutation a population needs.",
+          "A useful variant may help population persistence without benefiting every individual; identical descendants can share a vulnerability."
+        ],
+        "feedback": [
+          "Reconsider: A useful variant may help population persistence without benefiting every individual; identical descendants can share a vulnerability.",
+          "Reconsider: A useful variant may help population persistence without benefiting every individual; identical descendants can share a vulnerability.",
+          "Correct. A useful variant may help population persistence without benefiting every individual; identical descendants can share a vulnerability."
+        ],
+        "explorer": "variation"
+      },
+      {
+        "id": "sc7-fission",
+        "section": 1,
+        "title": "Compare two cells with many cells",
+        "intro": "Binary fission produces two descendants from one cell; multiple fission produces many after repeated nuclear divisions and partitioning.",
+        "simple": "Amoeba division can occur in different planes; Leishmania divides in relation to its elongated organisation. Plasmodium illustrates multiple fission.",
+        "example": [
+          "Amoeba division can occur in different planes; Leishmania divides in relation to its elongated organisation. Plasmodium illustrates multiple fission.",
+          "Copying and division are organised processes, not simply a cell tearing accidentally."
+        ],
+        "question": "Which source example uses multiple fission?",
+        "options": [
+          "Plasmodium",
+          "Human ovary",
+          "A potato eye"
+        ],
+        "correct": 0,
+        "hints": [
+          "Amoeba division can occur in different planes; Leishmania divides in relation to its elongated organisation. Plasmodium illustrates multiple fission.",
+          "Copying and division are organised processes, not simply a cell tearing accidentally."
+        ],
+        "feedback": [
+          "Correct. Copying and division are organised processes, not simply a cell tearing accidentally.",
+          "Reconsider: Copying and division are organised processes, not simply a cell tearing accidentally.",
+          "Reconsider: Copying and division are organised processes, not simply a cell tearing accidentally."
+        ],
+        "explorer": "reproduction"
+      },
+      {
+        "id": "sc7-fragment",
+        "section": 1,
+        "title": "A fragment is not always a new organism",
+        "intro": "Spirogyra’s relatively simple filament can fragment and grow. Complex organised organisms cannot generally reproduce by arbitrary fragmentation.",
+        "simple": "Fragmentation divides a simple body into viable parts; regeneration restores missing structures using specialised cell activity.",
+        "example": [
+          "Fragmentation divides a simple body into viable parts; regeneration restores missing structures using specialised cell activity.",
+          "Planaria has substantial regenerative ability, but not every fragment of any size or organism can form a whole animal. Do not cut animals to test this."
+        ],
+        "question": "Why cannot a human body fragment normally grow into a new person?",
+        "options": [
+          "DNA exists only in the original head",
+          "Complex specialised organisation is not recreated by arbitrary fragmentation",
+          "All animal cells lack DNA"
+        ],
+        "correct": 1,
+        "hints": [
+          "Fragmentation divides a simple body into viable parts; regeneration restores missing structures using specialised cell activity.",
+          "Planaria has substantial regenerative ability, but not every fragment of any size or organism can form a whole animal. Do not cut animals to test this."
+        ],
+        "feedback": [
+          "Reconsider: Planaria has substantial regenerative ability, but not every fragment of any size or organism can form a whole animal. Do not cut animals to test this.",
+          "Correct. Planaria has substantial regenerative ability, but not every fragment of any size or organism can form a whole animal. Do not cut animals to test this.",
+          "Reconsider: Planaria has substantial regenerative ability, but not every fragment of any size or organism can form a whole animal. Do not cut animals to test this."
+        ],
+        "explorer": "reproduction"
+      },
+      {
+        "id": "sc7-budding",
+        "section": 1,
+        "title": "Grow a small outgrowth",
+        "intro": "In yeast and Hydra, a bud grows from the parent through cell division and can become an independent organism.",
+        "simple": "A bud starts as a smaller outgrowth; binary fission divides a cell into two descendants.",
+        "example": [
+          "A bud starts as a smaller outgrowth; binary fission divides a cell into two descendants.",
+          "Hydra’s specialised cells support growth and development of the bud before separation. Regeneration and normal budding are related abilities, not identical events."
+        ],
+        "question": "Which pair illustrates budding?",
+        "options": [
+          "Yeast and Hydra",
+          "Humans and pea seeds",
+          "Amoeba and human kidneys"
+        ],
+        "correct": 0,
+        "hints": [
+          "A bud starts as a smaller outgrowth; binary fission divides a cell into two descendants.",
+          "Hydra’s specialised cells support growth and development of the bud before separation. Regeneration and normal budding are related abilities, not identical events."
+        ],
+        "feedback": [
+          "Correct. Hydra’s specialised cells support growth and development of the bud before separation. Regeneration and normal budding are related abilities, not identical events.",
+          "Reconsider: Hydra’s specialised cells support growth and development of the bud before separation. Regeneration and normal budding are related abilities, not identical events.",
+          "Reconsider: Hydra’s specialised cells support growth and development of the bud before separation. Regeneration and normal budding are related abilities, not identical events."
+        ],
+        "explorer": "reproduction"
+      },
+      {
+        "id": "sc7-vegetative",
+        "section": 1,
+        "title": "Grow a plant from a vegetative part",
+        "intro": "Suitable roots, stems or leaves can produce new plants. Potato eyes and nodes on a money-plant stem contain growing regions.",
+        "simple": "Bryophyllum plantlets develop at leaf-margin notches. Layering, cuttings and grafting are horticultural applications.",
+        "example": [
+          "Bryophyllum plantlets develop at leaf-margin notches. Layering, cuttings and grafting are horticultural applications.",
+          "This can preserve useful varieties and propagate seedless plants such as some bananas, oranges or roses; descendants can still acquire variation and can share disease susceptibility."
+        ],
+        "question": "Which potato piece is most likely to sprout in the source comparison?",
+        "options": [
+          "A viable piece with an eye/bud",
+          "Any piece with no living cells",
+          "Only a piece without every bud"
+        ],
+        "correct": 0,
+        "hints": [
+          "Bryophyllum plantlets develop at leaf-margin notches. Layering, cuttings and grafting are horticultural applications.",
+          "This can preserve useful varieties and propagate seedless plants such as some bananas, oranges or roses; descendants can still acquire variation and can share disease susceptibility."
+        ],
+        "feedback": [
+          "Correct. This can preserve useful varieties and propagate seedless plants such as some bananas, oranges or roses; descendants can still acquire variation and can share disease susceptibility.",
+          "Reconsider: This can preserve useful varieties and propagate seedless plants such as some bananas, oranges or roses; descendants can still acquire variation and can share disease susceptibility.",
+          "Reconsider: This can preserve useful varieties and propagate seedless plants such as some bananas, oranges or roses; descendants can still acquire variation and can share disease susceptibility."
+        ],
+        "explorer": "plant-development"
+      },
+      {
+        "id": "sc7-culture",
+        "section": 1,
+        "title": "Make plantlets through tissue culture",
+        "intro": "Tissue culture grows cells or tissue on a controlled nutrient medium, producing callus and then differentiated plantlets.",
+        "simple": "Aseptic conditions and appropriate growth regulators support development; plantlets are later established in soil.",
+        "example": [
+          "Aseptic conditions and appropriate growth regulators support development; plantlets are later established in soil.",
+          "Many plants can be propagated from selected tissue, but disease-free status requires suitable starting material and testing, not merely a label saying tissue culture."
+        ],
+        "question": "What is callus in this context?",
+        "options": [
+          "A group of proliferating plant cells",
+          "A human sex chromosome",
+          "A mature pollen tube"
+        ],
+        "correct": 0,
+        "hints": [
+          "Aseptic conditions and appropriate growth regulators support development; plantlets are later established in soil.",
+          "Many plants can be propagated from selected tissue, but disease-free status requires suitable starting material and testing, not merely a label saying tissue culture."
+        ],
+        "feedback": [
+          "Correct. Many plants can be propagated from selected tissue, but disease-free status requires suitable starting material and testing, not merely a label saying tissue culture.",
+          "Reconsider: Many plants can be propagated from selected tissue, but disease-free status requires suitable starting material and testing, not merely a label saying tissue culture.",
+          "Reconsider: Many plants can be propagated from selected tissue, but disease-free status requires suitable starting material and testing, not merely a label saying tissue culture."
+        ]
+      },
+      {
+        "id": "sc7-spores",
+        "section": 1,
+        "title": "Distinguish hyphae from sporangia",
+        "intro": "Rhizopus has a network of hyphae and sporangia containing spores. Protective spore walls support survival until suitable germination conditions.",
+        "simple": "A sporangium is the spore-containing structure; a hypha is a fungal filament.",
+        "example": [
+          "A sporangium is the spore-containing structure; a hypha is a fungal filament.",
+          "Dispersal and production of many spores can increase chances of colonisation, but not every spore survives. Mould cultures should remain contained and not be inhaled or tasted."
+        ],
+        "question": "Where are the source Rhizopus spores formed?",
+        "options": [
+          "Inside every petal",
+          "In sporangia",
+          "Inside human ovaries"
+        ],
+        "correct": 1,
+        "hints": [
+          "A sporangium is the spore-containing structure; a hypha is a fungal filament.",
+          "Dispersal and production of many spores can increase chances of colonisation, but not every spore survives. Mould cultures should remain contained and not be inhaled or tasted."
+        ],
+        "feedback": [
+          "Reconsider: Dispersal and production of many spores can increase chances of colonisation, but not every spore survives. Mould cultures should remain contained and not be inhaled or tasted.",
+          "Correct. Dispersal and production of many spores can increase chances of colonisation, but not every spore survives. Mould cultures should remain contained and not be inhaled or tasted.",
+          "Reconsider: Dispersal and production of many spores can increase chances of colonisation, but not every spore survives. Mould cultures should remain contained and not be inhaled or tasted."
+        ],
+        "explorer": "plant-development"
+      },
+      {
+        "id": "sc7-sexual",
+        "section": 2,
+        "title": "Combine genetic contributions",
+        "intro": "Sexual reproduction joins gametes and can recombine inherited variants. It is not simply blending every visible trait halfway.",
+        "simple": "Meiosis reduces the chromosome-set number in gametes; fertilisation restores the usual diploid set in this model.",
+        "example": [
+          "Meiosis reduces the chromosome-set number in gametes; fertilisation restores the usual diploid set in this model.",
+          "The egg is relatively large with cytoplasm and resources; sperm is small and motile in humans. Sexual reproduction can occur within one self-fertile organism, so two separate individuals are not a universal requirement."
+        ],
+        "question": "What prevents chromosome sets doubling every generation in this model?",
+        "options": [
+          "Gametes formed by reduction division before fusion",
+          "All parental genes are destroyed",
+          "Every gamete has twice the body-cell chromosome number"
+        ],
+        "correct": 0,
+        "hints": [
+          "Meiosis reduces the chromosome-set number in gametes; fertilisation restores the usual diploid set in this model.",
+          "The egg is relatively large with cytoplasm and resources; sperm is small and motile in humans. Sexual reproduction can occur within one self-fertile organism, so two separate individuals are not a universal requirement."
+        ],
+        "feedback": [
+          "Correct. The egg is relatively large with cytoplasm and resources; sperm is small and motile in humans. Sexual reproduction can occur within one self-fertile organism, so two separate individuals are not a universal requirement.",
+          "Reconsider: The egg is relatively large with cytoplasm and resources; sperm is small and motile in humans. Sexual reproduction can occur within one self-fertile organism, so two separate individuals are not a universal requirement.",
+          "Reconsider: The egg is relatively large with cytoplasm and resources; sperm is small and motile in humans. Sexual reproduction can occur within one self-fertile organism, so two separate individuals are not a universal requirement."
+        ]
+      },
+      {
+        "id": "sc7-flower",
+        "section": 2,
+        "title": "Read a flower in longitudinal section",
+        "intro": "Stamens contain anther and filament; the pistil contains stigma, style and ovary, with ovules inside the ovary.",
+        "simple": "Anthers produce pollen; a compatible pollen grain can deliver male gametes to an ovule containing an egg.",
+        "example": [
+          "Anthers produce pollen; a compatible pollen grain can deliver male gametes to an ovule containing an egg.",
+          "Petals and sepals help protection and/or pollinator interactions. Papaya/watermelon illustrate unisexual flowers; Hibiscus/mustard bisexual flowers."
+        ],
+        "question": "Which structure receives pollen?",
+        "options": [
+          "Stigma",
+          "Ovule surface directly from the air",
+          "Root hair"
+        ],
+        "correct": 0,
+        "hints": [
+          "Anthers produce pollen; a compatible pollen grain can deliver male gametes to an ovule containing an egg.",
+          "Petals and sepals help protection and/or pollinator interactions. Papaya/watermelon illustrate unisexual flowers; Hibiscus/mustard bisexual flowers."
+        ],
+        "feedback": [
+          "Correct. Petals and sepals help protection and/or pollinator interactions. Papaya/watermelon illustrate unisexual flowers; Hibiscus/mustard bisexual flowers.",
+          "Reconsider: Petals and sepals help protection and/or pollinator interactions. Papaya/watermelon illustrate unisexual flowers; Hibiscus/mustard bisexual flowers.",
+          "Reconsider: Petals and sepals help protection and/or pollinator interactions. Papaya/watermelon illustrate unisexual flowers; Hibiscus/mustard bisexual flowers."
+        ],
+        "explorer": "flower"
+      },
+      {
+        "id": "sc7-pollination",
+        "section": 2,
+        "title": "Transfer first, fuse later",
+        "intro": "Pollination transfers pollen from anther to stigma. Fertilisation is fusion of male and female gametes.",
+        "simple": "A compatible pollen grain germinates and its tube grows through the style toward an ovule; the male gamete reaches the egg.",
+        "example": [
+          "A compatible pollen grain germinates and its tube grows through the style toward an ovule; the male gamete reaches the egg.",
+          "Self-pollination includes the same flower or another flower on the same plant; cross-pollination transfers between different plants of the same species. Wind, water or animals can carry pollen."
+        ],
+        "question": "Which event is fertilisation?",
+        "options": [
+          "Pollen reaching a stigma",
+          "Gamete fusion to form a zygote",
+          "A petal falling off"
+        ],
+        "correct": 1,
+        "hints": [
+          "A compatible pollen grain germinates and its tube grows through the style toward an ovule; the male gamete reaches the egg.",
+          "Self-pollination includes the same flower or another flower on the same plant; cross-pollination transfers between different plants of the same species. Wind, water or animals can carry pollen."
+        ],
+        "feedback": [
+          "Reconsider: Self-pollination includes the same flower or another flower on the same plant; cross-pollination transfers between different plants of the same species. Wind, water or animals can carry pollen.",
+          "Correct. Self-pollination includes the same flower or another flower on the same plant; cross-pollination transfers between different plants of the same species. Wind, water or animals can carry pollen.",
+          "Reconsider: Self-pollination includes the same flower or another flower on the same plant; cross-pollination transfers between different plants of the same species. Wind, water or animals can carry pollen."
+        ],
+        "explorer": "flower"
+      },
+      {
+        "id": "sc7-seed",
+        "section": 2,
+        "title": "From zygote to seedling",
+        "intro": "After fertilisation the zygote develops into an embryo, the ovule into a seed and the ovary into a fruit.",
+        "simple": "A seed coat protects the embryo; stored reserves support early development. Cotyledons, plumule and radicle can be identified in a gram seed.",
+        "example": [
+          "A seed coat protects the embryo; stored reserves support early development. Cotyledons, plumule and radicle can be identified in a gram seed.",
+          "Germination needs suitable water, oxygen and temperature; the radicle forms the initial root and plumule develops into the shoot. Fruit dispersal and seed protection can aid survival."
+        ],
+        "question": "Which structure normally develops into the seed?",
+        "options": [
+          "Ovary wall alone",
+          "Anther",
+          "Ovule"
+        ],
+        "correct": 2,
+        "hints": [
+          "A seed coat protects the embryo; stored reserves support early development. Cotyledons, plumule and radicle can be identified in a gram seed.",
+          "Germination needs suitable water, oxygen and temperature; the radicle forms the initial root and plumule develops into the shoot. Fruit dispersal and seed protection can aid survival."
+        ],
+        "feedback": [
+          "Reconsider: Germination needs suitable water, oxygen and temperature; the radicle forms the initial root and plumule develops into the shoot. Fruit dispersal and seed protection can aid survival.",
+          "Reconsider: Germination needs suitable water, oxygen and temperature; the radicle forms the initial root and plumule develops into the shoot. Fruit dispersal and seed protection can aid survival.",
+          "Correct. Germination needs suitable water, oxygen and temperature; the radicle forms the initial root and plumule develops into the shoot. Fruit dispersal and seed protection can aid survival."
+        ],
+        "explorer": "plant-development"
+      },
+      {
+        "id": "sc7-puberty",
+        "section": 3,
+        "title": "Maturation is gradual and variable",
+        "intro": "Puberty involves reproductive maturation and other body changes, not just increased height. Timing and patterns vary between individuals.",
+        "simple": "Changes can include body hair, oilier skin, breast development and menstruation, or voice changes and facial hair. Hormonal changes accompany gamete-producing tissue maturation.",
+        "example": [
+          "Changes can include body hair, oilier skin, breast development and menstruation, or voice changes and facial hair. Hormonal changes accompany gamete-producing tissue maturation.",
+          "Biological maturation alone does not establish emotional readiness, consent or readiness for parenthood; nobody should be pressured or shamed about their development."
+        ],
+        "question": "Which statement about puberty is accurate?",
+        "options": [
+          "Everyone changes on exactly the same birthday",
+          "Changes develop over time and vary",
+          "Every change finishes in one day"
+        ],
+        "correct": 1,
+        "hints": [
+          "Changes can include body hair, oilier skin, breast development and menstruation, or voice changes and facial hair. Hormonal changes accompany gamete-producing tissue maturation.",
+          "Biological maturation alone does not establish emotional readiness, consent or readiness for parenthood; nobody should be pressured or shamed about their development."
+        ],
+        "feedback": [
+          "Reconsider: Biological maturation alone does not establish emotional readiness, consent or readiness for parenthood; nobody should be pressured or shamed about their development.",
+          "Correct. Biological maturation alone does not establish emotional readiness, consent or readiness for parenthood; nobody should be pressured or shamed about their development.",
+          "Reconsider: Biological maturation alone does not establish emotional readiness, consent or readiness for parenthood; nobody should be pressured or shamed about their development."
+        ]
+      },
+      {
+        "id": "sc7-male",
+        "section": 3,
+        "title": "Locate sperm production and transport",
+        "intro": "Testes produce sperm and testosterone. The scrotum supports a temperature below core body temperature for typical sperm production.",
+        "simple": "Sperm travels through ducts including the vas deferens; seminal vesicles and prostate add fluid that supports transport and provides components of semen.",
+        "example": [
+          "Sperm travels through ducts including the vas deferens; seminal vesicles and prostate add fluid that supports transport and provides components of semen.",
+          "The urethra passes through the penis and conveys semen or urine at different times; sperm is not produced in the bladder. A sperm tail supports movement."
+        ],
+        "question": "Where are sperm produced?",
+        "options": [
+          "Seminal fluid in the bladder",
+          "Testes",
+          "The prostate alone"
+        ],
+        "correct": 1,
+        "hints": [
+          "Sperm travels through ducts including the vas deferens; seminal vesicles and prostate add fluid that supports transport and provides components of semen.",
+          "The urethra passes through the penis and conveys semen or urine at different times; sperm is not produced in the bladder. A sperm tail supports movement."
+        ],
+        "feedback": [
+          "Reconsider: The urethra passes through the penis and conveys semen or urine at different times; sperm is not produced in the bladder. A sperm tail supports movement.",
+          "Correct. The urethra passes through the penis and conveys semen or urine at different times; sperm is not produced in the bladder. A sperm tail supports movement.",
+          "Reconsider: The urethra passes through the penis and conveys semen or urine at different times; sperm is not produced in the bladder. A sperm tail supports movement."
+        ],
+        "explorer": "human-reproduction"
+      },
+      {
+        "id": "sc7-female",
+        "section": 3,
+        "title": "Separate fertilisation from implantation",
+        "intro": "Ovaries contain immature egg cells; maturation and ovulation begin cyclically after puberty. Oviducts lead toward the uterus, which opens through the cervix into the vagina.",
+        "simple": "Fertilisation usually occurs in an oviduct. The dividing embryo reaches the uterus and can implant in its lining.",
+        "example": [
+          "Fertilisation usually occurs in an oviduct. The dividing embryo reaches the uterus and can implant in its lining.",
+          "Release is often around one egg per cycle, but cycles vary; ovaries do not necessarily alternate, and a new egg is not created from scratch every month."
+        ],
+        "question": "Where does implantation normally occur?",
+        "options": [
+          "Uterine lining",
+          "Inside the bladder",
+          "On an anther"
+        ],
+        "correct": 0,
+        "hints": [
+          "Fertilisation usually occurs in an oviduct. The dividing embryo reaches the uterus and can implant in its lining.",
+          "Release is often around one egg per cycle, but cycles vary; ovaries do not necessarily alternate, and a new egg is not created from scratch every month."
+        ],
+        "feedback": [
+          "Correct. Release is often around one egg per cycle, but cycles vary; ovaries do not necessarily alternate, and a new egg is not created from scratch every month.",
+          "Reconsider: Release is often around one egg per cycle, but cycles vary; ovaries do not necessarily alternate, and a new egg is not created from scratch every month.",
+          "Reconsider: Release is often around one egg per cycle, but cycles vary; ovaries do not necessarily alternate, and a new egg is not created from scratch every month."
+        ],
+        "explorer": "human-reproduction"
+      },
+      {
+        "id": "sc7-placenta",
+        "section": 3,
+        "title": "Exchange through a placenta",
+        "intro": "Placental tissue provides a large exchange area between maternal and developing fetal circulation.",
+        "simple": "Oxygen and nutrients move toward the developing embryo/fetus; CO2 and other wastes move toward maternal circulation. Maternal and fetal blood normally do not mix directly.",
+        "example": [
+          "Oxygen and nutrients move toward the developing embryo/fetus; CO2 and other wastes move toward maternal circulation. Maternal and fetal blood normally do not mix directly.",
+          "The fetus is linked through the umbilical cord. Pregnancy lasts roughly nine months in the source account; birth involves coordinated uterine contractions."
+        ],
+        "question": "What is a main role of the placenta?",
+        "options": [
+          "Directly mix all maternal and fetal blood",
+          "Produce pollen",
+          "Exchange nutrients, gases and wastes"
+        ],
+        "correct": 2,
+        "hints": [
+          "Oxygen and nutrients move toward the developing embryo/fetus; CO2 and other wastes move toward maternal circulation. Maternal and fetal blood normally do not mix directly.",
+          "The fetus is linked through the umbilical cord. Pregnancy lasts roughly nine months in the source account; birth involves coordinated uterine contractions."
+        ],
+        "feedback": [
+          "Reconsider: The fetus is linked through the umbilical cord. Pregnancy lasts roughly nine months in the source account; birth involves coordinated uterine contractions.",
+          "Reconsider: The fetus is linked through the umbilical cord. Pregnancy lasts roughly nine months in the source account; birth involves coordinated uterine contractions.",
+          "Correct. The fetus is linked through the umbilical cord. Pregnancy lasts roughly nine months in the source account; birth involves coordinated uterine contractions."
+        ],
+        "explorer": "human-reproduction"
+      },
+      {
+        "id": "sc7-menstruation",
+        "section": 3,
+        "title": "Explain the lining change",
+        "intro": "When pregnancy does not become established, hormonal changes lead the built-up uterine lining to shed as menstrual blood and tissue.",
+        "simple": "Menstrual material leaves through cervix and vagina. It is not dirty blood, and menstruation is a normal biological process.",
+        "example": [
+          "Menstrual material leaves through cervix and vagina. It is not dirty blood, and menstruation is a normal biological process.",
+          "The source describes a roughly monthly cycle and several days of bleeding; actual timing and flow vary. Severe symptoms or unexpected changes warrant appropriate medical advice, not a diagnosis from a lesson."
+        ],
+        "question": "What is mainly shed during menstruation?",
+        "options": [
+          "The built-up uterine lining",
+          "The whole uterus",
+          "The ovary each month"
+        ],
+        "correct": 0,
+        "hints": [
+          "Menstrual material leaves through cervix and vagina. It is not dirty blood, and menstruation is a normal biological process.",
+          "The source describes a roughly monthly cycle and several days of bleeding; actual timing and flow vary. Severe symptoms or unexpected changes warrant appropriate medical advice, not a diagnosis from a lesson."
+        ],
+        "feedback": [
+          "Correct. The source describes a roughly monthly cycle and several days of bleeding; actual timing and flow vary. Severe symptoms or unexpected changes warrant appropriate medical advice, not a diagnosis from a lesson.",
+          "Reconsider: The source describes a roughly monthly cycle and several days of bleeding; actual timing and flow vary. Severe symptoms or unexpected changes warrant appropriate medical advice, not a diagnosis from a lesson.",
+          "Reconsider: The source describes a roughly monthly cycle and several days of bleeding; actual timing and flow vary. Severe symptoms or unexpected changes warrant appropriate medical advice, not a diagnosis from a lesson."
+        ],
+        "explorer": "human-reproduction"
+      },
+      {
+        "id": "sc7-health",
+        "section": 3,
+        "title": "Distinguish pregnancy prevention from infection protection",
+        "intro": "Barrier methods, hormonal methods, intrauterine devices and surgical methods prevent pregnancy through different mechanisms.",
+        "simple": "Condoms reduce the risk of many sexually transmitted infections as well as pregnancy; copper-T and hormonal pills do not provide comparable STI protection. No method guarantees zero risk.",
+        "example": [
+          "Condoms reduce the risk of many sexually transmitted infections as well as pregnancy; copper-T and hormonal pills do not provide comparable STI protection. No method guarantees zero risk.",
+          "The source names gonorrhoea/syphilis (bacterial), genital warts and HIV (viral). Suitable contraception and any treatment should be discussed with qualified health professionals."
+        ],
+        "question": "Does copper-T protect against sexually transmitted infections?",
+        "options": [
+          "Yes, against every infection",
+          "No; pregnancy prevention is different from STI protection",
+          "Only if it is drawn in a textbook"
+        ],
+        "correct": 1,
+        "hints": [
+          "Condoms reduce the risk of many sexually transmitted infections as well as pregnancy; copper-T and hormonal pills do not provide comparable STI protection. No method guarantees zero risk.",
+          "The source names gonorrhoea/syphilis (bacterial), genital warts and HIV (viral). Suitable contraception and any treatment should be discussed with qualified health professionals."
+        ],
+        "feedback": [
+          "Reconsider: The source names gonorrhoea/syphilis (bacterial), genital warts and HIV (viral). Suitable contraception and any treatment should be discussed with qualified health professionals.",
+          "Correct. The source names gonorrhoea/syphilis (bacterial), genital warts and HIV (viral). Suitable contraception and any treatment should be discussed with qualified health professionals.",
+          "Reconsider: The source names gonorrhoea/syphilis (bacterial), genital warts and HIV (viral). Suitable contraception and any treatment should be discussed with qualified health professionals."
+        ]
+      },
+      {
+        "id": "sc7-choices",
+        "section": 3,
+        "title": "Make informed, voluntary choices",
+        "intro": "Reproductive health includes access to accurate information, freedom from pressure and discrimination, and appropriate care.",
+        "simple": "Vasectomy blocks the sperm-carrying ducts; tubal surgery blocks the fallopian tubes. These are clinical procedures, not castration or removal of the uterus.",
+        "example": [
+          "Vasectomy blocks the sperm-carrying ducts; tubal surgery blocks the fallopian tubes. These are clinical procedures, not castration or removal of the uterus.",
+          "Consent and readiness matter. Sex-selective practices and discrimination are harmful; the source discusses India’s restrictions on prenatal sex selection. Population outcomes also depend on inequality, resources and access to services, not births alone."
+        ],
+        "question": "Which is an informed reproductive-health principle?",
+        "options": [
+          "Pressure someone into a decision",
+          "Treat every contraception method as STI protection",
+          "Respect consent and obtain appropriate information and care"
+        ],
+        "correct": 2,
+        "hints": [
+          "Vasectomy blocks the sperm-carrying ducts; tubal surgery blocks the fallopian tubes. These are clinical procedures, not castration or removal of the uterus.",
+          "Consent and readiness matter. Sex-selective practices and discrimination are harmful; the source discusses India’s restrictions on prenatal sex selection. Population outcomes also depend on inequality, resources and access to services, not births alone."
+        ],
+        "feedback": [
+          "Reconsider: Consent and readiness matter. Sex-selective practices and discrimination are harmful; the source discusses India’s restrictions on prenatal sex selection. Population outcomes also depend on inequality, resources and access to services, not births alone.",
+          "Reconsider: Consent and readiness matter. Sex-selective practices and discrimination are harmful; the source discusses India’s restrictions on prenatal sex selection. Population outcomes also depend on inequality, resources and access to services, not births alone.",
+          "Correct. Consent and readiness matter. Sex-selective practices and discrimination are harmful; the source discusses India’s restrictions on prenatal sex selection. Population outcomes also depend on inequality, resources and access to services, not births alone."
+        ]
+      },
+      {
+        "id": "sc7-recap",
+        "section": 4,
+        "title": "Connect structures with processes",
+        "intro": "Reproduction connects DNA continuity, cell division, varied body designs and sexual life cycles.",
+        "simple": "Distinguish fission, budding, fragmentation, regeneration, vegetative propagation and spore formation.",
+        "example": [
+          "Distinguish fission, budding, fragmentation, regeneration, vegetative propagation and spore formation.",
+          "Connect pollen transfer, gamete fusion, embryo development and reproductive health without confusing the locations or purposes of each process."
+        ],
+        "question": "Which pair is correctly matched?",
+        "options": [
+          "Pollination—gamete fusion inside the ovule",
+          "Testes—sperm production",
+          "Uterus—pollen production"
+        ],
+        "correct": 1,
+        "hints": [
+          "Distinguish fission, budding, fragmentation, regeneration, vegetative propagation and spore formation.",
+          "Connect pollen transfer, gamete fusion, embryo development and reproductive health without confusing the locations or purposes of each process."
+        ],
+        "feedback": [
+          "Reconsider: Connect pollen transfer, gamete fusion, embryo development and reproductive health without confusing the locations or purposes of each process.",
+          "Correct. Connect pollen transfer, gamete fusion, embryo development and reproductive health without confusing the locations or purposes of each process.",
+          "Reconsider: Connect pollen transfer, gamete fusion, embryo development and reproductive health without confusing the locations or purposes of each process."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "subject": "science",
+    "part": 2,
+    "title": "Heredity",
+    "slug": "heredity",
+    "sections": [
+      "8.1 Accumulation of Variation · pp 58–59",
+      "8.2 Inheritance, Mendel and Gene Expression · pp 59–62",
+      "8.2.4 Sex Determination · p62",
+      "What you have learnt · p63"
+    ],
+    "summary": [
+      [
+        "Explain",
+        "Connect labelled structures to their biological functions."
+      ],
+      [
+        "Use evidence",
+        "Distinguish predicted ratios and observations, with clear assumptions."
+      ],
+      [
+        "Review",
+        "Compare your own answers with the models and seek teacher verification."
+      ]
+    ],
+    "challenge": "Explain a labelled diagram and a new application in your own words. Complete the mapped textbook tasks and have your written work verified by a teacher.",
+    "steps": [
+      {
+        "id": "sc8-accumulation",
+        "section": 0,
+        "title": "Follow inherited and new variation",
+        "intro": "Descendants inherit many features and can acquire new genetic variants. A lineage can therefore accumulate differences over generations.",
+        "simple": "Sexual reproduction recombines existing variants; copying changes can also arise in asexual reproduction.",
+        "example": [
+          "Sexual reproduction recombines existing variants; copying changes can also arise in asexual reproduction.",
+          "Inherited variation can affect survival in a changed environment, but it is not guaranteed to help or to arise because it is needed."
+        ],
+        "question": "Which statement is correct?",
+        "options": [
+          "Asexual descendants can never vary",
+          "Only beneficial DNA changes occur",
+          "Inherited and new differences can accumulate"
+        ],
+        "correct": 2,
+        "hints": [
+          "Sexual reproduction recombines existing variants; copying changes can also arise in asexual reproduction.",
+          "Inherited variation can affect survival in a changed environment, but it is not guaranteed to help or to arise because it is needed."
+        ],
+        "feedback": [
+          "Reconsider: Inherited variation can affect survival in a changed environment, but it is not guaranteed to help or to arise because it is needed.",
+          "Reconsider: Inherited variation can affect survival in a changed environment, but it is not guaranteed to help or to arise because it is needed.",
+          "Correct. Inherited variation can affect survival in a changed environment, but it is not guaranteed to help or to arise because it is needed."
+        ],
+        "explorer": "variation"
+      },
+      {
+        "id": "sc8-frequency",
+        "section": 0,
+        "title": "Frequency does not prove age",
+        "intro": "The source compares trait A in 10% and trait B in 60% of an asexual population. Under a simple accumulation model, the more widespread B may have appeared earlier.",
+        "simple": "This is a conditional inference, not proof: selection, drift, migration and different rates of spread can change frequencies.",
+        "example": [
+          "This is a conditional inference, not proof: selection, drift, migration and different rates of spread can change frequencies.",
+          "A trait’s frequency alone cannot establish its exact origin date or dominance."
+        ],
+        "question": "Does a 60% frequency prove a trait is older?",
+        "options": [
+          "No; the inference needs assumptions",
+          "Yes, in every population",
+          "Yes, and it proves dominance too"
+        ],
+        "correct": 0,
+        "hints": [
+          "This is a conditional inference, not proof: selection, drift, migration and different rates of spread can change frequencies.",
+          "A trait’s frequency alone cannot establish its exact origin date or dominance."
+        ],
+        "feedback": [
+          "Correct. A trait’s frequency alone cannot establish its exact origin date or dominance.",
+          "Reconsider: A trait’s frequency alone cannot establish its exact origin date or dominance.",
+          "Reconsider: A trait’s frequency alone cannot establish its exact origin date or dominance."
+        ]
+      },
+      {
+        "id": "sc8-traits",
+        "section": 1,
+        "title": "Describe inherited traits carefully",
+        "intro": "Both parents contribute genetic information in typical sexual reproduction, but visible traits can depend on several genes and environmental influences.",
+        "simple": "The source earlobe survey can describe variation. Human earlobe attachment is not a reliable one-gene dominant/recessive trait.",
+        "example": [
+          "The source earlobe survey can describe variation. Human earlobe attachment is not a reliable one-gene dominant/recessive trait.",
+          "Use anonymous, voluntary or hypothetical data. Do not infer parentage or a family’s genetic relationships from earlobes."
+        ],
+        "question": "Can a simple earlobe survey prove a one-gene inheritance rule?",
+        "options": [
+          "Yes, for every family",
+          "No; more complex inheritance and evidence matter",
+          "Only if names are published"
+        ],
+        "correct": 1,
+        "hints": [
+          "The source earlobe survey can describe variation. Human earlobe attachment is not a reliable one-gene dominant/recessive trait.",
+          "Use anonymous, voluntary or hypothetical data. Do not infer parentage or a family’s genetic relationships from earlobes."
+        ],
+        "feedback": [
+          "Reconsider: Use anonymous, voluntary or hypothetical data. Do not infer parentage or a family’s genetic relationships from earlobes.",
+          "Correct. Use anonymous, voluntary or hypothetical data. Do not infer parentage or a family’s genetic relationships from earlobes.",
+          "Reconsider: Use anonymous, voluntary or hypothetical data. Do not infer parentage or a family’s genetic relationships from earlobes."
+        ],
+        "explorer": "inheritance"
+      },
+      {
+        "id": "sc8-mendel",
+        "section": 1,
+        "title": "Count rather than guess",
+        "intro": "Mendel tracked contrasting pea traits over generations and counted offspring. The controlled crosses support a model of paired inherited factors.",
+        "simple": "For true-breeding TT × tt, F1 offspring are Tt and tall in this complete-dominance model.",
+        "example": [
+          "For true-breeding TT × tt, F1 offspring are Tt and tall in this complete-dominance model.",
+          "Mendel (1822–1884) combined experimental work with quantitative counting. Observed samples need not exactly match theoretical ratios."
+        ],
+        "question": "What genotype does TT × tt produce at this locus?",
+        "options": [
+          "All TT",
+          "All tt",
+          "All Tt"
+        ],
+        "correct": 2,
+        "hints": [
+          "For true-breeding TT × tt, F1 offspring are Tt and tall in this complete-dominance model.",
+          "Mendel (1822–1884) combined experimental work with quantitative counting. Observed samples need not exactly match theoretical ratios."
+        ],
+        "feedback": [
+          "Reconsider: Mendel (1822–1884) combined experimental work with quantitative counting. Observed samples need not exactly match theoretical ratios.",
+          "Reconsider: Mendel (1822–1884) combined experimental work with quantitative counting. Observed samples need not exactly match theoretical ratios.",
+          "Correct. Mendel (1822–1884) combined experimental work with quantitative counting. Observed samples need not exactly match theoretical ratios."
+        ],
+        "explorer": "inheritance"
+      },
+      {
+        "id": "sc8-segregation",
+        "section": 1,
+        "title": "Separate genotype from phenotype",
+        "intro": "When Tt plants self, the expected genotypes are TT:Tt:tt = 1:2:1; tall:short phenotypes are 3:1.",
+        "simple": "Dominant does not mean common, stronger or better. Tt and TT can share a tall phenotype but have different genotypes.",
+        "example": [
+          "Dominant does not mean common, stronger or better. Tt and TT can share a tall phenotype but have different genotypes.",
+          "Each offspring event is a probability; four offspring are not guaranteed to contain exactly one of each grid entry."
+        ],
+        "question": "What fraction is expected to be tt in Tt × Tt?",
+        "options": [
+          "1/4",
+          "1/2",
+          "3/4"
+        ],
+        "correct": 0,
+        "hints": [
+          "Dominant does not mean common, stronger or better. Tt and TT can share a tall phenotype but have different genotypes.",
+          "Each offspring event is a probability; four offspring are not guaranteed to contain exactly one of each grid entry."
+        ],
+        "feedback": [
+          "Correct. Each offspring event is a probability; four offspring are not guaranteed to contain exactly one of each grid entry.",
+          "Reconsider: Each offspring event is a probability; four offspring are not guaranteed to contain exactly one of each grid entry.",
+          "Reconsider: Each offspring event is a probability; four offspring are not guaranteed to contain exactly one of each grid entry."
+        ],
+        "explorer": "inheritance"
+      },
+      {
+        "id": "sc8-test-cross",
+        "section": 1,
+        "title": "Test a tall plant’s hidden genotype",
+        "intro": "Cross an unknown tall plant with recessive tt or examine its selfed progeny to distinguish candidate genotypes.",
+        "simple": "TT × tt gives all tall Tt; Tt × tt gives an expected 1:1 tall:short ratio.",
+        "example": [
+          "TT × tt gives all tall Tt; Tt × tt gives an expected 1:1 tall:short ratio.",
+          "A TT selfed line breeds true, while Tt selfing can segregate 1:2:1. Adequate samples matter; a small all-tall family does not prove TT."
+        ],
+        "question": "What is expected from Tt × tt?",
+        "options": [
+          "All short",
+          "Half tall and half short",
+          "All TT"
+        ],
+        "correct": 1,
+        "hints": [
+          "TT × tt gives all tall Tt; Tt × tt gives an expected 1:1 tall:short ratio.",
+          "A TT selfed line breeds true, while Tt selfing can segregate 1:2:1. Adequate samples matter; a small all-tall family does not prove TT."
+        ],
+        "feedback": [
+          "Reconsider: A TT selfed line breeds true, while Tt selfing can segregate 1:2:1. Adequate samples matter; a small all-tall family does not prove TT.",
+          "Correct. A TT selfed line breeds true, while Tt selfing can segregate 1:2:1. Adequate samples matter; a small all-tall family does not prove TT.",
+          "Reconsider: A TT selfed line breeds true, while Tt selfing can segregate 1:2:1. Adequate samples matter; a small all-tall family does not prove TT."
+        ],
+        "explorer": "inheritance"
+      },
+      {
+        "id": "sc8-two-traits",
+        "section": 1,
+        "title": "Combine independent trait pairs",
+        "intro": "For the unlinked, complete-dominance model RrYy × RrYy, four equally likely gametes from each parent form sixteen combinations.",
+        "simple": "Expected phenotypes are round yellow:round green:wrinkled yellow:wrinkled green = 9:3:3:1.",
+        "example": [
+          "Expected phenotypes are round yellow:round green:wrinkled yellow:wrinkled green = 9:3:3:1.",
+          "Figure 8.5 reports 315,108,101,32 seeds (556 total), close to rather than exactly equal to the theoretical ratio. Independent assortment is a model assumption; linked genes can behave differently."
+        ],
+        "question": "Which assumption gives the four equally likely RY, Ry, rY and ry gametes?",
+        "options": [
+          "Independent assortment of these loci",
+          "Every pair of genes is always linked",
+          "One whole unchanged set always travels together"
+        ],
+        "correct": 0,
+        "hints": [
+          "Expected phenotypes are round yellow:round green:wrinkled yellow:wrinkled green = 9:3:3:1.",
+          "Figure 8.5 reports 315,108,101,32 seeds (556 total), close to rather than exactly equal to the theoretical ratio. Independent assortment is a model assumption; linked genes can behave differently."
+        ],
+        "feedback": [
+          "Correct. Figure 8.5 reports 315,108,101,32 seeds (556 total), close to rather than exactly equal to the theoretical ratio. Independent assortment is a model assumption; linked genes can behave differently.",
+          "Reconsider: Figure 8.5 reports 315,108,101,32 seeds (556 total), close to rather than exactly equal to the theoretical ratio. Independent assortment is a model assumption; linked genes can behave differently.",
+          "Reconsider: Figure 8.5 reports 315,108,101,32 seeds (556 total), close to rather than exactly equal to the theoretical ratio. Independent assortment is a model assumption; linked genes can behave differently."
+        ],
+        "explorer": "inheritance"
+      },
+      {
+        "id": "sc8-expression",
+        "section": 1,
+        "title": "Link DNA, proteins and traits",
+        "intro": "Genes can affect traits through RNA and protein products, including enzymes involved in hormone production.",
+        "simple": "In the source height example, an enzyme variant affects growth-hormone synthesis and hence pea growth.",
+        "example": [
+          "In the source height example, an enzyme variant affects growth-hormone synthesis and hence pea growth.",
+          "Not every gene makes one protein, and not every trait is controlled by one gene; the source is an introductory model."
+        ],
+        "question": "How can a DNA difference influence a trait?",
+        "options": [
+          "By changing a gene product and a biological process",
+          "By requiring every trait to blend halfway",
+          "By making all environmental effects disappear"
+        ],
+        "correct": 0,
+        "hints": [
+          "In the source height example, an enzyme variant affects growth-hormone synthesis and hence pea growth.",
+          "Not every gene makes one protein, and not every trait is controlled by one gene; the source is an introductory model."
+        ],
+        "feedback": [
+          "Correct. Not every gene makes one protein, and not every trait is controlled by one gene; the source is an introductory model.",
+          "Reconsider: Not every gene makes one protein, and not every trait is controlled by one gene; the source is an introductory model.",
+          "Reconsider: Not every gene makes one protein, and not every trait is controlled by one gene; the source is an introductory model."
+        ]
+      },
+      {
+        "id": "sc8-chromosomes",
+        "section": 1,
+        "title": "Package inherited information into chromosomes",
+        "intro": "Each chromosome pair contains a maternal and paternal contribution in the usual diploid model. Genes occupy positions on chromosomes.",
+        "simple": "Meiosis gives gametes one chromosome set; fertilisation restores two sets. Segregation and assortment help explain the supplied crosses.",
+        "example": [
+          "Meiosis gives gametes one chromosome set; fertilisation restores two sets. Segregation and assortment help explain the supplied crosses.",
+          "A chromosome is not one gene; it contains many genes. Recombination and chromosome behaviour mean the inheritance model is more precise than one intact paternal bundle versus one intact maternal bundle."
+        ],
+        "question": "How does fertilisation preserve the usual diploid chromosome-set number?",
+        "options": [
+          "Two reduced gamete sets combine",
+          "Each gamete already has four sets",
+          "Every chromosome is discarded"
+        ],
+        "correct": 0,
+        "hints": [
+          "Meiosis gives gametes one chromosome set; fertilisation restores two sets. Segregation and assortment help explain the supplied crosses.",
+          "A chromosome is not one gene; it contains many genes. Recombination and chromosome behaviour mean the inheritance model is more precise than one intact paternal bundle versus one intact maternal bundle."
+        ],
+        "feedback": [
+          "Correct. A chromosome is not one gene; it contains many genes. Recombination and chromosome behaviour mean the inheritance model is more precise than one intact paternal bundle versus one intact maternal bundle.",
+          "Reconsider: A chromosome is not one gene; it contains many genes. Recombination and chromosome behaviour mean the inheritance model is more precise than one intact paternal bundle versus one intact maternal bundle.",
+          "Reconsider: A chromosome is not one gene; it contains many genes. Recombination and chromosome behaviour mean the inheritance model is more precise than one intact paternal bundle versus one intact maternal bundle."
+        ]
+      },
+      {
+        "id": "sc8-sex",
+        "section": 2,
+        "title": "Read the chromosome model without assigning blame",
+        "intro": "The textbook human model uses X-bearing eggs and X- or Y-bearing sperm: fertilisation can yield XX or XY with equal expected probability.",
+        "simple": "A typical egg contributes X; the sperm’s X or Y contribution determines the textbook XX/XY combination. Each fertilisation is independent; a family need not have equal numbers.",
+        "example": [
+          "A typical egg contributes X; the sperm’s X or Y contribution determines the textbook XX/XY combination. Each fertilisation is independent; a family need not have equal numbers.",
+          "This describes typical chromosomal sex determination, not every variation in sex development or gender identity. Neither parent chooses the outcome, and blaming a mother is scientifically unfounded."
+        ],
+        "question": "In the textbook model, what are the expected XX and XY probabilities?",
+        "options": [
+          "100% XX",
+          "50% each",
+          "100% XY"
+        ],
+        "correct": 1,
+        "hints": [
+          "A typical egg contributes X; the sperm’s X or Y contribution determines the textbook XX/XY combination. Each fertilisation is independent; a family need not have equal numbers.",
+          "This describes typical chromosomal sex determination, not every variation in sex development or gender identity. Neither parent chooses the outcome, and blaming a mother is scientifically unfounded."
+        ],
+        "feedback": [
+          "Reconsider: This describes typical chromosomal sex determination, not every variation in sex development or gender identity. Neither parent chooses the outcome, and blaming a mother is scientifically unfounded.",
+          "Correct. This describes typical chromosomal sex determination, not every variation in sex development or gender identity. Neither parent chooses the outcome, and blaming a mother is scientifically unfounded.",
+          "Reconsider: This describes typical chromosomal sex determination, not every variation in sex development or gender identity. Neither parent chooses the outcome, and blaming a mother is scientifically unfounded."
+        ],
+        "explorer": "inheritance"
+      },
+      {
+        "id": "sc8-other-species",
+        "section": 2,
+        "title": "Do not apply one mechanism to every organism",
+        "intro": "Sex determination varies between species. Some reptiles have temperature-dependent sex determination; some animals can change sex.",
+        "simple": "The source’s examples show that a mammalian XX/XY model is not a universal rule.",
+        "example": [
+          "The source’s examples show that a mammalian XX/XY model is not a universal rule.",
+          "Human chromosomes usually comprise 22 pairs of autosomes plus a sex-chromosome pair in diploid cells, while gametes carry a single set."
+        ],
+        "question": "Is XX/XY the only sex-determination system in nature?",
+        "options": [
+          "Yes, even for every plant",
+          "No; species have different mechanisms",
+          "Yes, and temperature determines human chromosomal sex"
+        ],
+        "correct": 1,
+        "hints": [
+          "The source’s examples show that a mammalian XX/XY model is not a universal rule.",
+          "Human chromosomes usually comprise 22 pairs of autosomes plus a sex-chromosome pair in diploid cells, while gametes carry a single set."
+        ],
+        "feedback": [
+          "Reconsider: Human chromosomes usually comprise 22 pairs of autosomes plus a sex-chromosome pair in diploid cells, while gametes carry a single set.",
+          "Correct. Human chromosomes usually comprise 22 pairs of autosomes plus a sex-chromosome pair in diploid cells, while gametes carry a single set.",
+          "Reconsider: Human chromosomes usually comprise 22 pairs of autosomes plus a sex-chromosome pair in diploid cells, while gametes carry a single set."
+        ]
+      },
+      {
+        "id": "sc8-recap",
+        "section": 3,
+        "title": "Use models and evidence together",
+        "intro": "Heredity connects inherited variation, chromosome behaviour and probability. Predictions must be separated from observations.",
+        "simple": "Use monohybrid and dihybrid crosses only with their stated assumptions. A family resemblance or small survey cannot establish dominance.",
+        "example": [
+          "Use monohybrid and dihybrid crosses only with their stated assumptions. A family resemblance or small survey cannot establish dominance.",
+          "Genes, environment and chance can interact; a Mendelian diagram is a model for a defined case, not a verdict about a person."
+        ],
+        "question": "What is a Punnett square primarily showing?",
+        "options": [
+          "Guaranteed birth order",
+          "A complete diagnosis of any human trait",
+          "Possible combinations and their model probabilities"
+        ],
+        "correct": 2,
+        "hints": [
+          "Use monohybrid and dihybrid crosses only with their stated assumptions. A family resemblance or small survey cannot establish dominance.",
+          "Genes, environment and chance can interact; a Mendelian diagram is a model for a defined case, not a verdict about a person."
+        ],
+        "feedback": [
+          "Reconsider: Genes, environment and chance can interact; a Mendelian diagram is a model for a defined case, not a verdict about a person.",
+          "Reconsider: Genes, environment and chance can interact; a Mendelian diagram is a model for a defined case, not a verdict about a person.",
+          "Correct. Genes, environment and chance can interact; a Mendelian diagram is a model for a defined case, not a verdict about a person."
+        ],
+        "explorer": "inheritance"
+      }
+    ]
+  }
+]

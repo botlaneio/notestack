@@ -64,7 +64,7 @@ When server routes, real authentication or payments are added, revisit the stati
 
 
 ## Guided Maths chapters
-`/learn/maths/` lists seven interactive guided chapters linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
+`/learn/maths/` lists ten interactive guided chapters linked from the homepage. The existing `/learn/maths/real-numbers/` URL and saved progress remain supported.
 
 - Real Numbers: 30 guided checks, a prime-factor explorer, all 21 textbook exercise subparts, 5 additional written theorem/example tasks, an independent chapter check and a source coverage map.
 - Polynomials: 18 guided checks, graph zeroes and quadratic/cubic coefficient relationships.
@@ -74,7 +74,7 @@ When server routes, real authentication or payments are added, revisit the stati
 - Triangles: 21 guided checks, similar figures, BPT and its converse, similarity criteria and a parallel-cut explorer.
 - Coordinate Geometry: 21 guided checks, distances, internal division, midpoint and two coordinate explorers.
 
-Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 2026–27 PDF; explanations and practice are original and awaiting teacher review. The PDF is not included in the published assets.
+Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 and Part 2 2026–27 PDFs; explanations and practice are original and awaiting teacher review. The PDF is not included in the published assets.
 
 Progress saves separately per chapter in one browser. It is not account-based or synced across devices. The shared lesson player preserves the Chapter 1 storage key and validates restored state against each chapter’s question set.
 
@@ -84,3 +84,6 @@ The `/learn/maths/real-numbers/` workspace now has guided learning, `/practice/`
 
 ### Chapters 2–7 expanded practice
 All six chapters include `/practice/`, `/coverage/` and `/check/` routes, mapping 257 exercise subparts and 67 foundation/worked-example activities, plus 42 fresh independent tasks. Fractions and square roots are accepted in typed answers. Written work and graph construction remain explicit self-review rather than automatic proof grading. Construction points, drafts and answers save separately for each chapter and mode.
+
+### Chapters 8–10: Part 2
+Introduction to Trigonometry (25 guided checks), Some Applications of Trigonometry (18), and Circles (20) now have the same four-mode workspace. The source map includes 84 exercise subparts, 31 worked-example/foundation activities and 21 independent tasks. New explorers cover angle-dependent ratios, elevation with eye height, and tangent counts/contact geometry. See `docs/research/CHAPTERS-8-10-COMPLETE-COVERAGE.md` for every source item, domain restrictions and assessment boundaries. Chapters 11 onward are outside this update.

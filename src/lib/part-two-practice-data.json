@@ -1,0 +1,2844 @@
+{
+  "chapters": {
+    "8": [
+      {
+        "id": "c8-Example1",
+        "reference": "Example 1",
+        "title": "Worked example 1",
+        "prompt": "For acute A, tan A=4/3. Find the other five ratios.",
+        "solution": [
+          "Take opposite 4 k, adjacent 3 k, hypotenuse 5 k by Pythagoras.",
+          "sin A=4/5, cos A=3/5, cot A=3/4, cosec A=5/4, sec A=5/3."
+        ],
+        "hints": [
+          "Take opposite 4 k, adjacent 3 k, hypotenuse 5 k by Pythagoras.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Take opposite 4 k, adjacent 3 k, hypotenuse 5 k by Pythagoras.",
+          "Compare step 2: sin A=4/5, cos A=3/5, cot A=3/4, cosec A=5/4, sec A=5/3."
+        ],
+        "sample": "Take opposite 4 k, adjacent 3 k, hypotenuse 5 k by Pythagoras. sin A=4/5, cos A=3/5, cot A=3/4, cosec A=5/4, sec A=5/3."
+      },
+      {
+        "id": "c8-Example2",
+        "reference": "Example 2",
+        "title": "Worked example 2",
+        "prompt": "Prove acute angles B, Q are equal if sin B=sin Q, using similarity.",
+        "solution": [
+          "In right triangles with hypotenuses h₁, h₂ and opposite sides o₁, o₂, equality gives o₁/o₂=h₁/h₂=k>0.",
+          "Their adjacent sides satisfy a₁=sqrt(h₁²−o₁²)=k sqrt(h₂²−o₂²)=k a₂.",
+          "SSS similarity gives equality of the corresponding acute angles B=Q."
+        ],
+        "hints": [
+          "In right triangles with hypotenuses h₁, h₂ and opposite sides o₁, o₂, equality gives o₁/o₂=h₁/h₂=k>0.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: In right triangles with hypotenuses h₁, h₂ and opposite sides o₁, o₂, equality gives o₁/o₂=h₁/h₂=k>0.",
+          "Compare step 2: Their adjacent sides satisfy a₁=sqrt(h₁²−o₁²)=k sqrt(h₂²−o₂²)=k a₂.",
+          "Compare step 3: SSS similarity gives equality of the corresponding acute angles B=Q."
+        ],
+        "sample": "In right triangles with hypotenuses h₁, h₂ and opposite sides o₁, o₂, equality gives o₁/o₂=h₁/h₂=k>0. Their adjacent sides satisfy a₁=sqrt(h₁²−o₁²)=k sqrt(h₂²−o₂²)=k a₂. SSS similarity gives equality of the corresponding acute angles B=Q."
+      },
+      {
+        "id": "c8-Example3",
+        "reference": "Example 3",
+        "title": "Worked example 3",
+        "prompt": "ACB is right-angled at C; AB=29, BC=21 and θ=∠ABC. Evaluate cos²θ+sin²θ and cos²θ−sin²θ.",
+        "solution": [
+          "AC=sqrt(29²−21²)=20. Therefore sinθ=20/29 and cosθ=21/29.",
+          "Sum=(400+441)/841=1; difference=(441−400)/841=41/841."
+        ],
+        "hints": [
+          "AC=sqrt(29²−21²)=20. Therefore sinθ=20/29 and cosθ=21/29.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: AC=sqrt(29²−21²)=20. Therefore sinθ=20/29 and cosθ=21/29.",
+          "Compare step 2: Sum=(400+441)/841=1; difference=(441−400)/841=41/841."
+        ],
+        "sample": "AC=sqrt(29²−21²)=20. Therefore sinθ=20/29 and cosθ=21/29. Sum=(400+441)/841=1; difference=(441−400)/841=41/841."
+      },
+      {
+        "id": "c8-Example4",
+        "reference": "Example 4",
+        "title": "Worked example 4",
+        "prompt": "ABC is right-angled at B and tan A=1. Verify 2 sin A cos A=1.",
+        "solution": [
+          "BC=AB=k>0. Pythagoras gives AC=k sqrt(2).",
+          "sin A=cos A=1/sqrt(2), so 2 sin A cos A=2×1/2=1."
+        ],
+        "hints": [
+          "BC=AB=k>0. Pythagoras gives AC=k sqrt(2).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: BC=AB=k>0. Pythagoras gives AC=k sqrt(2).",
+          "Compare step 2: sin A=cos A=1/sqrt(2), so 2 sin A cos A=2×1/2=1."
+        ],
+        "sample": "BC=AB=k>0. Pythagoras gives AC=k sqrt(2). sin A=cos A=1/sqrt(2), so 2 sin A cos A=2×1/2=1."
+      },
+      {
+        "id": "c8-Example5",
+        "reference": "Example 5",
+        "title": "Worked example 5",
+        "prompt": "OPQ is right-angled at P. OP=7 cm and OQ−PQ=1 cm. Find sin Q, cos Q.",
+        "solution": [
+          "Put PQ=x, OQ=x+1. Then(x+1)²=x²+49, so 2 x=48 and x=24; OQ=25.",
+          "sin Q=OP/OQ=7/25; cos Q=PQ/OQ=24/25."
+        ],
+        "hints": [
+          "Put PQ=x, OQ=x+1. Then(x+1)²=x²+49, so 2 x=48 and x=24; OQ=25.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Put PQ=x, OQ=x+1. Then(x+1)²=x²+49, so 2 x=48 and x=24; OQ=25.",
+          "Compare step 2: sin Q=OP/OQ=7/25; cos Q=PQ/OQ=24/25."
+        ],
+        "sample": "Put PQ=x, OQ=x+1. Then(x+1)²=x²+49, so 2 x=48 and x=24; OQ=25. sin Q=OP/OQ=7/25; cos Q=PQ/OQ=24/25."
+      },
+      {
+        "id": "c8-Example6",
+        "reference": "Example 6",
+        "title": "Worked example 6",
+        "prompt": "ABC is right-angled at B with AB=5 cm and ∠C=30°. Find BC, AC.",
+        "solution": [
+          "tan 30°=AB/BC=5/BC, so BC=5 sqrt(3) cm.",
+          "sin 30°=AB/AC=5/AC, so AC=10 cm."
+        ],
+        "hints": [
+          "tan 30°=AB/BC=5/BC, so BC=5 sqrt(3) cm.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: tan 30°=AB/BC=5/BC, so BC=5 sqrt(3) cm.",
+          "Compare step 2: sin 30°=AB/AC=5/AC, so AC=10 cm."
+        ],
+        "sample": "tan 30°=AB/BC=5/BC, so BC=5 sqrt(3) cm. sin 30°=AB/AC=5/AC, so AC=10 cm."
+      },
+      {
+        "id": "c8-Example7",
+        "reference": "Example 7",
+        "title": "Worked example 7",
+        "prompt": "PQR is right-angled at Q with PQ=3 cm, PR=6 cm. Find ∠QPR and ∠PRQ.",
+        "solution": [
+          "sin R=PQ/PR=1/2. As R is acute, R=30°.",
+          "P=90−30=60°."
+        ],
+        "hints": [
+          "sin R=PQ/PR=1/2. As R is acute, R=30°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: sin R=PQ/PR=1/2. As R is acute, R=30°.",
+          "Compare step 2: P=90−30=60°."
+        ],
+        "sample": "sin R=PQ/PR=1/2. As R is acute, R=30°. P=90−30=60°."
+      },
+      {
+        "id": "c8-Example8",
+        "reference": "Example 8",
+        "title": "Worked example 8",
+        "prompt": "sin(A−B)=1/2, cos(A+B)=1/2, 0°<A+B≤90°, A>B. Find A, B.",
+        "solution": [
+          "A−B=30° and A+B=60° in the stated range.",
+          "Add:2 A=90°, hence A=45° and B=15°."
+        ],
+        "hints": [
+          "A−B=30° and A+B=60° in the stated range.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: A−B=30° and A+B=60° in the stated range.",
+          "Compare step 2: Add:2 A=90°, hence A=45° and B=15°."
+        ],
+        "sample": "A−B=30° and A+B=60° in the stated range. Add:2 A=90°, hence A=45° and B=15°."
+      },
+      {
+        "id": "c8-8-2·Definitionsandsimilarity",
+        "reference": "8.2 · Definitions and similarity",
+        "title": "Why ratios depend on the angle",
+        "prompt": "Explain all six ratios in a right triangle and why enlarging the triangle does not change them.",
+        "solution": [
+          "For an acute reference angle, sin=opposite/hypotenuse, cos=adjacent/hypotenuse, tan=opposite/adjacent.",
+          "cosec=hypotenuse/opposite, sec=hypotenuse/adjacent, cot=adjacent/opposite. Opposite and adjacent swap when the reference angle changes.",
+          "Dividing sine by cosine gives tan A=sin A/cos A; likewise cot A=cos A/sin A. The reciprocal pairs multiply to1 wherever they are defined.",
+          "Right triangles sharing an acute angle are similar by AA, so corresponding side ratios are the same. Therefore the ratios depend on the angle, not the triangle’s size."
+        ],
+        "hints": [
+          "For an acute reference angle, sin=opposite/hypotenuse, cos=adjacent/hypotenuse, tan=opposite/adjacent.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: For an acute reference angle, sin=opposite/hypotenuse, cos=adjacent/hypotenuse, tan=opposite/adjacent.",
+          "Compare step 2: cosec=hypotenuse/opposite, sec=hypotenuse/adjacent, cot=adjacent/opposite. Opposite and adjacent swap when the reference angle changes.",
+          "Compare step 3: Dividing sine by cosine gives tan A=sin A/cos A; likewise cot A=cos A/sin A. The reciprocal pairs multiply to1 wherever they are defined.",
+          "Compare step 4: Right triangles sharing an acute angle are similar by AA, so corresponding side ratios are the same. Therefore the ratios depend on the angle, not the triangle’s size."
+        ],
+        "sample": "For an acute reference angle, sin=opposite/hypotenuse, cos=adjacent/hypotenuse, tan=opposite/adjacent. cosec=hypotenuse/opposite, sec=hypotenuse/adjacent, cot=adjacent/opposite. Opposite and adjacent swap when the reference angle changes. Dividing sine by cosine gives tan A=sin A/cos A; likewise cot A=cos A/sin A. The reciprocal pairs multiply to1 wherever they are defined. Right triangles sharing an acute angle are similar by AA, so corresponding side ratios are the same. Therefore the ratios depend on the angle, not the triangle’s size."
+      },
+      {
+        "id": "c8-8-3·Endpointvalues",
+        "reference": "8.3 · Endpoint values",
+        "title": "0° and 90° are not ordinary triangles",
+        "prompt": "State the endpoint values of all six ratios, marking undefined quantities. Explain why no division by 0 is allowed.",
+        "solution": [
+          "At 0°:sin 0=0, cos 0=1, tan 0=0, sec 0=1; cot 0 and cosec 0 are undefined.",
+          "At 90°:sin 90=1, cos 90=0, cot 90=0, cosec 90=1; tan 90 and sec 90 are undefined.",
+          "These endpoint conventions extend the acute-angle ratios as the angle approaches the endpoint. A right triangle with an acute angle exactly 0° or 90° would be degenerate. Undefined is not an ordinary numeric value."
+        ],
+        "hints": [
+          "At 0°:sin 0=0, cos 0=1, tan 0=0, sec 0=1; cot 0 and cosec 0 are undefined.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: At 0°:sin 0=0, cos 0=1, tan 0=0, sec 0=1; cot 0 and cosec 0 are undefined.",
+          "Compare step 2: At 90°:sin 90=1, cos 90=0, cot 90=0, cosec 90=1; tan 90 and sec 90 are undefined.",
+          "Compare step 3: These endpoint conventions extend the acute-angle ratios as the angle approaches the endpoint. A right triangle with an acute angle exactly 0° or 90° would be degenerate. Undefined is not an ordinary numeric value."
+        ],
+        "sample": "At 0°:sin 0=0, cos 0=1, tan 0=0, sec 0=1; cot 0 and cosec 0 are undefined. At 90°:sin 90=1, cos 90=0, cot 90=0, cosec 90=1; tan 90 and sec 90 are undefined. These endpoint conventions extend the acute-angle ratios as the angle approaches the endpoint. A right triangle with an acute angle exactly 0° or 90° would be degenerate. Undefined is not an ordinary numeric value."
+      },
+      {
+        "id": "c8-8-3·30°and60°construction",
+        "reference": "8.3 · 30° and 60° construction",
+        "title": "Bisect an equilateral triangle",
+        "prompt": "Derive the 30° and 60° ratios by drawing an altitude in an equilateral triangle.",
+        "solution": [
+          "An equilateral triangle of side 2 splits into right triangles with hypotenuse 2, short leg 1, long leg sqrt(3). The altitude bisects a 60° angle into 30°.",
+          "At 30°:sin=1/2, cos=sqrt(3)/2, tan=1/sqrt(3), cot=sqrt(3), sec=2/sqrt(3), cosec=2.",
+          "At 60°:sin=sqrt(3)/2, cos=1/2, tan=sqrt(3), cot=1/sqrt(3), sec=2, cosec=2/sqrt(3)."
+        ],
+        "hints": [
+          "An equilateral triangle of side 2 splits into right triangles with hypotenuse 2, short leg 1, long leg sqrt(3). The altitude bisects a 60° angle into 30°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: An equilateral triangle of side 2 splits into right triangles with hypotenuse 2, short leg 1, long leg sqrt(3). The altitude bisects a 60° angle into 30°.",
+          "Compare step 2: At 30°:sin=1/2, cos=sqrt(3)/2, tan=1/sqrt(3), cot=sqrt(3), sec=2/sqrt(3), cosec=2.",
+          "Compare step 3: At 60°:sin=sqrt(3)/2, cos=1/2, tan=sqrt(3), cot=1/sqrt(3), sec=2, cosec=2/sqrt(3)."
+        ],
+        "sample": "An equilateral triangle of side 2 splits into right triangles with hypotenuse 2, short leg 1, long leg sqrt(3). The altitude bisects a 60° angle into 30°. At 30°:sin=1/2, cos=sqrt(3)/2, tan=1/sqrt(3), cot=sqrt(3), sec=2/sqrt(3), cosec=2. At 60°:sin=sqrt(3)/2, cos=1/2, tan=sqrt(3), cot=1/sqrt(3), sec=2, cosec=2/sqrt(3)."
+      },
+      {
+        "id": "c8-8-3·45°construction",
+        "reference": "8.3 · 45° construction",
+        "title": "Derive the 45° row",
+        "prompt": "Use an isosceles right triangle to derive all six ratios at 45°.",
+        "solution": [
+          "Take legs 1, 1 and hypotenuse sqrt(2).",
+          "sin 45°=cos 45°=1/sqrt(2), tan 45°=cot 45°=1, sec 45°=cosec 45°=sqrt(2)."
+        ],
+        "hints": [
+          "Take legs 1, 1 and hypotenuse sqrt(2).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Take legs 1, 1 and hypotenuse sqrt(2).",
+          "Compare step 2: sin 45°=cos 45°=1/sqrt(2), tan 45°=cot 45°=1, sec 45°=cosec 45°=sqrt(2)."
+        ],
+        "sample": "Take legs 1, 1 and hypotenuse sqrt(2). sin 45°=cos 45°=1/sqrt(2), tan 45°=cot 45°=1, sec 45°=cosec 45°=sqrt(2)."
+      },
+      {
+        "id": "c8-8-4·Fundamentalidentities",
+        "reference": "8.4 · Fundamental identities",
+        "title": "Derive the three identities",
+        "prompt": "Derive sin²A+cos²A=1, sec²A−tan²A=1 and cosec²A−cot²A=1 from a right triangle.",
+        "solution": [
+          "Pythagoras gives opposite²+adjacent²=hypotenuse². Divide every term by hypotenuse² to obtain sin²A+cos²A=1.",
+          "For cos A≠0, divide this identity by cos²A:tan²A+1=sec²A.",
+          "For sin A≠0, divide by sin²A:1+cot²A=cosec²A. The division restrictions remain part of each identity’s domain."
+        ],
+        "hints": [
+          "Pythagoras gives opposite²+adjacent²=hypotenuse². Divide every term by hypotenuse² to obtain sin²A+cos²A=1.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Pythagoras gives opposite²+adjacent²=hypotenuse². Divide every term by hypotenuse² to obtain sin²A+cos²A=1.",
+          "Compare step 2: For cos A≠0, divide this identity by cos²A:tan²A+1=sec²A.",
+          "Compare step 3: For sin A≠0, divide by sin²A:1+cot²A=cosec²A. The division restrictions remain part of each identity’s domain."
+        ],
+        "sample": "Pythagoras gives opposite²+adjacent²=hypotenuse². Divide every term by hypotenuse² to obtain sin²A+cos²A=1. For cos A≠0, divide this identity by cos²A:tan²A+1=sec²A. For sin A≠0, divide by sin²A:1+cot²A=cosec²A. The division restrictions remain part of each identity’s domain."
+      },
+      {
+        "id": "c8-Example9",
+        "reference": "Example 9",
+        "title": "Worked example 9",
+        "prompt": "Express cos A, tan A, sec A in terms of sin A, for acute A.",
+        "solution": [
+          "Let u=sin A. From cos²A=1−u² and positivity, cos A=sqrt(1−u²).",
+          "tan A=u/sqrt(1−u²);sec A=1/sqrt(1−u²). Denominators are positive on the acute domain."
+        ],
+        "hints": [
+          "Let u=sin A. From cos²A=1−u² and positivity, cos A=sqrt(1−u²).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Let u=sin A. From cos²A=1−u² and positivity, cos A=sqrt(1−u²).",
+          "Compare step 2: tan A=u/sqrt(1−u²);sec A=1/sqrt(1−u²). Denominators are positive on the acute domain."
+        ],
+        "sample": "Let u=sin A. From cos²A=1−u² and positivity, cos A=sqrt(1−u²). tan A=u/sqrt(1−u²);sec A=1/sqrt(1−u²). Denominators are positive on the acute domain."
+      },
+      {
+        "id": "c8-Example10",
+        "reference": "Example 10",
+        "title": "Worked example 10",
+        "prompt": "Prove sec A(1−sin A)(sec A+tan A)=1 for acute A.",
+        "solution": [
+          "Replace sec A by 1/cos A and sec A+tan A by(1+sin A)/cos A.",
+          "LHS=(1−sin²A)/cos²A=cos²A/cos²A=1."
+        ],
+        "hints": [
+          "Replace sec A by 1/cos A and sec A+tan A by(1+sin A)/cos A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Replace sec A by 1/cos A and sec A+tan A by(1+sin A)/cos A.",
+          "Compare step 2: LHS=(1−sin²A)/cos²A=cos²A/cos²A=1."
+        ],
+        "sample": "Replace sec A by 1/cos A and sec A+tan A by(1+sin A)/cos A. LHS=(1−sin²A)/cos²A=cos²A/cos²A=1."
+      },
+      {
+        "id": "c8-Example11",
+        "reference": "Example 11",
+        "title": "Worked example 11",
+        "prompt": "Prove(cot A−cos A)/(cot A+cos A)=(cosec A−1)/(cosec A+1) for acute A.",
+        "solution": [
+          "Write cot A=cos A/sin A. Factor cos A from the top and bottom.",
+          "Cancel non-zero cos A: LHS=(1/sin A−1)/(1/sin A+1)=(cosec A−1)/(cosec A+1)."
+        ],
+        "hints": [
+          "Write cot A=cos A/sin A. Factor cos A from the top and bottom.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Write cot A=cos A/sin A. Factor cos A from the top and bottom.",
+          "Compare step 2: Cancel non-zero cos A: LHS=(1/sin A−1)/(1/sin A+1)=(cosec A−1)/(cosec A+1)."
+        ],
+        "sample": "Write cot A=cos A/sin A. Factor cos A from the top and bottom. Cancel non-zero cos A: LHS=(1/sin A−1)/(1/sin A+1)=(cosec A−1)/(cosec A+1)."
+      },
+      {
+        "id": "c8-Example12",
+        "reference": "Example 12",
+        "title": "Worked example 12",
+        "prompt": "Prove(sinθ−cosθ+1)/(sinθ+cosθ−1)=1/(secθ−tanθ), using sec²θ=1+tan²θ.",
+        "solution": [
+          "Divide top and bottom by cosθ. Set u=secθ, t=tanθ. LHS=(u+t−1)/(t+1−u).",
+          "Since u²−t²=1, (u+t)(t+1−u)=t²−u²+u+t=u+t−1. Thus LHS=u+t.",
+          "Also(u+t)(u−t)=1, so u+t=1/(u−t), the required RHS. All cancellations use the acute domain."
+        ],
+        "hints": [
+          "Divide top and bottom by cosθ. Set u=secθ, t=tanθ. LHS=(u+t−1)/(t+1−u).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Divide top and bottom by cosθ. Set u=secθ, t=tanθ. LHS=(u+t−1)/(t+1−u).",
+          "Compare step 2: Since u²−t²=1, (u+t)(t+1−u)=t²−u²+u+t=u+t−1. Thus LHS=u+t.",
+          "Compare step 3: Also(u+t)(u−t)=1, so u+t=1/(u−t), the required RHS. All cancellations use the acute domain."
+        ],
+        "sample": "Divide top and bottom by cosθ. Set u=secθ, t=tanθ. LHS=(u+t−1)/(t+1−u). Since u²−t²=1, (u+t)(t+1−u)=t²−u²+u+t=u+t−1. Thus LHS=u+t. Also(u+t)(u−t)=1, so u+t=1/(u−t), the required RHS. All cancellations use the acute domain."
+      },
+      {
+        "id": "c8-Exercise8-1·1-i",
+        "reference": "Exercise 8.1 · 1(i)",
+        "title": "Ratios at angle A",
+        "prompt": "ABC is right-angled at B, with AB=24 cm and BC=7 cm. Find sin A and cos A.",
+        "solution": [
+          "AC=sqrt(24²+7²)=25 cm.",
+          "At A, opposite=BC=7 and adjacent=AB=24. Thus sin A=7/25 and cos A=24/25."
+        ],
+        "hints": [
+          "AC=sqrt(24²+7²)=25 cm.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sin A",
+            "answer": 0.28,
+            "kind": "expression"
+          },
+          {
+            "label": "cos A",
+            "answer": 0.96,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·1-ii",
+        "reference": "Exercise 8.1 · 1(ii)",
+        "title": "Change the reference angle",
+        "prompt": "In the same right triangle ABC, AB=24 cm, BC=7 cm and ∠B=90°. Find sin C and cos C.",
+        "solution": [
+          "The hypotenuse AC=25 cm remains the same.",
+          "At C, opposite=AB=24 and adjacent=BC=7, so sin C=24/25 and cos C=7/25."
+        ],
+        "hints": [
+          "The hypotenuse AC=25 cm remains the same.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sin C",
+            "answer": 0.96,
+            "kind": "expression"
+          },
+          {
+            "label": "cos C",
+            "answer": 0.28,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·2",
+        "reference": "Exercise 8.1 · 2",
+        "title": "A complementary pair",
+        "prompt": "In PQR, ∠Q=90°, PQ=12 cm and PR=13 cm (Fig. 8.13). Find tan P − cot R.",
+        "solution": [
+          "QR=sqrt(13²−12²)=5 cm.",
+          "tan P=QR/PQ=5/12 and cot R=QR/PQ=5/12; their difference is 0."
+        ],
+        "hints": [
+          "QR=sqrt(13²−12²)=5 cm.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "tan P − cot R",
+            "answer": 0.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·3",
+        "reference": "Exercise 8.1 · 3",
+        "title": "Recover ratios from sine",
+        "prompt": "For acute A, sin A=3/4. Find cos A and tan A.",
+        "solution": [
+          "Choose opposite=3 k, hypotenuse=4 k, with k>0. Then adjacent=sqrt(16−9)k=sqrt(7)k.",
+          "cos A=sqrt(7)/4; tan A=3/sqrt(7)=3 sqrt(7)/7."
+        ],
+        "hints": [
+          "Choose opposite=3 k, hypotenuse=4 k, with k>0. Then adjacent=sqrt(16−9)k=sqrt(7)k.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "cos A",
+            "answer": 0.6614378277661477,
+            "kind": "expression"
+          },
+          {
+            "label": "tan A",
+            "answer": 1.1338934190276817,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·4",
+        "reference": "Exercise 8.1 · 4",
+        "title": "Read the given equation carefully",
+        "prompt": "For acute A, 15 cot A=8. Find sin A and sec A.",
+        "solution": [
+          "cot A=8/15, so take adjacent=8 k and opposite=15 k. Hypotenuse=17 k.",
+          "sin A=15/17 and sec A=17/8."
+        ],
+        "hints": [
+          "cot A=8/15, so take adjacent=8 k and opposite=15 k. Hypotenuse=17 k.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sin A",
+            "answer": 0.8823529411764706,
+            "kind": "expression"
+          },
+          {
+            "label": "sec A",
+            "answer": 2.125,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·5",
+        "reference": "Exercise 8.1 · 5",
+        "title": "All five remaining ratios",
+        "prompt": "For acute θ, sec θ=13/12. Find the other five trigonometric ratios.",
+        "solution": [
+          "Take hypotenuse=13 k and adjacent=12 k. Opposite=sqrt(169−144)k=5 k.",
+          "sin θ=5/13; cos θ=12/13; tan θ=5/12; cot θ=12/5; cosec θ=13/5."
+        ],
+        "hints": [
+          "Take hypotenuse=13 k and adjacent=12 k. Opposite=sqrt(169−144)k=5 k.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sin θ",
+            "answer": 0.38461538461538464,
+            "kind": "expression"
+          },
+          {
+            "label": "cos θ",
+            "answer": 0.9230769230769231,
+            "kind": "expression"
+          },
+          {
+            "label": "tan θ",
+            "answer": 0.4166666666666667,
+            "kind": "expression"
+          },
+          {
+            "label": "cot θ",
+            "answer": 2.4,
+            "kind": "expression"
+          },
+          {
+            "label": "cosec θ",
+            "answer": 2.6,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·6",
+        "reference": "Exercise 8.1 · 6",
+        "title": "Equal cosines of acute angles",
+        "prompt": "Acute angles A and B satisfy cos A=cos B. Prove A=B using right triangles and similarity.",
+        "solution": [
+          "Represent A and B in right triangles, with adjacent sides a₁, a₂ and hypotenuses h₁, h₂. Equality gives a₁/a₂=h₁/h₂=k>0.",
+          "By Pythagoras, the opposite sides satisfy o₁=sqrt(h₁²−a₁²)=k sqrt(h₂²−a₂²)=k o₂.",
+          "All three corresponding sides are proportional, so the right triangles are similar by SSS. Their corresponding acute angles A and B are equal."
+        ],
+        "hints": [
+          "Represent A and B in right triangles, with adjacent sides a₁, a₂ and hypotenuses h₁, h₂. Equality gives a₁/a₂=h₁/h₂=k>0.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Represent A and B in right triangles, with adjacent sides a₁, a₂ and hypotenuses h₁, h₂. Equality gives a₁/a₂=h₁/h₂=k>0.",
+          "Compare step 2: By Pythagoras, the opposite sides satisfy o₁=sqrt(h₁²−a₁²)=k sqrt(h₂²−a₂²)=k o₂.",
+          "Compare step 3: All three corresponding sides are proportional, so the right triangles are similar by SSS. Their corresponding acute angles A and B are equal."
+        ],
+        "sample": "Represent A and B in right triangles, with adjacent sides a₁, a₂ and hypotenuses h₁, h₂. Equality gives a₁/a₂=h₁/h₂=k>0. By Pythagoras, the opposite sides satisfy o₁=sqrt(h₁²−a₁²)=k sqrt(h₂²−a₂²)=k o₂. All three corresponding sides are proportional, so the right triangles are similar by SSS. Their corresponding acute angles A and B are equal."
+      },
+      {
+        "id": "c8-Exercise8-1·7-i",
+        "reference": "Exercise 8.1 · 7(i)",
+        "title": "A ratio of products",
+        "prompt": "If cot θ=7/8, evaluate [(1+sin θ)(1−sin θ)]/[(1+cos θ)(1−cos θ)].",
+        "solution": [
+          "The numerator is cos²θ and the denominator is sin²θ.",
+          "Their ratio is cot²θ=(7/8)²=49/64."
+        ],
+        "hints": [
+          "The numerator is cos²θ and the denominator is sin²θ.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 0.765625,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·7-ii",
+        "reference": "Exercise 8.1 · 7(ii)",
+        "title": "Square the cotangent",
+        "prompt": "If cot θ=7/8, find cot²θ.",
+        "solution": [
+          "cot²θ=(7/8)²=49/64."
+        ],
+        "hints": [
+          "cot²θ=(7/8)²=49/64.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 0.765625,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·8",
+        "reference": "Exercise 8.1 · 8",
+        "title": "Verify both sides",
+        "prompt": "For acute A, 3 cot A=4. Check whether (1−tan²A)/(1+tan²A)=cos²A−sin²A. Show both calculations.",
+        "solution": [
+          "cot A=4/3, so tan A=3/4, sin A=3/5 and cos A=4/5.",
+          "LHS=(1−9/16)/(1+9/16)=(7/16)/(25/16)=7/25.",
+          "RHS=16/25−9/25=7/25. The equality holds."
+        ],
+        "hints": [
+          "cot A=4/3, so tan A=3/4, sin A=3/5 and cos A=4/5.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: cot A=4/3, so tan A=3/4, sin A=3/5 and cos A=4/5.",
+          "Compare step 2: LHS=(1−9/16)/(1+9/16)=(7/16)/(25/16)=7/25.",
+          "Compare step 3: RHS=16/25−9/25=7/25. The equality holds."
+        ],
+        "sample": "cot A=4/3, so tan A=3/4, sin A=3/5 and cos A=4/5. LHS=(1−9/16)/(1+9/16)=(7/16)/(25/16)=7/25. RHS=16/25−9/25=7/25. The equality holds."
+      },
+      {
+        "id": "c8-Exercise8-1·9-i",
+        "reference": "Exercise 8.1 · 9(i)",
+        "title": "Two angles in a right triangle",
+        "prompt": "ABC is right-angled at B and tan A=1/sqrt(3). Evaluate sin A cos C + cos A sin C.",
+        "solution": [
+          "A=30° and C=60°.",
+          "(1/2)(1/2)+(sqrt(3)/2)(sqrt(3)/2)=1."
+        ],
+        "hints": [
+          "A=30° and C=60°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 1.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·9-ii",
+        "reference": "Exercise 8.1 · 9(ii)",
+        "title": "A difference of products",
+        "prompt": "ABC is right-angled at B and tan A=1/sqrt(3). Evaluate cos A cos C − sin A sin C.",
+        "solution": [
+          "A=30°, C=60°.",
+          "(sqrt(3)/2)(1/2)−(1/2)(sqrt(3)/2)=0."
+        ],
+        "hints": [
+          "A=30°, C=60°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 0.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·10",
+        "reference": "Exercise 8.1 · 10",
+        "title": "Use a sum of sides",
+        "prompt": "PQR is right-angled at Q, PR+QR=25 cm and PQ=5 cm. Find sin P, cos P and tan P.",
+        "solution": [
+          "Let QR=x; then PR=25−x. Pythagoras: (25−x)²=x²+25.",
+          "625−50 x=25, so QR=12 and PR=13.",
+          "Relative to P: sin P=12/13, cos P=5/13, tan P=12/5."
+        ],
+        "hints": [
+          "Let QR=x; then PR=25−x. Pythagoras: (25−x)²=x²+25.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sin P",
+            "answer": 0.9230769230769231,
+            "kind": "expression"
+          },
+          {
+            "label": "cos P",
+            "answer": 0.38461538461538464,
+            "kind": "expression"
+          },
+          {
+            "label": "tan P",
+            "answer": 2.4,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-1·11-i",
+        "reference": "Exercise 8.1 · 11(i)",
+        "title": "True or false—with a reason",
+        "prompt": "“tan A is always less than 1.” Decide and justify.",
+        "solution": [
+          "False: tan 60°=sqrt(3)>1. A single valid counterexample disproves “always”."
+        ],
+        "hints": [
+          "False: tan 60°=sqrt(3)>1. A single valid counterexample disproves “always”.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False: tan 60°=sqrt(3)>1. A single valid counterexample disproves “always”."
+        ],
+        "sample": "False: tan 60°=sqrt(3)>1. A single valid counterexample disproves “always”."
+      },
+      {
+        "id": "c8-Exercise8-1·11-ii",
+        "reference": "Exercise 8.1 · 11(ii)",
+        "title": "True or false—with a reason",
+        "prompt": "“sec A=12/5 for some angle A.” Decide and justify.",
+        "solution": [
+          "True: cos A=5/12 is possible for an acute angle. A right triangle with adjacent 5, hypotenuse 12 and opposite sqrt(119) realizes it."
+        ],
+        "hints": [
+          "True: cos A=5/12 is possible for an acute angle. A right triangle with adjacent 5, hypotenuse 12 and opposite sqrt(119) realizes it.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: True: cos A=5/12 is possible for an acute angle. A right triangle with adjacent 5, hypotenuse 12 and opposite sqrt(119) realizes it."
+        ],
+        "sample": "True: cos A=5/12 is possible for an acute angle. A right triangle with adjacent 5, hypotenuse 12 and opposite sqrt(119) realizes it."
+      },
+      {
+        "id": "c8-Exercise8-1·11-iii",
+        "reference": "Exercise 8.1 · 11(iii)",
+        "title": "True or false—with a reason",
+        "prompt": "“cos A abbreviates the cosecant of A.” Decide and justify.",
+        "solution": [
+          "False: cos means cosine; cosec means cosecant."
+        ],
+        "hints": [
+          "False: cos means cosine; cosec means cosecant.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False: cos means cosine; cosec means cosecant."
+        ],
+        "sample": "False: cos means cosine; cosec means cosecant."
+      },
+      {
+        "id": "c8-Exercise8-1·11-iv",
+        "reference": "Exercise 8.1 · 11(iv)",
+        "title": "True or false—with a reason",
+        "prompt": "“cot A means the product of cot and A.” Decide and justify.",
+        "solution": [
+          "False: cot A names the cotangent ratio at angle A. It is not multiplication of two quantities."
+        ],
+        "hints": [
+          "False: cot A names the cotangent ratio at angle A. It is not multiplication of two quantities.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False: cot A names the cotangent ratio at angle A. It is not multiplication of two quantities."
+        ],
+        "sample": "False: cot A names the cotangent ratio at angle A. It is not multiplication of two quantities."
+      },
+      {
+        "id": "c8-Exercise8-1·11-v",
+        "reference": "Exercise 8.1 · 11(v)",
+        "title": "True or false—with a reason",
+        "prompt": "“sin θ=4/3 for some angle θ.” Decide and justify.",
+        "solution": [
+          "False: in this chapter sin θ lies between 0 and 1, since opposite≤hypotenuse. 4/3>1 is impossible."
+        ],
+        "hints": [
+          "False: in this chapter sin θ lies between 0 and 1, since opposite≤hypotenuse. 4/3>1 is impossible.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False: in this chapter sin θ lies between 0 and 1, since opposite≤hypotenuse. 4/3>1 is impossible."
+        ],
+        "sample": "False: in this chapter sin θ lies between 0 and 1, since opposite≤hypotenuse. 4/3>1 is impossible."
+      },
+      {
+        "id": "c8-Exercise8-2·1-i",
+        "reference": "Exercise 8.2 · 1(i)",
+        "title": "Evaluate exact angle values",
+        "prompt": "Evaluate sin 60° cos 30° + sin 30° cos 60°.",
+        "solution": [
+          "(sqrt(3)/2)²+(1/2)²=3/4+1/4=1."
+        ],
+        "hints": [
+          "(sqrt(3)/2)²+(1/2)²=3/4+1/4=1.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 1.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-2·1-ii",
+        "reference": "Exercise 8.2 · 1(ii)",
+        "title": "Evaluate exact angle values",
+        "prompt": "Evaluate 2 tan²45° + cos²30° − sin²60°.",
+        "solution": [
+          "2(1)²+3/4−3/4=2."
+        ],
+        "hints": [
+          "2(1)²+3/4−3/4=2.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 2.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-2·1-iii",
+        "reference": "Exercise 8.2 · 1(iii)",
+        "title": "Evaluate exact angle values",
+        "prompt": "Evaluate cos 45° / (sec 30° + cosec 30°).",
+        "solution": [
+          "Substitute cos 45°=1/sqrt(2), sec 30°=2/sqrt(3), cosec 30°=2.",
+          "The value is sqrt(6)/[4(1+sqrt(3))], equivalently (3 sqrt(2)−sqrt(6))/8."
+        ],
+        "hints": [
+          "Substitute cos 45°=1/sqrt(2), sec 30°=2/sqrt(3), cosec 30°=2.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 0.2241438680420134,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-2·1-iv",
+        "reference": "Exercise 8.2 · 1(iv)",
+        "title": "Evaluate exact angle values",
+        "prompt": "Evaluate (sin 30° + tan 45° − cosec 60°)/(sec 30° + cos 60° + cot 45°).",
+        "solution": [
+          "Substitute 1/2, 1, 2/sqrt(3), 2/sqrt(3), 1/2, 1 respectively.",
+          "The ratio is (3/2−2/sqrt(3))/(3/2+2/sqrt(3))=(3 sqrt(3)−4)/(3 sqrt(3)+4)."
+        ],
+        "hints": [
+          "Substitute 1/2, 1, 2/sqrt(3), 2/sqrt(3), 1/2, 1 respectively.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 0.13007096530426773,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-2·1-v",
+        "reference": "Exercise 8.2 · 1(v)",
+        "title": "Evaluate exact angle values",
+        "prompt": "Evaluate (5 cos²60° + 4 sec²30° − tan²45°)/(sin²30° + cos²30°).",
+        "solution": [
+          "The denominator is 1/4+3/4=1.",
+          "Numerator=5/4+16/3−1=67/12."
+        ],
+        "hints": [
+          "The denominator is 1/4+3/4=1.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 5.583333333333333,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-2·2-i",
+        "reference": "Exercise 8.2 · 2(i)",
+        "title": "Choose and justify",
+        "prompt": "2 tan 30°/(1+tan²30°). Identify the correct option from the book and justify the result. Options: A sin60°; B cos60°; C tan60°; D sin30°.",
+        "solution": [
+          "Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(4/3)=sqrt(3)/2.",
+          "This equals sin 60°, option A."
+        ],
+        "hints": [
+          "Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(4/3)=sqrt(3)/2.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(4/3)=sqrt(3)/2.",
+          "Compare step 2: This equals sin 60°, option A."
+        ],
+        "sample": "Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(4/3)=sqrt(3)/2. This equals sin 60°, option A."
+      },
+      {
+        "id": "c8-Exercise8-2·2-ii",
+        "reference": "Exercise 8.2 · 2(ii)",
+        "title": "Choose and justify",
+        "prompt": "(1−tan²45°)/(1+tan²45°). Identify the correct option from the book and justify the result. Options: A tan90°; B 1; C sin45°; D 0.",
+        "solution": [
+          "tan 45°=1, so (1−1)/(1+1)=0.",
+          "Option D: 0. tan 90° is undefined, not 0."
+        ],
+        "hints": [
+          "tan 45°=1, so (1−1)/(1+1)=0.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: tan 45°=1, so (1−1)/(1+1)=0.",
+          "Compare step 2: Option D: 0. tan 90° is undefined, not 0."
+        ],
+        "sample": "tan 45°=1, so (1−1)/(1+1)=0. Option D: 0. tan 90° is undefined, not 0."
+      },
+      {
+        "id": "c8-Exercise8-2·2-iii",
+        "reference": "Exercise 8.2 · 2(iii)",
+        "title": "Choose and justify",
+        "prompt": "For which listed angle A is sin(2 A)=2 sin A: 0°, 30°, 45°, 60°?. Identify the correct option from the book and justify the result. Options: A 0°; B 30°; C 45°; D 60°.",
+        "solution": [
+          "At A=0°, both sides are 0.",
+          "At 30°, sqrt(3)/2≠1; at 45°, 1≠sqrt(2); at 60°, sqrt(3)/2≠sqrt(3). Option A:0°."
+        ],
+        "hints": [
+          "At A=0°, both sides are 0.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: At A=0°, both sides are 0.",
+          "Compare step 2: At 30°, sqrt(3)/2≠1; at 45°, 1≠sqrt(2); at 60°, sqrt(3)/2≠sqrt(3). Option A:0°."
+        ],
+        "sample": "At A=0°, both sides are 0. At 30°, sqrt(3)/2≠1; at 45°, 1≠sqrt(2); at 60°, sqrt(3)/2≠sqrt(3). Option A:0°."
+      },
+      {
+        "id": "c8-Exercise8-2·2-iv",
+        "reference": "Exercise 8.2 · 2(iv)",
+        "title": "Choose and justify",
+        "prompt": "2 tan 30°/(1−tan²30°). Identify the correct option from the book and justify the result. Options: A cos60°; B sin60°; C tan60°; D sin30°.",
+        "solution": [
+          "Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(2/3)=sqrt(3).",
+          "This equals tan 60°, option C."
+        ],
+        "hints": [
+          "Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(2/3)=sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(2/3)=sqrt(3).",
+          "Compare step 2: This equals tan 60°, option C."
+        ],
+        "sample": "Substitute tan 30°=1/sqrt(3). The value is (2/sqrt(3))/(2/3)=sqrt(3). This equals tan 60°, option C."
+      },
+      {
+        "id": "c8-Exercise8-2·3",
+        "reference": "Exercise 8.2 · 3",
+        "title": "Solve for two angles",
+        "prompt": "tan(A+B)=sqrt(3), tan(A−B)=1/sqrt(3); 0°<A+B≤90° and A>B. Find A, B.",
+        "solution": [
+          "Within the stated acute range, A+B=60° and A−B=30°.",
+          "Add to get 2 A=90°, so A=45°, B=15°."
+        ],
+        "hints": [
+          "Within the stated acute range, A+B=60° and A−B=30°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "A (degrees)",
+            "answer": 45.0,
+            "kind": "expression"
+          },
+          {
+            "label": "B (degrees)",
+            "answer": 15.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Exercise8-2·4-i",
+        "reference": "Exercise 8.2 · 4(i)",
+        "title": "Check the statement",
+        "prompt": "sin(A+B)=sin A+sin B. Decide true/false and justify in the chapter’s angle range.",
+        "solution": [
+          "False in general: choose A=B=30°. LHS=sin 60°=sqrt(3)/2, RHS=1."
+        ],
+        "hints": [
+          "False in general: choose A=B=30°. LHS=sin 60°=sqrt(3)/2, RHS=1.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False in general: choose A=B=30°. LHS=sin 60°=sqrt(3)/2, RHS=1."
+        ],
+        "sample": "False in general: choose A=B=30°. LHS=sin 60°=sqrt(3)/2, RHS=1."
+      },
+      {
+        "id": "c8-Exercise8-2·4-ii",
+        "reference": "Exercise 8.2 · 4(ii)",
+        "title": "Check the statement",
+        "prompt": "sin θ increases as θ increases. Decide true/false and justify in the chapter’s angle range.",
+        "solution": [
+          "True within the chapter’s range 0°≤θ≤90°: sine increases from 0 to 1. This is not a claim about every real angle."
+        ],
+        "hints": [
+          "True within the chapter’s range 0°≤θ≤90°: sine increases from 0 to 1. This is not a claim about every real angle.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: True within the chapter’s range 0°≤θ≤90°: sine increases from 0 to 1. This is not a claim about every real angle."
+        ],
+        "sample": "True within the chapter’s range 0°≤θ≤90°: sine increases from 0 to 1. This is not a claim about every real angle."
+      },
+      {
+        "id": "c8-Exercise8-2·4-iii",
+        "reference": "Exercise 8.2 · 4(iii)",
+        "title": "Check the statement",
+        "prompt": "cos θ increases as θ increases. Decide true/false and justify in the chapter’s angle range.",
+        "solution": [
+          "False on 0°≤θ≤90°: cosine decreases from 1 to 0. For example cos 30°>cos 60°."
+        ],
+        "hints": [
+          "False on 0°≤θ≤90°: cosine decreases from 1 to 0. For example cos 30°>cos 60°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False on 0°≤θ≤90°: cosine decreases from 1 to 0. For example cos 30°>cos 60°."
+        ],
+        "sample": "False on 0°≤θ≤90°: cosine decreases from 1 to 0. For example cos 30°>cos 60°."
+      },
+      {
+        "id": "c8-Exercise8-2·4-iv",
+        "reference": "Exercise 8.2 · 4(iv)",
+        "title": "Check the statement",
+        "prompt": "sin θ=cos θ for all θ. Decide true/false and justify in the chapter’s angle range.",
+        "solution": [
+          "False: at 30°, sin=1/2 but cos=sqrt(3)/2. Equality occurs at 45° within this range."
+        ],
+        "hints": [
+          "False: at 30°, sin=1/2 but cos=sqrt(3)/2. Equality occurs at 45° within this range.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: False: at 30°, sin=1/2 but cos=sqrt(3)/2. Equality occurs at 45° within this range."
+        ],
+        "sample": "False: at 30°, sin=1/2 but cos=sqrt(3)/2. Equality occurs at 45° within this range."
+      },
+      {
+        "id": "c8-Exercise8-2·4-v",
+        "reference": "Exercise 8.2 · 4(v)",
+        "title": "Check the statement",
+        "prompt": "cot A is undefined at A=0°. Decide true/false and justify in the chapter’s angle range.",
+        "solution": [
+          "True: cot A=cos A/sin A and sin 0°=0, so the denominator vanishes."
+        ],
+        "hints": [
+          "True: cot A=cos A/sin A and sin 0°=0, so the denominator vanishes.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: True: cot A=cos A/sin A and sin 0°=0, so the denominator vanishes."
+        ],
+        "sample": "True: cot A=cos A/sin A and sin 0°=0, so the denominator vanishes."
+      },
+      {
+        "id": "c8-Exercise8-3·1",
+        "reference": "Exercise 8.3 · 1",
+        "title": "Write ratios in terms of cot A",
+        "prompt": "For acute A let t=cot A. Express sin A, sec A and tan A in terms of t.",
+        "solution": [
+          "cosec²A=1+cot²A=1+t². Positivity gives sin A=1/sqrt(1+t²).",
+          "tan A=1/t. Also cos A=t/sqrt(1+t²), hence sec A=sqrt(1+t²)/t.",
+          "Since A is acute, t>0, so the displayed denominators are non-zero and positive square roots apply."
+        ],
+        "hints": [
+          "cosec²A=1+cot²A=1+t². Positivity gives sin A=1/sqrt(1+t²).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: cosec²A=1+cot²A=1+t². Positivity gives sin A=1/sqrt(1+t²).",
+          "Compare step 2: tan A=1/t. Also cos A=t/sqrt(1+t²), hence sec A=sqrt(1+t²)/t.",
+          "Compare step 3: Since A is acute, t>0, so the displayed denominators are non-zero and positive square roots apply."
+        ],
+        "sample": "cosec²A=1+cot²A=1+t². Positivity gives sin A=1/sqrt(1+t²). tan A=1/t. Also cos A=t/sqrt(1+t²), hence sec A=sqrt(1+t²)/t. Since A is acute, t>0, so the displayed denominators are non-zero and positive square roots apply."
+      },
+      {
+        "id": "c8-Exercise8-3·2",
+        "reference": "Exercise 8.3 · 2",
+        "title": "Write ratios in terms of sec A",
+        "prompt": "For acute A let u=sec A. Express every other trigonometric ratio in terms of u.",
+        "solution": [
+          "u>1 and cos A=1/u. From tan²A=u²−1, tan A=sqrt(u²−1).",
+          "sin A=sqrt(u²−1)/u; cot A=1/sqrt(u²−1); cosec A=u/sqrt(u²−1).",
+          "The positive roots follow from A being acute."
+        ],
+        "hints": [
+          "u>1 and cos A=1/u. From tan²A=u²−1, tan A=sqrt(u²−1).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: u>1 and cos A=1/u. From tan²A=u²−1, tan A=sqrt(u²−1).",
+          "Compare step 2: sin A=sqrt(u²−1)/u; cot A=1/sqrt(u²−1); cosec A=u/sqrt(u²−1).",
+          "Compare step 3: The positive roots follow from A being acute."
+        ],
+        "sample": "u>1 and cos A=1/u. From tan²A=u²−1, tan A=sqrt(u²−1). sin A=sqrt(u²−1)/u; cot A=1/sqrt(u²−1); cosec A=u/sqrt(u²−1). The positive roots follow from A being acute."
+      },
+      {
+        "id": "c8-Exercise8-3·3-i",
+        "reference": "Exercise 8.3 · 3(i)",
+        "title": "Justify the chosen expression",
+        "prompt": "Simplify 9 sec²A−9 tan²A for an acute angle and justify the matching option. Options: A 1; B 9; C 8; D 0.",
+        "solution": [
+          "9(sec²A−tan²A)=9×1=9. Option B."
+        ],
+        "hints": [
+          "9(sec²A−tan²A)=9×1=9. Option B.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: 9(sec²A−tan²A)=9×1=9. Option B."
+        ],
+        "sample": "9(sec²A−tan²A)=9×1=9. Option B."
+      },
+      {
+        "id": "c8-Exercise8-3·3-ii",
+        "reference": "Exercise 8.3 · 3(ii)",
+        "title": "Justify the chosen expression",
+        "prompt": "Simplify (1+tan θ+sec θ)(1+cot θ−cosec θ) for an acute angle and justify the matching option. Options: A 0; B 1; C 2; D −1.",
+        "solution": [
+          "Put s=sin θ, c=cos θ. The product is[(c+s+1)/c][(s+c−1)/s].",
+          "It equals[(s+c)²−1]/(sc)=[2 sc]/(sc)=2. Option C."
+        ],
+        "hints": [
+          "Put s=sin θ, c=cos θ. The product is[(c+s+1)/c][(s+c−1)/s].",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Put s=sin θ, c=cos θ. The product is[(c+s+1)/c][(s+c−1)/s].",
+          "Compare step 2: It equals[(s+c)²−1]/(sc)=[2 sc]/(sc)=2. Option C."
+        ],
+        "sample": "Put s=sin θ, c=cos θ. The product is[(c+s+1)/c][(s+c−1)/s]. It equals[(s+c)²−1]/(sc)=[2 sc]/(sc)=2. Option C."
+      },
+      {
+        "id": "c8-Exercise8-3·3-iii",
+        "reference": "Exercise 8.3 · 3(iii)",
+        "title": "Justify the chosen expression",
+        "prompt": "Simplify (sec A+tan A)(1−sin A) for an acute angle and justify the matching option. Options: A sec A; B sin A; C cosec A; D cos A.",
+        "solution": [
+          "(1+sin A)(1−sin A)/cos A=(1−sin²A)/cos A=cos A. Option D."
+        ],
+        "hints": [
+          "(1+sin A)(1−sin A)/cos A=(1−sin²A)/cos A=cos A. Option D.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: (1+sin A)(1−sin A)/cos A=(1−sin²A)/cos A=cos A. Option D."
+        ],
+        "sample": "(1+sin A)(1−sin A)/cos A=(1−sin²A)/cos A=cos A. Option D."
+      },
+      {
+        "id": "c8-Exercise8-3·3-iv",
+        "reference": "Exercise 8.3 · 3(iv)",
+        "title": "Justify the chosen expression",
+        "prompt": "Simplify (1+tan²A)/(1+cot²A) for an acute angle and justify the matching option. Options: A sec²A; B −1; C cot²A; D tan²A.",
+        "solution": [
+          "Use sec²A/cosec²A=(1/cos²A)/(1/sin²A)=tan²A. Option D."
+        ],
+        "hints": [
+          "Use sec²A/cosec²A=(1/cos²A)/(1/sin²A)=tan²A. Option D.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Use sec²A/cosec²A=(1/cos²A)/(1/sin²A)=tan²A. Option D."
+        ],
+        "sample": "Use sec²A/cosec²A=(1/cos²A)/(1/sin²A)=tan²A. Option D."
+      },
+      {
+        "id": "c8-Exercise8-3·4-i",
+        "reference": "Exercise 8.3 · 4(i)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (cosec θ−cot θ)²=(1−cos θ)/(1+cos θ). Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "LHS=[(1−cos θ)/sin θ]².",
+          "Use sin²θ=(1−cos θ)(1+cos θ), then cancel one factor 1−cos θ to obtain(1−cos θ)/(1+cos θ). Acute θ keeps the denominators non-zero."
+        ],
+        "hints": [
+          "LHS=[(1−cos θ)/sin θ]².",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: LHS=[(1−cos θ)/sin θ]².",
+          "Compare step 2: Use sin²θ=(1−cos θ)(1+cos θ), then cancel one factor 1−cos θ to obtain(1−cos θ)/(1+cos θ). Acute θ keeps the denominators non-zero."
+        ],
+        "sample": "LHS=[(1−cos θ)/sin θ]². Use sin²θ=(1−cos θ)(1+cos θ), then cancel one factor 1−cos θ to obtain(1−cos θ)/(1+cos θ). Acute θ keeps the denominators non-zero."
+      },
+      {
+        "id": "c8-Exercise8-3·4-ii",
+        "reference": "Exercise 8.3 · 4(ii)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove cos A/(1+sin A)+(1+sin A)/cos A=2 sec A. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "Use common denominator cos A(1+sin A). Numerator=cos²A+(1+sin A)².",
+          "Replace cos²A+sin²A by 1: numerator=2+2 sin A=2(1+sin A). Cancel to get 2/cos A=2 sec A."
+        ],
+        "hints": [
+          "Use common denominator cos A(1+sin A). Numerator=cos²A+(1+sin A)².",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Use common denominator cos A(1+sin A). Numerator=cos²A+(1+sin A)².",
+          "Compare step 2: Replace cos²A+sin²A by 1: numerator=2+2 sin A=2(1+sin A). Cancel to get 2/cos A=2 sec A."
+        ],
+        "sample": "Use common denominator cos A(1+sin A). Numerator=cos²A+(1+sin A)². Replace cos²A+sin²A by 1: numerator=2+2 sin A=2(1+sin A). Cancel to get 2/cos A=2 sec A."
+      },
+      {
+        "id": "c8-Exercise8-3·4-iii",
+        "reference": "Exercise 8.3 · 4(iii)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove tan θ/(1−cot θ)+cot θ/(1−tan θ)=1+sec θ cosec θ. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "Write s=sin θ, c=cos θ. LHS=s²/[c(s−c)]+c²/[s(c−s)].",
+          "Combine over sc(s−c): (s³−c³)/[sc(s−c)]=(s²+sc+c²)/(sc)=1+1/(sc).",
+          "Since 1/(sc)=sec θ cosec θ, the identity follows. Exclude θ=45°, where original denominators vanish."
+        ],
+        "hints": [
+          "Write s=sin θ, c=cos θ. LHS=s²/[c(s−c)]+c²/[s(c−s)].",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Write s=sin θ, c=cos θ. LHS=s²/[c(s−c)]+c²/[s(c−s)].",
+          "Compare step 2: Combine over sc(s−c): (s³−c³)/[sc(s−c)]=(s²+sc+c²)/(sc)=1+1/(sc).",
+          "Compare step 3: Since 1/(sc)=sec θ cosec θ, the identity follows. Exclude θ=45°, where original denominators vanish."
+        ],
+        "sample": "Write s=sin θ, c=cos θ. LHS=s²/[c(s−c)]+c²/[s(c−s)]. Combine over sc(s−c): (s³−c³)/[sc(s−c)]=(s²+sc+c²)/(sc)=1+1/(sc). Since 1/(sc)=sec θ cosec θ, the identity follows. Exclude θ=45°, where original denominators vanish."
+      },
+      {
+        "id": "c8-Exercise8-3·4-iv",
+        "reference": "Exercise 8.3 · 4(iv)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (1+sec A)/sec A=sin²A/(1−cos A). Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "LHS=1+1/sec A=1+cos A.",
+          "RHS=(1−cos²A)/(1−cos A)=1+cos A. Thus both sides are equal on the stated acute domain."
+        ],
+        "hints": [
+          "LHS=1+1/sec A=1+cos A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: LHS=1+1/sec A=1+cos A.",
+          "Compare step 2: RHS=(1−cos²A)/(1−cos A)=1+cos A. Thus both sides are equal on the stated acute domain."
+        ],
+        "sample": "LHS=1+1/sec A=1+cos A. RHS=(1−cos²A)/(1−cos A)=1+cos A. Thus both sides are equal on the stated acute domain."
+      },
+      {
+        "id": "c8-Exercise8-3·4-v",
+        "reference": "Exercise 8.3 · 4(v)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (cos A−sin A+1)/(cos A+sin A−1)=cosec A+cot A, using cosec²A=1+cot²A. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "Divide numerator and denominator by sin A. Let u=cosec A, v=cot A. LHS=(u+v−1)/(v+1−u).",
+          "u²−v²=1, so (u+v)(v+1−u)=v²−u²+u+v=u+v−1.",
+          "Hence LHS=u+v=cosec A+cot A. For acute A the original denominator is positive because sin A+cos A>1."
+        ],
+        "hints": [
+          "Divide numerator and denominator by sin A. Let u=cosec A, v=cot A. LHS=(u+v−1)/(v+1−u).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Divide numerator and denominator by sin A. Let u=cosec A, v=cot A. LHS=(u+v−1)/(v+1−u).",
+          "Compare step 2: u²−v²=1, so (u+v)(v+1−u)=v²−u²+u+v=u+v−1.",
+          "Compare step 3: Hence LHS=u+v=cosec A+cot A. For acute A the original denominator is positive because sin A+cos A>1."
+        ],
+        "sample": "Divide numerator and denominator by sin A. Let u=cosec A, v=cot A. LHS=(u+v−1)/(v+1−u). u²−v²=1, so (u+v)(v+1−u)=v²−u²+u+v=u+v−1. Hence LHS=u+v=cosec A+cot A. For acute A the original denominator is positive because sin A+cos A>1."
+      },
+      {
+        "id": "c8-Exercise8-3·4-vi",
+        "reference": "Exercise 8.3 · 4(vi)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove sqrt((1+sin A)/(1−sin A))=sec A+tan A. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "Multiply inside the square root by(1+sin A)/(1+sin A): the radicand becomes(1+sin A)²/cos²A.",
+          "The square root is |(1+sin A)/cos A|. Acute A makes this positive, giving(1+sin A)/cos A=sec A+tan A."
+        ],
+        "hints": [
+          "Multiply inside the square root by(1+sin A)/(1+sin A): the radicand becomes(1+sin A)²/cos²A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Multiply inside the square root by(1+sin A)/(1+sin A): the radicand becomes(1+sin A)²/cos²A.",
+          "Compare step 2: The square root is |(1+sin A)/cos A|. Acute A makes this positive, giving(1+sin A)/cos A=sec A+tan A."
+        ],
+        "sample": "Multiply inside the square root by(1+sin A)/(1+sin A): the radicand becomes(1+sin A)²/cos²A. The square root is |(1+sin A)/cos A|. Acute A makes this positive, giving(1+sin A)/cos A=sec A+tan A."
+      },
+      {
+        "id": "c8-Exercise8-3·4-vii",
+        "reference": "Exercise 8.3 · 4(vii)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (sin θ−2 sin³θ)/(2 cos³θ−cos θ)=tan θ. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "Factor numerator as sin θ(1−2 sin²θ) and denominator as cos θ(2 cos²θ−1).",
+          "Because 1−2 sin²θ=2 cos²θ−1, cancel the common factor and obtain sin θ/cos θ=tan θ.",
+          "Exclude θ=45° within the acute range: the original expression would be 0/0."
+        ],
+        "hints": [
+          "Factor numerator as sin θ(1−2 sin²θ) and denominator as cos θ(2 cos²θ−1).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Factor numerator as sin θ(1−2 sin²θ) and denominator as cos θ(2 cos²θ−1).",
+          "Compare step 2: Because 1−2 sin²θ=2 cos²θ−1, cancel the common factor and obtain sin θ/cos θ=tan θ.",
+          "Compare step 3: Exclude θ=45° within the acute range: the original expression would be 0/0."
+        ],
+        "sample": "Factor numerator as sin θ(1−2 sin²θ) and denominator as cos θ(2 cos²θ−1). Because 1−2 sin²θ=2 cos²θ−1, cancel the common factor and obtain sin θ/cos θ=tan θ. Exclude θ=45° within the acute range: the original expression would be 0/0."
+      },
+      {
+        "id": "c8-Exercise8-3·4-viii",
+        "reference": "Exercise 8.3 · 4(viii)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (sin A+cosec A)²+(cos A+sec A)²=7+tan²A+cot²A. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "Expand: sin²A+cos²A+2 sin A cosec A+2 cos A sec A+cosec²A+sec²A.",
+          "This is 1+2+2+(1+cot²A)+(1+tan²A)=7+tan²A+cot²A."
+        ],
+        "hints": [
+          "Expand: sin²A+cos²A+2 sin A cosec A+2 cos A sec A+cosec²A+sec²A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Expand: sin²A+cos²A+2 sin A cosec A+2 cos A sec A+cosec²A+sec²A.",
+          "Compare step 2: This is 1+2+2+(1+cot²A)+(1+tan²A)=7+tan²A+cot²A."
+        ],
+        "sample": "Expand: sin²A+cos²A+2 sin A cosec A+2 cos A sec A+cosec²A+sec²A. This is 1+2+2+(1+cot²A)+(1+tan²A)=7+tan²A+cot²A."
+      },
+      {
+        "id": "c8-Exercise8-3·4-ix",
+        "reference": "Exercise 8.3 · 4(ix)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (cosec A−sin A)(sec A−cos A)=1/(tan A+cot A). Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "LHS=[(1−sin²A)/sin A][(1−cos²A)/cos A]=(cos²A/sin A)(sin²A/cos A)=sin A cos A.",
+          "RHS=1/[(sin²A+cos²A)/(sin A cos A)]=sin A cos A. Both simplify to the same expression."
+        ],
+        "hints": [
+          "LHS=[(1−sin²A)/sin A][(1−cos²A)/cos A]=(cos²A/sin A)(sin²A/cos A)=sin A cos A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: LHS=[(1−sin²A)/sin A][(1−cos²A)/cos A]=(cos²A/sin A)(sin²A/cos A)=sin A cos A.",
+          "Compare step 2: RHS=1/[(sin²A+cos²A)/(sin A cos A)]=sin A cos A. Both simplify to the same expression."
+        ],
+        "sample": "LHS=[(1−sin²A)/sin A][(1−cos²A)/cos A]=(cos²A/sin A)(sin²A/cos A)=sin A cos A. RHS=1/[(sin²A+cos²A)/(sin A cos A)]=sin A cos A. Both simplify to the same expression."
+      },
+      {
+        "id": "c8-Exercise8-3·4-x",
+        "reference": "Exercise 8.3 · 4(x)",
+        "title": "Construct an identity proof",
+        "prompt": "Prove (1+tan²A)/(1+cot²A)=[(1−tan A)/(1−cot A)]²=tan²A. Use acute angles for which every displayed expression is defined; justify each cancellation.",
+        "solution": [
+          "First expression=sec²A/cosec²A=tan²A.",
+          "Put t=tan A>0. The middle ratio is(1−t)/(1−1/t)=−t, so its square=t².",
+          "The chain is valid only when every original expression is defined: exclude A=45°, where the middle expression has a zero denominator."
+        ],
+        "hints": [
+          "First expression=sec²A/cosec²A=tan²A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: First expression=sec²A/cosec²A=tan²A.",
+          "Compare step 2: Put t=tan A>0. The middle ratio is(1−t)/(1−1/t)=−t, so its square=t².",
+          "Compare step 3: The chain is valid only when every original expression is defined: exclude A=45°, where the middle expression has a zero denominator."
+        ],
+        "sample": "First expression=sec²A/cosec²A=tan²A. Put t=tan A>0. The middle ratio is(1−t)/(1−1/t)=−t, so its square=t². The chain is valid only when every original expression is defined: exclude A=45°, where the middle expression has a zero denominator."
+      }
+    ],
+    "9": [
+      {
+        "id": "c9-Example1",
+        "reference": "Example 1",
+        "title": "Worked example 1",
+        "prompt": "A tower is viewed at 60° from a level point 15 m from its foot. Find height.",
+        "solution": [
+          "tan 60°=h/15 →h=15 sqrt(3) m."
+        ],
+        "hints": [
+          "tan 60°=h/15 →h=15 sqrt(3) m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: tan 60°=h/15 →h=15 sqrt(3) m."
+        ],
+        "sample": "tan 60°=h/15 →h=15 sqrt(3) m."
+      },
+      {
+        "id": "c9-Example2",
+        "reference": "Example 2",
+        "title": "Worked example 2",
+        "prompt": "A ladder must reach 1.3 m below a 5 m pole’s top while inclined 60° to the horizontal. Find ladder length and distance of its foot from the pole. Use exact values; the book permits sqrt(3)≈1.73.",
+        "solution": [
+          "Required vertical reach=5−1.3=3.7 m.",
+          "L=3.7/sin 60°=7.4/sqrt(3) m≈4.28 m; d=3.7/tan 60°=3.7/sqrt(3) m≈2.14 m."
+        ],
+        "hints": [
+          "Required vertical reach=5−1.3=3.7 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Required vertical reach=5−1.3=3.7 m.",
+          "Compare step 2: L=3.7/sin 60°=7.4/sqrt(3) m≈4.28 m; d=3.7/tan 60°=3.7/sqrt(3) m≈2.14 m."
+        ],
+        "sample": "Required vertical reach=5−1.3=3.7 m. L=3.7/sin 60°=7.4/sqrt(3) m≈4.28 m; d=3.7/tan 60°=3.7/sqrt(3) m≈2.14 m."
+      },
+      {
+        "id": "c9-Example3",
+        "reference": "Example 3",
+        "title": "Worked example 3",
+        "prompt": "An observer 1.5 m tall stands 28.5 m from a chimney and sees its top at 45°. Find chimney height.",
+        "solution": [
+          "Rise above eyes=28.5 tan 45°=28.5 m.",
+          "Add eye height:chimney=28.5+1.5=30 m."
+        ],
+        "hints": [
+          "Rise above eyes=28.5 tan 45°=28.5 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Rise above eyes=28.5 tan 45°=28.5 m.",
+          "Compare step 2: Add eye height:chimney=28.5+1.5=30 m."
+        ],
+        "sample": "Rise above eyes=28.5 tan 45°=28.5 m. Add eye height:chimney=28.5+1.5=30 m."
+      },
+      {
+        "id": "c9-Example4",
+        "reference": "Example 4",
+        "title": "Worked example 4",
+        "prompt": "A 10 m building’s top is viewed at 30°, and a flagstaff’s top above it at 45°. Find flagstaff length and horizontal distance.",
+        "solution": [
+          "tan 30°=10/d →d=10 sqrt(3) m.",
+          "Total height=d tan 45°=10 sqrt(3). Flagstaff=10(sqrt(3)−1) m. Using the book’s sqrt(3)≈1.732 gives 17.32 m and 7.32 m."
+        ],
+        "hints": [
+          "tan 30°=10/d →d=10 sqrt(3) m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: tan 30°=10/d →d=10 sqrt(3) m.",
+          "Compare step 2: Total height=d tan 45°=10 sqrt(3). Flagstaff=10(sqrt(3)−1) m. Using the book’s sqrt(3)≈1.732 gives 17.32 m and 7.32 m."
+        ],
+        "sample": "tan 30°=10/d →d=10 sqrt(3) m. Total height=d tan 45°=10 sqrt(3). Flagstaff=10(sqrt(3)−1) m. Using the book’s sqrt(3)≈1.732 gives 17.32 m and 7.32 m."
+      },
+      {
+        "id": "c9-Example5",
+        "reference": "Example 5",
+        "title": "Worked example 5",
+        "prompt": "A tower’s shadow at solar altitude 30° is 40 m longer than at 60°. Find tower height.",
+        "solution": [
+          "Let the 60° shadow be x and height h. h=x sqrt(3)=(x+40)/sqrt(3).",
+          "3 x=x+40 →x=20 and h=20 sqrt(3) m."
+        ],
+        "hints": [
+          "Let the 60° shadow be x and height h. h=x sqrt(3)=(x+40)/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Let the 60° shadow be x and height h. h=x sqrt(3)=(x+40)/sqrt(3).",
+          "Compare step 2: 3 x=x+40 →x=20 and h=20 sqrt(3) m."
+        ],
+        "sample": "Let the 60° shadow be x and height h. h=x sqrt(3)=(x+40)/sqrt(3). 3 x=x+40 →x=20 and h=20 sqrt(3) m."
+      },
+      {
+        "id": "c9-Example6",
+        "reference": "Example 6",
+        "title": "Worked example 6",
+        "prompt": "From a tall building, depression to the top and foot of an 8 m building is 30° and 45°. Find taller height H and horizontal separation d.",
+        "solution": [
+          "The 45° triangle gives H=d. The 30° triangle gives(H−8)/d=1/sqrt(3).",
+          "H(1−1/sqrt(3))=8 →H=4(3+sqrt(3)) m. Since d=H, the separation is the same value."
+        ],
+        "hints": [
+          "The 45° triangle gives H=d. The 30° triangle gives(H−8)/d=1/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The 45° triangle gives H=d. The 30° triangle gives(H−8)/d=1/sqrt(3).",
+          "Compare step 2: H(1−1/sqrt(3))=8 →H=4(3+sqrt(3)) m. Since d=H, the separation is the same value."
+        ],
+        "sample": "The 45° triangle gives H=d. The 30° triangle gives(H−8)/d=1/sqrt(3). H(1−1/sqrt(3))=8 →H=4(3+sqrt(3)) m. Since d=H, the separation is the same value."
+      },
+      {
+        "id": "c9-Example7",
+        "reference": "Example 7",
+        "title": "Worked example 7",
+        "prompt": "A point on a bridge is 3 m above river banks. Depression angles to the opposite banks are 30° and 45°. Find river width.",
+        "solution": [
+          "The bridge’s vertical projection lies between the banks. Distances to that projection are 3/tan 30°=3 sqrt(3) and 3/tan 45°=3.",
+          "Add for opposite sides:width=3(sqrt(3)+1) m."
+        ],
+        "hints": [
+          "The bridge’s vertical projection lies between the banks. Distances to that projection are 3/tan 30°=3 sqrt(3) and 3/tan 45°=3.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The bridge’s vertical projection lies between the banks. Distances to that projection are 3/tan 30°=3 sqrt(3) and 3/tan 45°=3.",
+          "Compare step 2: Add for opposite sides:width=3(sqrt(3)+1) m."
+        ],
+        "sample": "The bridge’s vertical projection lies between the banks. Distances to that projection are 3/tan 30°=3 sqrt(3) and 3/tan 45°=3. Add for opposite sides:width=3(sqrt(3)+1) m."
+      },
+      {
+        "id": "c9-9-1·Modellingfoundations",
+        "reference": "9.1 · Modelling foundations",
+        "title": "Set up a heights-and-distances model",
+        "prompt": "Explain line of sight, elevation and depression, and the assumptions needed for the chapter’s right-triangle models.",
+        "solution": [
+          "The line of sight joins the observer’s eye to the target. Elevation is measured above the horizontal through the eye; depression is measured below it. Neither is measured from a vertical pole.",
+          "Parallel horizontal lines make a depression angle equal to the elevation angle from the target, by alternate interior angles.",
+          "Assume upright structures, level common ground and the stated straight-line positions. Subtract eye height when finding the vertical rise and add it back for total height; use consistent units."
+        ],
+        "hints": [
+          "The line of sight joins the observer’s eye to the target. Elevation is measured above the horizontal through the eye; depression is measured below it. Neither is measured from a vertical pole.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The line of sight joins the observer’s eye to the target. Elevation is measured above the horizontal through the eye; depression is measured below it. Neither is measured from a vertical pole.",
+          "Compare step 2: Parallel horizontal lines make a depression angle equal to the elevation angle from the target, by alternate interior angles.",
+          "Compare step 3: Assume upright structures, level common ground and the stated straight-line positions. Subtract eye height when finding the vertical rise and add it back for total height; use consistent units."
+        ],
+        "sample": "The line of sight joins the observer’s eye to the target. Elevation is measured above the horizontal through the eye; depression is measured below it. Neither is measured from a vertical pole. Parallel horizontal lines make a depression angle equal to the elevation angle from the target, by alternate interior angles. Assume upright structures, level common ground and the stated straight-line positions. Subtract eye height when finding the vertical rise and add it back for total height; use consistent units."
+      },
+      {
+        "id": "c9-Exercise9-1·1",
+        "reference": "Exercise 9.1 · 1",
+        "title": "Rope and pole",
+        "prompt": "A taut 20 m rope runs from the top of a vertical pole to level ground at 30°. Find pole height.",
+        "solution": [
+          "Let h be the pole height. The rope is the hypotenuse, not the horizontal distance.",
+          "sin 30°=h/20, hence h=20×1/2=10 m."
+        ],
+        "hints": [
+          "Let h be the pole height. The rope is the hypotenuse, not the horizontal distance.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Pole height (m)",
+            "answer": 10.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·2",
+        "reference": "Exercise 9.1 · 2",
+        "title": "A broken tree",
+        "prompt": "A tree breaks and its top touches level ground 8 m from the foot, making 30° with the ground. Find the original tree height.",
+        "solution": [
+          "Let the standing stump height be h and the broken length be l. tan 30°=h/8 →h=8/sqrt(3).",
+          "cos 30°=8/l →l=16/sqrt(3). Original height h+l=24/sqrt(3)=8 sqrt(3) m."
+        ],
+        "hints": [
+          "Let the standing stump height be h and the broken length be l. tan 30°=h/8 →h=8/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Original height (m)",
+            "answer": 13.856406460551018,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·3",
+        "reference": "Exercise 9.1 · 3",
+        "title": "Two playground slides",
+        "prompt": "One slide starts 1.5 m above ground and is inclined at 30°; another starts 3 m high and is inclined at 60°. Find both slide lengths.",
+        "solution": [
+          "The slides are hypotenuses. Use length=height/sin(angle).",
+          "First=1.5/(1/2)=3 m. Second=3/(sqrt(3)/2)=2 sqrt(3) m."
+        ],
+        "hints": [
+          "The slides are hypotenuses. Use length=height/sin(angle).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Younger children’s slide (m)",
+            "answer": 3.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Older children’s slide (m)",
+            "answer": 3.4641016151377544,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·4",
+        "reference": "Exercise 9.1 · 4",
+        "title": "Tower height",
+        "prompt": "A tower top has elevation 30° from a level point 30 m from its foot. Find height.",
+        "solution": [
+          "tan 30°=h/30.",
+          "h=30/sqrt(3)=10 sqrt(3) m."
+        ],
+        "hints": [
+          "tan 30°=h/30.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Height (m)",
+            "answer": 17.320508075688775,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·5",
+        "reference": "Exercise 9.1 · 5",
+        "title": "Kite string",
+        "prompt": "A kite is 60 m above the ground. Its taut string is tied at ground level and makes 60° with the ground. Find string length.",
+        "solution": [
+          "sin 60°=60/L, because the string is the hypotenuse.",
+          "L=120/sqrt(3)=40 sqrt(3) m. The no-slack condition matters."
+        ],
+        "hints": [
+          "sin 60°=60/L, because the string is the hypotenuse.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "String length (m)",
+            "answer": 69.2820323027551,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·6",
+        "reference": "Exercise 9.1 · 6",
+        "title": "Walking toward a building",
+        "prompt": "A 1.5 m tall boy views the top of a 30 m building. Elevation from his eyes changes from 30° to 60° as he walks toward it. Find distance walked.",
+        "solution": [
+          "The vertical rise from his eyes is 30−1.5=28.5 m. Let initial and final horizontal distances be d₁, d₂.",
+          "d₁=28.5/tan 30°=28.5 sqrt(3); d₂=28.5/tan 60°=9.5 sqrt(3).",
+          "Distance walked=d₁−d₂=19 sqrt(3) m."
+        ],
+        "hints": [
+          "The vertical rise from his eyes is 30−1.5=28.5 m. Let initial and final horizontal distances be d₁, d₂.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Distance walked (m)",
+            "answer": 32.90896534380867,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·7",
+        "reference": "Exercise 9.1 · 7",
+        "title": "Tower above a building",
+        "prompt": "A transmission tower stands on a 20 m building. From one ground point, elevation to the tower’s bottom is 45° and to its top 60°. Find tower height alone.",
+        "solution": [
+          "The bottom of the tower is the roof: tan 45°=20/d, so d=20 m.",
+          "Total top height=20 tan 60°=20 sqrt(3). Subtract the building: tower height=20(sqrt(3)−1) m."
+        ],
+        "hints": [
+          "The bottom of the tower is the roof: tan 45°=20/d, so d=20 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Tower height (m)",
+            "answer": 14.641016151377546,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·8",
+        "reference": "Exercise 9.1 · 8",
+        "title": "A statue on a pedestal",
+        "prompt": "A 1.6 m statue stands on a pedestal. Elevation to the statue’s top is 60° and to the pedestal’s top 45° from the same ground point. Find pedestal height.",
+        "solution": [
+          "Let pedestal height h and distance d. tan 45°=h/d gives d=h.",
+          "tan 60°=(h+1.6)/h →h(sqrt(3)−1)=1.6.",
+          "h=1.6/(sqrt(3)−1)=0.8(sqrt(3)+1) m."
+        ],
+        "hints": [
+          "Let pedestal height h and distance d. tan 45°=h/d gives d=h.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Pedestal height (m)",
+            "answer": 2.1856406460551017,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·9",
+        "reference": "Exercise 9.1 · 9",
+        "title": "Two vertical structures",
+        "prompt": "Elevation of a building top from a tower’s foot is 30°; elevation of the 50 m tower top from the building’s foot is 60°. Find building height.",
+        "solution": [
+          "Let their common horizontal separation be d. tan 60°=50/d →d=50/sqrt(3).",
+          "Building height=d tan 30°=50/3 m."
+        ],
+        "hints": [
+          "Let their common horizontal separation be d. tan 60°=50/d →d=50/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Building height (m)",
+            "answer": 16.666666666666668,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·10",
+        "reference": "Exercise 9.1 · 10",
+        "title": "Equal poles across a road",
+        "prompt": "Two equal-height poles stand on opposite sides of an 80 m road. From a point between their feet, elevations are 60° and 30°. Find height and distances.",
+        "solution": [
+          "Let x be distance to the 60° pole and 80−x to the 30° pole. h=x sqrt(3)=(80−x)/sqrt(3).",
+          "3 x=80−x →x=20. The other distance is 60 and h=20 sqrt(3) m."
+        ],
+        "hints": [
+          "Let x be distance to the 60° pole and 80−x to the 30° pole. h=x sqrt(3)=(80−x)/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Pole height (m)",
+            "answer": 34.64101615137755,
+            "kind": "expression"
+          },
+          {
+            "label": "Distance to 60° pole (m)",
+            "answer": 20.0,
+            "kind": "expression"
+          },
+          {
+            "label": "Distance to 30° pole (m)",
+            "answer": 60.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·11",
+        "reference": "Exercise 9.1 · 11",
+        "title": "Canal width",
+        "prompt": "A TV tower stands on one bank. Elevation from directly opposite on the other bank is 60°; from 20 m farther away along the same line it is 30°. Find tower height and canal width.",
+        "solution": [
+          "Let width w and height h. h=w sqrt(3)=(w+20)/sqrt(3).",
+          "3 w=w+20 →w=10 m and h=10 sqrt(3) m."
+        ],
+        "hints": [
+          "Let width w and height h. h=w sqrt(3)=(w+20)/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Tower height (m)",
+            "answer": 17.320508075688775,
+            "kind": "expression"
+          },
+          {
+            "label": "Canal width (m)",
+            "answer": 10.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·12",
+        "reference": "Exercise 9.1 · 12",
+        "title": "Observe from a rooftop",
+        "prompt": "From a 7 m building’s top, the elevation of a cable tower’s top is 60° and depression of its foot 45°. Find tower height.",
+        "solution": [
+          "Depression 45° equals elevation 45° from the tower foot, so horizontal distance d=7 m.",
+          "Height above observer=7 tan 60°=7 sqrt(3). Add 7 to get 7(sqrt(3)+1) m."
+        ],
+        "hints": [
+          "Depression 45° equals elevation 45° from the tower foot, so horizontal distance d=7 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Tower height (m)",
+            "answer": 19.124355652982143,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·13",
+        "reference": "Exercise 9.1 · 13",
+        "title": "Ships on the same side",
+        "prompt": "From a 75 m lighthouse, depression angles to two ships on the same side are 30° and 45°, one directly behind the other. Find separation.",
+        "solution": [
+          "Horizontal distances from the lighthouse foot are 75/tan 30°=75 sqrt(3) and 75/tan 45°=75.",
+          "Same side means subtract: separation=75(sqrt(3)−1) m."
+        ],
+        "hints": [
+          "Horizontal distances from the lighthouse foot are 75/tan 30°=75 sqrt(3) and 75/tan 45°=75.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Separation (m)",
+            "answer": 54.9038105676658,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·14",
+        "reference": "Exercise 9.1 · 14",
+        "title": "A moving balloon",
+        "prompt": "A 1.2 m girl observes a balloon moving horizontally at 88.2 m above level ground. Elevation changes from 60° to 30°. Find distance travelled.",
+        "solution": [
+          "The vertical rise above her eyes is 88.2−1.2=87 m.",
+          "Initial horizontal distance=87/sqrt(3)=29 sqrt(3); final=87 sqrt(3).",
+          "The balloon moves away on the same side at constant height, so distance=58 sqrt(3) m."
+        ],
+        "hints": [
+          "The vertical rise above her eyes is 88.2−1.2=87 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Distance travelled (m)",
+            "answer": 100.45894683899488,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Exercise9-1·15",
+        "reference": "Exercise 9.1 · 15",
+        "title": "Approaching car",
+        "prompt": "From a tower top, a car approaching at constant speed has depression 30° and then 60° six seconds later. How many more seconds until it reaches the foot?",
+        "solution": [
+          "Let tower height h. First distance=h sqrt(3); second=h/sqrt(3).",
+          "In 6 s the car covers 2 h/sqrt(3), so speed=h/(3 sqrt(3)).",
+          "Remaining distance h/sqrt(3) divided by that speed gives 3 s. The height cancels."
+        ],
+        "hints": [
+          "Let tower height h. First distance=h sqrt(3); second=h/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Remaining time (s)",
+            "answer": 3.0,
+            "kind": "expression"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": "c10-Example1",
+        "reference": "Example 1",
+        "title": "Worked example 1",
+        "prompt": "Two concentric circles share centre O. A chord AB of the larger touches the smaller at P. Prove AP=PB.",
+        "solution": [
+          "The smaller radius OP is perpendicular to tangent AB.",
+          "AB is also a chord of the larger circle. Its perpendicular from the common centre bisects it, giving AP=PB."
+        ],
+        "hints": [
+          "The smaller radius OP is perpendicular to tangent AB.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The smaller radius OP is perpendicular to tangent AB.",
+          "Compare step 2: AB is also a chord of the larger circle. Its perpendicular from the common centre bisects it, giving AP=PB."
+        ],
+        "sample": "The smaller radius OP is perpendicular to tangent AB. AB is also a chord of the larger circle. Its perpendicular from the common centre bisects it, giving AP=PB."
+      },
+      {
+        "id": "c10-Example2",
+        "reference": "Example 2",
+        "title": "Worked example 2",
+        "prompt": "TP, TQ are tangents from external T at P, Q to a circle centred O. Prove ∠PTQ=2∠OPQ.",
+        "solution": [
+          "Let ∠PTQ=θ. Equal tangents TP=TQ make TPQ isosceles, so ∠TPQ=90°−θ/2.",
+          "Since OP⊥TP, ∠OPQ=90°−∠TPQ=θ/2. Rearrange to the required result."
+        ],
+        "hints": [
+          "Let ∠PTQ=θ. Equal tangents TP=TQ make TPQ isosceles, so ∠TPQ=90°−θ/2.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Let ∠PTQ=θ. Equal tangents TP=TQ make TPQ isosceles, so ∠TPQ=90°−θ/2.",
+          "Compare step 2: Since OP⊥TP, ∠OPQ=90°−∠TPQ=θ/2. Rearrange to the required result."
+        ],
+        "sample": "Let ∠PTQ=θ. Equal tangents TP=TQ make TPQ isosceles, so ∠TPQ=90°−θ/2. Since OP⊥TP, ∠OPQ=90°−∠TPQ=θ/2. Rearrange to the required result."
+      },
+      {
+        "id": "c10-Example3",
+        "reference": "Example 3",
+        "title": "Worked example 3",
+        "prompt": "A chord PQ of a radius 5 cm circle has length 8 cm. Its endpoint tangents meet at T. Find TP.",
+        "solution": [
+          "Join OT; equal tangents and equal radii imply OT is the perpendicular bisector of PQ. Let R=OT∩PQ. Then PR=4 and OR=sqrt(25−16)=3.",
+          "Let TR=y and TP=x. Right PRT gives x²=y²+16; right OPT gives x²+25=(y+3)².",
+          "Subtract to get 25=6 y−7, so y=16/3. Then x²=256/9+16=400/9 and TP=20/3 cm."
+        ],
+        "hints": [
+          "Join OT; equal tangents and equal radii imply OT is the perpendicular bisector of PQ. Let R=OT∩PQ. Then PR=4 and OR=sqrt(25−16)=3.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Join OT; equal tangents and equal radii imply OT is the perpendicular bisector of PQ. Let R=OT∩PQ. Then PR=4 and OR=sqrt(25−16)=3.",
+          "Compare step 2: Let TR=y and TP=x. Right PRT gives x²=y²+16; right OPT gives x²+25=(y+3)².",
+          "Compare step 3: Subtract to get 25=6 y−7, so y=16/3. Then x²=256/9+16=400/9 and TP=20/3 cm."
+        ],
+        "sample": "Join OT; equal tangents and equal radii imply OT is the perpendicular bisector of PQ. Let R=OT∩PQ. Then PR=4 and OR=sqrt(25−16)=3. Let TR=y and TP=x. Right PRT gives x²=y²+16; right OPT gives x²+25=(y+3)². Subtract to get 25=6 y−7, so y=16/3. Then x²=256/9+16=400/9 and TP=20/3 cm."
+      },
+      {
+        "id": "c10-Theorem10-1",
+        "reference": "Theorem 10.1",
+        "title": "Prove radius perpendicular to tangent",
+        "prompt": "A line XY touches a circle centred O at P. Prove OP⊥XY.",
+        "solution": [
+          "For every other point Q on XY, Q lies outside the circle: another point on or inside it would make the line intersect the circle again, contradicting tangency.",
+          "Thus OQ>OP, the radius, for every Q≠P. OP is the shortest distance from O to XY.",
+          "The shortest segment from a point to a line is perpendicular, so OP⊥XY. The unique perpendicular at P also gives uniqueness of the tangent there."
+        ],
+        "hints": [
+          "For every other point Q on XY, Q lies outside the circle: another point on or inside it would make the line intersect the circle again, contradicting tangency.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: For every other point Q on XY, Q lies outside the circle: another point on or inside it would make the line intersect the circle again, contradicting tangency.",
+          "Compare step 2: Thus OQ>OP, the radius, for every Q≠P. OP is the shortest distance from O to XY.",
+          "Compare step 3: The shortest segment from a point to a line is perpendicular, so OP⊥XY. The unique perpendicular at P also gives uniqueness of the tangent there."
+        ],
+        "sample": "For every other point Q on XY, Q lies outside the circle: another point on or inside it would make the line intersect the circle again, contradicting tangency. Thus OQ>OP, the radius, for every Q≠P. OP is the shortest distance from O to XY. The shortest segment from a point to a line is perpendicular, so OP⊥XY. The unique perpendicular at P also gives uniqueness of the tangent there."
+      },
+      {
+        "id": "c10-Theorem10-2",
+        "reference": "Theorem 10.2",
+        "title": "Prove equal tangent lengths",
+        "prompt": "PQ, PR are tangents from external P to a circle centred O. Prove PQ=PR and state the angle-bisector consequence.",
+        "solution": [
+          "Join OP, OQ, OR. Radius-tangent perpendicularity gives ∠OQP=∠ORP=90°.",
+          "Right triangles OQP, ORP have equal radii OQ=OR and common hypotenuse OP, so they are congruent by RHS.",
+          "Corresponding sides give PQ=PR; corresponding angles give ∠QPO=∠OPR, so OP bisects the angle between the tangents.",
+          "Alternatively Pythagoras gives PQ²=OP²−OQ²=OP²−OR²=PR²; positive lengths imply PQ=PR."
+        ],
+        "hints": [
+          "Join OP, OQ, OR. Radius-tangent perpendicularity gives ∠OQP=∠ORP=90°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Join OP, OQ, OR. Radius-tangent perpendicularity gives ∠OQP=∠ORP=90°.",
+          "Compare step 2: Right triangles OQP, ORP have equal radii OQ=OR and common hypotenuse OP, so they are congruent by RHS.",
+          "Compare step 3: Corresponding sides give PQ=PR; corresponding angles give ∠QPO=∠OPR, so OP bisects the angle between the tangents.",
+          "Compare step 4: Alternatively Pythagoras gives PQ²=OP²−OQ²=OP²−OR²=PR²; positive lengths imply PQ=PR."
+        ],
+        "sample": "Join OP, OQ, OR. Radius-tangent perpendicularity gives ∠OQP=∠ORP=90°. Right triangles OQP, ORP have equal radii OQ=OR and common hypotenuse OP, so they are congruent by RHS. Corresponding sides give PQ=PR; corresponding angles give ∠QPO=∠OPR, so OP bisects the angle between the tangents. Alternatively Pythagoras gives PQ²=OP²−OQ²=OP²−OR²=PR²; positive lengths imply PQ=PR."
+      },
+      {
+        "id": "c10-10-2–10-3·Tangentcountsandnormal",
+        "reference": "10.2–10.3 · Tangent counts and normal",
+        "title": "Classify a point relative to a circle",
+        "prompt": "Explain tangent, secant and normal, and count tangents through a point inside, on or outside a circle.",
+        "solution": [
+          "A secant line meets a circle twice. A tangent meets it once, at its point of contact. A normal is the line containing the radius through that contact and is perpendicular to the tangent.",
+          "A point inside has 0 tangents, a point on the circle has 1, and an external point has 2. This classification depends on distance from the centre compared with the radius.",
+          "The tangent is a line, so it has no finite length. “Tangent length from P” means the finite segment from P to the contact point."
+        ],
+        "hints": [
+          "A secant line meets a circle twice. A tangent meets it once, at its point of contact. A normal is the line containing the radius through that contact and is perpendicular to the tangent.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: A secant line meets a circle twice. A tangent meets it once, at its point of contact. A normal is the line containing the radius through that contact and is perpendicular to the tangent.",
+          "Compare step 2: A point inside has 0 tangents, a point on the circle has 1, and an external point has 2. This classification depends on distance from the centre compared with the radius.",
+          "Compare step 3: The tangent is a line, so it has no finite length. “Tangent length from P” means the finite segment from P to the contact point."
+        ],
+        "sample": "A secant line meets a circle twice. A tangent meets it once, at its point of contact. A normal is the line containing the radius through that contact and is perpendicular to the tangent. A point inside has 0 tangents, a point on the circle has 1, and an external point has 2. This classification depends on distance from the centre compared with the radius. The tangent is a line, so it has no finite length. “Tangent length from P” means the finite segment from P to the contact point."
+      },
+      {
+        "id": "c10-Exercise10-1·1",
+        "reference": "Exercise 10.1 · 1",
+        "title": "How many tangents?",
+        "prompt": "How many different tangents can a circle have? Explain your answer.",
+        "solution": [
+          "There is one tangent at each point on the circle.",
+          "A circle has infinitely many points, so it has infinitely many tangents in total. This differs from counting tangents through one fixed point."
+        ],
+        "hints": [
+          "There is one tangent at each point on the circle.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: There is one tangent at each point on the circle.",
+          "Compare step 2: A circle has infinitely many points, so it has infinitely many tangents in total. This differs from counting tangents through one fixed point."
+        ],
+        "sample": "There is one tangent at each point on the circle. A circle has infinitely many points, so it has infinitely many tangents in total. This differs from counting tangents through one fixed point."
+      },
+      {
+        "id": "c10-Exercise10-1·2-i",
+        "reference": "Exercise 10.1 · 2(i)",
+        "title": "Tangent vocabulary",
+        "prompt": "A tangent meets a circle in how many points?",
+        "solution": [
+          "Exactly one point, called the point of contact. A line meeting the circle twice is a secant."
+        ],
+        "hints": [
+          "Exactly one point, called the point of contact. A line meeting the circle twice is a secant.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Exactly one point, called the point of contact. A line meeting the circle twice is a secant."
+        ],
+        "sample": "Exactly one point, called the point of contact. A line meeting the circle twice is a secant."
+      },
+      {
+        "id": "c10-Exercise10-1·2-ii",
+        "reference": "Exercise 10.1 · 2(ii)",
+        "title": "Tangent vocabulary",
+        "prompt": "What is a line that intersects a circle at two distinct points called?",
+        "solution": [
+          "A secant. The segment between those intersections is a chord; the whole line is a secant."
+        ],
+        "hints": [
+          "A secant. The segment between those intersections is a chord; the whole line is a secant.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: A secant. The segment between those intersections is a chord; the whole line is a secant."
+        ],
+        "sample": "A secant. The segment between those intersections is a chord; the whole line is a secant."
+      },
+      {
+        "id": "c10-Exercise10-1·2-iii",
+        "reference": "Exercise 10.1 · 2(iii)",
+        "title": "Tangent vocabulary",
+        "prompt": "At most how many mutually parallel tangents can a circle have?",
+        "solution": [
+          "Two: the tangents at the opposite ends of a diameter perpendicular to that direction."
+        ],
+        "hints": [
+          "Two: the tangents at the opposite ends of a diameter perpendicular to that direction.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Two: the tangents at the opposite ends of a diameter perpendicular to that direction."
+        ],
+        "sample": "Two: the tangents at the opposite ends of a diameter perpendicular to that direction."
+      },
+      {
+        "id": "c10-Exercise10-1·2-iv",
+        "reference": "Exercise 10.1 · 2(iv)",
+        "title": "Tangent vocabulary",
+        "prompt": "What is the shared point of a circle and its tangent called?",
+        "solution": [
+          "The point of contact (or point of tangency). The radius through it is perpendicular to the tangent."
+        ],
+        "hints": [
+          "The point of contact (or point of tangency). The radius through it is perpendicular to the tangent.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The point of contact (or point of tangency). The radius through it is perpendicular to the tangent."
+        ],
+        "sample": "The point of contact (or point of tangency). The radius through it is perpendicular to the tangent."
+      },
+      {
+        "id": "c10-Exercise10-1·3",
+        "reference": "Exercise 10.1 · 3",
+        "title": "A tangent right triangle",
+        "prompt": "PQ is tangent at P to a circle of radius 5 cm. O is the centre, O, Q are on a line, and OQ=12 cm. Find PQ and justify the correct option.",
+        "solution": [
+          "OP⊥PQ, so triangle OPQ is right-angled at P.",
+          "PQ=sqrt(OQ²−OP²)=sqrt(144−25)=sqrt(119) cm, option D."
+        ],
+        "hints": [
+          "OP⊥PQ, so triangle OPQ is right-angled at P.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "PQ (cm)",
+            "answer": 10.908712114635714,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-1·4",
+        "reference": "Exercise 10.1 · 4",
+        "title": "Construct parallel tangent and secant",
+        "prompt": "Draw a circle and two lines parallel to a chosen given line, one tangent and the other secant. Describe and justify your construction.",
+        "solution": [
+          "One valid construction: choose the given direction horizontal, a circle with centre O=(0, 0) and radius r>0.",
+          "Draw y=r and y=0. Both are horizontal and parallel to the given direction; y=r touches once at(0, r), while y=0 cuts at(−r, 0), (r, 0).",
+          "For any other given direction rotate the construction: one parallel is at perpendicular distance r from O, the other at a distance less than r. Include the circle, labels and both intersection behaviours in your drawing."
+        ],
+        "hints": [
+          "One valid construction: choose the given direction horizontal, a circle with centre O=(0, 0) and radius r>0.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: One valid construction: choose the given direction horizontal, a circle with centre O=(0, 0) and radius r>0.",
+          "Compare step 2: Draw y=r and y=0. Both are horizontal and parallel to the given direction; y=r touches once at(0, r), while y=0 cuts at(−r, 0), (r, 0).",
+          "Compare step 3: For any other given direction rotate the construction: one parallel is at perpendicular distance r from O, the other at a distance less than r. Include the circle, labels and both intersection behaviours in your drawing."
+        ],
+        "sample": "One valid construction: choose the given direction horizontal, a circle with centre O=(0, 0) and radius r>0. Draw y=r and y=0. Both are horizontal and parallel to the given direction; y=r touches once at(0, r), while y=0 cuts at(−r, 0), (r, 0). For any other given direction rotate the construction: one parallel is at perpendicular distance r from O, the other at a distance less than r. Include the circle, labels and both intersection behaviours in your drawing."
+      },
+      {
+        "id": "c10-Exercise10-2·1",
+        "reference": "Exercise 10.2 · 1",
+        "title": "Find the radius",
+        "prompt": "A tangent from Q has length 24 cm and OQ=25 cm for centre O. Find radius and justify the option.",
+        "solution": [
+          "At contact T, OT⊥QT. Thus r²=25²−24²=49.",
+          "r=7 cm, option A. A radius is positive."
+        ],
+        "hints": [
+          "At contact T, OT⊥QT. Thus r²=25²−24²=49.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Radius (cm)",
+            "answer": 7.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-2·2",
+        "reference": "Exercise 10.2 · 2",
+        "title": "Angle between tangents",
+        "prompt": "TP, TQ are tangents at P, Q to a circle centred O. ∠POQ=110°. Find ∠PTQ (Fig.10.11).",
+        "solution": [
+          "∠OPT=∠OQT=90°. The angles of quadrilateral OPTQ sum to 360°.",
+          "∠PTQ=360−90−90−110=70°, option B."
+        ],
+        "hints": [
+          "∠OPT=∠OQT=90°. The angles of quadrilateral OPTQ sum to 360°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "∠PTQ (degrees)",
+            "answer": 70.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-2·3",
+        "reference": "Exercise 10.2 · 3",
+        "title": "Use the angle bisector",
+        "prompt": "Tangents PA, PB from external P meet at 80°. O is the centre. Find ∠POA.",
+        "solution": [
+          "Right triangles OAP, OBP are congruent by RHS, so OP bisects ∠APB. Hence ∠OPA=40°.",
+          "Since ∠OAP=90°, ∠POA=180−90−40=50°, option A."
+        ],
+        "hints": [
+          "Right triangles OAP, OBP are congruent by RHS, so OP bisects ∠APB. Hence ∠OPA=40°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "∠POA (degrees)",
+            "answer": 50.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-2·4",
+        "reference": "Exercise 10.2 · 4",
+        "title": "Tangents at a diameter’s ends",
+        "prompt": "Prove that tangents at the two endpoints of a diameter are parallel.",
+        "solution": [
+          "Let diameter AB pass through centre O. The tangent at A is perpendicular to OA, and the tangent at B is perpendicular to OB.",
+          "OA, OB lie on the same diameter line AB. Two distinct lines perpendicular to the same line are parallel."
+        ],
+        "hints": [
+          "Let diameter AB pass through centre O. The tangent at A is perpendicular to OA, and the tangent at B is perpendicular to OB.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Let diameter AB pass through centre O. The tangent at A is perpendicular to OA, and the tangent at B is perpendicular to OB.",
+          "Compare step 2: OA, OB lie on the same diameter line AB. Two distinct lines perpendicular to the same line are parallel."
+        ],
+        "sample": "Let diameter AB pass through centre O. The tangent at A is perpendicular to OA, and the tangent at B is perpendicular to OB. OA, OB lie on the same diameter line AB. Two distinct lines perpendicular to the same line are parallel."
+      },
+      {
+        "id": "c10-Exercise10-2·5",
+        "reference": "Exercise 10.2 · 5",
+        "title": "Locate the centre on a normal",
+        "prompt": "Prove the perpendicular to a tangent at its contact point passes through the circle’s centre.",
+        "solution": [
+          "Let tangent touch at P and centre be O. The radius OP is perpendicular to the tangent by Theorem 10.1.",
+          "Through P there is exactly one perpendicular to a given line. Therefore the constructed perpendicular is the line OP and passes through O."
+        ],
+        "hints": [
+          "Let tangent touch at P and centre be O. The radius OP is perpendicular to the tangent by Theorem 10.1.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Let tangent touch at P and centre be O. The radius OP is perpendicular to the tangent by Theorem 10.1.",
+          "Compare step 2: Through P there is exactly one perpendicular to a given line. Therefore the constructed perpendicular is the line OP and passes through O."
+        ],
+        "sample": "Let tangent touch at P and centre be O. The radius OP is perpendicular to the tangent by Theorem 10.1. Through P there is exactly one perpendicular to a given line. Therefore the constructed perpendicular is the line OP and passes through O."
+      },
+      {
+        "id": "c10-Exercise10-2·6",
+        "reference": "Exercise 10.2 · 6",
+        "title": "Radius from an external point",
+        "prompt": "External point A is 5 cm from centre O and its tangent length is 4 cm. Find radius.",
+        "solution": [
+          "The radius to contact T is perpendicular to AT.",
+          "r²=OA²−AT²=25−16=9, so r=3 cm."
+        ],
+        "hints": [
+          "The radius to contact T is perpendicular to AT.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Radius (cm)",
+            "answer": 3.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-2·7",
+        "reference": "Exercise 10.2 · 7",
+        "title": "Chord tangent to an inner circle",
+        "prompt": "Concentric circles have radii 5 cm and 3 cm. Find the chord length of the larger circle that touches the smaller.",
+        "solution": [
+          "Let the chord AB touch the smaller circle at M. OM=3 and OM⊥AB.",
+          "The perpendicular from the common centre bisects the larger chord. AM=sqrt(5²−3²)=4.",
+          "Thus AB=2 AM=8 cm."
+        ],
+        "hints": [
+          "Let the chord AB touch the smaller circle at M. OM=3 and OM⊥AB.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Chord length (cm)",
+            "answer": 8.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-2·8",
+        "reference": "Exercise 10.2 · 8",
+        "title": "A circumscribed quadrilateral",
+        "prompt": "ABCD circumscribes a circle touching AB, BC, CD, DA at P, Q, R, S. Prove AB+CD=AD+BC.",
+        "solution": [
+          "Equal tangents from each vertex give AP=AS, BP=BQ, CQ=CR, DR=DS.",
+          "AB+CD=(AP+BP)+(CR+DR). Replace these by AS+BQ+CQ+DS.",
+          "Reorder to(AS+DS)+(BQ+CQ)=AD+BC."
+        ],
+        "hints": [
+          "Equal tangents from each vertex give AP=AS, BP=BQ, CQ=CR, DR=DS.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Equal tangents from each vertex give AP=AS, BP=BQ, CQ=CR, DR=DS.",
+          "Compare step 2: AB+CD=(AP+BP)+(CR+DR). Replace these by AS+BQ+CQ+DS.",
+          "Compare step 3: Reorder to(AS+DS)+(BQ+CQ)=AD+BC."
+        ],
+        "sample": "Equal tangents from each vertex give AP=AS, BP=BQ, CQ=CR, DR=DS. AB+CD=(AP+BP)+(CR+DR). Replace these by AS+BQ+CQ+DS. Reorder to(AS+DS)+(BQ+CQ)=AD+BC."
+      },
+      {
+        "id": "c10-Exercise10-2·9",
+        "reference": "Exercise 10.2 · 9",
+        "title": "A right angle at the centre",
+        "prompt": "Two parallel tangents touch a circle at P, Q. A third tangent AB touches at C, with A on the first tangent and B on the second. Prove ∠AOB=90° for centre O.",
+        "solution": [
+          "OP⊥AP and OQ⊥BQ. Because AP∥BQ, O, P, Q are collinear.",
+          "RHS congruence for the pairs of tangent triangles shows OA bisects ∠PAC and OB bisects ∠CBQ.",
+          "Since A, C, B are collinear and AP∥BQ, ∠PAC+∠CBQ=180°. Their halves give ∠OAC+∠CBO=90°.",
+          "In triangle AOB, ∠OAB=∠OAC and ∠ABO=∠CBO. Thus ∠AOB=180−90=90°."
+        ],
+        "hints": [
+          "OP⊥AP and OQ⊥BQ. Because AP∥BQ, O, P, Q are collinear.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: OP⊥AP and OQ⊥BQ. Because AP∥BQ, O, P, Q are collinear.",
+          "Compare step 2: RHS congruence for the pairs of tangent triangles shows OA bisects ∠PAC and OB bisects ∠CBQ.",
+          "Compare step 3: Since A, C, B are collinear and AP∥BQ, ∠PAC+∠CBQ=180°. Their halves give ∠OAC+∠CBO=90°.",
+          "Compare step 4: In triangle AOB, ∠OAB=∠OAC and ∠ABO=∠CBO. Thus ∠AOB=180−90=90°."
+        ],
+        "sample": "OP⊥AP and OQ⊥BQ. Because AP∥BQ, O, P, Q are collinear. RHS congruence for the pairs of tangent triangles shows OA bisects ∠PAC and OB bisects ∠CBQ. Since A, C, B are collinear and AP∥BQ, ∠PAC+∠CBQ=180°. Their halves give ∠OAC+∠CBO=90°. In triangle AOB, ∠OAB=∠OAC and ∠ABO=∠CBO. Thus ∠AOB=180−90=90°."
+      },
+      {
+        "id": "c10-Exercise10-2·10",
+        "reference": "Exercise 10.2 · 10",
+        "title": "Supplementary angles",
+        "prompt": "Prove the angle between two tangents from an external point is supplementary to the central angle subtended by the segment joining their contact points.",
+        "solution": [
+          "Let tangents TP, TQ touch at P, Q and centre be O. Join OP, OQ.",
+          "OP⊥TP and OQ⊥TQ give two 90° angles in quadrilateral OPTQ.",
+          "Its other two angles satisfy ∠POQ+∠PTQ=360−180=180°. Here the central angle is the one inside this quadrilateral."
+        ],
+        "hints": [
+          "Let tangents TP, TQ touch at P, Q and centre be O. Join OP, OQ.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Let tangents TP, TQ touch at P, Q and centre be O. Join OP, OQ.",
+          "Compare step 2: OP⊥TP and OQ⊥TQ give two 90° angles in quadrilateral OPTQ.",
+          "Compare step 3: Its other two angles satisfy ∠POQ+∠PTQ=360−180=180°. Here the central angle is the one inside this quadrilateral."
+        ],
+        "sample": "Let tangents TP, TQ touch at P, Q and centre be O. Join OP, OQ. OP⊥TP and OQ⊥TQ give two 90° angles in quadrilateral OPTQ. Its other two angles satisfy ∠POQ+∠PTQ=360−180=180°. Here the central angle is the one inside this quadrilateral."
+      },
+      {
+        "id": "c10-Exercise10-2·11",
+        "reference": "Exercise 10.2 · 11",
+        "title": "A circumscribed parallelogram",
+        "prompt": "Prove that a parallelogram circumscribing a circle is a rhombus.",
+        "solution": [
+          "For circumscribed ABCD, equal tangent segments give AB+CD=AD+BC.",
+          "A parallelogram has AB=CD and AD=BC. Therefore 2 AB=2 AD, so adjacent sides are equal.",
+          "All four sides are consequently equal; the parallelogram is a rhombus."
+        ],
+        "hints": [
+          "For circumscribed ABCD, equal tangent segments give AB+CD=AD+BC.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: For circumscribed ABCD, equal tangent segments give AB+CD=AD+BC.",
+          "Compare step 2: A parallelogram has AB=CD and AD=BC. Therefore 2 AB=2 AD, so adjacent sides are equal.",
+          "Compare step 3: All four sides are consequently equal; the parallelogram is a rhombus."
+        ],
+        "sample": "For circumscribed ABCD, equal tangent segments give AB+CD=AD+BC. A parallelogram has AB=CD and AD=BC. Therefore 2 AB=2 AD, so adjacent sides are equal. All four sides are consequently equal; the parallelogram is a rhombus."
+      },
+      {
+        "id": "c10-Exercise10-2·12",
+        "reference": "Exercise 10.2 · 12",
+        "title": "Sides around an incircle",
+        "prompt": "Triangle ABC circumscribes a circle of radius 4 cm. It touches BC at D, with BD=8 cm and DC=6 cm. Find AB, AC.",
+        "solution": [
+          "Let the equal tangent lengths from A be x. Then AB=x+8, AC=x+6 and BC=14. Semiperimeter s=x+14.",
+          "The area is rs=4(x+14), since the three triangles from the centre have altitude 4. Heron’s formula gives area²=s(s−AB)(s−AC)(s−BC)=(x+14)×6×8×x.",
+          "Equate squares:16(x+14)²=48 x(x+14). Since x+14>0, divide to get x+14=3 x, so x=7.",
+          "AB=15 cm and AC=13 cm. The area is 84 cm² and s=21, confirming r=84/21=4."
+        ],
+        "hints": [
+          "Let the equal tangent lengths from A be x. Then AB=x+8, AC=x+6 and BC=14. Semiperimeter s=x+14.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "AB (cm)",
+            "answer": 15.0,
+            "kind": "expression"
+          },
+          {
+            "label": "AC (cm)",
+            "answer": 13.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Exercise10-2·13",
+        "reference": "Exercise 10.2 · 13",
+        "title": "Opposite sides viewed from the centre",
+        "prompt": "ABCD circumscribes a circle of centre O. Prove opposite sides subtend supplementary angles at O: ∠AOB+∠COD=180° and ∠BOC+∠DOA=180°.",
+        "solution": [
+          "The circle centre lies on each vertex angle bisector, by congruent right triangles formed by radii and tangent segments.",
+          "Triangle AOB gives ∠AOB=180°−(∠A+∠B)/2; triangle COD gives ∠COD=180°−(∠C+∠D)/2.",
+          "Add and use the quadrilateral angle sum 360°: the result is 360−180=180°. The same reasoning for BOC and DOA proves the other pair."
+        ],
+        "hints": [
+          "The circle centre lies on each vertex angle bisector, by congruent right triangles formed by radii and tangent segments.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The circle centre lies on each vertex angle bisector, by congruent right triangles formed by radii and tangent segments.",
+          "Compare step 2: Triangle AOB gives ∠AOB=180°−(∠A+∠B)/2; triangle COD gives ∠COD=180°−(∠C+∠D)/2.",
+          "Compare step 3: Add and use the quadrilateral angle sum 360°: the result is 360−180=180°. The same reasoning for BOC and DOA proves the other pair."
+        ],
+        "sample": "The circle centre lies on each vertex angle bisector, by congruent right triangles formed by radii and tangent segments. Triangle AOB gives ∠AOB=180°−(∠A+∠B)/2; triangle COD gives ∠COD=180°−(∠C+∠D)/2. Add and use the quadrilateral angle sum 360°: the result is 360−180=180°. The same reasoning for BOC and DOA proves the other pair."
+      }
+    ]
+  },
+  "checks": {
+    "8": [
+      {
+        "id": "c8-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "Six ratios from a triangle",
+        "prompt": "For acute A, opposite=8 and adjacent=15. Find sin A, cos A and tan A.",
+        "solution": [
+          "Hypotenuse=sqrt(8²+15²)=17.",
+          "sin A=8/17, cos A=15/17, tan A=8/15."
+        ],
+        "hints": [
+          "Hypotenuse=sqrt(8²+15²)=17.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sin A",
+            "answer": 0.47058823529411764,
+            "kind": "expression"
+          },
+          {
+            "label": "cos A",
+            "answer": 0.8823529411764706,
+            "kind": "expression"
+          },
+          {
+            "label": "tan A",
+            "answer": 0.5333333333333333,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "Exact special angles",
+        "prompt": "Evaluate sec²30°−tan²30°+sin²45°.",
+        "solution": [
+          "sec²30°−tan²30°=1 and sin²45°=1/2.",
+          "Total=3/2."
+        ],
+        "hints": [
+          "sec²30°−tan²30°=1 and sin²45°=1/2.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Value",
+            "answer": 1.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Identity proof",
+        "prompt": "Prove(1−cos²A)/sin A=sin A, stating the domain.",
+        "solution": [
+          "Use 1−cos²A=sin²A.",
+          "Then sin²A/sin A=sin A provided sin A≠0. Acute A satisfies this; A=0° does not."
+        ],
+        "hints": [
+          "Use 1−cos²A=sin²A.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: Use 1−cos²A=sin²A.",
+          "Compare step 2: Then sin²A/sin A=sin A provided sin A≠0. Acute A satisfies this; A=0° does not."
+        ],
+        "sample": "Use 1−cos²A=sin²A. Then sin²A/sin A=sin A provided sin A≠0. Acute A satisfies this; A=0° does not."
+      },
+      {
+        "id": "c8-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "Undefined endpoints",
+        "prompt": "State which of tan 90°, sec 90°, cot 0°, sin 0°, cos 90° are undefined and justify.",
+        "solution": [
+          "tan 90° and sec 90° divide by cos 90°=0. cot 0° divides by sin 0°=0, so all three are undefined.",
+          "sin 0°=0 and cos 90°=0 are defined numerical values. Undefined does not mean 0."
+        ],
+        "hints": [
+          "tan 90° and sec 90° divide by cos 90°=0. cot 0° divides by sin 0°=0, so all three are undefined.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: tan 90° and sec 90° divide by cos 90°=0. cot 0° divides by sin 0°=0, so all three are undefined.",
+          "Compare step 2: sin 0°=0 and cos 90°=0 are defined numerical values. Undefined does not mean 0."
+        ],
+        "sample": "tan 90° and sec 90° divide by cos 90°=0. cot 0° divides by sin 0°=0, so all three are undefined. sin 0°=0 and cos 90°=0 are defined numerical values. Undefined does not mean 0."
+      },
+      {
+        "id": "c8-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Recover two angles",
+        "prompt": "For acute A+B and A−B, sin(A−B)=1/2 and tan(A+B)=1. Find A, B.",
+        "solution": [
+          "A−B=30°, A+B=45°.",
+          "A=37.5°, B=7.5°."
+        ],
+        "hints": [
+          "A−B=30°, A+B=45°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "A (degrees)",
+            "answer": 37.5,
+            "kind": "expression"
+          },
+          {
+            "label": "B (degrees)",
+            "answer": 7.5,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "Reciprocal and quotient",
+        "prompt": "If cos A=5/13 for acute A, find sec A, cot A, cosec A.",
+        "solution": [
+          "Opposite 12, adjacent 5, hypotenuse 13 form a right triangle.",
+          "sec A=13/5, cot A=5/12, cosec A=13/12."
+        ],
+        "hints": [
+          "Opposite 12, adjacent 5, hypotenuse 13 form a right triangle.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "sec A",
+            "answer": 2.6,
+            "kind": "expression"
+          },
+          {
+            "label": "cot A",
+            "answer": 0.4166666666666667,
+            "kind": "expression"
+          },
+          {
+            "label": "cosec A",
+            "answer": 1.0833333333333333,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c8-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "Cancellation needs a domain",
+        "prompt": "Does sin²A/(1−cos A)=1+cos A hold at A=0°? Explain both the simplification and the restriction.",
+        "solution": [
+          "For 1−cos A≠0, factor sin²A=(1−cos A)(1+cos A) and cancel.",
+          "At 0° the original expression is 0/0 and undefined, although the simplified expression has value 2. Cancellation does not add 0° to the original domain."
+        ],
+        "hints": [
+          "For 1−cos A≠0, factor sin²A=(1−cos A)(1+cos A) and cancel.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: For 1−cos A≠0, factor sin²A=(1−cos A)(1+cos A) and cancel.",
+          "Compare step 2: At 0° the original expression is 0/0 and undefined, although the simplified expression has value 2. Cancellation does not add 0° to the original domain."
+        ],
+        "sample": "For 1−cos A≠0, factor sin²A=(1−cos A)(1+cos A) and cancel. At 0° the original expression is 0/0 and undefined, although the simplified expression has value 2. Cancellation does not add 0° to the original domain."
+      }
+    ],
+    "9": [
+      {
+        "id": "c9-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "A ladder’s length",
+        "prompt": "A ladder reaches 6 m up a wall at 30° to level ground. Find length.",
+        "solution": [
+          "sin 30°=6/L →L=12 m."
+        ],
+        "hints": [
+          "sin 30°=6/L →L=12 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Length (m)",
+            "answer": 12.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "Eye height matters",
+        "prompt": "A 1.6 m observer stands 12 m from a tower and sees its top at 45°. Find tower height.",
+        "solution": [
+          "Rise=12 tan 45°=12 m.",
+          "Total height=12+1.6=13.6 m."
+        ],
+        "hints": [
+          "Rise=12 tan 45°=12 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Height (m)",
+            "answer": 13.6,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Same side or opposite sides",
+        "prompt": "From a tower top, two ground points on the same side have horizontal distances 10 m and 30 m. Explain why their separation is 20 m rather than 40 m.",
+        "solution": [
+          "The positions lie on the same ray from the foot, so their coordinate difference is 30−10=20 m.",
+          "Adding distances would apply if the foot lay between the points on opposite sides. A diagram establishes which model applies."
+        ],
+        "hints": [
+          "The positions lie on the same ray from the foot, so their coordinate difference is 30−10=20 m.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The positions lie on the same ray from the foot, so their coordinate difference is 30−10=20 m.",
+          "Compare step 2: Adding distances would apply if the foot lay between the points on opposite sides. A diagram establishes which model applies."
+        ],
+        "sample": "The positions lie on the same ray from the foot, so their coordinate difference is 30−10=20 m. Adding distances would apply if the foot lay between the points on opposite sides. A diagram establishes which model applies."
+      },
+      {
+        "id": "c9-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "Two elevations",
+        "prompt": "A tower top has elevation 30° from a point, then 60° after moving 10 m toward it. Find height.",
+        "solution": [
+          "Let nearer distance x. h=x sqrt(3)=(x+10)/sqrt(3).",
+          "3 x=x+10 →x=5, h=5 sqrt(3) m."
+        ],
+        "hints": [
+          "Let nearer distance x. h=x sqrt(3)=(x+10)/sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Height (m)",
+            "answer": 8.660254037844387,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Depression and elevation",
+        "prompt": "A drone is 20 m directly above a ground point. Depression to a target is 45°. Find horizontal distance, explaining the equal-angle step.",
+        "solution": [
+          "The horizontal through the drone is parallel to level ground, so the angle of elevation from the target is also 45°.",
+          "tan 45°=20/d →d=20 m."
+        ],
+        "hints": [
+          "The horizontal through the drone is parallel to level ground, so the angle of elevation from the target is also 45°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The horizontal through the drone is parallel to level ground, so the angle of elevation from the target is also 45°.",
+          "Compare step 2: tan 45°=20/d →d=20 m."
+        ],
+        "sample": "The horizontal through the drone is parallel to level ground, so the angle of elevation from the target is also 45°. tan 45°=20/d →d=20 m."
+      },
+      {
+        "id": "c9-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "Separate the upper structure",
+        "prompt": "A 12 m building has a mast. From a ground point 12 m away, the mast top has elevation 60°. Find mast height.",
+        "solution": [
+          "Total height=12 tan 60°=12 sqrt(3).",
+          "Mast height=12 sqrt(3)−12=12(sqrt(3)−1) m."
+        ],
+        "hints": [
+          "Total height=12 tan 60°=12 sqrt(3).",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Mast height (m)",
+            "answer": 8.784609690826528,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c9-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "Model a taut cable",
+        "prompt": "A cable makes 60° with the ground. A learner writes cable length=height×sin 60°. Correct the equation and identify the hypotenuse.",
+        "solution": [
+          "The cable is the hypotenuse L; the vertical height h is opposite 60°.",
+          "sin 60°=h/L, so L=h/sin 60°, not h×sin 60°. A hypotenuse must exceed either non-zero leg."
+        ],
+        "hints": [
+          "The cable is the hypotenuse L; the vertical height h is opposite 60°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: The cable is the hypotenuse L; the vertical height h is opposite 60°.",
+          "Compare step 2: sin 60°=h/L, so L=h/sin 60°, not h×sin 60°. A hypotenuse must exceed either non-zero leg."
+        ],
+        "sample": "The cable is the hypotenuse L; the vertical height h is opposite 60°. sin 60°=h/L, so L=h/sin 60°, not h×sin 60°. A hypotenuse must exceed either non-zero leg."
+      }
+    ],
+    "10": [
+      {
+        "id": "c10-Chaptercheck·1",
+        "reference": "Chapter check · 1",
+        "title": "A tangent length",
+        "prompt": "Centre-to-external-point distance is 13 cm and radius 5 cm. Find tangent length.",
+        "solution": [
+          "The radius and tangent meet at 90°.",
+          "Length=sqrt(13²−5²)=12 cm."
+        ],
+        "hints": [
+          "The radius and tangent meet at 90°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Tangent length (cm)",
+            "answer": 12.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Chaptercheck·2",
+        "reference": "Chapter check · 2",
+        "title": "Angle between tangents",
+        "prompt": "A central angle between two contact radii is 124°. Find the angle between tangents from their external intersection.",
+        "solution": [
+          "Two radius-tangent angles are 90°, so central angle+tangent angle=180°.",
+          "Tangent angle=180−124=56°."
+        ],
+        "hints": [
+          "Two radius-tangent angles are 90°, so central angle+tangent angle=180°.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Angle (degrees)",
+            "answer": 56.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Chaptercheck·3",
+        "reference": "Chapter check · 3",
+        "title": "Rebuild the equal-tangent proof",
+        "prompt": "Explain why tangents XA, XB to a circle centred O have equal lengths.",
+        "solution": [
+          "OA⊥XA and OB⊥XB.",
+          "Right triangles OAX, OBX have equal radii and common hypotenuse OX, so RHS congruence gives XA=XB."
+        ],
+        "hints": [
+          "OA⊥XA and OB⊥XB.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: OA⊥XA and OB⊥XB.",
+          "Compare step 2: Right triangles OAX, OBX have equal radii and common hypotenuse OX, so RHS congruence gives XA=XB."
+        ],
+        "sample": "OA⊥XA and OB⊥XB. Right triangles OAX, OBX have equal radii and common hypotenuse OX, so RHS congruence gives XA=XB."
+      },
+      {
+        "id": "c10-Chaptercheck·4",
+        "reference": "Chapter check · 4",
+        "title": "Count with a distance test",
+        "prompt": "A circle has radius 4. For points at distances 2, 4, 7 from its centre, give the number of tangents through each.",
+        "solution": [
+          "Distance 2<4 means inside:0. Distance 4=4 means on the circle:1. Distance 7>4 means outside:2."
+        ],
+        "hints": [
+          "Distance 2<4 means inside:0. Distance 4=4 means on the circle:1. Distance 7>4 means outside:2.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "At distance 2",
+            "answer": 0.0,
+            "kind": "expression"
+          },
+          {
+            "label": "At distance 4",
+            "answer": 1.0,
+            "kind": "expression"
+          },
+          {
+            "label": "At distance 7",
+            "answer": 2.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Chaptercheck·5",
+        "reference": "Chapter check · 5",
+        "title": "Concentric chord",
+        "prompt": "A chord of a radius 10 circle is tangent to a concentric radius 6 circle. Find chord length.",
+        "solution": [
+          "Distance from centre to chord is 6 and the perpendicular bisects it.",
+          "Half-chord=sqrt(100−36)=8; chord=16."
+        ],
+        "hints": [
+          "Distance from centre to chord is 6 and the perpendicular bisects it.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Chord length",
+            "answer": 16.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Chaptercheck·6",
+        "reference": "Chapter check · 6",
+        "title": "Tangent sums",
+        "prompt": "A quadrilateral circumscribes a circle. Three successive sides are 8, 11, 14. Find the fourth, with a reason.",
+        "solution": [
+          "Opposite sums are equal:AB+CD=BC+DA.",
+          "DA=8+14−11=11. Equal tangents at the four vertices justify the sum relation."
+        ],
+        "hints": [
+          "Opposite sums are equal:AB+CD=BC+DA.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "fields": [
+          {
+            "label": "Fourth side",
+            "answer": 11.0,
+            "kind": "expression"
+          }
+        ]
+      },
+      {
+        "id": "c10-Chaptercheck·7",
+        "reference": "Chapter check · 7",
+        "title": "A line versus a segment",
+        "prompt": "A learner says “the tangent line has length 6”. Explain the precise meaning that could make the statement correct.",
+        "solution": [
+          "A line extends without bound and has no finite length.",
+          "A tangent segment from an external point to its point of contact can have length 6. Name both endpoints; the equal-tangent theorem compares such segments."
+        ],
+        "hints": [
+          "A line extends without bound and has no finite length.",
+          "Work from the definitions and check the original conditions before concluding."
+        ],
+        "checklist": [
+          "Compare step 1: A line extends without bound and has no finite length.",
+          "Compare step 2: A tangent segment from an external point to its point of contact can have length 6. Name both endpoints; the equal-tangent theorem compares such segments."
+        ],
+        "sample": "A line extends without bound and has no finite length. A tangent segment from an external point to its point of contact can have length 6. Name both endpoints; the equal-tangent theorem compares such segments."
+      }
+    ]
+  }
+}

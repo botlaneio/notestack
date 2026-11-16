@@ -39,7 +39,7 @@ test('source edge cases retain all valid answers and exact values',()=>{
  assert.ok(task(6,'Theorem 6.3').solution.join(' ').includes('parallelogram'));
 });
 test('expansions migrate old position by stable ID and revisit genuinely new checks',()=>{
- for(const c of newChapters){
+ for(const c of newChapters.filter(c=>c.number<=7)){
   const index=3;const p=restoreSavedProgress({version:1,position:index,attempts:{}},c.steps,c.legacyIds);
   assert.equal(c.steps[p.position].id,c.legacyIds[index]);
   const attempts=Object.fromEntries(c.steps.filter(t=>c.legacyIds.includes(t.id)).map(t=>[t.id,{answer:t.correct,wrong:false,hints:0}]));

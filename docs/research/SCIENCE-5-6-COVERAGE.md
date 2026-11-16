@@ -1,0 +1,23 @@
+# Science 5–6 source audit and implementation
+
+Source: user upload `ch5-6.pdf`, KTBS Class10 English Science 2026–27. The34 PDF pages contain printed pp27–60. Printed pp27–36 overlap the already-mapped Acids chapter. Life Processes is complete at pp37–57; Control and Coordination has only pp58–60, ending mid-section6.1.1. The Chapter6 opener footer says100, an apparent source pagination error; its position before pp59–60 identifies it as58. No later Chapter6 text, summary or end exercises are claimed covered.
+
+## Inventory
+
+- Chapter5:26 guided checkpoints;68 source tasks comprising25 foundations, one summary, all8 activities, all21 in-text questions (p39:4; p45:5; p49:4; p54:5; p56:3), and all13 exercise questions;7 separate app-authored check tasks.
+- Chapter6 supplied opening:6 guided checkpoints;10 source tasks comprising5 opening foundations, Activity6.1, three Figure6.1 identification parts and the p60 reflex discussion;7 app-authored opening-only check tasks. No end exercises supplied. The source-gap notice appears in all four study modes and on the Science index.
+- Chapter5 covers the nutrition, respiration, circulation, plant vascular and excretion sections plus dental caries, ATP, tobacco, blood pressure, haemoglobin research, dialysis and organ-donation sidebars. Source activities are predictions, explanation or research plans; the app does not fabricate measured results, clinic visits or ranges.
+
+## Models and source qualifications
+
+Seven tools reuse the established NoteStack study design and reference lock documented in prior Science research: navy/blue/white, DM Sans/Manrope, focused step–check–feedback flow and the existing Brilliant-style demonstration panel. No new visual direction is introduced. Native controls have labels; conceptual results update visibly; colour is not the only indicator; tables scroll within their containers. These are qualitative teaching models, not biological measurements or clinical tools.
+
+Tools: photosynthesis-factor/starch prediction; alimentary-canal sequence; glucose carbon pathways; human double-circulation route including pulmonary exceptions; xylem conditions and phloem source–sink direction; approximate filtrate/reabsorption balance; neuron chemical synapse and the supplied withdrawal-reflex concept. Practice includes labelled redrawn flow diagrams. The p60 reflex concept is an explanation of supplied text, not a claim to have the later Figure6.2 or remaining sections.
+
+Scientific qualifications retained: visible motion alone does not define life; viruses lack independent metabolism rather than all physical molecular motion; photosynthetic O2 originates from water; plants respire by day and night; guard-cell turgor regulates stomata; bile is not lipase; lacteals transport much absorbed fat; egestion differs from excretion; the initial glucose step yields two pyruvates; no single fixed ATP yield is invented; standard ATP hydrolysis energy depends on conditions and bond breaking alone is not exergonic; muscle lactate does not simply cause delayed soreness; most blood CO2 travels as bicarbonate; artery/vein definitions use direction; crocodilians are a four-chambered reptile exception; phloem direction depends on sources/sinks; dialysis does not duplicate every kidney function; blood-pressure, haemoglobin and water-balance examples are not personal diagnostic thresholds. Actual clinical/veterinary research and written responses remain pending external verification.
+
+Storage uses existing per-subject, chapter and mode IDs; Chapters1–4 and Maths remain separate. Written submissions are not automatically marked scientifically correct; checklists record self-review only.
+
+## Validation
+
+All80 tests pass, covering inventory, metadata required by recap screens, model invariants, writing self-review and original-subject regressions. TypeScript and the Cloudflare production build pass. Chromium completes all32 guided checkpoints,78 source responses and14 independent responses, including wrong-answer/hint evidence, numeric answers, model comparison, written checklists, save/reload, source links and isolated storage. All78 opened source solutions pass at320px; all seven tools and all four modes per chapter pass phone-layout/source-gap checks. Existing Carbon source coverage and Maths navigation remain correct. All90 local study routes return HTTP200. Circulation, nephron and course-index mobile screenshots were inspected. A stale Carbon recap message was also corrected to reflect the already supplied closing pages. Final copy-only index/table captions receive a production rebuild before publication.

@@ -1,0 +1,1893 @@
+{
+  "chapters": {
+    "5": [
+      {
+        "id": "sc5-001",
+        "reference": "Foundation 5 · 5.1 What are Life Processes? · pp 37–39",
+        "title": "Maintenance never takes a break",
+        "prompt": "Explain the source idea and its qualifications: Life processes keep organised living structures functioning, even during sleep. Visible movement alone cannot distinguish every living thing from a non-living object.",
+        "solution": [
+          "Life processes keep organised living structures functioning, even during sleep. Visible movement alone cannot distinguish every living thing from a non-living object.",
+          "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be.",
+          "The source raises viruses as a boundary case. Viruses lack independent cellular metabolism and require host cells for replication; this does not mean that their molecules have literally no physical motion outside a host."
+        ],
+        "hints": [
+          "Life processes keep organised living structures functioning, even during sleep. Visible movement alone cannot distinguish every living thing from a non-living object.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Life processes keep organised living structures functioning, even during sleep. Visible movement alone cannot distinguish every living thing from a non-living object. Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes. Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be. The source raises viruses as a boundary case. Viruses lack independent cellular metabolism and require host cells for replication; this does not mean that their molecules have literally no physical motion outside a host.",
+        "checklist": [
+          "I explained: Life processes keep organised living structures functioning, even during sleep. Visible movement alone cannot distinguish every living thing from a non-living object.",
+          "I explained: Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "I explained: Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be.",
+          "I explained: The source raises viruses as a boundary case. Viruses lack independent cellular metabolism and require host cells for replication; this does not mean that their molecules have literally no physical motion outside a host."
+        ]
+      },
+      {
+        "id": "sc5-002",
+        "reference": "Foundation 5 · 5.1 What are Life Processes? · pp 37–39",
+        "title": "Distance changes the transport problem",
+        "prompt": "Explain the source idea and its qualifications: A small unicellular organism exchanges materials across its surface. In a large multicellular organism many cells are far from that surface.",
+        "solution": [
+          "A small unicellular organism exchanges materials across its surface. In a large multicellular organism many cells are far from that surface.",
+          "Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself.",
+          "Specialised exchange surfaces and transport systems connect the outside environment to internal cells."
+        ],
+        "hints": [
+          "A small unicellular organism exchanges materials across its surface. In a large multicellular organism many cells are far from that surface.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A small unicellular organism exchanges materials across its surface. In a large multicellular organism many cells are far from that surface. Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself. Specialised exchange surfaces and transport systems connect the outside environment to internal cells.",
+        "checklist": [
+          "I explained: A small unicellular organism exchanges materials across its surface. In a large multicellular organism many cells are far from that surface.",
+          "I explained: Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself.",
+          "I explained: Specialised exchange surfaces and transport systems connect the outside environment to internal cells."
+        ]
+      },
+      {
+        "id": "sc5-003",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Build food from simple materials",
+        "prompt": "Explain the source idea and its qualifications: Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+        "solution": [
+          "Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+          "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "Light absorption, energy conversion/water splitting and CO2 reduction need not happen immediately one after another; desert plants can take up CO2 at night. Unused carbohydrate can be stored as starch.",
+          "In the leaf cross-section, chloroplast-containing photosynthetic cells capture light; epidermal layers protect the leaf, air spaces support gas exchange, and vascular tissue supplies water and transports products."
+        ],
+        "hints": [
+          "Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients. A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water. Light absorption, energy conversion/water splitting and CO2 reduction need not happen immediately one after another; desert plants can take up CO2 at night. Unused carbohydrate can be stored as starch. In the leaf cross-section, chloroplast-containing photosynthetic cells capture light; epidermal layers protect the leaf, air spaces support gas exchange, and vascular tissue supplies water and transports products.",
+        "checklist": [
+          "I explained: Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+          "I explained: A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "I explained: Light absorption, energy conversion/water splitting and CO2 reduction need not happen immediately one after another; desert plants can take up CO2 at night. Unused carbohydrate can be stored as starch.",
+          "I explained: In the leaf cross-section, chloroplast-containing photosynthetic cells capture light; epidermal layers protect the leaf, air spaces support gas exchange, and vascular tissue supplies water and transports products."
+        ]
+      },
+      {
+        "id": "sc5-004",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "A pore has a gate",
+        "prompt": "Explain the source idea and its qualifications: Stomata allow gas exchange while guard cells regulate opening and water loss. Gas exchange also occurs across other plant surfaces.",
+        "solution": [
+          "Stomata allow gas exchange while guard cells regulate opening and water loss. Gas exchange also occurs across other plant surfaces.",
+          "Water entering guard cells makes them turgid and tends to open the pore; water loss tends to close it.",
+          "Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2."
+        ],
+        "hints": [
+          "Stomata allow gas exchange while guard cells regulate opening and water loss. Gas exchange also occurs across other plant surfaces.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Stomata allow gas exchange while guard cells regulate opening and water loss. Gas exchange also occurs across other plant surfaces. Water entering guard cells makes them turgid and tends to open the pore; water loss tends to close it. Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2.",
+        "checklist": [
+          "I explained: Stomata allow gas exchange while guard cells regulate opening and water loss. Gas exchange also occurs across other plant surfaces.",
+          "I explained: Water entering guard cells makes them turgid and tends to open the pore; water loss tends to close it.",
+          "I explained: Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2."
+        ]
+      },
+      {
+        "id": "sc5-005",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Different organisms obtain food differently",
+        "prompt": "Explain the source idea and its qualifications: Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment.",
+        "solution": [
+          "Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment.",
+          "Fungi such as bread mould digest externally and absorb products; parasites such as Cuscuta, ticks, lice, leeches and tapeworms obtain nutrients from hosts.",
+          "Amoeba uses pseudopodia to enclose food in a vacuole, digests and absorbs it, then expels residue. Paramecium uses cilia to move food to a specialised intake region."
+        ],
+        "hints": [
+          "Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment. Fungi such as bread mould digest externally and absorb products; parasites such as Cuscuta, ticks, lice, leeches and tapeworms obtain nutrients from hosts. Amoeba uses pseudopodia to enclose food in a vacuole, digests and absorbs it, then expels residue. Paramecium uses cilia to move food to a specialised intake region.",
+        "checklist": [
+          "I explained: Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment.",
+          "I explained: Fungi such as bread mould digest externally and absorb products; parasites such as Cuscuta, ticks, lice, leeches and tapeworms obtain nutrients from hosts.",
+          "I explained: Amoeba uses pseudopodia to enclose food in a vacuole, digests and absorbs it, then expels residue. Paramecium uses cilia to move food to a specialised intake region."
+        ]
+      },
+      {
+        "id": "sc5-006",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Start digestion in the mouth",
+        "prompt": "Explain the source idea and its qualifications: Chewing reduces food size and saliva moistens it. Salivary amylase begins starch digestion; this is not complete digestion of every nutrient.",
+        "solution": [
+          "Chewing reduces food size and saliva moistens it. Salivary amylase begins starch digestion; this is not complete digestion of every nutrient.",
+          "The tongue mixes food with saliva; amylase breaks starch into smaller sugars.",
+          "Peristalsis is coordinated muscular movement pushing food along the oesophagus and gut, rather than gravity alone.",
+          "The labelled alimentary route includes mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. Salivary glands, liver, gallbladder and pancreas provide or store secretions; food does not pass through these glands."
+        ],
+        "hints": [
+          "Chewing reduces food size and saliva moistens it. Salivary amylase begins starch digestion; this is not complete digestion of every nutrient.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Chewing reduces food size and saliva moistens it. Salivary amylase begins starch digestion; this is not complete digestion of every nutrient. The tongue mixes food with saliva; amylase breaks starch into smaller sugars. Peristalsis is coordinated muscular movement pushing food along the oesophagus and gut, rather than gravity alone. The labelled alimentary route includes mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. Salivary glands, liver, gallbladder and pancreas provide or store secretions; food does not pass through these glands.",
+        "checklist": [
+          "I explained: Chewing reduces food size and saliva moistens it. Salivary amylase begins starch digestion; this is not complete digestion of every nutrient.",
+          "I explained: The tongue mixes food with saliva; amylase breaks starch into smaller sugars.",
+          "I explained: Peristalsis is coordinated muscular movement pushing food along the oesophagus and gut, rather than gravity alone.",
+          "I explained: The labelled alimentary route includes mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus. Salivary glands, liver, gallbladder and pancreas provide or store secretions; food does not pass through these glands."
+        ]
+      },
+      {
+        "id": "sc5-007",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Acid and enzymes have different jobs",
+        "prompt": "Explain the source idea and its qualifications: Gastric glands release HCl, pepsin and mucus. Muscular stomach walls mix food and a sphincter regulates release to the small intestine.",
+        "solution": [
+          "Gastric glands release HCl, pepsin and mucus. Muscular stomach walls mix food and a sphincter regulates release to the small intestine.",
+          "HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins.",
+          "Mucus and the intact lining normally protect the stomach; acid alone is not an enzyme that digests all food."
+        ],
+        "hints": [
+          "Gastric glands release HCl, pepsin and mucus. Muscular stomach walls mix food and a sphincter regulates release to the small intestine.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Gastric glands release HCl, pepsin and mucus. Muscular stomach walls mix food and a sphincter regulates release to the small intestine. HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins. Mucus and the intact lining normally protect the stomach; acid alone is not an enzyme that digests all food.",
+        "checklist": [
+          "I explained: Gastric glands release HCl, pepsin and mucus. Muscular stomach walls mix food and a sphincter regulates release to the small intestine.",
+          "I explained: HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins.",
+          "I explained: Mucus and the intact lining normally protect the stomach; acid alone is not an enzyme that digests all food."
+        ]
+      },
+      {
+        "id": "sc5-008",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Bile helps enzymes reach fat",
+        "prompt": "Explain the source idea and its qualifications: The small intestine receives bile from the liver and pancreatic juices. Digestion finishes here before nutrients are absorbed.",
+        "solution": [
+          "The small intestine receives bile from the liver and pancreatic juices. Digestion finishes here before nutrients are absorbed.",
+          "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol.",
+          "The liver makes bile, which is stored and concentrated in the gallbladder and released into the small intestine; the pancreas supplies pancreatic juice."
+        ],
+        "hints": [
+          "The small intestine receives bile from the liver and pancreatic juices. Digestion finishes here before nutrients are absorbed.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The small intestine receives bile from the liver and pancreatic juices. Digestion finishes here before nutrients are absorbed. Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH. Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol. The liver makes bile, which is stored and concentrated in the gallbladder and released into the small intestine; the pancreas supplies pancreatic juice.",
+        "checklist": [
+          "I explained: The small intestine receives bile from the liver and pancreatic juices. Digestion finishes here before nutrients are absorbed.",
+          "I explained: Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "I explained: Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol.",
+          "I explained: The liver makes bile, which is stored and concentrated in the gallbladder and released into the small intestine; the pancreas supplies pancreatic juice."
+        ]
+      },
+      {
+        "id": "sc5-009",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Give absorption more surface",
+        "prompt": "Explain the source idea and its qualifications: Numerous thin-walled villi increase the small intestine’s absorption area. Blood vessels take up many soluble nutrients; lymphatic lacteals carry much absorbed fat.",
+        "solution": [
+          "Numerous thin-walled villi increase the small intestine’s absorption area. Blood vessels take up many soluble nutrients; lymphatic lacteals carry much absorbed fat.",
+          "Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes.",
+          "The large intestine absorbs additional water. Unabsorbed material leaves through the anus under sphincter control: egestion is different from metabolic excretion."
+        ],
+        "hints": [
+          "Numerous thin-walled villi increase the small intestine’s absorption area. Blood vessels take up many soluble nutrients; lymphatic lacteals carry much absorbed fat.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Numerous thin-walled villi increase the small intestine’s absorption area. Blood vessels take up many soluble nutrients; lymphatic lacteals carry much absorbed fat. Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes. The large intestine absorbs additional water. Unabsorbed material leaves through the anus under sphincter control: egestion is different from metabolic excretion.",
+        "checklist": [
+          "I explained: Numerous thin-walled villi increase the small intestine’s absorption area. Blood vessels take up many soluble nutrients; lymphatic lacteals carry much absorbed fat.",
+          "I explained: Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes.",
+          "I explained: The large intestine absorbs additional water. Unabsorbed material leaves through the anus under sphincter control: egestion is different from metabolic excretion."
+        ]
+      },
+      {
+        "id": "sc5-010",
+        "reference": "Foundation 5 · 5.2 Nutrition · pp 39–45",
+        "title": "Connect food, bacteria and plaque",
+        "prompt": "Explain the source idea and its qualifications: The source dental-caries sidebar links bacterial action on sugars to acid that damages tooth mineral.",
+        "solution": [
+          "The source dental-caries sidebar links bacterial action on sugars to acid that damages tooth mineral.",
+          "Plaque holds bacteria and food against the tooth and limits saliva access; damage may progress into dentine and pulp.",
+          "Removing plaque and caring for teeth help prevent decay; tooth pain needs appropriate dental care rather than an app diagnosis."
+        ],
+        "hints": [
+          "The source dental-caries sidebar links bacterial action on sugars to acid that damages tooth mineral.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The source dental-caries sidebar links bacterial action on sugars to acid that damages tooth mineral. Plaque holds bacteria and food against the tooth and limits saliva access; damage may progress into dentine and pulp. Removing plaque and caring for teeth help prevent decay; tooth pain needs appropriate dental care rather than an app diagnosis.",
+        "checklist": [
+          "I explained: The source dental-caries sidebar links bacterial action on sugars to acid that damages tooth mineral.",
+          "I explained: Plaque holds bacteria and food against the tooth and limits saliva access; damage may progress into dentine and pulp.",
+          "I explained: Removing plaque and caring for teeth help prevent decay; tooth pain needs appropriate dental care rather than an app diagnosis."
+        ]
+      },
+      {
+        "id": "sc5-011",
+        "reference": "Foundation 5 · 5.3 Respiration · pp 45–49",
+        "title": "One first step, several later routes",
+        "prompt": "Explain the source idea and its qualifications: Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+        "solution": [
+          "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen.",
+          "Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness."
+        ],
+        "hints": [
+          "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions. With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen. Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness.",
+        "checklist": [
+          "I explained: Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "I explained: With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen.",
+          "I explained: Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness."
+        ]
+      },
+      {
+        "id": "sc5-012",
+        "reference": "Foundation 5 · 5.3 Respiration · pp 45–49",
+        "title": "Transfer energy through ATP",
+        "prompt": "Explain the source idea and its qualifications: Respiration releases energy that cells capture in ATP. ATP hydrolysis can be coupled to muscle contraction, synthesis and nerve activity.",
+        "solution": [
+          "Respiration releases energy that cells capture in ATP. ATP hydrolysis can be coupled to muscle contraction, synthesis and nerve activity.",
+          "ADP + phosphate can be used to make ATP; ATP hydrolysis yields ADP and phosphate and can drive cellular work.",
+          "The source’s roughly 30.5 kJ/mol is a standard biochemical free-energy value, not an identical fixed release in every cell. Breaking an isolated bond itself requires energy; the overall hydrolysis reaction releases usable free energy."
+        ],
+        "hints": [
+          "Respiration releases energy that cells capture in ATP. ATP hydrolysis can be coupled to muscle contraction, synthesis and nerve activity.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Respiration releases energy that cells capture in ATP. ATP hydrolysis can be coupled to muscle contraction, synthesis and nerve activity. ADP + phosphate can be used to make ATP; ATP hydrolysis yields ADP and phosphate and can drive cellular work. The source’s roughly 30.5 kJ/mol is a standard biochemical free-energy value, not an identical fixed release in every cell. Breaking an isolated bond itself requires energy; the overall hydrolysis reaction releases usable free energy.",
+        "checklist": [
+          "I explained: Respiration releases energy that cells capture in ATP. ATP hydrolysis can be coupled to muscle contraction, synthesis and nerve activity.",
+          "I explained: ADP + phosphate can be used to make ATP; ATP hydrolysis yields ADP and phosphate and can drive cellular work.",
+          "I explained: The source’s roughly 30.5 kJ/mol is a standard biochemical free-energy value, not an identical fixed release in every cell. Breaking an isolated bond itself requires energy; the overall hydrolysis reaction releases usable free energy."
+        ]
+      },
+      {
+        "id": "sc5-013",
+        "reference": "Foundation 5 · 5.3 Respiration · pp 45–49",
+        "title": "Plants respire in daylight too",
+        "prompt": "Explain the source idea and its qualifications: Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+        "solution": [
+          "Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+          "At night without photosynthesis, respiration generally gives net O2 uptake and CO2 release.",
+          "In sufficient light, photosynthesis can exceed respiration, giving net CO2 uptake and O2 release. Daylight does not switch cellular respiration off."
+        ],
+        "hints": [
+          "Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions. At night without photosynthesis, respiration generally gives net O2 uptake and CO2 release. In sufficient light, photosynthesis can exceed respiration, giving net CO2 uptake and O2 release. Daylight does not switch cellular respiration off.",
+        "checklist": [
+          "I explained: Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+          "I explained: At night without photosynthesis, respiration generally gives net O2 uptake and CO2 release.",
+          "I explained: In sufficient light, photosynthesis can exceed respiration, giving net CO2 uptake and O2 release. Daylight does not switch cellular respiration off."
+        ]
+      },
+      {
+        "id": "sc5-014",
+        "reference": "Foundation 5 · 5.3 Respiration · pp 45–49",
+        "title": "Move air to a protected surface",
+        "prompt": "Explain the source idea and its qualifications: Air travels through nose, airway, bronchi and branching bronchioles to alveoli. Hairs, mucus and cilia help protect the respiratory passages.",
+        "solution": [
+          "Air travels through nose, airway, bronchi and branching bronchioles to alveoli. Hairs, mucus and cilia help protect the respiratory passages.",
+          "Cartilage supports the trachea. On inhalation ribs rise and the diaphragm contracts/flattens, increasing chest volume and lowering pressure so air enters.",
+          "Lungs retain residual air rather than emptying completely. Tobacco smoke harms cilia and is associated with lung, cardiovascular and other disease; smokeless tobacco is harmful too.",
+          "The labelled airway route is nostrils → nasal passage → pharynx → larynx → trachea → bronchi → bronchioles → alveoli."
+        ],
+        "hints": [
+          "Air travels through nose, airway, bronchi and branching bronchioles to alveoli. Hairs, mucus and cilia help protect the respiratory passages.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Air travels through nose, airway, bronchi and branching bronchioles to alveoli. Hairs, mucus and cilia help protect the respiratory passages. Cartilage supports the trachea. On inhalation ribs rise and the diaphragm contracts/flattens, increasing chest volume and lowering pressure so air enters. Lungs retain residual air rather than emptying completely. Tobacco smoke harms cilia and is associated with lung, cardiovascular and other disease; smokeless tobacco is harmful too. The labelled airway route is nostrils → nasal passage → pharynx → larynx → trachea → bronchi → bronchioles → alveoli.",
+        "checklist": [
+          "I explained: Air travels through nose, airway, bronchi and branching bronchioles to alveoli. Hairs, mucus and cilia help protect the respiratory passages.",
+          "I explained: Cartilage supports the trachea. On inhalation ribs rise and the diaphragm contracts/flattens, increasing chest volume and lowering pressure so air enters.",
+          "I explained: Lungs retain residual air rather than emptying completely. Tobacco smoke harms cilia and is associated with lung, cardiovascular and other disease; smokeless tobacco is harmful too.",
+          "I explained: The labelled airway route is nostrils → nasal passage → pharynx → larynx → trachea → bronchi → bronchioles → alveoli."
+        ]
+      },
+      {
+        "id": "sc5-015",
+        "reference": "Foundation 5 · 5.3 Respiration · pp 45–49",
+        "title": "Exchange across a thin, moist wall",
+        "prompt": "Explain the source idea and its qualifications: Many alveoli provide a large surface, a short diffusion distance and an extensive capillary network. Ventilation and blood flow maintain gradients.",
+        "solution": [
+          "Many alveoli provide a large surface, a short diffusion distance and an extensive capillary network. Ventilation and blood flow maintain gradients.",
+          "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound."
+        ],
+        "hints": [
+          "Many alveoli provide a large surface, a short diffusion distance and an extensive capillary network. Ventilation and blood flow maintain gradients.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Many alveoli provide a large surface, a short diffusion distance and an extensive capillary network. Ventilation and blood flow maintain gradients. O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients. The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound.",
+        "checklist": [
+          "I explained: Many alveoli provide a large surface, a short diffusion distance and an extensive capillary network. Ventilation and blood flow maintain gradients.",
+          "I explained: O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "I explained: The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound."
+        ]
+      },
+      {
+        "id": "sc5-016",
+        "reference": "Foundation 5 · 5.4 Transportation · pp 49–54",
+        "title": "Follow a complete double circuit",
+        "prompt": "Explain the source idea and its qualifications: Blood passes through the heart twice in a full lung-and-body circuit. Valves promote one-way flow.",
+        "solution": [
+          "Blood passes through the heart twice in a full lung-and-body circuit. Valves promote one-way flow.",
+          "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich."
+        ],
+        "hints": [
+          "Blood passes through the heart twice in a full lung-and-body circuit. Valves promote one-way flow.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Blood passes through the heart twice in a full lung-and-body circuit. Valves promote one-way flow. Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body. Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich.",
+        "checklist": [
+          "I explained: Blood passes through the heart twice in a full lung-and-body circuit. Valves promote one-way flow.",
+          "I explained: Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "I explained: Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich."
+        ]
+      },
+      {
+        "id": "sc5-017",
+        "reference": "Foundation 5 · 5.4 Transportation · pp 49–54",
+        "title": "Separate streams for high demand",
+        "prompt": "Explain the source idea and its qualifications: Four-chambered mammal and bird hearts separate oxygen-rich and oxygen-poor streams, supporting high metabolism and body-temperature regulation.",
+        "solution": [
+          "Four-chambered mammal and bird hearts separate oxygen-rich and oxygen-poor streams, supporting high metabolism and body-temperature regulation.",
+          "Fish have a two-chambered heart and a single circulation: heart → gills → body → heart.",
+          "Amphibians and many reptiles have three-chambered hearts with less complete separation. Crocodilians are a four-chambered reptile exception; do not state that every reptile has three chambers."
+        ],
+        "hints": [
+          "Four-chambered mammal and bird hearts separate oxygen-rich and oxygen-poor streams, supporting high metabolism and body-temperature regulation.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Four-chambered mammal and bird hearts separate oxygen-rich and oxygen-poor streams, supporting high metabolism and body-temperature regulation. Fish have a two-chambered heart and a single circulation: heart → gills → body → heart. Amphibians and many reptiles have three-chambered hearts with less complete separation. Crocodilians are a four-chambered reptile exception; do not state that every reptile has three chambers.",
+        "checklist": [
+          "I explained: Four-chambered mammal and bird hearts separate oxygen-rich and oxygen-poor streams, supporting high metabolism and body-temperature regulation.",
+          "I explained: Fish have a two-chambered heart and a single circulation: heart → gills → body → heart.",
+          "I explained: Amphibians and many reptiles have three-chambered hearts with less complete separation. Crocodilians are a four-chambered reptile exception; do not state that every reptile has three chambers."
+        ]
+      },
+      {
+        "id": "sc5-018",
+        "reference": "Foundation 5 · 5.4 Transportation · pp 49–54",
+        "title": "A transport tissue has several components",
+        "prompt": "Explain the source idea and its qualifications: Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+        "solution": [
+          "Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+          "Arteries have strong elastic walls, veins commonly have valves, and capillaries have very thin walls for exchange. Pressure is lower in veins, not zero.",
+          "Lymph returns excess tissue fluid to blood and carries much absorbed intestinal fat. Clotting limits blood loss and helps preserve circulation."
+        ],
+        "hints": [
+          "Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting. Arteries have strong elastic walls, veins commonly have valves, and capillaries have very thin walls for exchange. Pressure is lower in veins, not zero. Lymph returns excess tissue fluid to blood and carries much absorbed intestinal fat. Clotting limits blood loss and helps preserve circulation.",
+        "checklist": [
+          "I explained: Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+          "I explained: Arteries have strong elastic walls, veins commonly have valves, and capillaries have very thin walls for exchange. Pressure is lower in veins, not zero.",
+          "I explained: Lymph returns excess tissue fluid to blood and carries much absorbed intestinal fat. Clotting limits blood loss and helps preserve circulation."
+        ]
+      },
+      {
+        "id": "sc5-019",
+        "reference": "Foundation 5 · 5.4 Transportation · pp 49–54",
+        "title": "A pressure reading has two phases",
+        "prompt": "Explain the source idea and its qualifications: Systolic pressure is associated with ventricular contraction; diastolic pressure is associated with ventricular relaxation.",
+        "solution": [
+          "Systolic pressure is associated with ventricular contraction; diastolic pressure is associated with ventricular relaxation.",
+          "The source uses approximately 120/80 mm Hg as an illustrative adult reading and names a sphygmomanometer.",
+          "Blood pressure varies with age and circumstances; one measurement or this lesson cannot diagnose hypertension. Persistent high pressure can damage vessels and organs."
+        ],
+        "hints": [
+          "Systolic pressure is associated with ventricular contraction; diastolic pressure is associated with ventricular relaxation.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Systolic pressure is associated with ventricular contraction; diastolic pressure is associated with ventricular relaxation. The source uses approximately 120/80 mm Hg as an illustrative adult reading and names a sphygmomanometer. Blood pressure varies with age and circumstances; one measurement or this lesson cannot diagnose hypertension. Persistent high pressure can damage vessels and organs.",
+        "checklist": [
+          "I explained: Systolic pressure is associated with ventricular contraction; diastolic pressure is associated with ventricular relaxation.",
+          "I explained: The source uses approximately 120/80 mm Hg as an illustrative adult reading and names a sphygmomanometer.",
+          "I explained: Blood pressure varies with age and circumstances; one measurement or this lesson cannot diagnose hypertension. Persistent high pressure can damage vessels and organs."
+        ]
+      },
+      {
+        "id": "sc5-020",
+        "reference": "Foundation 5 · 5.4 Transportation · pp 49–54",
+        "title": "Pull water through a continuous column",
+        "prompt": "Explain the source idea and its qualifications: Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+        "solution": [
+          "Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+          "Root pressure can contribute, especially when transpiration is low, but is insufficient alone for many tall trees.",
+          "Evaporation from leaves creates tension; cohesion of the water column links that pull to root supply. Transpiration also contributes to cooling."
+        ],
+        "hints": [
+          "Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward. Root pressure can contribute, especially when transpiration is low, but is insufficient alone for many tall trees. Evaporation from leaves creates tension; cohesion of the water column links that pull to root supply. Transpiration also contributes to cooling.",
+        "checklist": [
+          "I explained: Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+          "I explained: Root pressure can contribute, especially when transpiration is low, but is insufficient alone for many tall trees.",
+          "I explained: Evaporation from leaves creates tension; cohesion of the water column links that pull to root supply. Transpiration also contributes to cooling."
+        ]
+      },
+      {
+        "id": "sc5-021",
+        "reference": "Foundation 5 · 5.4 Transportation · pp 49–54",
+        "title": "Send organic food from source to sink",
+        "prompt": "Explain the source idea and its qualifications: Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+        "solution": [
+          "Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+          "Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only."
+        ],
+        "hints": [
+          "Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function. Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks. Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only.",
+        "checklist": [
+          "I explained: Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+          "I explained: Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "I explained: Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only."
+        ]
+      },
+      {
+        "id": "sc5-022",
+        "reference": "Foundation 5 · 5.5 Excretion · pp 54–56",
+        "title": "Separate urine from blood",
+        "prompt": "Explain the source idea and its qualifications: The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+        "solution": [
+          "The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+          "The glomerular capillaries filter into Bowman’s capsule; blood cells and most large proteins normally remain in blood.",
+          "Tubules reabsorb needed glucose, amino acids, salts and much water. Remaining water and dissolved wastes enter collecting pathways; the bladder stores urine, not blood.",
+          "The renal artery supplies blood to the kidney and the renal vein carries it away. A ureter carries urine, not blood; the tubule is closely associated with blood capillaries for reabsorption."
+        ],
+        "hints": [
+          "The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate. The glomerular capillaries filter into Bowman’s capsule; blood cells and most large proteins normally remain in blood. Tubules reabsorb needed glucose, amino acids, salts and much water. Remaining water and dissolved wastes enter collecting pathways; the bladder stores urine, not blood. The renal artery supplies blood to the kidney and the renal vein carries it away. A ureter carries urine, not blood; the tubule is closely associated with blood capillaries for reabsorption.",
+        "checklist": [
+          "I explained: The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+          "I explained: The glomerular capillaries filter into Bowman’s capsule; blood cells and most large proteins normally remain in blood.",
+          "I explained: Tubules reabsorb needed glucose, amino acids, salts and much water. Remaining water and dissolved wastes enter collecting pathways; the bladder stores urine, not blood.",
+          "I explained: The renal artery supplies blood to the kidney and the renal vein carries it away. A ureter carries urine, not blood; the tubule is closely associated with blood capillaries for reabsorption."
+        ]
+      },
+      {
+        "id": "sc5-023",
+        "reference": "Foundation 5 · 5.5 Excretion · pp 54–56",
+        "title": "Change reabsorption, not the definition of waste",
+        "prompt": "Explain the source idea and its qualifications: Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+        "solution": [
+          "Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+          "The source’s illustrative adult values are around 180 L/day of initial filtrate and 1–2 L/day of urine, showing extensive reabsorption.",
+          "These are approximate physiological examples, not personal hydration targets or a clinical test."
+        ],
+        "hints": [
+          "Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it. The source’s illustrative adult values are around 180 L/day of initial filtrate and 1–2 L/day of urine, showing extensive reabsorption. These are approximate physiological examples, not personal hydration targets or a clinical test.",
+        "checklist": [
+          "I explained: Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+          "I explained: The source’s illustrative adult values are around 180 L/day of initial filtrate and 1–2 L/day of urine, showing extensive reabsorption.",
+          "I explained: These are approximate physiological examples, not personal hydration targets or a clinical test."
+        ]
+      },
+      {
+        "id": "sc5-024",
+        "reference": "Foundation 5 · 5.5 Excretion · pp 54–56",
+        "title": "A membrane can help remove wastes",
+        "prompt": "Explain the source idea and its qualifications: Haemodialysis lets suitable small solutes move between blood and dialysate across a semipermeable membrane. Cells and large proteins remain in the blood pathway.",
+        "solution": [
+          "Haemodialysis lets suitable small solutes move between blood and dialysate across a semipermeable membrane. Cells and large proteins remain in the blood pathway.",
+          "Dialysate composition creates useful gradients; urea can diffuse out. Real treatment also manages excess fluid under clinical control.",
+          "Dialysis does not reproduce every kidney function or the nephron’s selective tubular reabsorption. Organ transplantation involves consent, compatibility and medical eligibility; not every person or organ is automatically suitable."
+        ],
+        "hints": [
+          "Haemodialysis lets suitable small solutes move between blood and dialysate across a semipermeable membrane. Cells and large proteins remain in the blood pathway.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Haemodialysis lets suitable small solutes move between blood and dialysate across a semipermeable membrane. Cells and large proteins remain in the blood pathway. Dialysate composition creates useful gradients; urea can diffuse out. Real treatment also manages excess fluid under clinical control. Dialysis does not reproduce every kidney function or the nephron’s selective tubular reabsorption. Organ transplantation involves consent, compatibility and medical eligibility; not every person or organ is automatically suitable.",
+        "checklist": [
+          "I explained: Haemodialysis lets suitable small solutes move between blood and dialysate across a semipermeable membrane. Cells and large proteins remain in the blood pathway.",
+          "I explained: Dialysate composition creates useful gradients; urea can diffuse out. Real treatment also manages excess fluid under clinical control.",
+          "I explained: Dialysis does not reproduce every kidney function or the nephron’s selective tubular reabsorption. Organ transplantation involves consent, compatibility and medical eligibility; not every person or organ is automatically suitable."
+        ]
+      },
+      {
+        "id": "sc5-025",
+        "reference": "Foundation 5 · 5.5 Excretion · pp 54–56",
+        "title": "Plants use several waste routes",
+        "prompt": "Explain the source idea and its qualifications: Plants exchange gases through surfaces, lose excess water by transpiration and store or release other wastes.",
+        "solution": [
+          "Plants exchange gases through surfaces, lose excess water by transpiration and store or release other wastes.",
+          "Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil.",
+          "O2 may be an excess product of photosynthesis while CO2 is a respiration product; either can also be used in another process."
+        ],
+        "hints": [
+          "Plants exchange gases through surfaces, lose excess water by transpiration and store or release other wastes.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Plants exchange gases through surfaces, lose excess water by transpiration and store or release other wastes. Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil. O2 may be an excess product of photosynthesis while CO2 is a respiration product; either can also be used in another process.",
+        "checklist": [
+          "I explained: Plants exchange gases through surfaces, lose excess water by transpiration and store or release other wastes.",
+          "I explained: Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil.",
+          "I explained: O2 may be an excess product of photosynthesis while CO2 is a respiration product; either can also be used in another process."
+        ]
+      },
+      {
+        "id": "sc5-026",
+        "reference": "Summary · pp56–57",
+        "title": "Connect four maintenance systems",
+        "prompt": "Explain the source idea and its qualifications: Nutrition, respiration, transport and excretion interact. A failure in one can affect the others.",
+        "solution": [
+          "Nutrition, respiration, transport and excretion interact. A failure in one can affect the others.",
+          "Digestion supplies absorbable nutrients, circulation distributes them, cellular respiration releases usable energy, and excretion removes metabolic wastes.",
+          "An alveolus exchanges gases with blood; a nephron filters blood and selectively reabsorbs substances. Both use extensive thin-walled capillary surfaces, but their mechanisms are different."
+        ],
+        "hints": [
+          "Nutrition, respiration, transport and excretion interact. A failure in one can affect the others.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Nutrition, respiration, transport and excretion interact. A failure in one can affect the others. Digestion supplies absorbable nutrients, circulation distributes them, cellular respiration releases usable energy, and excretion removes metabolic wastes. An alveolus exchanges gases with blood; a nephron filters blood and selectively reabsorbs substances. Both use extensive thin-walled capillary surfaces, but their mechanisms are different.",
+        "checklist": [
+          "I explained: Nutrition, respiration, transport and excretion interact. A failure in one can affect the others.",
+          "I explained: Digestion supplies absorbable nutrients, circulation distributes them, cellular respiration releases usable energy, and excretion removes metabolic wastes.",
+          "I explained: An alveolus exchanges gases with blood; a nephron filters blood and selectively reabsorbs substances. Both use extensive thin-walled capillary surfaces, but their mechanisms are different."
+        ]
+      },
+      {
+        "id": "sc5-027",
+        "reference": "Activity 5.1 · p40",
+        "title": "Map chlorophyll and starch",
+        "prompt": "Explain the variegated-leaf comparison: destarching, mapping green areas, light exposure, decolourising and iodine testing. Predict and interpret the observation. The source comparison uses three days in darkness followed by about six hours of sunlight.",
+        "solution": [
+          "Destarching reduces stored-starch interference. Map the original green areas before removing chlorophyll; chlorophyll dissolves into alcohol and the pale leaf makes the iodine colour easier to see.",
+          "After sufficient light under suitable conditions, green areas are expected to turn blue-black with iodine; non-green areas generally do not, linking chlorophyll to starch formation. Iodine detects starch, not chlorophyll directly.",
+          "The hot-water/alcohol stages are a supervised laboratory procedure; flammable alcohol must not be heated over a flame. A predicted result is not an observation made by this app."
+        ],
+        "hints": [
+          "Destarching reduces stored-starch interference. Map the original green areas before removing chlorophyll; chlorophyll dissolves into alcohol and the pale leaf makes the iodine colour easier to see.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Destarching reduces stored-starch interference. Map the original green areas before removing chlorophyll; chlorophyll dissolves into alcohol and the pale leaf makes the iodine colour easier to see. After sufficient light under suitable conditions, green areas are expected to turn blue-black with iodine; non-green areas generally do not, linking chlorophyll to starch formation. Iodine detects starch, not chlorophyll directly. The hot-water/alcohol stages are a supervised laboratory procedure; flammable alcohol must not be heated over a flame. A predicted result is not an observation made by this app.",
+        "checklist": [
+          "I explained: Destarching reduces stored-starch interference. Map the original green areas before removing chlorophyll; chlorophyll dissolves into alcohol and the pale leaf makes the iodine colour easier to see.",
+          "I explained: After sufficient light under suitable conditions, green areas are expected to turn blue-black with iodine; non-green areas generally do not, linking chlorophyll to starch formation. Iodine detects starch, not chlorophyll directly.",
+          "I explained: The hot-water/alcohol stages are a supervised laboratory procedure; flammable alcohol must not be heated over a flame. A predicted result is not an observation made by this app."
+        ]
+      },
+      {
+        "id": "sc5-028",
+        "reference": "Activity 5.2 · p41",
+        "title": "Compare carbon dioxide availability",
+        "prompt": "Explain the two destarched plants under sealed bell jars, one with KOH. Identify the variable, control and expected starch-test result; propose a controlled light comparison. The source uses three days of destarching and about two hours in sunlight under the jars.",
+        "solution": [
+          "KOH absorbs CO2. With other conditions comparable, the jar without KOH is the control and should show more newly formed starch after light exposure than the CO2-depleted jar.",
+          "Control plant condition, light, duration, water and sealing; do not infer a precise starch mass from a yes/no colour test. KOH requires supervised handling.",
+          "For light, cover part of a destarched leaf with an opaque cover while leaving another part exposed, then compare iodine staining after light exposure using a teacher-managed starch test."
+        ],
+        "hints": [
+          "KOH absorbs CO2. With other conditions comparable, the jar without KOH is the control and should show more newly formed starch after light exposure than the CO2-depleted jar.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "KOH absorbs CO2. With other conditions comparable, the jar without KOH is the control and should show more newly formed starch after light exposure than the CO2-depleted jar. Control plant condition, light, duration, water and sealing; do not infer a precise starch mass from a yes/no colour test. KOH requires supervised handling. For light, cover part of a destarched leaf with an opaque cover while leaving another part exposed, then compare iodine staining after light exposure using a teacher-managed starch test.",
+        "checklist": [
+          "I explained: KOH absorbs CO2. With other conditions comparable, the jar without KOH is the control and should show more newly formed starch after light exposure than the CO2-depleted jar.",
+          "I explained: Control plant condition, light, duration, water and sealing; do not infer a precise starch mass from a yes/no colour test. KOH requires supervised handling.",
+          "I explained: For light, cover part of a destarched leaf with an opaque cover while leaving another part exposed, then compare iodine staining after light exposure using a teacher-managed starch test."
+        ]
+      },
+      {
+        "id": "sc5-029",
+        "reference": "Activity 5.3 · p43",
+        "title": "Compare saliva with a control",
+        "prompt": "Interpret starch samples A with saliva and B without saliva after the source waiting period and iodine test. Explain controls and enzyme action. The source samples each contain 1 mL of 1% starch; A receives 1 mL saliva and both wait 20–30 minutes.",
+        "solution": [
+          "In suitable conditions saliva amylase breaks down starch, so A should show reduced or absent blue-black iodine staining compared with B. B retains starch and should turn blue-black.",
+          "Keep starch amounts, temperature and duration comparable. Iodine loss alone shows less detectable starch, not that all nutrients have been digested. Do not share saliva samples or perform ingestion tests."
+        ],
+        "hints": [
+          "In suitable conditions saliva amylase breaks down starch, so A should show reduced or absent blue-black iodine staining compared with B. B retains starch and should turn blue-black.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "In suitable conditions saliva amylase breaks down starch, so A should show reduced or absent blue-black iodine staining compared with B. B retains starch and should turn blue-black. Keep starch amounts, temperature and duration comparable. Iodine loss alone shows less detectable starch, not that all nutrients have been digested. Do not share saliva samples or perform ingestion tests.",
+        "checklist": [
+          "I explained: In suitable conditions saliva amylase breaks down starch, so A should show reduced or absent blue-black iodine staining compared with B. B retains starch and should turn blue-black.",
+          "I explained: Keep starch amounts, temperature and duration comparable. Iodine loss alone shows less detectable starch, not that all nutrients have been digested. Do not share saliva samples or perform ingestion tests."
+        ]
+      },
+      {
+        "id": "sc5-030",
+        "reference": "Activity 5.4 · p45",
+        "title": "Compare exhaled and room air",
+        "prompt": "Interpret the source limewater comparison using exhaled air versus pumped room air. What should be controlled and what can be concluded?",
+        "solution": [
+          "Exhaled air normally has more CO2, so with comparable air delivery it turns limewater milky sooner as CaCO3 forms: CO2 + Ca(OH)2 → CaCO3 + H2O.",
+          "Control limewater volume/concentration and air flow. Timing is not a direct CO2 concentration without calibration; excess CO2 can eventually clear milkiness. This is a supervised demonstration, not a task to blow into chemicals."
+        ],
+        "hints": [
+          "Exhaled air normally has more CO2, so with comparable air delivery it turns limewater milky sooner as CaCO3 forms: CO2 + Ca(OH)2 → CaCO3 + H2O.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Exhaled air normally has more CO2, so with comparable air delivery it turns limewater milky sooner as CaCO3 forms: CO2 + Ca(OH)2 → CaCO3 + H2O. Control limewater volume/concentration and air flow. Timing is not a direct CO2 concentration without calibration; excess CO2 can eventually clear milkiness. This is a supervised demonstration, not a task to blow into chemicals.",
+        "checklist": [
+          "I explained: Exhaled air normally has more CO2, so with comparable air delivery it turns limewater milky sooner as CaCO3 forms: CO2 + Ca(OH)2 → CaCO3 + H2O.",
+          "I explained: Control limewater volume/concentration and air flow. Timing is not a direct CO2 concentration without calibration; excess CO2 can eventually clear milkiness. This is a supervised demonstration, not a task to blow into chemicals."
+        ]
+      },
+      {
+        "id": "sc5-031",
+        "reference": "Activity 5.5 · p45",
+        "title": "Interpret yeast fermentation",
+        "prompt": "Predict the limewater observation for yeast in sugar solution connected to a gas outlet. Explain what the observation does and does not establish.",
+        "solution": [
+          "Active yeast fermentation can release CO2, making limewater milky. The source pathway also forms ethanol and releases some usable energy.",
+          "Use a suitable control without active yeast and comparable conditions. The CO2 test alone does not identify ethanol or measure its amount. Interpret the apparatus rather than preparing or consuming a fermentation product."
+        ],
+        "hints": [
+          "Active yeast fermentation can release CO2, making limewater milky. The source pathway also forms ethanol and releases some usable energy.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Active yeast fermentation can release CO2, making limewater milky. The source pathway also forms ethanol and releases some usable energy. Use a suitable control without active yeast and comparable conditions. The CO2 test alone does not identify ethanol or measure its amount. Interpret the apparatus rather than preparing or consuming a fermentation product.",
+        "checklist": [
+          "I explained: Active yeast fermentation can release CO2, making limewater milky. The source pathway also forms ethanol and releases some usable energy.",
+          "I explained: Use a suitable control without active yeast and comparable conditions. The CO2 test alone does not identify ethanol or measure its amount. Interpret the apparatus rather than preparing or consuming a fermentation product."
+        ]
+      },
+      {
+        "id": "sc5-032",
+        "reference": "Activity 5.6 · p47",
+        "title": "Compare fish ventilation and breathing",
+        "prompt": "Explain coordinated fish-mouth and gill-cover movements and plan the source one-minute comparison with human breathing without inventing measurements.",
+        "solution": [
+          "Water passes across gills, which take up dissolved oxygen; mouth and operculum movements help drive a coordinated water flow.",
+          "Count cycles for a stated interval and compare units such as cycles/minute. Dissolved oxygen availability is lower than in air, but rates depend on species, temperature, activity and size; there is no universal fish-to-human ratio. Observe without handling or stressing animals; an app model supplies no actual count."
+        ],
+        "hints": [
+          "Water passes across gills, which take up dissolved oxygen; mouth and operculum movements help drive a coordinated water flow.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Water passes across gills, which take up dissolved oxygen; mouth and operculum movements help drive a coordinated water flow. Count cycles for a stated interval and compare units such as cycles/minute. Dissolved oxygen availability is lower than in air, but rates depend on species, temperature, activity and size; there is no universal fish-to-human ratio. Observe without handling or stressing animals; an app model supplies no actual count.",
+        "checklist": [
+          "I explained: Water passes across gills, which take up dissolved oxygen; mouth and operculum movements help drive a coordinated water flow.",
+          "I explained: Count cycles for a stated interval and compare units such as cycles/minute. Dissolved oxygen availability is lower than in air, but rates depend on species, temperature, activity and size; there is no universal fish-to-human ratio. Observe without handling or stressing animals; an app model supplies no actual count."
+        ]
+      },
+      {
+        "id": "sc5-033",
+        "reference": "Activity 5.7 · p49",
+        "title": "Research haemoglobin reference ranges",
+        "prompt": "Plan the source comparison of haemoglobin reference ranges in children/adults, men/women, and calves/adult male and female cattle. How should differences be interpreted?",
+        "solution": [
+          "Use qualified health and veterinary sources, recording age, sex, species, units and the reference population; a useful table keeps these categories separate.",
+          "Ranges vary with growth, hormones, pregnancy, altitude, species and laboratory method. Menstrual blood loss can contribute to population differences, but sex does not determine an individual result.",
+          "No range or clinic visit has been supplied here. Do not fabricate measurements, diagnose anaemia or apply a human range to a calf; a qualified clinician or veterinarian interprets an individual result."
+        ],
+        "hints": [
+          "Use qualified health and veterinary sources, recording age, sex, species, units and the reference population; a useful table keeps these categories separate.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Use qualified health and veterinary sources, recording age, sex, species, units and the reference population; a useful table keeps these categories separate. Ranges vary with growth, hormones, pregnancy, altitude, species and laboratory method. Menstrual blood loss can contribute to population differences, but sex does not determine an individual result. No range or clinic visit has been supplied here. Do not fabricate measurements, diagnose anaemia or apply a human range to a calf; a qualified clinician or veterinarian interprets an individual result.",
+        "checklist": [
+          "I explained: Use qualified health and veterinary sources, recording age, sex, species, units and the reference population; a useful table keeps these categories separate.",
+          "I explained: Ranges vary with growth, hormones, pregnancy, altitude, species and laboratory method. Menstrual blood loss can contribute to population differences, but sex does not determine an individual result.",
+          "I explained: No range or clinic visit has been supplied here. Do not fabricate measurements, diagnose anaemia or apply a human range to a calf; a qualified clinician or veterinarian interprets an individual result."
+        ]
+      },
+      {
+        "id": "sc5-034",
+        "reference": "Activity 5.8 · p53",
+        "title": "Separate transpiration from soil evaporation",
+        "prompt": "Explain the equal-pot plant versus stick comparison with soil covered and transparent covers above. Predict the droplets and justify the control. The source compares the matched setups after about half an hour in bright sunlight.",
+        "solution": [
+          "With comparable conditions, the plant cover should develop more condensation because leaves release water vapour by transpiration; the stick is a non-transpiring control.",
+          "Covering both soil surfaces limits soil evaporation as a confounder. Match pot/soil size, exposure and time, and check for leaks or pre-existing moisture.",
+          "Condensation is a qualitative observation, not a direct measure of all xylem flow. Water supply and stomatal state affect the result."
+        ],
+        "hints": [
+          "With comparable conditions, the plant cover should develop more condensation because leaves release water vapour by transpiration; the stick is a non-transpiring control.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "With comparable conditions, the plant cover should develop more condensation because leaves release water vapour by transpiration; the stick is a non-transpiring control. Covering both soil surfaces limits soil evaporation as a confounder. Match pot/soil size, exposure and time, and check for leaks or pre-existing moisture. Condensation is a qualitative observation, not a direct measure of all xylem flow. Water supply and stomatal state affect the result.",
+        "checklist": [
+          "I explained: With comparable conditions, the plant cover should develop more condensation because leaves release water vapour by transpiration; the stick is a non-transpiring control.",
+          "I explained: Covering both soil surfaces limits soil evaporation as a confounder. Match pot/soil size, exposure and time, and check for leaks or pre-existing moisture.",
+          "I explained: Condensation is a qualitative observation, not a direct measure of all xylem flow. Water supply and stomatal state affect the result."
+        ]
+      },
+      {
+        "id": "sc5-035",
+        "reference": "In-text · p39 Q1",
+        "title": "Diffusion in a large body",
+        "prompt": "Why is diffusion alone insufficient for human oxygen requirements?",
+        "solution": [
+          "Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself.",
+          "Specialised exchange surfaces and transport systems connect the outside environment to internal cells."
+        ],
+        "hints": [
+          "Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself. Specialised exchange surfaces and transport systems connect the outside environment to internal cells.",
+        "checklist": [
+          "I explained: Diffusion is effective across short distances, but cannot supply deep tissues rapidly enough by itself.",
+          "I explained: Specialised exchange surfaces and transport systems connect the outside environment to internal cells."
+        ]
+      },
+      {
+        "id": "sc5-036",
+        "reference": "In-text · p39 Q2",
+        "title": "Evidence of being alive",
+        "prompt": "What criteria help decide whether something is alive? Explain why visible movement alone is insufficient.",
+        "solution": [
+          "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be."
+        ],
+        "hints": [
+          "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes. Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be.",
+        "checklist": [
+          "I explained: Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "I explained: Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be."
+        ]
+      },
+      {
+        "id": "sc5-037",
+        "reference": "In-text · p39 Q3",
+        "title": "Outside raw materials",
+        "prompt": "Which raw materials does an organism obtain from outside and what are they used for?",
+        "solution": [
+          "Depending on its nutrition and metabolism, an organism needs materials such as food or CO2, water, mineral nutrients and often oxygen.",
+          "They supply energy sources and building/repair materials. Not every organism requires the same food or oxygen; anaerobic pathways are exceptions."
+        ],
+        "hints": [
+          "Depending on its nutrition and metabolism, an organism needs materials such as food or CO2, water, mineral nutrients and often oxygen.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Depending on its nutrition and metabolism, an organism needs materials such as food or CO2, water, mineral nutrients and often oxygen. They supply energy sources and building/repair materials. Not every organism requires the same food or oxygen; anaerobic pathways are exceptions.",
+        "checklist": [
+          "I explained: Depending on its nutrition and metabolism, an organism needs materials such as food or CO2, water, mineral nutrients and often oxygen.",
+          "I explained: They supply energy sources and building/repair materials. Not every organism requires the same food or oxygen; anaerobic pathways are exceptions."
+        ]
+      },
+      {
+        "id": "sc5-038",
+        "reference": "In-text · p39 Q4",
+        "title": "Essential maintenance",
+        "prompt": "Which processes are essential for maintaining an individual organism? Explain their connections.",
+        "solution": [
+          "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be."
+        ],
+        "hints": [
+          "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes. Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be.",
+        "checklist": [
+          "I explained: Nutrition supplies materials and energy sources; respiration makes energy available; transport distributes materials; excretion removes metabolic wastes.",
+          "I explained: Invisible molecular activity continues in living cells. A stationary plant can be alive, and a moving car need not be."
+        ]
+      },
+      {
+        "id": "sc5-039",
+        "reference": "In-text · p45 Q1",
+        "title": "Two nutrition strategies",
+        "prompt": "Distinguish autotrophic from heterotrophic nutrition.",
+        "solution": [
+          "Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+          "Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment.",
+          "Autotrophs build organic food from inorganic carbon using an energy source; heterotrophs obtain organic food directly or indirectly from other organisms."
+        ],
+        "hints": [
+          "Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients. Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment. Autotrophs build organic food from inorganic carbon using an energy source; heterotrophs obtain organic food directly or indirectly from other organisms.",
+        "checklist": [
+          "I explained: Photosynthetic autotrophs use light captured by chlorophyll to make organic food from CO2 and water. They also need mineral nutrients.",
+          "I explained: Heterotrophs obtain organic material made by other organisms. Their feeding structures reflect their food and environment.",
+          "I explained: Autotrophs build organic food from inorganic carbon using an energy source; heterotrophs obtain organic food directly or indirectly from other organisms."
+        ]
+      },
+      {
+        "id": "sc5-040",
+        "reference": "In-text · p45 Q2",
+        "title": "Photosynthesis inputs",
+        "prompt": "Where do plants obtain the raw materials required for photosynthesis?",
+        "solution": [
+          "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2.",
+          "CO2 enters mainly through stomata; roots take up water from soil. Sunlight supplies energy and chlorophyll captures it; neither is consumed as a carbon raw material."
+        ],
+        "hints": [
+          "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water. Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2. CO2 enters mainly through stomata; roots take up water from soil. Sunlight supplies energy and chlorophyll captures it; neither is consumed as a carbon raw material.",
+        "checklist": [
+          "I explained: A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "I explained: Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2.",
+          "I explained: CO2 enters mainly through stomata; roots take up water from soil. Sunlight supplies energy and chlorophyll captures it; neither is consumed as a carbon raw material."
+        ]
+      },
+      {
+        "id": "sc5-041",
+        "reference": "In-text · p45 Q3",
+        "title": "Stomach acid",
+        "prompt": "What is the role of acid in the stomach?",
+        "solution": [
+          "HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins.",
+          "Mucus and the intact lining normally protect the stomach; acid alone is not an enzyme that digests all food."
+        ],
+        "hints": [
+          "HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins. Mucus and the intact lining normally protect the stomach; acid alone is not an enzyme that digests all food.",
+        "checklist": [
+          "I explained: HCl provides the acidic conditions for pepsin and helps kill many swallowed microbes. Pepsin digests proteins.",
+          "I explained: Mucus and the intact lining normally protect the stomach; acid alone is not an enzyme that digests all food."
+        ]
+      },
+      {
+        "id": "sc5-042",
+        "reference": "In-text · p45 Q4",
+        "title": "Digestive enzymes",
+        "prompt": "What is the function of digestive enzymes? Give source examples.",
+        "solution": [
+          "Enzymes catalyse breakdown of complex food into smaller absorbable products. They have specific roles and appropriate conditions.",
+          "Amylase acts on starch, pepsin/trypsin on proteins, and lipase on fats. Bile emulsifies fat but is not a digestive enzyme."
+        ],
+        "hints": [
+          "Enzymes catalyse breakdown of complex food into smaller absorbable products. They have specific roles and appropriate conditions.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Enzymes catalyse breakdown of complex food into smaller absorbable products. They have specific roles and appropriate conditions. Amylase acts on starch, pepsin/trypsin on proteins, and lipase on fats. Bile emulsifies fat but is not a digestive enzyme.",
+        "checklist": [
+          "I explained: Enzymes catalyse breakdown of complex food into smaller absorbable products. They have specific roles and appropriate conditions.",
+          "I explained: Amylase acts on starch, pepsin/trypsin on proteins, and lipase on fats. Bile emulsifies fat but is not a digestive enzyme."
+        ]
+      },
+      {
+        "id": "sc5-043",
+        "reference": "In-text · p45 Q5",
+        "title": "Absorption design",
+        "prompt": "How is the small intestine designed for efficient absorption?",
+        "solution": [
+          "Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes.",
+          "The large intestine absorbs additional water. Unabsorbed material leaves through the anus under sphincter control: egestion is different from metabolic excretion.",
+          "Numerous villi increase surface area; their thin lining, capillaries and lacteals support absorption and onward transport."
+        ],
+        "hints": [
+          "Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes. The large intestine absorbs additional water. Unabsorbed material leaves through the anus under sphincter control: egestion is different from metabolic excretion. Numerous villi increase surface area; their thin lining, capillaries and lacteals support absorption and onward transport.",
+        "checklist": [
+          "I explained: Small intestine length and diet differ among animals; herbivore digestion often depends on microbial partners for cellulose. Humans do not digest cellulose with their own enzymes.",
+          "I explained: The large intestine absorbs additional water. Unabsorbed material leaves through the anus under sphincter control: egestion is different from metabolic excretion.",
+          "I explained: Numerous villi increase surface area; their thin lining, capillaries and lacteals support absorption and onward transport."
+        ]
+      },
+      {
+        "id": "sc5-044",
+        "reference": "In-text · p49 Q1",
+        "title": "Air versus water",
+        "prompt": "What advantage does a terrestrial organism have over an aquatic organism in obtaining oxygen?",
+        "solution": [
+          "Air contains much more available oxygen than an equal volume of ordinary water contains as dissolved oxygen.",
+          "Aquatic animals move water across appropriate surfaces such as gills. Comparative ventilation rates vary by organism and conditions; this is not a universal numerical ratio."
+        ],
+        "hints": [
+          "Air contains much more available oxygen than an equal volume of ordinary water contains as dissolved oxygen.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Air contains much more available oxygen than an equal volume of ordinary water contains as dissolved oxygen. Aquatic animals move water across appropriate surfaces such as gills. Comparative ventilation rates vary by organism and conditions; this is not a universal numerical ratio.",
+        "checklist": [
+          "I explained: Air contains much more available oxygen than an equal volume of ordinary water contains as dissolved oxygen.",
+          "I explained: Aquatic animals move water across appropriate surfaces such as gills. Comparative ventilation rates vary by organism and conditions; this is not a universal numerical ratio."
+        ]
+      },
+      {
+        "id": "sc5-045",
+        "reference": "In-text · p49 Q2",
+        "title": "Glucose pathways",
+        "prompt": "Explain the different pathways that break down glucose to provide usable energy.",
+        "solution": [
+          "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen.",
+          "Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness."
+        ],
+        "hints": [
+          "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions. With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen. Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness.",
+        "checklist": [
+          "I explained: Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "I explained: With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen.",
+          "I explained: Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness."
+        ]
+      },
+      {
+        "id": "sc5-046",
+        "reference": "In-text · p49 Q3",
+        "title": "Transport respiratory gases",
+        "prompt": "How are oxygen and carbon dioxide transported in human beings?",
+        "solution": [
+          "The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound.",
+          "Haemoglobin in red blood cells reversibly binds most O2. Most CO2 is carried as bicarbonate, with some dissolved and some bound to haemoglobin; transport maintains delivery and removal gradients."
+        ],
+        "hints": [
+          "The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound. Haemoglobin in red blood cells reversibly binds most O2. Most CO2 is carried as bicarbonate, with some dissolved and some bound to haemoglobin; transport maintains delivery and removal gradients.",
+        "checklist": [
+          "I explained: The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound.",
+          "I explained: Haemoglobin in red blood cells reversibly binds most O2. Most CO2 is carried as bicarbonate, with some dissolved and some bound to haemoglobin; transport maintains delivery and removal gradients."
+        ]
+      },
+      {
+        "id": "sc5-047",
+        "reference": "In-text · p49 Q4",
+        "title": "Lung exchange design",
+        "prompt": "How are human lungs designed to maximise gas-exchange area?",
+        "solution": [
+          "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound."
+        ],
+        "hints": [
+          "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients. The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound.",
+        "checklist": [
+          "I explained: O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "I explained: The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound."
+        ]
+      },
+      {
+        "id": "sc5-048",
+        "reference": "In-text · p54 Q1",
+        "title": "Human transport components",
+        "prompt": "Name the human transport-system components and explain their functions.",
+        "solution": [
+          "Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+          "Arteries have strong elastic walls, veins commonly have valves, and capillaries have very thin walls for exchange. Pressure is lower in veins, not zero.",
+          "Lymph returns excess tissue fluid to blood and carries much absorbed intestinal fat. Clotting limits blood loss and helps preserve circulation.",
+          "The heart pumps blood; vessels form delivery, exchange and return routes. Lymph connects tissue-fluid return and fat absorption with circulation."
+        ],
+        "hints": [
+          "Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting. Arteries have strong elastic walls, veins commonly have valves, and capillaries have very thin walls for exchange. Pressure is lower in veins, not zero. Lymph returns excess tissue fluid to blood and carries much absorbed intestinal fat. Clotting limits blood loss and helps preserve circulation. The heart pumps blood; vessels form delivery, exchange and return routes. Lymph connects tissue-fluid return and fat absorption with circulation.",
+        "checklist": [
+          "I explained: Plasma carries dissolved substances; red blood cells contain haemoglobin; white cells support defence; platelets support clotting.",
+          "I explained: Arteries have strong elastic walls, veins commonly have valves, and capillaries have very thin walls for exchange. Pressure is lower in veins, not zero.",
+          "I explained: Lymph returns excess tissue fluid to blood and carries much absorbed intestinal fat. Clotting limits blood loss and helps preserve circulation.",
+          "I explained: The heart pumps blood; vessels form delivery, exchange and return routes. Lymph connects tissue-fluid return and fat absorption with circulation."
+        ]
+      },
+      {
+        "id": "sc5-049",
+        "reference": "In-text · p54 Q2",
+        "title": "Separate blood streams",
+        "prompt": "Why separate oxygenated and deoxygenated blood in mammals and birds?",
+        "solution": [
+          "Fish have a two-chambered heart and a single circulation: heart → gills → body → heart.",
+          "Amphibians and many reptiles have three-chambered hearts with less complete separation. Crocodilians are a four-chambered reptile exception; do not state that every reptile has three chambers.",
+          "Separation supports efficient oxygen supply for sustained high energy demands and internal temperature regulation."
+        ],
+        "hints": [
+          "Fish have a two-chambered heart and a single circulation: heart → gills → body → heart.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Fish have a two-chambered heart and a single circulation: heart → gills → body → heart. Amphibians and many reptiles have three-chambered hearts with less complete separation. Crocodilians are a four-chambered reptile exception; do not state that every reptile has three chambers. Separation supports efficient oxygen supply for sustained high energy demands and internal temperature regulation.",
+        "checklist": [
+          "I explained: Fish have a two-chambered heart and a single circulation: heart → gills → body → heart.",
+          "I explained: Amphibians and many reptiles have three-chambered hearts with less complete separation. Crocodilians are a four-chambered reptile exception; do not state that every reptile has three chambers.",
+          "I explained: Separation supports efficient oxygen supply for sustained high energy demands and internal temperature regulation."
+        ]
+      },
+      {
+        "id": "sc5-050",
+        "reference": "In-text · p54 Q3",
+        "title": "Plant vascular tissues",
+        "prompt": "Name the transport-system components of highly organised plants and their roles.",
+        "solution": [
+          "Xylem vessels/tracheids carry water and dissolved minerals mainly from roots toward shoots.",
+          "Phloem sieve tubes and companion cells translocate organic solutes between sources and sinks according to need."
+        ],
+        "hints": [
+          "Xylem vessels/tracheids carry water and dissolved minerals mainly from roots toward shoots.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Xylem vessels/tracheids carry water and dissolved minerals mainly from roots toward shoots. Phloem sieve tubes and companion cells translocate organic solutes between sources and sinks according to need.",
+        "checklist": [
+          "I explained: Xylem vessels/tracheids carry water and dissolved minerals mainly from roots toward shoots.",
+          "I explained: Phloem sieve tubes and companion cells translocate organic solutes between sources and sinks according to need."
+        ]
+      },
+      {
+        "id": "sc5-051",
+        "reference": "In-text · p54 Q4",
+        "title": "Water and minerals",
+        "prompt": "Explain water and mineral transport in plants.",
+        "solution": [
+          "Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+          "Root pressure can contribute, especially when transpiration is low, but is insufficient alone for many tall trees.",
+          "Evaporation from leaves creates tension; cohesion of the water column links that pull to root supply. Transpiration also contributes to cooling."
+        ],
+        "hints": [
+          "Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward. Root pressure can contribute, especially when transpiration is low, but is insufficient alone for many tall trees. Evaporation from leaves creates tension; cohesion of the water column links that pull to root supply. Transpiration also contributes to cooling.",
+        "checklist": [
+          "I explained: Xylem vessels and tracheids connect roots, stems and leaves. Root ion uptake favours water entry; transpiration helps pull water upward.",
+          "I explained: Root pressure can contribute, especially when transpiration is low, but is insufficient alone for many tall trees.",
+          "I explained: Evaporation from leaves creates tension; cohesion of the water column links that pull to root supply. Transpiration also contributes to cooling."
+        ]
+      },
+      {
+        "id": "sc5-052",
+        "reference": "In-text · p54 Q5",
+        "title": "Food transport",
+        "prompt": "Explain how food is translocated in plants.",
+        "solution": [
+          "Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+          "Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only."
+        ],
+        "hints": [
+          "Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function. Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks. Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only.",
+        "checklist": [
+          "I explained: Phloem translocates sugars such as sucrose and other solutes between sources and sinks. Companion cells support sieve-tube function.",
+          "I explained: Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "I explained: Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only."
+        ]
+      },
+      {
+        "id": "sc5-053",
+        "reference": "In-text · p56 Q1",
+        "title": "Nephron structure and function",
+        "prompt": "Describe the structure and functioning of a nephron.",
+        "solution": [
+          "The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+          "The glomerular capillaries filter into Bowman’s capsule; blood cells and most large proteins normally remain in blood.",
+          "Tubules reabsorb needed glucose, amino acids, salts and much water. Remaining water and dissolved wastes enter collecting pathways; the bladder stores urine, not blood."
+        ],
+        "hints": [
+          "The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate. The glomerular capillaries filter into Bowman’s capsule; blood cells and most large proteins normally remain in blood. Tubules reabsorb needed glucose, amino acids, salts and much water. Remaining water and dissolved wastes enter collecting pathways; the bladder stores urine, not blood.",
+        "checklist": [
+          "I explained: The urinary route is kidney → ureter → bladder → urethra. Nephrons form urine through filtration and selective handling of the filtrate.",
+          "I explained: The glomerular capillaries filter into Bowman’s capsule; blood cells and most large proteins normally remain in blood.",
+          "I explained: Tubules reabsorb needed glucose, amino acids, salts and much water. Remaining water and dissolved wastes enter collecting pathways; the bladder stores urine, not blood."
+        ]
+      },
+      {
+        "id": "sc5-054",
+        "reference": "In-text · p56 Q2",
+        "title": "Plant excretion methods",
+        "prompt": "How do plants get rid of excretory products?",
+        "solution": [
+          "Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil.",
+          "O2 may be an excess product of photosynthesis while CO2 is a respiration product; either can also be used in another process."
+        ],
+        "hints": [
+          "Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil. O2 may be an excess product of photosynthesis while CO2 is a respiration product; either can also be used in another process.",
+        "checklist": [
+          "I explained: Vacuoles, shedding leaves, and resins or gums in older xylem can isolate wastes. Some wastes enter surrounding soil.",
+          "I explained: O2 may be an excess product of photosynthesis while CO2 is a respiration product; either can also be used in another process."
+        ]
+      },
+      {
+        "id": "sc5-055",
+        "reference": "In-text · p56 Q3",
+        "title": "Regulate urine amount",
+        "prompt": "How is the amount of urine produced regulated?",
+        "solution": [
+          "Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+          "The source’s illustrative adult values are around 180 L/day of initial filtrate and 1–2 L/day of urine, showing extensive reabsorption.",
+          "These are approximate physiological examples, not personal hydration targets or a clinical test."
+        ],
+        "hints": [
+          "Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it. The source’s illustrative adult values are around 180 L/day of initial filtrate and 1–2 L/day of urine, showing extensive reabsorption. These are approximate physiological examples, not personal hydration targets or a clinical test.",
+        "checklist": [
+          "I explained: Urine amount depends on water balance and dissolved waste load, among other factors. More water can be reabsorbed when the body needs to conserve it.",
+          "I explained: The source’s illustrative adult values are around 180 L/day of initial filtrate and 1–2 L/day of urine, showing extensive reabsorption.",
+          "I explained: These are approximate physiological examples, not personal hydration targets or a clinical test."
+        ]
+      },
+      {
+        "id": "sc5-056",
+        "reference": "Exercise 5 · Q1",
+        "title": "Kidneys and organ systems",
+        "prompt": "Which system includes kidneys: nutrition, respiration, excretion or transportation? Justify the answer.",
+        "solution": [
+          "Excretion (option c). Kidneys remove metabolic wastes and regulate water and solutes, forming urine from blood-derived filtrate."
+        ],
+        "hints": [
+          "Excretion (option c). Kidneys remove metabolic wastes and regulate water and solutes, forming urine from blood-derived filtrate.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Excretion (option c). Kidneys remove metabolic wastes and regulate water and solutes, forming urine from blood-derived filtrate.",
+        "checklist": [
+          "I explained: Excretion (option c). Kidneys remove metabolic wastes and regulate water and solutes, forming urine from blood-derived filtrate."
+        ]
+      },
+      {
+        "id": "sc5-057",
+        "reference": "Exercise 5 · Q2",
+        "title": "Xylem’s role",
+        "prompt": "Which source option describes xylem: transport of water, food, amino acids or oxygen? Explain.",
+        "solution": [
+          "Transport of water (option a), including dissolved mineral ions, is the intended source answer. Phloem is the main route for translocated organic food."
+        ],
+        "hints": [
+          "Transport of water (option a), including dissolved mineral ions, is the intended source answer. Phloem is the main route for translocated organic food.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Transport of water (option a), including dissolved mineral ions, is the intended source answer. Phloem is the main route for translocated organic food.",
+        "checklist": [
+          "I explained: Transport of water (option a), including dissolved mineral ions, is the intended source answer. Phloem is the main route for translocated organic food."
+        ]
+      },
+      {
+        "id": "sc5-058",
+        "reference": "Exercise 5 · Q3",
+        "title": "Autotrophic requirements",
+        "prompt": "For the source photosynthetic nutrition question, choose CO2/water, chlorophyll, sunlight, or all of these. Explain.",
+        "solution": [
+          "All of the above (option d) in this photosynthetic school context: CO2 and water supply material, chlorophyll captures light and sunlight supplies energy.",
+          "The wider term autotrophy also includes chemosynthetic organisms; this question is about photosynthesis."
+        ],
+        "hints": [
+          "All of the above (option d) in this photosynthetic school context: CO2 and water supply material, chlorophyll captures light and sunlight supplies energy.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "All of the above (option d) in this photosynthetic school context: CO2 and water supply material, chlorophyll captures light and sunlight supplies energy. The wider term autotrophy also includes chemosynthetic organisms; this question is about photosynthesis.",
+        "checklist": [
+          "I explained: All of the above (option d) in this photosynthetic school context: CO2 and water supply material, chlorophyll captures light and sunlight supplies energy.",
+          "I explained: The wider term autotrophy also includes chemosynthetic organisms; this question is about photosynthesis."
+        ]
+      },
+      {
+        "id": "sc5-059",
+        "reference": "Exercise 5 · Q4",
+        "title": "Pyruvate oxidation site",
+        "prompt": "Where does the oxygen-dependent breakdown of pyruvate to CO2, water and energy take place: cytoplasm, mitochondria, chloroplast or nucleus?",
+        "solution": [
+          "Mitochondria (option b) in the source eukaryotic pathway. Initial glucose splitting to pyruvate occurs in the cytoplasm."
+        ],
+        "hints": [
+          "Mitochondria (option b) in the source eukaryotic pathway. Initial glucose splitting to pyruvate occurs in the cytoplasm.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Mitochondria (option b) in the source eukaryotic pathway. Initial glucose splitting to pyruvate occurs in the cytoplasm.",
+        "checklist": [
+          "I explained: Mitochondria (option b) in the source eukaryotic pathway. Initial glucose splitting to pyruvate occurs in the cytoplasm."
+        ]
+      },
+      {
+        "id": "sc5-060",
+        "reference": "Exercise 5 · Q5",
+        "title": "Fat digestion",
+        "prompt": "How and where are fats digested in humans?",
+        "solution": [
+          "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol.",
+          "Most fat digestion takes place in the small intestine. Emulsification increases accessible surface; lipase hydrolyses fats. Bile does not itself hydrolyse fat."
+        ],
+        "hints": [
+          "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH. Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol. Most fat digestion takes place in the small intestine. Emulsification increases accessible surface; lipase hydrolyses fats. Bile does not itself hydrolyse fat.",
+        "checklist": [
+          "I explained: Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "I explained: Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol.",
+          "I explained: Most fat digestion takes place in the small intestine. Emulsification increases accessible surface; lipase hydrolyses fats. Bile does not itself hydrolyse fat."
+        ]
+      },
+      {
+        "id": "sc5-061",
+        "reference": "Exercise 5 · Q6",
+        "title": "Saliva and food",
+        "prompt": "What is the role of saliva in digestion?",
+        "solution": [
+          "The tongue mixes food with saliva; amylase breaks starch into smaller sugars.",
+          "Peristalsis is coordinated muscular movement pushing food along the oesophagus and gut, rather than gravity alone.",
+          "Saliva moistens and lubricates food and supplies amylase, which begins starch breakdown into smaller sugars."
+        ],
+        "hints": [
+          "The tongue mixes food with saliva; amylase breaks starch into smaller sugars.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The tongue mixes food with saliva; amylase breaks starch into smaller sugars. Peristalsis is coordinated muscular movement pushing food along the oesophagus and gut, rather than gravity alone. Saliva moistens and lubricates food and supplies amylase, which begins starch breakdown into smaller sugars.",
+        "checklist": [
+          "I explained: The tongue mixes food with saliva; amylase breaks starch into smaller sugars.",
+          "I explained: Peristalsis is coordinated muscular movement pushing food along the oesophagus and gut, rather than gravity alone.",
+          "I explained: Saliva moistens and lubricates food and supplies amylase, which begins starch breakdown into smaller sugars."
+        ]
+      },
+      {
+        "id": "sc5-062",
+        "reference": "Exercise 5 · Q7",
+        "title": "Photosynthesis conditions and products",
+        "prompt": "State the conditions required for photosynthetic autotrophic nutrition and its by-product.",
+        "solution": [
+          "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2.",
+          "Light, chlorophyll, CO2 and water are necessary in the chapter model. Carbohydrates are formed; O2 is released as a by-product from water splitting."
+        ],
+        "hints": [
+          "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water. Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2. Light, chlorophyll, CO2 and water are necessary in the chapter model. Carbohydrates are formed; O2 is released as a by-product from water splitting.",
+        "checklist": [
+          "I explained: A school overall equation is 6CO2 + 6H2O → C6H12O6 + 6O2, with light and chlorophyll. Released O2 originates from water.",
+          "I explained: Roots supply water and minerals including nitrogen compounds, phosphorus, iron and magnesium. Most plants cannot directly use atmospheric N2.",
+          "I explained: Light, chlorophyll, CO2 and water are necessary in the chapter model. Carbohydrates are formed; O2 is released as a by-product from water splitting."
+        ]
+      },
+      {
+        "id": "sc5-063",
+        "reference": "Exercise 5 · Q8",
+        "title": "Compare respiration types",
+        "prompt": "Compare aerobic and anaerobic respiration and name organisms or cells using anaerobic pathways.",
+        "solution": [
+          "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen.",
+          "Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness.",
+          "Aerobic breakdown is more complete and yields more ATP overall; yeast fermentation yields ethanol/CO2, and oxygen-limited muscle cells form lactate. Some bacteria use anaerobic metabolism."
+        ],
+        "hints": [
+          "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions. With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen. Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness. Aerobic breakdown is more complete and yields more ATP overall; yeast fermentation yields ethanol/CO2, and oxygen-limited muscle cells form lactate. Some bacteria use anaerobic metabolism.",
+        "checklist": [
+          "I explained: Glucose is split into two three-carbon pyruvate molecules in the cytoplasm. Later pathways depend on the organism and conditions.",
+          "I explained: With oxygen, mitochondrial reactions release CO2, water and more usable energy overall. Yeast fermentation yields ethanol and CO2 without oxygen.",
+          "I explained: Oxygen-limited muscle cells form lactate (called lactic acid in the source). Immediate fatigue/cramps have several causes; lactate is not the explanation for delayed muscle soreness.",
+          "I explained: Aerobic breakdown is more complete and yields more ATP overall; yeast fermentation yields ethanol/CO2, and oxygen-limited muscle cells form lactate. Some bacteria use anaerobic metabolism."
+        ]
+      },
+      {
+        "id": "sc5-064",
+        "reference": "Exercise 5 · Q9",
+        "title": "Alveolar efficiency",
+        "prompt": "How are alveoli designed to maximise gas exchange?",
+        "solution": [
+          "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound."
+        ],
+        "hints": [
+          "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients. The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound.",
+        "checklist": [
+          "I explained: O2 moves from alveolar air into blood; CO2 moves from blood into alveoli under the usual gradients.",
+          "I explained: The book’s roughly 80 m² is an illustrative estimate; area varies. Haemoglobin in red cells carries most O2; most CO2 travels as bicarbonate in blood, with some dissolved and some bound."
+        ]
+      },
+      {
+        "id": "sc5-065",
+        "reference": "Exercise 5 · Q10",
+        "title": "Haemoglobin deficiency",
+        "prompt": "What consequences could reduced haemoglobin have for the body?",
+        "solution": [
+          "Reduced haemoglobin can reduce blood’s O2-carrying capacity, potentially causing fatigue, pallor, breathlessness or poor exercise tolerance.",
+          "Effects depend on cause and severity. A symptom or this exercise does not diagnose anaemia; a qualified clinician interprets an appropriate blood test."
+        ],
+        "hints": [
+          "Reduced haemoglobin can reduce blood’s O2-carrying capacity, potentially causing fatigue, pallor, breathlessness or poor exercise tolerance.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Reduced haemoglobin can reduce blood’s O2-carrying capacity, potentially causing fatigue, pallor, breathlessness or poor exercise tolerance. Effects depend on cause and severity. A symptom or this exercise does not diagnose anaemia; a qualified clinician interprets an appropriate blood test.",
+        "checklist": [
+          "I explained: Reduced haemoglobin can reduce blood’s O2-carrying capacity, potentially causing fatigue, pallor, breathlessness or poor exercise tolerance.",
+          "I explained: Effects depend on cause and severity. A symptom or this exercise does not diagnose anaemia; a qualified clinician interprets an appropriate blood test."
+        ]
+      },
+      {
+        "id": "sc5-066",
+        "reference": "Exercise 5 · Q11",
+        "title": "Double circulation",
+        "prompt": "Describe human double circulation and explain why it is necessary.",
+        "solution": [
+          "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich.",
+          "Pulmonary circulation sends blood to the lungs and back; systemic circulation delivers it to tissues and returns it. Separation supplies oxygen efficiently and supports suitable pressures in the two circuits."
+        ],
+        "hints": [
+          "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body. Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich. Pulmonary circulation sends blood to the lungs and back; systemic circulation delivers it to tissues and returns it. Separation supplies oxygen efficiently and supports suitable pressures in the two circuits.",
+        "checklist": [
+          "I explained: Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "I explained: Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich.",
+          "I explained: Pulmonary circulation sends blood to the lungs and back; systemic circulation delivers it to tissues and returns it. Separation supplies oxygen efficiently and supports suitable pressures in the two circuits."
+        ]
+      },
+      {
+        "id": "sc5-067",
+        "reference": "Exercise 5 · Q12",
+        "title": "Xylem and phloem comparison",
+        "prompt": "Compare transport in xylem and phloem: materials, direction, cells and energy use.",
+        "solution": [
+          "Xylem uses mainly dead conducting vessels/tracheids for water/minerals, chiefly root-to-shoot, driven largely by transpiration pull with root-pressure contribution.",
+          "Phloem uses living sieve tubes with companion cells, moving organic solutes from sources to sinks upward or downward in different tubes. Loading/unloading can require metabolic energy.",
+          "Xylem flow is mainly physical, but root ion uptake and living-plant regulation still use energy; do not claim no plant energy is involved anywhere."
+        ],
+        "hints": [
+          "Xylem uses mainly dead conducting vessels/tracheids for water/minerals, chiefly root-to-shoot, driven largely by transpiration pull with root-pressure contribution.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Xylem uses mainly dead conducting vessels/tracheids for water/minerals, chiefly root-to-shoot, driven largely by transpiration pull with root-pressure contribution. Phloem uses living sieve tubes with companion cells, moving organic solutes from sources to sinks upward or downward in different tubes. Loading/unloading can require metabolic energy. Xylem flow is mainly physical, but root ion uptake and living-plant regulation still use energy; do not claim no plant energy is involved anywhere.",
+        "checklist": [
+          "I explained: Xylem uses mainly dead conducting vessels/tracheids for water/minerals, chiefly root-to-shoot, driven largely by transpiration pull with root-pressure contribution.",
+          "I explained: Phloem uses living sieve tubes with companion cells, moving organic solutes from sources to sinks upward or downward in different tubes. Loading/unloading can require metabolic energy.",
+          "I explained: Xylem flow is mainly physical, but root ion uptake and living-plant regulation still use energy; do not claim no plant energy is involved anywhere."
+        ]
+      },
+      {
+        "id": "sc5-068",
+        "reference": "Exercise 5 · Q13",
+        "title": "Compare exchange and filtration",
+        "prompt": "Compare alveoli and nephrons by structure and function.",
+        "solution": [
+          "Both have large effective surface area, thin exchange barriers and close capillary connections.",
+          "Alveoli exchange O2 and CO2 mainly by diffusion along gradients; they do not form urine.",
+          "Nephrons filter small substances from blood at the glomerulus/Bowman’s capsule and selectively reabsorb needed substances along tubules, leaving urine. Pressure-driven filtration is not the same as alveolar diffusion."
+        ],
+        "hints": [
+          "Both have large effective surface area, thin exchange barriers and close capillary connections.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Both have large effective surface area, thin exchange barriers and close capillary connections. Alveoli exchange O2 and CO2 mainly by diffusion along gradients; they do not form urine. Nephrons filter small substances from blood at the glomerulus/Bowman’s capsule and selectively reabsorb needed substances along tubules, leaving urine. Pressure-driven filtration is not the same as alveolar diffusion.",
+        "checklist": [
+          "I explained: Both have large effective surface area, thin exchange barriers and close capillary connections.",
+          "I explained: Alveoli exchange O2 and CO2 mainly by diffusion along gradients; they do not form urine.",
+          "I explained: Nephrons filter small substances from blood at the glomerulus/Bowman’s capsule and selectively reabsorb needed substances along tubules, leaving urine. Pressure-driven filtration is not the same as alveolar diffusion."
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "sc6-001",
+        "reference": "Foundation 6 · Introduction and receptors · pp 58–59",
+        "title": "Match a response to a stimulus",
+        "prompt": "Explain this source idea, using a labelled route where helpful: Organisms detect changes and coordinate appropriate responses. Some plant movement is linked to growth; many animal movements are not.",
+        "solution": [
+          "Organisms detect changes and coordinate appropriate responses. Some plant movement is linked to growth; many animal movements are not.",
+          "A stimulus is a detectable change; a response is the resulting action.",
+          "Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response."
+        ],
+        "hints": [
+          "Organisms detect changes and coordinate appropriate responses. Some plant movement is linked to growth; many animal movements are not.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Organisms detect changes and coordinate appropriate responses. Some plant movement is linked to growth; many animal movements are not. A stimulus is a detectable change; a response is the resulting action. Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response.",
+        "checklist": [
+          "I explained: Organisms detect changes and coordinate appropriate responses. Some plant movement is linked to growth; many animal movements are not.",
+          "I explained: A stimulus is a detectable change; a response is the resulting action.",
+          "I explained: Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response."
+        ]
+      },
+      {
+        "id": "sc6-002",
+        "reference": "Foundation 6 · Introduction and receptors · pp 58–59",
+        "title": "Acquire information at a receptor",
+        "prompt": "Explain this source idea, using a labelled route where helpful: Specialised sensory endings detect changes. Gustatory receptors contribute to taste and olfactory receptors to smell.",
+        "solution": [
+          "Specialised sensory endings detect changes. Gustatory receptors contribute to taste and olfactory receptors to smell.",
+          "Detection starts a signal; perception and coordinated response involve subsequent processing.",
+          "Food flavour combines taste, smell and other sensory information. Blocking smell does not necessarily eliminate the sweetness detected by taste receptors."
+        ],
+        "hints": [
+          "Specialised sensory endings detect changes. Gustatory receptors contribute to taste and olfactory receptors to smell.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Specialised sensory endings detect changes. Gustatory receptors contribute to taste and olfactory receptors to smell. Detection starts a signal; perception and coordinated response involve subsequent processing. Food flavour combines taste, smell and other sensory information. Blocking smell does not necessarily eliminate the sweetness detected by taste receptors.",
+        "checklist": [
+          "I explained: Specialised sensory endings detect changes. Gustatory receptors contribute to taste and olfactory receptors to smell.",
+          "I explained: Detection starts a signal; perception and coordinated response involve subsequent processing.",
+          "I explained: Food flavour combines taste, smell and other sensory information. Blocking smell does not necessarily eliminate the sweetness detected by taste receptors."
+        ]
+      },
+      {
+        "id": "sc6-003",
+        "reference": "Foundation 6 · 6.1 Animals—Nervous System · p59",
+        "title": "Trace one neuron’s signal",
+        "prompt": "Explain this source idea, using a labelled route where helpful: In the chapter model, information travels from dendritic regions through the cell body and along the axon toward its terminals.",
+        "solution": [
+          "In the chapter model, information travels from dendritic regions through the cell body and along the axon toward its terminals.",
+          "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "The next neuron can then generate its own electrical impulse; the same electron does not jump across a visible open gap."
+        ],
+        "hints": [
+          "In the chapter model, information travels from dendritic regions through the cell body and along the axon toward its terminals.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "In the chapter model, information travels from dendritic regions through the cell body and along the axon toward its terminals. A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap. The next neuron can then generate its own electrical impulse; the same electron does not jump across a visible open gap.",
+        "checklist": [
+          "I explained: In the chapter model, information travels from dendritic regions through the cell body and along the axon toward its terminals.",
+          "I explained: A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "I explained: The next neuron can then generate its own electrical impulse; the same electron does not jump across a visible open gap."
+        ]
+      },
+      {
+        "id": "sc6-004",
+        "reference": "Foundation 6 · 6.1 Animals—Nervous System · p59",
+        "title": "Connect a nerve signal to an effector",
+        "prompt": "Explain this source idea, using a labelled route where helpful: A motor neuron can communicate with a muscle at a neuromuscular junction; gland cells can also be effectors.",
+        "solution": [
+          "A motor neuron can communicate with a muscle at a neuromuscular junction; gland cells can also be effectors.",
+          "The chemical message at the junction links the nerve impulse to activity in the target cell.",
+          "The supplied Figure 6.1 includes a neuron and a neuromuscular junction; a schematic is not a real-time recording."
+        ],
+        "hints": [
+          "A motor neuron can communicate with a muscle at a neuromuscular junction; gland cells can also be effectors.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A motor neuron can communicate with a muscle at a neuromuscular junction; gland cells can also be effectors. The chemical message at the junction links the nerve impulse to activity in the target cell. The supplied Figure 6.1 includes a neuron and a neuromuscular junction; a schematic is not a real-time recording.",
+        "checklist": [
+          "I explained: A motor neuron can communicate with a muscle at a neuromuscular junction; gland cells can also be effectors.",
+          "I explained: The chemical message at the junction links the nerve impulse to activity in the target cell.",
+          "I explained: The supplied Figure 6.1 includes a neuron and a neuromuscular junction; a schematic is not a real-time recording."
+        ]
+      },
+      {
+        "id": "sc6-005",
+        "reference": "Foundation 6 · 6.1.1 Reflex Actions · p60 · supplied opening",
+        "title": "Take a shorter response route",
+        "prompt": "Explain this source idea, using a labelled route where helpful: The supplied text explains withdrawal reflexes using a short spinal pathway, while sensory information also reaches the brain.",
+        "solution": [
+          "The supplied text explains withdrawal reflexes using a short spinal pathway, while sensory information also reaches the brain.",
+          "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ],
+        "hints": [
+          "The supplied text explains withdrawal reflexes using a short spinal pathway, while sensory information also reaches the brain.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The supplied text explains withdrawal reflexes using a short spinal pathway, while sensory information also reaches the brain. A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector. For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal.",
+        "checklist": [
+          "I explained: The supplied text explains withdrawal reflexes using a short spinal pathway, while sensory information also reaches the brain.",
+          "I explained: A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "I explained: For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ]
+      },
+      {
+        "id": "sc6-006",
+        "reference": "Activity 6.1 · p59",
+        "title": "Taste, smell and flavour",
+        "prompt": "Explain the source sugar/food comparison with the nose open or blocked, and why a cold can change flavour. Separate a prediction from an actual observation.",
+        "solution": [
+          "Sugar’s sweetness is detected by gustatory receptors, while smell contributes strongly to the fuller flavour of food. Reduced nasal airflow can reduce odour information without abolishing all taste.",
+          "A cold can reduce smell and change perceived flavour. Texture, temperature and taste also contribute, so the response need not be identical for every food or person.",
+          "Use familiar observations or a prediction; no tasting experiment or measurement has been performed by this app. Do not obstruct breathing or taste unknown substances."
+        ],
+        "hints": [
+          "Sugar’s sweetness is detected by gustatory receptors, while smell contributes strongly to the fuller flavour of food. Reduced nasal airflow can reduce odour information without abolishing all taste.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Sugar’s sweetness is detected by gustatory receptors, while smell contributes strongly to the fuller flavour of food. Reduced nasal airflow can reduce odour information without abolishing all taste. A cold can reduce smell and change perceived flavour. Texture, temperature and taste also contribute, so the response need not be identical for every food or person. Use familiar observations or a prediction; no tasting experiment or measurement has been performed by this app. Do not obstruct breathing or taste unknown substances.",
+        "checklist": [
+          "I explained: Sugar’s sweetness is detected by gustatory receptors, while smell contributes strongly to the fuller flavour of food. Reduced nasal airflow can reduce odour information without abolishing all taste.",
+          "I explained: A cold can reduce smell and change perceived flavour. Texture, temperature and taste also contribute, so the response need not be identical for every food or person.",
+          "I explained: Use familiar observations or a prediction; no tasting experiment or measurement has been performed by this app. Do not obstruct breathing or taste unknown substances."
+        ]
+      },
+      {
+        "id": "sc6-007",
+        "reference": "Figure 6.1 · p59 (i)",
+        "title": "Identify the input region",
+        "prompt": "In the supplied neuron figure, identify where information is acquired.",
+        "solution": [
+          "Dendritic tips or specialised sensory receptor endings acquire incoming information in the chapter’s simplified neuron model."
+        ],
+        "hints": [
+          "Dendritic tips or specialised sensory receptor endings acquire incoming information in the chapter’s simplified neuron model.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Dendritic tips or specialised sensory receptor endings acquire incoming information in the chapter’s simplified neuron model.",
+        "checklist": [
+          "I explained: Dendritic tips or specialised sensory receptor endings acquire incoming information in the chapter’s simplified neuron model."
+        ]
+      },
+      {
+        "id": "sc6-008",
+        "reference": "Figure 6.1 · p59 (ii)",
+        "title": "Identify the electrical route",
+        "prompt": "Identify the neuron structures through which the information travels as an electrical impulse.",
+        "solution": [
+          "The model route is dendritic region → cell body → axon → axon terminals. The axon carries the impulse away from the cell body toward its targets."
+        ],
+        "hints": [
+          "The model route is dendritic region → cell body → axon → axon terminals. The axon carries the impulse away from the cell body toward its targets.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "The model route is dendritic region → cell body → axon → axon terminals. The axon carries the impulse away from the cell body toward its targets.",
+        "checklist": [
+          "I explained: The model route is dendritic region → cell body → axon → axon terminals. The axon carries the impulse away from the cell body toward its targets."
+        ]
+      },
+      {
+        "id": "sc6-009",
+        "reference": "Figure 6.1 · p59 (iii)",
+        "title": "Identify the chemical hand-off",
+        "prompt": "Where does the neuron impulse become a chemical message for onward transmission?",
+        "solution": [
+          "At axon terminals, the arriving impulse triggers neurotransmitter release into a chemical synapse or neuromuscular junction. The chemical reaches receptors on the next cell."
+        ],
+        "hints": [
+          "At axon terminals, the arriving impulse triggers neurotransmitter release into a chemical synapse or neuromuscular junction. The chemical reaches receptors on the next cell.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "At axon terminals, the arriving impulse triggers neurotransmitter release into a chemical synapse or neuromuscular junction. The chemical reaches receptors on the next cell.",
+        "checklist": [
+          "I explained: At axon terminals, the arriving impulse triggers neurotransmitter release into a chemical synapse or neuromuscular junction. The chemical reaches receptors on the next cell."
+        ]
+      },
+      {
+        "id": "sc6-010",
+        "reference": "Source discussion · p60",
+        "title": "Explain the withdrawal-reflex route",
+        "prompt": "Explain why a withdrawal reflex can be rapid, how the spinal cord participates and whether information still reaches the brain.",
+        "solution": [
+          "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ],
+        "hints": [
+          "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector. For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal.",
+        "checklist": [
+          "I explained: A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "I explained: For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "5": [
+      {
+        "id": "sc5-check-001",
+        "reference": "Independent check · app-authored",
+        "title": "An unlit plant",
+        "prompt": "A plant is kept in darkness. Explain whether its cellular respiration stops and predict the direction of net gas exchange.",
+        "solution": [
+          "Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+          "At night without photosynthesis, respiration generally gives net O2 uptake and CO2 release.",
+          "In sufficient light, photosynthesis can exceed respiration, giving net CO2 uptake and O2 release. Daylight does not switch cellular respiration off."
+        ],
+        "hints": [
+          "Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions. At night without photosynthesis, respiration generally gives net O2 uptake and CO2 release. In sufficient light, photosynthesis can exceed respiration, giving net CO2 uptake and O2 release. Daylight does not switch cellular respiration off.",
+        "checklist": [
+          "I explained: Plants respire continuously. Net gas exchange depends on photosynthesis, respiration and environmental conditions.",
+          "I explained: At night without photosynthesis, respiration generally gives net O2 uptake and CO2 release.",
+          "I explained: In sufficient light, photosynthesis can exceed respiration, giving net CO2 uptake and O2 release. Daylight does not switch cellular respiration off."
+        ]
+      },
+      {
+        "id": "sc5-check-002",
+        "reference": "Independent check · app-authored",
+        "title": "A blocked bile route",
+        "prompt": "Explain why reduced delivery of bile could affect fat digestion even when lipase is present.",
+        "solution": [
+          "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol."
+        ],
+        "hints": [
+          "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH. Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol.",
+        "checklist": [
+          "I explained: Bile helps neutralise acidic contents and emulsifies large fat globules into smaller droplets; bile is not a lipase. Pancreatic bicarbonate also helps provide suitable pH.",
+          "I explained: Trypsin acts on proteins, lipase on fats, and intestinal enzymes complete digestion to absorbable products. The school model lists glucose, amino acids, fatty acids and glycerol."
+        ]
+      },
+      {
+        "id": "sc5-check-003",
+        "reference": "Independent check · app-authored",
+        "title": "Follow one blood route",
+        "prompt": "Trace blood from the body through lungs back to the body, naming chambers and major vessels.",
+        "solution": [
+          "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich."
+        ],
+        "hints": [
+          "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body. Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich.",
+        "checklist": [
+          "I explained: Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.",
+          "I explained: Atria receive blood; ventricles pump it onward and have thicker walls. The left ventricle pumps through the systemic circuit. Arteries lead away from the heart, not necessarily oxygen-rich."
+        ]
+      },
+      {
+        "id": "sc5-check-004",
+        "reference": "Independent check · app-authored",
+        "title": "A source becomes a sink",
+        "prompt": "A growing bud receives sugar stored in a root. Explain the tissue and direction of transport.",
+        "solution": [
+          "Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only."
+        ],
+        "hints": [
+          "Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks. Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only.",
+        "checklist": [
+          "I explained: Energy-dependent loading raises solute concentration; water enters and the resulting pressure difference drives bulk flow toward sinks.",
+          "I explained: Transport can be upward or downward in different tubes according to need. In spring stored root/stem material may supply growing buds; phloem is not always leaf-to-root only."
+        ]
+      },
+      {
+        "id": "sc5-check-005",
+        "reference": "Independent check · app-authored",
+        "title": "Two exchange surfaces",
+        "prompt": "Compare a capillary-linked alveolus with a nephron, distinguishing diffusion from filtration.",
+        "solution": [
+          "Both have large effective surface area, thin exchange barriers and close capillary connections.",
+          "Alveoli exchange O2 and CO2 mainly by diffusion along gradients; they do not form urine.",
+          "Nephrons filter small substances from blood at the glomerulus/Bowman’s capsule and selectively reabsorb needed substances along tubules, leaving urine. Pressure-driven filtration is not the same as alveolar diffusion."
+        ],
+        "hints": [
+          "Both have large effective surface area, thin exchange barriers and close capillary connections.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Both have large effective surface area, thin exchange barriers and close capillary connections. Alveoli exchange O2 and CO2 mainly by diffusion along gradients; they do not form urine. Nephrons filter small substances from blood at the glomerulus/Bowman’s capsule and selectively reabsorb needed substances along tubules, leaving urine. Pressure-driven filtration is not the same as alveolar diffusion.",
+        "checklist": [
+          "I explained: Both have large effective surface area, thin exchange barriers and close capillary connections.",
+          "I explained: Alveoli exchange O2 and CO2 mainly by diffusion along gradients; they do not form urine.",
+          "I explained: Nephrons filter small substances from blood at the glomerulus/Bowman’s capsule and selectively reabsorb needed substances along tubules, leaving urine. Pressure-driven filtration is not the same as alveolar diffusion."
+        ]
+      },
+      {
+        "id": "sc5-check-006",
+        "reference": "Independent check · app-authored",
+        "title": "An illustrative water balance",
+        "prompt": "Using the source example, initial filtrate is 180 L/day and final urine is 2 L/day. Assuming the difference represents reabsorbed water, calculate reabsorption and its percentage of initial filtrate. Treat this as an approximation, not a personal medical value. Round the percentage to two decimal places.",
+        "solution": [
+          "Reabsorbed water ≈ 180 − 2 = 178 L/day.",
+          "Percentage ≈ 100 × 178/180 = 98.89%. Real urine formation also includes tubular secretion and variable solute/water handling."
+        ],
+        "hints": [
+          "Reabsorbed water ≈ 180 − 2 = 178 L/day.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "fields": [
+          {
+            "label": "Reabsorbed water (L/day)",
+            "answer": 178
+          },
+          {
+            "label": "Reabsorbed percentage",
+            "answer": 98.89
+          }
+        ]
+      },
+      {
+        "id": "sc5-check-007",
+        "reference": "Independent check · app-authored",
+        "title": "Count pathways through the heart",
+        "prompt": "In the simplified routes, how many heart passages occur in one full human double circuit and one full fish circuit?",
+        "solution": [
+          "Human double circulation passes through the heart twice; the fish single circuit passes once."
+        ],
+        "hints": [
+          "Human double circulation passes through the heart twice; the fish single circuit passes once.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "fields": [
+          {
+            "label": "Human heart passages",
+            "answer": 2
+          },
+          {
+            "label": "Fish heart passages",
+            "answer": 1
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": "sc6-check-001",
+        "reference": "Independent check · app-authored",
+        "title": "A detected change",
+        "prompt": "Use the terms stimulus, receptor and effector in a coherent example based on the supplied opening.",
+        "solution": [
+          "A stimulus is a detectable change; a response is the resulting action.",
+          "Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response."
+        ],
+        "hints": [
+          "A stimulus is a detectable change; a response is the resulting action.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A stimulus is a detectable change; a response is the resulting action. Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response.",
+        "checklist": [
+          "I explained: A stimulus is a detectable change; a response is the resulting action.",
+          "I explained: Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response."
+        ]
+      },
+      {
+        "id": "sc6-check-002",
+        "reference": "Independent check · app-authored",
+        "title": "Smell and sweetness",
+        "prompt": "Explain why food flavour can change with a blocked nose while sugar can still taste sweet.",
+        "solution": [
+          "Detection starts a signal; perception and coordinated response involve subsequent processing.",
+          "Food flavour combines taste, smell and other sensory information. Blocking smell does not necessarily eliminate the sweetness detected by taste receptors."
+        ],
+        "hints": [
+          "Detection starts a signal; perception and coordinated response involve subsequent processing.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Detection starts a signal; perception and coordinated response involve subsequent processing. Food flavour combines taste, smell and other sensory information. Blocking smell does not necessarily eliminate the sweetness detected by taste receptors.",
+        "checklist": [
+          "I explained: Detection starts a signal; perception and coordinated response involve subsequent processing.",
+          "I explained: Food flavour combines taste, smell and other sensory information. Blocking smell does not necessarily eliminate the sweetness detected by taste receptors."
+        ]
+      },
+      {
+        "id": "sc6-check-003",
+        "reference": "Independent check · app-authored",
+        "title": "An interrupted junction",
+        "prompt": "Predict what could happen to signal transfer if neurotransmitter release at a chemical synapse failed.",
+        "solution": [
+          "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "The next cell may not receive its usual chemical input, so onward electrical activity or the effector response can be impaired; this is a conceptual prediction, not a diagnosis."
+        ],
+        "hints": [
+          "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap. The next cell may not receive its usual chemical input, so onward electrical activity or the effector response can be impaired; this is a conceptual prediction, not a diagnosis.",
+        "checklist": [
+          "I explained: A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "I explained: The next cell may not receive its usual chemical input, so onward electrical activity or the effector response can be impaired; this is a conceptual prediction, not a diagnosis."
+        ]
+      },
+      {
+        "id": "sc6-check-004",
+        "reference": "Independent check · app-authored",
+        "title": "A quick response",
+        "prompt": "Explain why the source withdrawal-reflex response can begin before conscious awareness.",
+        "solution": [
+          "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ],
+        "hints": [
+          "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector. For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal.",
+        "checklist": [
+          "I explained: A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "I explained: For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ]
+      },
+      {
+        "id": "sc6-check-005",
+        "reference": "Independent check · app-authored",
+        "title": "Bound the claim",
+        "prompt": "State which Chapter 6 material is covered by this upload and what is still needed.",
+        "solution": [
+          "Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required.",
+          "The independent check covers this opening only and does not replace missing sections or textbook exercises."
+        ],
+        "hints": [
+          "Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required. The independent check covers this opening only and does not replace missing sections or textbook exercises.",
+        "checklist": [
+          "I explained: Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required.",
+          "I explained: The independent check covers this opening only and does not replace missing sections or textbook exercises."
+        ]
+      },
+      {
+        "id": "sc6-check-006",
+        "reference": "Independent check · app-authored",
+        "title": "Sequence the source signal",
+        "prompt": "Order detection, electrical transmission, chemical synapse and effector activation. Explain why the chemical stage is not an electrical leap across the gap.",
+        "solution": [
+          "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "The next neuron can then generate its own electrical impulse; the same electron does not jump across a visible open gap.",
+          "The chemical message at the junction links the nerve impulse to activity in the target cell.",
+          "The supplied Figure 6.1 includes a neuron and a neuromuscular junction; a schematic is not a real-time recording."
+        ],
+        "hints": [
+          "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap. The next neuron can then generate its own electrical impulse; the same electron does not jump across a visible open gap. The chemical message at the junction links the nerve impulse to activity in the target cell. The supplied Figure 6.1 includes a neuron and a neuromuscular junction; a schematic is not a real-time recording.",
+        "checklist": [
+          "I explained: A stimulus can trigger an electrical impulse in a neuron. At a typical chemical synapse terminal release of neurotransmitter carries the signal across the gap.",
+          "I explained: The next neuron can then generate its own electrical impulse; the same electron does not jump across a visible open gap.",
+          "I explained: The chemical message at the junction links the nerve impulse to activity in the target cell.",
+          "I explained: The supplied Figure 6.1 includes a neuron and a neuromuscular junction; a schematic is not a real-time recording."
+        ]
+      },
+      {
+        "id": "sc6-check-007",
+        "reference": "Independent check · app-authored",
+        "title": "Compare growth and response",
+        "prompt": "Compare a seedling emerging over days with an animal’s rapid withdrawal. Which movements require growth and why does time scale matter?",
+        "solution": [
+          "A stimulus is a detectable change; a response is the resulting action.",
+          "Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response.",
+          "A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ],
+        "hints": [
+          "A stimulus is a detectable change; a response is the resulting action.",
+          "Trace the relevant structure, material or signal and justify every link."
+        ],
+        "sample": "A stimulus is a detectable change; a response is the resulting action. Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response. A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector. For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal.",
+        "checklist": [
+          "I explained: A stimulus is a detectable change; a response is the resulting action.",
+          "I explained: Nervous and muscular tissues coordinate many animal responses; not every movement is a growth response.",
+          "I explained: A conceptual route is receptor → sensory neuron → spinal relay → motor neuron → effector.",
+          "I explained: For this withdrawal example, the response need not wait for conscious thought. This does not mean the brain receives no information or every reflex is spinal."
+        ]
+      }
+    ]
+  }
+}

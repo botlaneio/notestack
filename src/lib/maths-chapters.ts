@@ -4,7 +4,7 @@ export type Chapter = {number:number; slug:string; title:string; sections:string
 export const realNumbers: Chapter = {
  number:1,slug:'real-numbers',title:'Real Numbers',sections:realSections,steps:realSteps,
  summary:[['Prime factorisation','Composite numbers have a unique set of prime factors, apart from order.'],['HCF & LCM','Smaller shared prime powers for HCF; larger required prime powers for LCM.'],['Irrational numbers','Non-terminating, non-repeating decimals cannot be expressed as ratios of integers.'],['Proof by contradiction','A lowest-terms fraction cannot have a common factor in its numerator and denominator.']],
- challenge:'Try writing the √3 proof without looking.'
+ challenge:'Complete both textbook exercises, then try the independent chapter check. Have your written proofs verified by a teacher.'
 };
 const foundationChapters: Chapter[] = [
   {

@@ -1,5 +1,7 @@
 # Science 5–6 source audit and implementation
 
+**Chapter6 status superseded:** the later `ch06left.pdf` supplies its remaining pages. See [completed coverage](SCIENCE-6-COMPLETE-COVERAGE.md). The partial inventory below records the original upload only.
+
 Source: user upload `ch5-6.pdf`, KTBS Class10 English Science 2026–27. The34 PDF pages contain printed pp27–60. Printed pp27–36 overlap the already-mapped Acids chapter. Life Processes is complete at pp37–57; Control and Coordination has only pp58–60, ending mid-section6.1.1. The Chapter6 opener footer says100, an apparent source pagination error; its position before pp59–60 identifies it as58. No later Chapter6 text, summary or end exercises are claimed covered.
 
 ## Inventory

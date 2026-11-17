@@ -749,9 +749,14 @@
     "slug": "control-and-coordination",
     "title": "Control and Coordination",
     "sections": [
-      "Introduction and receptors · pp 58–59",
+      "Introduction and receptors · pp58–59",
       "6.1 Animals—Nervous System · p59",
-      "6.1.1 Reflex Actions · p60 · supplied opening"
+      "6.1.1 Reflex Actions · pp60–61",
+      "6.1.2 Human Brain · pp61–62",
+      "6.1.3–6.1.4 Protection and Action · p63",
+      "6.2 Coordination in Plants · pp63–66",
+      "6.3 Hormones in Animals · pp67–69",
+      "What you have learnt · p69"
     ],
     "steps": [
       {
@@ -894,48 +899,528 @@
         "explorer": "signal"
       },
       {
-        "id": "sc6-provided-recap",
+        "id": "sc6-pupil",
         "section": 2,
-        "title": "Track the boundary of this extract",
-        "intro": "Only the Chapter 6 opening through the reflex-action discussion on printed p60 is supplied.",
-        "simple": "Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required.",
+        "title": "Follow a cranial reflex",
+        "intro": "Bright light triggers pupil constriction, reducing light entering the eye.",
+        "simple": "Retinal receptors detect light; sensory input reaches the midbrain, whose reflex pathway drives iris muscles. This is a cranial reflex, not the spinal withdrawal arc.",
         "example": [
-          "Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required.",
-          "The independent check covers this opening only and does not replace missing sections or textbook exercises."
+          "Retinal receptors detect light; sensory input reaches the midbrain, whose reflex pathway drives iris muscles. This is a cranial reflex, not the spinal withdrawal arc.",
+          "The brain is informed during a spinal reflex; the pupil reflex itself uses brainstem circuits."
         ],
-        "question": "What remains unverified?",
+        "question": "Where is the pupil light-reflex pathway coordinated?",
         "options": [
-          "All of Chapter 5",
-          "Whether taste receptors exist",
-          "Chapter 6 material after p60, including its ending and exercises"
+          "Midbrain circuits",
+          "Only the knee joint",
+          "Only the spinal withdrawal relay"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The brain is informed during a spinal reflex; the pupil reflex itself uses brainstem circuits.",
+          "Reconsider: The brain is informed during a spinal reflex; the pupil reflex itself uses brainstem circuits.",
+          "Reconsider: The brain is informed during a spinal reflex; the pupil reflex itself uses brainstem circuits."
+        ],
+        "hints": [
+          "Retinal receptors detect light; sensory input reaches the midbrain, whose reflex pathway drives iris muscles. This is a cranial reflex, not the spinal withdrawal arc.",
+          "The brain is informed during a spinal reflex; the pupil reflex itself uses brainstem circuits."
+        ],
+        "explorer": "control-brain"
+      },
+      {
+        "id": "sc6-cns",
+        "section": 3,
+        "title": "Connect central and peripheral systems",
+        "intro": "The brain and spinal cord form the central nervous system (CNS).",
+        "simple": "Cranial nerves arise from the brain; spinal nerves arise from the spinal cord. Together these peripheral nerves connect the CNS with the body.",
+        "example": [
+          "Cranial nerves arise from the brain; spinal nerves arise from the spinal cord. Together these peripheral nerves connect the CNS with the body.",
+          "Sensory input enters central circuits; motor output reaches muscles or other effectors. The spinal cord carries signals as well as coordinating some reflexes."
+        ],
+        "question": "Which pair forms the CNS?",
+        "options": [
+          "Brain and spinal cord",
+          "Only cranial nerves",
+          "Only glands and muscles"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Sensory input enters central circuits; motor output reaches muscles or other effectors. The spinal cord carries signals as well as coordinating some reflexes.",
+          "Reconsider: Sensory input enters central circuits; motor output reaches muscles or other effectors. The spinal cord carries signals as well as coordinating some reflexes.",
+          "Reconsider: Sensory input enters central circuits; motor output reaches muscles or other effectors. The spinal cord carries signals as well as coordinating some reflexes."
+        ],
+        "hints": [
+          "Cranial nerves arise from the brain; spinal nerves arise from the spinal cord. Together these peripheral nerves connect the CNS with the body.",
+          "Sensory input enters central circuits; motor output reaches muscles or other effectors. The spinal cord carries signals as well as coordinating some reflexes."
+        ],
+        "explorer": "control-brain"
+      },
+      {
+        "id": "sc6-forebrain",
+        "section": 3,
+        "title": "Integrate information before acting",
+        "intro": "The forebrain has sensory, association and motor areas.",
+        "simple": "Sensory regions receive inputs; association areas combine them with stored information; motor areas help initiate voluntary actions.",
+        "example": [
+          "Sensory regions receive inputs; association areas combine them with stored information; motor areas help initiate voluntary actions.",
+          "The hypothalamus is part of the forebrain and contributes to hunger, fullness and regulation of pituitary function."
+        ],
+        "question": "Which sequence fits a deliberate response?",
+        "options": [
+          "Muscle → no sensory information → receptor",
+          "Sensory input → association → motor output",
+          "Hormone → every cell responds identically"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The hypothalamus is part of the forebrain and contributes to hunger, fullness and regulation of pituitary function.",
+          "Correct. The hypothalamus is part of the forebrain and contributes to hunger, fullness and regulation of pituitary function.",
+          "Reconsider: The hypothalamus is part of the forebrain and contributes to hunger, fullness and regulation of pituitary function."
+        ],
+        "hints": [
+          "Sensory regions receive inputs; association areas combine them with stored information; motor areas help initiate voluntary actions.",
+          "The hypothalamus is part of the forebrain and contributes to hunger, fullness and regulation of pituitary function."
+        ],
+        "explorer": "control-brain"
+      },
+      {
+        "id": "sc6-hindbrain",
+        "section": 3,
+        "title": "Separate balance from vital control",
+        "intro": "The cerebellum helps coordinate precision, posture and balance.",
+        "simple": "The medulla in the hindbrain helps regulate involuntary functions such as breathing, blood-pressure control and vomiting.",
+        "example": [
+          "The medulla in the hindbrain helps regulate involuntary functions such as breathing, blood-pressure control and vomiting.",
+          "The pons helps relay information and regulate breathing; midbrain circuits include visual and auditory reflex functions. Walking voluntarily uses multiple regions, including cerebellar coordination."
+        ],
+        "question": "Which structure helps maintain equilibrium?",
+        "options": [
+          "Cerebellum",
+          "Thyroid gland",
+          "Pancreas"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The pons helps relay information and regulate breathing; midbrain circuits include visual and auditory reflex functions. Walking voluntarily uses multiple regions, including cerebellar coordination.",
+          "Reconsider: The pons helps relay information and regulate breathing; midbrain circuits include visual and auditory reflex functions. Walking voluntarily uses multiple regions, including cerebellar coordination.",
+          "Reconsider: The pons helps relay information and regulate breathing; midbrain circuits include visual and auditory reflex functions. Walking voluntarily uses multiple regions, including cerebellar coordination."
+        ],
+        "hints": [
+          "The medulla in the hindbrain helps regulate involuntary functions such as breathing, blood-pressure control and vomiting.",
+          "The pons helps relay information and regulate breathing; midbrain circuits include visual and auditory reflex functions. Walking voluntarily uses multiple regions, including cerebellar coordination."
+        ],
+        "explorer": "control-brain"
+      },
+      {
+        "id": "sc6-actions",
+        "section": 4,
+        "title": "Sort actions by their control",
+        "intro": "Voluntary, automatic involuntary and stimulus-triggered reflex actions describe different control patterns.",
+        "simple": "Writing is deliberate; heartbeat is automatic; sudden withdrawal is a reflex. Reflex actions are involuntary too, so these categories overlap.",
+        "example": [
+          "Writing is deliberate; heartbeat is automatic; sudden withdrawal is a reflex. Reflex actions are involuntary too, so these categories overlap.",
+          "Not every involuntary action is a sudden spinal reflex. Autonomic control and cardiac pacemaker activity contribute to heartbeat."
+        ],
+        "question": "Which statement is best?",
+        "options": [
+          "Every involuntary action is a spinal reflex",
+          "All reflexes need a conscious decision",
+          "A reflex is involuntary, but not every involuntary action is the same reflex"
         ],
         "correct": 2,
         "feedback": [
-          "Reconsider: The independent check covers this opening only and does not replace missing sections or textbook exercises.",
-          "Reconsider: The independent check covers this opening only and does not replace missing sections or textbook exercises.",
-          "Correct. The independent check covers this opening only and does not replace missing sections or textbook exercises."
+          "Reconsider: Not every involuntary action is a sudden spinal reflex. Autonomic control and cardiac pacemaker activity contribute to heartbeat.",
+          "Reconsider: Not every involuntary action is a sudden spinal reflex. Autonomic control and cardiac pacemaker activity contribute to heartbeat.",
+          "Correct. Not every involuntary action is a sudden spinal reflex. Autonomic control and cardiac pacemaker activity contribute to heartbeat."
         ],
         "hints": [
-          "Activity 6.1 and Figure 6.1 are mapped; later Chapter 6 pages are still required.",
-          "The independent check covers this opening only and does not replace missing sections or textbook exercises."
-        ]
+          "Writing is deliberate; heartbeat is automatic; sudden withdrawal is a reflex. Reflex actions are involuntary too, so these categories overlap.",
+          "Not every involuntary action is a sudden spinal reflex. Autonomic control and cardiac pacemaker activity contribute to heartbeat."
+        ],
+        "explorer": "control-brain"
+      },
+      {
+        "id": "sc6-protection",
+        "section": 4,
+        "title": "Protect delicate nervous tissue",
+        "intro": "The skull protects the brain; the vertebral column protects the spinal cord.",
+        "simple": "Protective membranes and cerebrospinal fluid cushion the CNS. Bone provides protection, while fluid helps absorb mechanical shocks.",
+        "example": [
+          "Protective membranes and cerebrospinal fluid cushion the CNS. Bone provides protection, while fluid helps absorb mechanical shocks.",
+          "Protection is not immunity from injury. A spinal injury can interrupt sensory and motor communication; effects depend on its level and extent."
+        ],
+        "question": "Which protects the spinal cord?",
+        "options": [
+          "Vertebral column",
+          "Thyroid cartilage only",
+          "Pancreatic tissue"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Protection is not immunity from injury. A spinal injury can interrupt sensory and motor communication; effects depend on its level and extent.",
+          "Reconsider: Protection is not immunity from injury. A spinal injury can interrupt sensory and motor communication; effects depend on its level and extent.",
+          "Reconsider: Protection is not immunity from injury. A spinal injury can interrupt sensory and motor communication; effects depend on its level and extent."
+        ],
+        "hints": [
+          "Protective membranes and cerebrospinal fluid cushion the CNS. Bone provides protection, while fluid helps absorb mechanical shocks.",
+          "Protection is not immunity from injury. A spinal injury can interrupt sensory and motor communication; effects depend on its level and extent."
+        ],
+        "explorer": "control-brain"
+      },
+      {
+        "id": "sc6-contraction",
+        "section": 4,
+        "title": "Turn a signal into muscle action",
+        "intro": "A nerve signal can trigger chemical signalling at a neuromuscular junction.",
+        "simple": "Contractile proteins change their relative arrangement so muscle fibres shorten and pull on attached structures.",
+        "example": [
+          "Contractile proteins change their relative arrangement so muscle fibres shorten and pull on attached structures.",
+          "Muscle does the mechanical work; the nerve coordinates activation. Plant leaf folding instead uses changes in cell water content and turgor."
+        ],
+        "question": "What directly produces skeletal-muscle shortening?",
+        "options": [
+          "Growth of the axon",
+          "Rearrangement of contractile proteins",
+          "Loss of every muscle nucleus"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Muscle does the mechanical work; the nerve coordinates activation. Plant leaf folding instead uses changes in cell water content and turgor.",
+          "Correct. Muscle does the mechanical work; the nerve coordinates activation. Plant leaf folding instead uses changes in cell water content and turgor.",
+          "Reconsider: Muscle does the mechanical work; the nerve coordinates activation. Plant leaf folding instead uses changes in cell water content and turgor."
+        ],
+        "hints": [
+          "Contractile proteins change their relative arrangement so muscle fibres shorten and pull on attached structures.",
+          "Muscle does the mechanical work; the nerve coordinates activation. Plant leaf folding instead uses changes in cell water content and turgor."
+        ],
+        "explorer": "signal"
+      },
+      {
+        "id": "sc6-mimosa",
+        "section": 5,
+        "title": "Fold a leaf without growing it",
+        "intro": "Sensitive-plant leaflets fold rapidly after touch.",
+        "simple": "Electrical and chemical signals spread; water redistribution changes turgor in specialised cells at leaf bases, changing leaf position without growth.",
+        "example": [
+          "Electrical and chemical signals spread; water redistribution changes turgor in specialised cells at leaf bases, changing leaf position without growth.",
+          "Plants have neither animal neurons nor muscle tissue. The folding response is not directional growth towards the touching object."
+        ],
+        "question": "What drives rapid Mimosa folding?",
+        "options": [
+          "Muscle contraction",
+          "New growth on every leaflet",
+          "Water-related turgor changes"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Plants have neither animal neurons nor muscle tissue. The folding response is not directional growth towards the touching object.",
+          "Reconsider: Plants have neither animal neurons nor muscle tissue. The folding response is not directional growth towards the touching object.",
+          "Correct. Plants have neither animal neurons nor muscle tissue. The folding response is not directional growth towards the touching object."
+        ],
+        "hints": [
+          "Electrical and chemical signals spread; water redistribution changes turgor in specialised cells at leaf bases, changing leaf position without growth.",
+          "Plants have neither animal neurons nor muscle tissue. The folding response is not directional growth towards the touching object."
+        ],
+        "explorer": "plant-response"
+      },
+      {
+        "id": "sc6-tropisms",
+        "section": 5,
+        "title": "Name the stimulus and the direction",
+        "intro": "A tropism is directional growth in response to a stimulus.",
+        "simple": "Positive means towards the stimulus; negative means away. Phototropism responds to light, geotropism to gravity, hydrotropism to water and chemotropism to chemicals.",
+        "example": [
+          "Positive means towards the stimulus; negative means away. Phototropism responds to light, geotropism to gravity, hydrotropism to water and chemotropism to chemicals.",
+          "Typical shoots grow towards light and away from gravity; roots grow with gravity and towards favourable moisture. The source describes roots away from light in its setup; real responses depend on species and competing cues."
+        ],
+        "question": "A root growing towards moisture shows…",
+        "options": [
+          "Positive hydrotropism",
+          "Negative chemotropism",
+          "A spinal reflex"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Typical shoots grow towards light and away from gravity; roots grow with gravity and towards favourable moisture. The source describes roots away from light in its setup; real responses depend on species and competing cues.",
+          "Reconsider: Typical shoots grow towards light and away from gravity; roots grow with gravity and towards favourable moisture. The source describes roots away from light in its setup; real responses depend on species and competing cues.",
+          "Reconsider: Typical shoots grow towards light and away from gravity; roots grow with gravity and towards favourable moisture. The source describes roots away from light in its setup; real responses depend on species and competing cues."
+        ],
+        "hints": [
+          "Positive means towards the stimulus; negative means away. Phototropism responds to light, geotropism to gravity, hydrotropism to water and chemotropism to chemicals.",
+          "Typical shoots grow towards light and away from gravity; roots grow with gravity and towards favourable moisture. The source describes roots away from light in its setup; real responses depend on species and competing cues."
+        ],
+        "explorer": "plant-response"
+      },
+      {
+        "id": "sc6-flask",
+        "section": 5,
+        "title": "Predict new growth after turning",
+        "intro": "Activity 6.2 uses germinated beans on mesh above water, with one-sided illumination.",
+        "simple": "After turning the flask, newly growing regions gradually bend in response to the new light direction; old mature tissue does not simply rotate back.",
+        "example": [
+          "After turning the flask, newly growing regions gradually bend in response to the new light direction; old mature tissue does not simply rotate back.",
+          "Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app."
+        ],
+        "question": "Which region chiefly produces a new growth bend?",
+        "options": [
+          "The cardboard wall",
+          "The newly elongating region",
+          "Only dead mature tissue"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app.",
+          "Correct. Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app.",
+          "Reconsider: Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app."
+        ],
+        "hints": [
+          "After turning the flask, newly growing regions gradually bend in response to the new light direction; old mature tissue does not simply rotate back.",
+          "Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app."
+        ],
+        "explorer": "plant-response"
+      },
+      {
+        "id": "sc6-auxin",
+        "section": 5,
+        "title": "Explain the unequal growth",
+        "intro": "In the school shoot model, auxin made near the shoot tip redistributes towards the shaded side.",
+        "simple": "Greater elongation on the shaded side makes the shoot curve towards the light.",
+        "example": [
+          "Greater elongation on the shaded side makes the shoot curve towards the light.",
+          "A tendril touching support grows more slowly on the contact side and faster on the outer side, curving around support. Do not apply the shoot auxin rule unchanged to all root concentrations."
+        ],
+        "question": "Which side elongates more in this shoot model?",
+        "options": [
+          "The shaded side",
+          "Both sides always exactly equally",
+          "The side facing light"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A tendril touching support grows more slowly on the contact side and faster on the outer side, curving around support. Do not apply the shoot auxin rule unchanged to all root concentrations.",
+          "Reconsider: A tendril touching support grows more slowly on the contact side and faster on the outer side, curving around support. Do not apply the shoot auxin rule unchanged to all root concentrations.",
+          "Reconsider: A tendril touching support grows more slowly on the contact side and faster on the outer side, curving around support. Do not apply the shoot auxin rule unchanged to all root concentrations."
+        ],
+        "hints": [
+          "Greater elongation on the shaded side makes the shoot curve towards the light.",
+          "A tendril touching support grows more slowly on the contact side and faster on the outer side, curving around support. Do not apply the shoot auxin rule unchanged to all root concentrations."
+        ],
+        "explorer": "plant-response"
+      },
+      {
+        "id": "sc6-plant-hormones",
+        "section": 5,
+        "title": "Match plant signals to their roles",
+        "intro": "Plant hormones coordinate growth, development and responses.",
+        "simple": "Auxins promote shoot elongation; gibberellins promote stem growth; cytokinins promote cell division; abscisic acid (ABA) commonly inhibits growth and supports drought responses.",
+        "example": [
+          "Auxins promote shoot elongation; gibberellins promote stem growth; cytokinins promote cell division; abscisic acid (ABA) commonly inhibits growth and supports drought responses.",
+          "The text associates ABA with wilting; more precisely ABA promotes stomatal closure during water stress and helps limit water loss. It is not simply a universal cause of wilting."
+        ],
+        "question": "Which hormone promotes cell division?",
+        "options": [
+          "Insulin",
+          "Thyroxin",
+          "Cytokinin"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The text associates ABA with wilting; more precisely ABA promotes stomatal closure during water stress and helps limit water loss. It is not simply a universal cause of wilting.",
+          "Reconsider: The text associates ABA with wilting; more precisely ABA promotes stomatal closure during water stress and helps limit water loss. It is not simply a universal cause of wilting.",
+          "Correct. The text associates ABA with wilting; more precisely ABA promotes stomatal closure during water stress and helps limit water loss. It is not simply a universal cause of wilting."
+        ],
+        "hints": [
+          "Auxins promote shoot elongation; gibberellins promote stem growth; cytokinins promote cell division; abscisic acid (ABA) commonly inhibits growth and supports drought responses.",
+          "The text associates ABA with wilting; more precisely ABA promotes stomatal closure during water stress and helps limit water loss. It is not simply a universal cause of wilting."
+        ],
+        "explorer": "plant-response"
+      },
+      {
+        "id": "sc6-communication",
+        "section": 6,
+        "title": "Reach a target with a chemical signal",
+        "intro": "Endocrine glands release hormones into blood, which transports them around the body.",
+        "simple": "Only cells with suitable receptors respond. Circulation does not make every tissue respond identically.",
+        "example": [
+          "Only cells with suitable receptors respond. Circulation does not make every tissue respond identically.",
+          "Nerve impulses act through connected pathways and are generally rapid and brief; hormones often act more slowly and for longer, though speed varies and adrenaline can act rapidly. Neurons need a brief reset between impulses, not permanent silence."
+        ],
+        "question": "Why can a hormone affect some tissues selectively?",
+        "options": [
+          "Only target cells have suitable receptor responses",
+          "Blood reaches one organ only",
+          "All cells react exactly the same way"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Nerve impulses act through connected pathways and are generally rapid and brief; hormones often act more slowly and for longer, though speed varies and adrenaline can act rapidly. Neurons need a brief reset between impulses, not permanent silence.",
+          "Reconsider: Nerve impulses act through connected pathways and are generally rapid and brief; hormones often act more slowly and for longer, though speed varies and adrenaline can act rapidly. Neurons need a brief reset between impulses, not permanent silence.",
+          "Reconsider: Nerve impulses act through connected pathways and are generally rapid and brief; hormones often act more slowly and for longer, though speed varies and adrenaline can act rapidly. Neurons need a brief reset between impulses, not permanent silence."
+        ],
+        "hints": [
+          "Only cells with suitable receptors respond. Circulation does not make every tissue respond identically.",
+          "Nerve impulses act through connected pathways and are generally rapid and brief; hormones often act more slowly and for longer, though speed varies and adrenaline can act rapidly. Neurons need a brief reset between impulses, not permanent silence."
+        ],
+        "explorer": "hormone-feedback"
+      },
+      {
+        "id": "sc6-adrenaline",
+        "section": 6,
+        "title": "Coordinate an emergency response",
+        "intro": "Adrenal glands release adrenaline into the bloodstream.",
+        "simple": "Heart activity and breathing increase; blood flow is redistributed to support skeletal muscles and an urgent response.",
+        "example": [
+          "Heart activity and breathing increase; blood flow is redistributed to support skeletal muscles and an urgent response.",
+          "The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test."
+        ],
+        "question": "Which pairing is correct?",
+        "options": [
+          "Adrenaline—adrenal gland",
+          "Adrenaline—ovary only",
+          "Insulin—thyroid gland"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test.",
+          "Reconsider: The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test.",
+          "Reconsider: The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test."
+        ],
+        "hints": [
+          "Heart activity and breathing increase; blood flow is redistributed to support skeletal muscles and an urgent response.",
+          "The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test."
+        ],
+        "explorer": "hormone-feedback"
+      },
+      {
+        "id": "sc6-thyroid",
+        "section": 6,
+        "title": "Link iodine to thyroxin",
+        "intro": "The thyroid gland needs iodine to make thyroxin.",
+        "simple": "Thyroxin helps regulate metabolism and supports growth. Iodine deficiency can contribute to thyroid enlargement (goitre).",
+        "example": [
+          "Thyroxin helps regulate metabolism and supports growth. Iodine deficiency can contribute to thyroid enlargement (goitre).",
+          "Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency."
+        ],
+        "question": "Why does the source recommend iodised salt?",
+        "options": [
+          "Iodine supplies energy directly",
+          "Iodine is needed for thyroxin synthesis",
+          "Salt replaces every hormone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency.",
+          "Correct. Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency.",
+          "Reconsider: Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency."
+        ],
+        "hints": [
+          "Thyroxin helps regulate metabolism and supports growth. Iodine deficiency can contribute to thyroid enlargement (goitre).",
+          "Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency."
+        ],
+        "explorer": "hormone-feedback"
+      },
+      {
+        "id": "sc6-growth-puberty",
+        "section": 6,
+        "title": "Locate growth and puberty signals",
+        "intro": "The pituitary produces growth hormone; testes produce testosterone and ovaries produce oestrogens.",
+        "simple": "These signals contribute to regulated growth and puberty. Hypothalamic releasing hormones regulate pituitary secretion.",
+        "example": [
+          "These signals contribute to regulated growth and puberty. Hypothalamic releasing hormones regulate pituitary secretion.",
+          "Childhood growth-hormone deficiency can impair growth, but height alone cannot identify its cause. People have multiple hormones; the source’s male/female organ diagrams illustrate typical anatomy."
+        ],
+        "question": "Which gland releases growth hormone?",
+        "options": [
+          "Pituitary",
+          "Adrenal cortex only",
+          "Thyroid only"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Childhood growth-hormone deficiency can impair growth, but height alone cannot identify its cause. People have multiple hormones; the source’s male/female organ diagrams illustrate typical anatomy.",
+          "Reconsider: Childhood growth-hormone deficiency can impair growth, but height alone cannot identify its cause. People have multiple hormones; the source’s male/female organ diagrams illustrate typical anatomy.",
+          "Reconsider: Childhood growth-hormone deficiency can impair growth, but height alone cannot identify its cause. People have multiple hormones; the source’s male/female organ diagrams illustrate typical anatomy."
+        ],
+        "hints": [
+          "These signals contribute to regulated growth and puberty. Hypothalamic releasing hormones regulate pituitary secretion.",
+          "Childhood growth-hormone deficiency can impair growth, but height alone cannot identify its cause. People have multiple hormones; the source’s male/female organ diagrams illustrate typical anatomy."
+        ],
+        "explorer": "hormone-feedback"
+      },
+      {
+        "id": "sc6-insulin",
+        "section": 6,
+        "title": "Close a negative-feedback loop",
+        "intro": "A rise in blood glucose normally stimulates pancreatic beta cells to release more insulin.",
+        "simple": "Insulin promotes glucose uptake and storage in appropriate tissues; as glucose falls, the stimulus for insulin release decreases.",
+        "example": [
+          "Insulin promotes glucose uptake and storage in appropriate tissues; as glucose falls, the stimulus for insulin release decreases.",
+          "This is negative feedback: the response reduces the original disturbance. Some diabetes patients need prescribed insulin; diabetes is not always simply absent insulin and this model is not a treatment tool."
+        ],
+        "question": "What normally happens as elevated glucose falls?",
+        "options": [
+          "Insulin secretion rises without limit",
+          "Insulin secretion can decrease",
+          "The pancreas turns into the thyroid"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: This is negative feedback: the response reduces the original disturbance. Some diabetes patients need prescribed insulin; diabetes is not always simply absent insulin and this model is not a treatment tool.",
+          "Correct. This is negative feedback: the response reduces the original disturbance. Some diabetes patients need prescribed insulin; diabetes is not always simply absent insulin and this model is not a treatment tool.",
+          "Reconsider: This is negative feedback: the response reduces the original disturbance. Some diabetes patients need prescribed insulin; diabetes is not always simply absent insulin and this model is not a treatment tool."
+        ],
+        "hints": [
+          "Insulin promotes glucose uptake and storage in appropriate tissues; as glucose falls, the stimulus for insulin release decreases.",
+          "This is negative feedback: the response reduces the original disturbance. Some diabetes patients need prescribed insulin; diabetes is not always simply absent insulin and this model is not a treatment tool."
+        ],
+        "explorer": "hormone-feedback"
+      },
+      {
+        "id": "sc6-recap",
+        "section": 7,
+        "title": "Connect the whole chapter",
+        "intro": "Control and coordination connect detection, communication and an appropriate response.",
+        "simple": "Trace nervous pathways, distinguish turgor from growth, and match endocrine glands, hormones and feedback.",
+        "example": [
+          "Trace nervous pathways, distinguish turgor from growth, and match endocrine glands, hormones and feedback.",
+          "A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification."
+        ],
+        "question": "Which explanation correctly joins a stimulus and mechanism?",
+        "options": [
+          "One-sided light → unequal shoot elongation → bending",
+          "Touch → plant skeletal muscles contract",
+          "High glucose → no change in insulin in a healthy feedback model"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification.",
+          "Reconsider: A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification.",
+          "Reconsider: A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification."
+        ],
+        "hints": [
+          "Trace nervous pathways, distinguish turgor from growth, and match endocrine glands, hormones and feedback.",
+          "A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification."
+        ],
+        "explorer": "hormone-feedback"
       }
     ],
-    "sourcePending": "The upload stops at printed page 60, during section 6.1.1. Chapter 6 material from page 61 onward, including the remaining sections, summary and textbook exercises, has not been supplied or verified. Only the opening through p60 is available; the app-authored check covers that opening only.",
     "summary": [
       [
-        "Detect",
-        "Distinguish stimulus, receptor and response."
+        "Nervous control",
+        "Receptors, neurons, chemical synapses, CNS and peripheral nerves connect stimuli to responses."
       ],
       [
-        "Transmit",
-        "Trace a neuron and a typical chemical synapse."
+        "Brain and reflexes",
+        "Forebrain integration, cerebellar coordination and brainstem control have different roles. Reflexes need not wait for conscious decisions."
       ],
       [
-        "Track the source boundary",
-        "Only the opening through p60 is supplied. Later sections, summary and textbook exercises still need their source pages."
+        "Plant responses",
+        "Turgor-driven folding differs from directional growth; hormones coordinate growth and development."
+      ],
+      [
+        "Endocrine feedback",
+        "Blood carries hormones to receptor-bearing targets; feedback regulates secretion, as in insulin control."
       ]
     ],
-    "challenge": "Explain a withdrawal-reflex route and how information still reaches the brain. This opening-only check does not replace the missing Chapter 6 sections or textbook exercises."
+    "challenge": "Explain a nervous response, compare sensitive-plant folding with shoot phototropism, and trace an endocrine negative-feedback loop. Use labelled structures and justify each step rather than only naming a hormone."
   }
 ]

@@ -1,3 +1,5 @@
+import emGuides from './science-11-12-guides.json' with {type:'json'};
+import emPractice from './science-11-12-practice.json' with {type:'json'};
 import opticsGuides from './science-9-10-guides.json' with {type:'json'};
 import opticsPractice from './science-9-10-practice.json' with {type:'json'};
 import reproductionGuides from './science-7-8-guides.json' with {type:'json'};
@@ -11,5 +13,5 @@ import practice from './science-practice-data.json' with {type:'json'};
 import type {Chapter} from './maths-chapters.ts';
 import type {WorkbookConfig} from './chapter-practice.ts';
 import type {PracticeTask} from './real-number-practice.ts';
-export const scienceChapters=[...guides,...nextGuides,...biologyGuides,...reproductionGuides,...opticsGuides] as Chapter[];
-export const scienceWorkbooks:WorkbookConfig[]=scienceChapters.map(c=>({number:c.number,subject:'science',slug:c.slug,title:c.title,part:c.part??1,sourcePending:c.sourcePending,tasks:((c.number<=2?practice:c.number<=4?nextPractice:c.number<=6?biologyPractice:c.number<=8?reproductionPractice:opticsPractice).chapters as Record<string,unknown>)[String(c.number)] as PracticeTask[],checks:((c.number<=2?practice:c.number<=4?nextPractice:c.number<=6?biologyPractice:c.number<=8?reproductionPractice:opticsPractice).checks as Record<string,unknown>)[String(c.number)] as PracticeTask[]}));
+export const scienceChapters=[...guides,...nextGuides,...biologyGuides,...reproductionGuides,...opticsGuides,...emGuides] as Chapter[];
+export const scienceWorkbooks:WorkbookConfig[]=scienceChapters.map(c=>({number:c.number,subject:'science',slug:c.slug,title:c.title,part:c.part??1,sourcePending:c.sourcePending,tasks:((c.number<=2?practice:c.number<=4?nextPractice:c.number<=6?biologyPractice:c.number<=8?reproductionPractice:c.number<=10?opticsPractice:emPractice).chapters as Record<string,unknown>)[String(c.number)] as PracticeTask[],checks:((c.number<=2?practice:c.number<=4?nextPractice:c.number<=6?biologyPractice:c.number<=8?reproductionPractice:c.number<=10?opticsPractice:emPractice).checks as Record<string,unknown>)[String(c.number)] as PracticeTask[]}));

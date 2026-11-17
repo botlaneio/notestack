@@ -1,0 +1,907 @@
+[
+  {
+    "number": 11,
+    "subject": "science",
+    "part": 2,
+    "title": "Electricity",
+    "slug": "electricity",
+    "sections": [
+      "11.1 Current and Circuit · pp71–72",
+      "11.2–11.3 Potential and Symbols · pp73–75",
+      "11.4 Ohm’s Law · pp75–77",
+      "11.5 Resistance and Resistivity · pp77–81",
+      "11.6 Resistor Networks · pp81–87",
+      "11.7 Heating Effect · pp87–90",
+      "11.8 Power and Energy · pp91–92",
+      "What you have learnt · p92"
+    ],
+    "summary": [
+      [
+        "Connect",
+        "Relate labelled circuits and field diagrams to their laws."
+      ],
+      [
+        "Reason",
+        "State units, assumptions and directional conventions."
+      ],
+      [
+        "Review",
+        "Separate calculations from written work awaiting verification."
+      ]
+    ],
+    "challenge": "Explain a new circuit or direction case with a labelled drawing. Compare written reasoning with the model and ask a teacher to verify it.",
+    "steps": [
+      {
+        "id": "sc11-charge",
+        "section": 0,
+        "title": "Count charge, not consumed electrons",
+        "intro": "Current is rate of charge flow, I=Q/t; metal carriers are electrons. Conventional current is opposite to electron drift.",
+        "simple": "1 A=1 C/s; |e|≈1.6×10^-19 C means 1 C corresponds to about 6.25×10^18 electron charges. Charge is conserved; a lamp transfers energy rather than using up current.",
+        "example": [
+          "Current is rate of charge flow, I=Q/t; metal carriers are electrons. Conventional current is opposite to electron drift.",
+          "1 A=1 C/s; |e|≈1.6×10^-19 C means 1 C corresponds to about 6.25×10^18 electron charges. Charge is conserved; a lamp transfers energy rather than using up current."
+        ],
+        "question": "What does2 A mean?",
+        "options": [
+          "2 C passes a cross-section per second",
+          "Two electrons disappear each second",
+          "The voltage must be2 V"
+        ],
+        "correct": 0,
+        "hints": [
+          "Current is rate of charge flow, I=Q/t; metal carriers are electrons. Conventional current is opposite to electron drift.",
+          "1 A=1 C/s; |e|≈1.6×10^-19 C means 1 C corresponds to about 6.25×10^18 electron charges. Charge is conserved; a lamp transfers energy rather than using up current."
+        ],
+        "feedback": [
+          "Correct. 1 A=1 C/s; |e|≈1.6×10^-19 C means 1 C corresponds to about 6.25×10^18 electron charges. Charge is conserved; a lamp transfers energy rather than using up current.",
+          "Reconsider: 1 A=1 C/s; |e|≈1.6×10^-19 C means 1 C corresponds to about 6.25×10^18 electron charges. Charge is conserved; a lamp transfers energy rather than using up current.",
+          "Reconsider: 1 A=1 C/s; |e|≈1.6×10^-19 C means 1 C corresponds to about 6.25×10^18 electron charges. Charge is conserved; a lamp transfers energy rather than using up current."
+        ],
+        "explorer": "circuit"
+      },
+      {
+        "id": "sc11-closed",
+        "section": 0,
+        "title": "Trace a complete path",
+        "intro": "A complete conducting path and source potential difference permit steady current; opening the path stops steady conduction.",
+        "simple": "A battery converts energy rather than creates charge. Source voltage can remain while current is zero in an open circuit. The ideal model ignores leakage and internal resistance.",
+        "example": [
+          "A complete conducting path and source potential difference permit steady current; opening the path stops steady conduction.",
+          "A battery converts energy rather than creates charge. Source voltage can remain while current is zero in an open circuit. The ideal model ignores leakage and internal resistance."
+        ],
+        "question": "Can source voltage exist with zero current?",
+        "options": [
+          "No, they are the same quantity",
+          "Yes, for example with an open switch",
+          "Only if voltage is zero"
+        ],
+        "correct": 1,
+        "hints": [
+          "A complete conducting path and source potential difference permit steady current; opening the path stops steady conduction.",
+          "A battery converts energy rather than creates charge. Source voltage can remain while current is zero in an open circuit. The ideal model ignores leakage and internal resistance."
+        ],
+        "feedback": [
+          "Reconsider: A battery converts energy rather than creates charge. Source voltage can remain while current is zero in an open circuit. The ideal model ignores leakage and internal resistance.",
+          "Correct. A battery converts energy rather than creates charge. Source voltage can remain while current is zero in an open circuit. The ideal model ignores leakage and internal resistance.",
+          "Reconsider: A battery converts energy rather than creates charge. Source voltage can remain while current is zero in an open circuit. The ideal model ignores leakage and internal resistance."
+        ],
+        "explorer": "circuit"
+      },
+      {
+        "id": "sc11-potential",
+        "section": 1,
+        "title": "Measure energy per charge",
+        "intro": "Potential difference V=W/Q is energy transferred per unit charge;1 V=1 J/C.",
+        "simple": "A voltmeter is connected across points, in parallel, with high resistance. An ammeter goes in series with very low resistance; never treat it as a safe short across a source.",
+        "example": [
+          "Potential difference V=W/Q is energy transferred per unit charge;1 V=1 J/C.",
+          "A voltmeter is connected across points, in parallel, with high resistance. An ammeter goes in series with very low resistance; never treat it as a safe short across a source."
+        ],
+        "question": "Where is the voltmeter connected?",
+        "options": [
+          "As a low-resistance short across the source",
+          "In series instead of the load",
+          "In parallel across the points"
+        ],
+        "correct": 2,
+        "hints": [
+          "Potential difference V=W/Q is energy transferred per unit charge;1 V=1 J/C.",
+          "A voltmeter is connected across points, in parallel, with high resistance. An ammeter goes in series with very low resistance; never treat it as a safe short across a source."
+        ],
+        "feedback": [
+          "Reconsider: A voltmeter is connected across points, in parallel, with high resistance. An ammeter goes in series with very low resistance; never treat it as a safe short across a source.",
+          "Reconsider: A voltmeter is connected across points, in parallel, with high resistance. An ammeter goes in series with very low resistance; never treat it as a safe short across a source.",
+          "Correct. A voltmeter is connected across points, in parallel, with high resistance. An ammeter goes in series with very low resistance; never treat it as a safe short across a source."
+        ],
+        "explorer": "circuit"
+      },
+      {
+        "id": "sc11-symbols",
+        "section": 1,
+        "title": "Read electrical connections",
+        "intro": "Symbols describe connections, not the physical shapes or positions of apparatus.",
+        "simple": "Read cell/battery, open/closed switch, bulb, resistor/rheostat, meters, joined wires and crossings without a junction. A dot indicates a connection; crossing alone need not.",
+        "example": [
+          "Symbols describe connections, not the physical shapes or positions of apparatus.",
+          "Read cell/battery, open/closed switch, bulb, resistor/rheostat, meters, joined wires and crossings without a junction. A dot indicates a connection; crossing alone need not."
+        ],
+        "question": "What does a junction dot mean?",
+        "options": [
+          "Wires connect there",
+          "A battery is always there",
+          "Current is consumed there"
+        ],
+        "correct": 0,
+        "hints": [
+          "Symbols describe connections, not the physical shapes or positions of apparatus.",
+          "Read cell/battery, open/closed switch, bulb, resistor/rheostat, meters, joined wires and crossings without a junction. A dot indicates a connection; crossing alone need not."
+        ],
+        "feedback": [
+          "Correct. Read cell/battery, open/closed switch, bulb, resistor/rheostat, meters, joined wires and crossings without a junction. A dot indicates a connection; crossing alone need not.",
+          "Reconsider: Read cell/battery, open/closed switch, bulb, resistor/rheostat, meters, joined wires and crossings without a junction. A dot indicates a connection; crossing alone need not.",
+          "Reconsider: Read cell/battery, open/closed switch, bulb, resistor/rheostat, meters, joined wires and crossings without a junction. A dot indicates a connection; crossing alone need not."
+        ],
+        "explorer": "symbols"
+      },
+      {
+        "id": "sc11-ohm",
+        "section": 2,
+        "title": "Hold conditions fixed",
+        "intro": "For an ohmic conductor at fixed physical conditions, V=IR and the graph is approximately linear through the origin.",
+        "simple": "With V vertical and I horizontal, slope is resistance. Reversed axes give conductance. A warming bulb need not keep R constant, so Ohm’s law is not a universal constant-R rule for every component.",
+        "example": [
+          "For an ohmic conductor at fixed physical conditions, V=IR and the graph is approximately linear through the origin.",
+          "With V vertical and I horizontal, slope is resistance. Reversed axes give conductance. A warming bulb need not keep R constant, so Ohm’s law is not a universal constant-R rule for every component."
+        ],
+        "question": "What is the slope of V(vertical) against I(horizontal)?",
+        "options": [
+          "I²",
+          "R",
+          "Always V alone"
+        ],
+        "correct": 1,
+        "hints": [
+          "For an ohmic conductor at fixed physical conditions, V=IR and the graph is approximately linear through the origin.",
+          "With V vertical and I horizontal, slope is resistance. Reversed axes give conductance. A warming bulb need not keep R constant, so Ohm’s law is not a universal constant-R rule for every component."
+        ],
+        "feedback": [
+          "Reconsider: With V vertical and I horizontal, slope is resistance. Reversed axes give conductance. A warming bulb need not keep R constant, so Ohm’s law is not a universal constant-R rule for every component.",
+          "Correct. With V vertical and I horizontal, slope is resistance. Reversed axes give conductance. A warming bulb need not keep R constant, so Ohm’s law is not a universal constant-R rule for every component.",
+          "Reconsider: With V vertical and I horizontal, slope is resistance. Reversed axes give conductance. A warming bulb need not keep R constant, so Ohm’s law is not a universal constant-R rule for every component."
+        ],
+        "explorer": "ohm"
+      },
+      {
+        "id": "sc11-rheostat",
+        "section": 2,
+        "title": "Change resistance to control current",
+        "intro": "A rheostat changes resistance; at fixed voltage higher total R gives lower current.",
+        "simple": "The source compares nichrome and bulbs at a common source; different electrical characteristics and temperatures give different currents. A measurable current alone does not classify all materials identically.",
+        "example": [
+          "A rheostat changes resistance; at fixed voltage higher total R gives lower current.",
+          "The source compares nichrome and bulbs at a common source; different electrical characteristics and temperatures give different currents. A measurable current alone does not classify all materials identically."
+        ],
+        "question": "At fixed V, doubling R does what?",
+        "options": [
+          "Doubles I",
+          "Must make I zero",
+          "Halves I"
+        ],
+        "correct": 2,
+        "hints": [
+          "A rheostat changes resistance; at fixed voltage higher total R gives lower current.",
+          "The source compares nichrome and bulbs at a common source; different electrical characteristics and temperatures give different currents. A measurable current alone does not classify all materials identically."
+        ],
+        "feedback": [
+          "Reconsider: The source compares nichrome and bulbs at a common source; different electrical characteristics and temperatures give different currents. A measurable current alone does not classify all materials identically.",
+          "Reconsider: The source compares nichrome and bulbs at a common source; different electrical characteristics and temperatures give different currents. A measurable current alone does not classify all materials identically.",
+          "Correct. The source compares nichrome and bulbs at a common source; different electrical characteristics and temperatures give different currents. A measurable current alone does not classify all materials identically."
+        ],
+        "explorer": "circuit"
+      },
+      {
+        "id": "sc11-geometry",
+        "section": 3,
+        "title": "Separate diameter from area",
+        "intro": "For a uniform wire at a fixed temperature, R=ρL/A; for a circular wire A=πd²/4.",
+        "simple": "Double L→double R; double A→half R; double d→four times A and a quarter R. Resistivity depends on material/temperature, not specimen dimensions in this model. Convert mm to metres before squaring.",
+        "example": [
+          "For a uniform wire at a fixed temperature, R=ρL/A; for a circular wire A=πd²/4.",
+          "Double L→double R; double A→half R; double d→four times A and a quarter R. Resistivity depends on material/temperature, not specimen dimensions in this model. Convert mm to metres before squaring."
+        ],
+        "question": "If d doubles, all else fixed, what is Rnew/Rold?",
+        "options": [
+          "1/4",
+          "1/2",
+          "2"
+        ],
+        "correct": 0,
+        "hints": [
+          "For a uniform wire at a fixed temperature, R=ρL/A; for a circular wire A=πd²/4.",
+          "Double L→double R; double A→half R; double d→four times A and a quarter R. Resistivity depends on material/temperature, not specimen dimensions in this model. Convert mm to metres before squaring."
+        ],
+        "feedback": [
+          "Correct. Double L→double R; double A→half R; double d→four times A and a quarter R. Resistivity depends on material/temperature, not specimen dimensions in this model. Convert mm to metres before squaring.",
+          "Reconsider: Double L→double R; double A→half R; double d→four times A and a quarter R. Resistivity depends on material/temperature, not specimen dimensions in this model. Convert mm to metres before squaring.",
+          "Reconsider: Double L→double R; double A→half R; double d→four times A and a quarter R. Resistivity depends on material/temperature, not specimen dimensions in this model. Convert mm to metres before squaring."
+        ],
+        "explorer": "wire"
+      },
+      {
+        "id": "sc11-materials",
+        "section": 3,
+        "title": "Match material to its role",
+        "intro": "Low resistivity helps transmission conductors; useful resistivity and high-temperature behaviour help heating alloys.",
+        "simple": "Copper/aluminium offer practical low resistance. Tungsten’s high melting point helps incandescent filaments. Source Table11.2 is at 20°C and printed alloy data are retained, not certified engineering specifications; composition and temperature matter.",
+        "example": [
+          "Low resistivity helps transmission conductors; useful resistivity and high-temperature behaviour help heating alloys.",
+          "Copper/aluminium offer practical low resistance. Tungsten’s high melting point helps incandescent filaments. Source Table11.2 is at 20°C and printed alloy data are retained, not certified engineering specifications; composition and temperature matter."
+        ],
+        "question": "Why choose a heating alloy?",
+        "options": [
+          "It must have zero resistance",
+          "Useful resistivity and thermal/oxidation behaviour",
+          "It can never oxidise"
+        ],
+        "correct": 1,
+        "hints": [
+          "Low resistivity helps transmission conductors; useful resistivity and high-temperature behaviour help heating alloys.",
+          "Copper/aluminium offer practical low resistance. Tungsten’s high melting point helps incandescent filaments. Source Table11.2 is at 20°C and printed alloy data are retained, not certified engineering specifications; composition and temperature matter."
+        ],
+        "feedback": [
+          "Reconsider: Copper/aluminium offer practical low resistance. Tungsten’s high melting point helps incandescent filaments. Source Table11.2 is at 20°C and printed alloy data are retained, not certified engineering specifications; composition and temperature matter.",
+          "Correct. Copper/aluminium offer practical low resistance. Tungsten’s high melting point helps incandescent filaments. Source Table11.2 is at 20°C and printed alloy data are retained, not certified engineering specifications; composition and temperature matter.",
+          "Reconsider: Copper/aluminium offer practical low resistance. Tungsten’s high melting point helps incandescent filaments. Source Table11.2 is at 20°C and printed alloy data are retained, not certified engineering specifications; composition and temperature matter."
+        ],
+        "explorer": "wire"
+      },
+      {
+        "id": "sc11-series",
+        "section": 4,
+        "title": "One path, one current",
+        "intro": "Series resistors have the same steady current and Rs=ΣRi. Their voltage drops add.",
+        "simple": "Current is not progressively consumed. An open element breaks the path; simple series loads lack independent control.",
+        "example": [
+          "Series resistors have the same steady current and Rs=ΣRi. Their voltage drops add.",
+          "Current is not progressively consumed. An open element breaks the path; simple series loads lack independent control."
+        ],
+        "question": "Which quantity is common through series resistors?",
+        "options": [
+          "Every voltage drop",
+          "Every resistance value",
+          "I"
+        ],
+        "correct": 2,
+        "hints": [
+          "Series resistors have the same steady current and Rs=ΣRi. Their voltage drops add.",
+          "Current is not progressively consumed. An open element breaks the path; simple series loads lack independent control."
+        ],
+        "feedback": [
+          "Reconsider: Current is not progressively consumed. An open element breaks the path; simple series loads lack independent control.",
+          "Reconsider: Current is not progressively consumed. An open element breaks the path; simple series loads lack independent control.",
+          "Correct. Current is not progressively consumed. An open element breaks the path; simple series loads lack independent control."
+        ],
+        "explorer": "network"
+      },
+      {
+        "id": "sc11-series-voltage",
+        "section": 4,
+        "title": "Account for voltage drops",
+        "intro": "Use Vi=IRi with the common series current; unequal resistors need not have equal drops.",
+        "simple": "For 20 Ω+4 Ω across 6 V, Req=24 Ω and I=0.25 A. Drops are5 V and 1 V, summing to6 V. A voltmeter across one component is not in the series conducting path.",
+        "example": [
+          "Use Vi=IRi with the common series current; unequal resistors need not have equal drops.",
+          "For 20 Ω+4 Ω across 6 V, Req=24 Ω and I=0.25 A. Drops are5 V and 1 V, summing to6 V. A voltmeter across one component is not in the series conducting path."
+        ],
+        "question": "What is the drop across 20 Ω in that example?",
+        "options": [
+          "5 V",
+          "1 V",
+          "24 V"
+        ],
+        "correct": 0,
+        "hints": [
+          "Use Vi=IRi with the common series current; unequal resistors need not have equal drops.",
+          "For 20 Ω+4 Ω across 6 V, Req=24 Ω and I=0.25 A. Drops are5 V and 1 V, summing to6 V. A voltmeter across one component is not in the series conducting path."
+        ],
+        "feedback": [
+          "Correct. For 20 Ω+4 Ω across 6 V, Req=24 Ω and I=0.25 A. Drops are5 V and 1 V, summing to6 V. A voltmeter across one component is not in the series conducting path.",
+          "Reconsider: For 20 Ω+4 Ω across 6 V, Req=24 Ω and I=0.25 A. Drops are5 V and 1 V, summing to6 V. A voltmeter across one component is not in the series conducting path.",
+          "Reconsider: For 20 Ω+4 Ω across 6 V, Req=24 Ω and I=0.25 A. Drops are5 V and 1 V, summing to6 V. A voltmeter across one component is not in the series conducting path."
+        ],
+        "explorer": "network"
+      },
+      {
+        "id": "sc11-parallel",
+        "section": 4,
+        "title": "Branches share node voltages",
+        "intro": "Parallel branches connect to the same two nodes, share voltage, and have currents that add: I=ΣIi.",
+        "simple": "1/Rp=Σ(1/Ri); Rp is below the smallest positive branch resistance. Adding a branch raises total current at fixed ideal V, without changing existing branch currents.",
+        "example": [
+          "Parallel branches connect to the same two nodes, share voltage, and have currents that add: I=ΣIi.",
+          "1/Rp=Σ(1/Ri); Rp is below the smallest positive branch resistance. Adding a branch raises total current at fixed ideal V, without changing existing branch currents."
+        ],
+        "question": "Which quantity is common across parallel branches?",
+        "options": [
+          "Each resistance",
+          "V",
+          "Each current"
+        ],
+        "correct": 1,
+        "hints": [
+          "Parallel branches connect to the same two nodes, share voltage, and have currents that add: I=ΣIi.",
+          "1/Rp=Σ(1/Ri); Rp is below the smallest positive branch resistance. Adding a branch raises total current at fixed ideal V, without changing existing branch currents."
+        ],
+        "feedback": [
+          "Reconsider: 1/Rp=Σ(1/Ri); Rp is below the smallest positive branch resistance. Adding a branch raises total current at fixed ideal V, without changing existing branch currents.",
+          "Correct. 1/Rp=Σ(1/Ri); Rp is below the smallest positive branch resistance. Adding a branch raises total current at fixed ideal V, without changing existing branch currents.",
+          "Reconsider: 1/Rp=Σ(1/Ri); Rp is below the smallest positive branch resistance. Adding a branch raises total current at fixed ideal V, without changing existing branch currents."
+        ],
+        "explorer": "network"
+      },
+      {
+        "id": "sc11-networks",
+        "section": 4,
+        "title": "Reduce groups before combining",
+        "intro": "Connections and nodes determine a mixed network, not its visual spacing.",
+        "simple": "The source 10 Ω||40 Ω group is 8 Ω;30 Ω||20 Ω||60 Ω is 10 Ω. In series these total 18 Ω; across 12 V total I=2/3 A.",
+        "example": [
+          "Connections and nodes determine a mixed network, not its visual spacing.",
+          "The source 10 Ω||40 Ω group is 8 Ω;30 Ω||20 Ω||60 Ω is 10 Ω. In series these total 18 Ω; across 12 V total I=2/3 A."
+        ],
+        "question": "What is the total of these two groups in series?",
+        "options": [
+          "2 Ω",
+          "80 Ω",
+          "18 Ω"
+        ],
+        "correct": 2,
+        "hints": [
+          "Connections and nodes determine a mixed network, not its visual spacing.",
+          "The source 10 Ω||40 Ω group is 8 Ω;30 Ω||20 Ω||60 Ω is 10 Ω. In series these total 18 Ω; across 12 V total I=2/3 A."
+        ],
+        "feedback": [
+          "Reconsider: The source 10 Ω||40 Ω group is 8 Ω;30 Ω||20 Ω||60 Ω is 10 Ω. In series these total 18 Ω; across 12 V total I=2/3 A.",
+          "Reconsider: The source 10 Ω||40 Ω group is 8 Ω;30 Ω||20 Ω||60 Ω is 10 Ω. In series these total 18 Ω; across 12 V total I=2/3 A.",
+          "Correct. The source 10 Ω||40 Ω group is 8 Ω;30 Ω||20 Ω||60 Ω is 10 Ω. In series these total 18 Ω; across 12 V total I=2/3 A."
+        ],
+        "explorer": "network"
+      },
+      {
+        "id": "sc11-heating",
+        "section": 5,
+        "title": "State what is held fixed",
+        "intro": "Power is P=VI; for an ohmic resistor P=I²R=V²/R, and H=Pt.",
+        "simple": "At fixed I, more R gives more heat; at fixed V, more R gives less heat for equal time. In a pure resistor energy becomes heat; a motor also transfers mechanical energy.",
+        "example": [
+          "Power is P=VI; for an ohmic resistor P=I²R=V²/R, and H=Pt.",
+          "At fixed I, more R gives more heat; at fixed V, more R gives less heat for equal time. In a pure resistor energy becomes heat; a motor also transfers mechanical energy."
+        ],
+        "question": "At fixed V and time, which resistance gives more heat?",
+        "options": [
+          "Lower R",
+          "Higher R in every case",
+          "R never affects heat"
+        ],
+        "correct": 0,
+        "hints": [
+          "Power is P=VI; for an ohmic resistor P=I²R=V²/R, and H=Pt.",
+          "At fixed I, more R gives more heat; at fixed V, more R gives less heat for equal time. In a pure resistor energy becomes heat; a motor also transfers mechanical energy."
+        ],
+        "feedback": [
+          "Correct. At fixed I, more R gives more heat; at fixed V, more R gives less heat for equal time. In a pure resistor energy becomes heat; a motor also transfers mechanical energy.",
+          "Reconsider: At fixed I, more R gives more heat; at fixed V, more R gives less heat for equal time. In a pure resistor energy becomes heat; a motor also transfers mechanical energy.",
+          "Reconsider: At fixed I, more R gives more heat; at fixed V, more R gives less heat for equal time. In a pure resistor energy becomes heat; a motor also transfers mechanical energy."
+        ],
+        "explorer": "network"
+      },
+      {
+        "id": "sc11-applications",
+        "section": 5,
+        "title": "Compare element and leads",
+        "intro": "Low-resistance leads can remain cooler than a higher-resistance heater element carrying the same series current.",
+        "simple": "Tungsten tolerates filament temperatures; inert gas reduces deterioration. Heating alloys have useful thermal/oxidation behaviour. A fuse is a protective series link, not a current-control knob or a guarantee against every shock.",
+        "example": [
+          "Low-resistance leads can remain cooler than a higher-resistance heater element carrying the same series current.",
+          "Tungsten tolerates filament temperatures; inert gas reduces deterioration. Heating alloys have useful thermal/oxidation behaviour. A fuse is a protective series link, not a current-control knob or a guarantee against every shock."
+        ],
+        "question": "Why can a heater element glow while its cord does not?",
+        "options": [
+          "There is no charge in the cord",
+          "Much greater relevant dissipation in the element",
+          "The series currents must be different"
+        ],
+        "correct": 1,
+        "hints": [
+          "Low-resistance leads can remain cooler than a higher-resistance heater element carrying the same series current.",
+          "Tungsten tolerates filament temperatures; inert gas reduces deterioration. Heating alloys have useful thermal/oxidation behaviour. A fuse is a protective series link, not a current-control knob or a guarantee against every shock."
+        ],
+        "feedback": [
+          "Reconsider: Tungsten tolerates filament temperatures; inert gas reduces deterioration. Heating alloys have useful thermal/oxidation behaviour. A fuse is a protective series link, not a current-control knob or a guarantee against every shock.",
+          "Correct. Tungsten tolerates filament temperatures; inert gas reduces deterioration. Heating alloys have useful thermal/oxidation behaviour. A fuse is a protective series link, not a current-control knob or a guarantee against every shock.",
+          "Reconsider: Tungsten tolerates filament temperatures; inert gas reduces deterioration. Heating alloys have useful thermal/oxidation behaviour. A fuse is a protective series link, not a current-control knob or a guarantee against every shock."
+        ],
+        "explorer": "circuit"
+      },
+      {
+        "id": "sc11-power",
+        "section": 6,
+        "title": "Separate rate and accumulated energy",
+        "intro": "1 W=1 J/s; energy=P×time.1 kWh=3.6×10^6 J; a commercial unit is energy, not1kW power.",
+        "simple": "Multiply kW by operating hours and days, then tariff. The source motor P=VI examples use the ideal/unity-power-factor assumption; real AC motor active power also depends on power factor.",
+        "example": [
+          "1 W=1 J/s; energy=P×time.1 kWh=3.6×10^6 J; a commercial unit is energy, not1kW power.",
+          "Multiply kW by operating hours and days, then tariff. The source motor P=VI examples use the ideal/unity-power-factor assumption; real AC motor active power also depends on power factor."
+        ],
+        "question": "What does kWh measure?",
+        "options": [
+          "Current",
+          "Voltage",
+          "Energy"
+        ],
+        "correct": 2,
+        "hints": [
+          "1 W=1 J/s; energy=P×time.1 kWh=3.6×10^6 J; a commercial unit is energy, not1kW power.",
+          "Multiply kW by operating hours and days, then tariff. The source motor P=VI examples use the ideal/unity-power-factor assumption; real AC motor active power also depends on power factor."
+        ],
+        "feedback": [
+          "Reconsider: Multiply kW by operating hours and days, then tariff. The source motor P=VI examples use the ideal/unity-power-factor assumption; real AC motor active power also depends on power factor.",
+          "Reconsider: Multiply kW by operating hours and days, then tariff. The source motor P=VI examples use the ideal/unity-power-factor assumption; real AC motor active power also depends on power factor.",
+          "Correct. Multiply kW by operating hours and days, then tariff. The source motor P=VI examples use the ideal/unity-power-factor assumption; real AC motor active power also depends on power factor."
+        ],
+        "explorer": "energy"
+      },
+      {
+        "id": "sc11-ratings",
+        "section": 6,
+        "title": "Use stated operating conditions",
+        "intro": "Rated power refers to specified conditions. Under fixed R, halving V quarters power.",
+        "simple": "Real filament R changes with temperature. A refrigerator rating times stated on-time is an exercise assumption, not a forecast of thermostat cycling or a current bill.",
+        "example": [
+          "Rated power refers to specified conditions. Under fixed R, halving V quarters power.",
+          "Real filament R changes with temperature. A refrigerator rating times stated on-time is an exercise assumption, not a forecast of thermostat cycling or a current bill."
+        ],
+        "question": "Under fixed R, V/2 gives what power fraction?",
+        "options": [
+          "1/4",
+          "1/2",
+          "1"
+        ],
+        "correct": 0,
+        "hints": [
+          "Rated power refers to specified conditions. Under fixed R, halving V quarters power.",
+          "Real filament R changes with temperature. A refrigerator rating times stated on-time is an exercise assumption, not a forecast of thermostat cycling or a current bill."
+        ],
+        "feedback": [
+          "Correct. Real filament R changes with temperature. A refrigerator rating times stated on-time is an exercise assumption, not a forecast of thermostat cycling or a current bill.",
+          "Reconsider: Real filament R changes with temperature. A refrigerator rating times stated on-time is an exercise assumption, not a forecast of thermostat cycling or a current bill.",
+          "Reconsider: Real filament R changes with temperature. A refrigerator rating times stated on-time is an exercise assumption, not a forecast of thermostat cycling or a current bill."
+        ],
+        "explorer": "energy"
+      },
+      {
+        "id": "sc11-recap",
+        "section": 7,
+        "title": "Check energy versus its rate",
+        "intro": "Combine conservation laws, connection rules and material properties before inserting numbers.",
+        "simple": "The answer key’s120 W for Exercise11 Q17 is erroneous:15²×8=1800 W. IR=120 V is voltage. Distinguish W from J and from voltage.",
+        "example": [
+          "Combine conservation laws, connection rules and material properties before inserting numbers.",
+          "The answer key’s120 W for Exercise11 Q17 is erroneous:15²×8=1800 W. IR=120 V is voltage. Distinguish W from J and from voltage."
+        ],
+        "question": "What is heating rate for 15 A through 8 Ω?",
+        "options": [
+          "120 W",
+          "1800 W",
+          "120 J regardless of time"
+        ],
+        "correct": 1,
+        "hints": [
+          "Combine conservation laws, connection rules and material properties before inserting numbers.",
+          "The answer key’s120 W for Exercise11 Q17 is erroneous:15²×8=1800 W. IR=120 V is voltage. Distinguish W from J and from voltage."
+        ],
+        "feedback": [
+          "Reconsider: The answer key’s120 W for Exercise11 Q17 is erroneous:15²×8=1800 W. IR=120 V is voltage. Distinguish W from J and from voltage.",
+          "Correct. The answer key’s120 W for Exercise11 Q17 is erroneous:15²×8=1800 W. IR=120 V is voltage. Distinguish W from J and from voltage.",
+          "Reconsider: The answer key’s120 W for Exercise11 Q17 is erroneous:15²×8=1800 W. IR=120 V is voltage. Distinguish W from J and from voltage."
+        ],
+        "explorer": "energy"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "subject": "science",
+    "part": 2,
+    "title": "Magnetic Effects of Electric Current",
+    "slug": "magnetic-effects-of-electric-current",
+    "sections": [
+      "12.1 Magnetic Fields · pp95–97",
+      "12.2 Current and Magnetic Fields · pp98–101",
+      "12.3 Force · pp102–104",
+      "12.4 Domestic Circuits · pp104–105",
+      "What you have learnt · p106"
+    ],
+    "summary": [
+      [
+        "Connect",
+        "Relate labelled circuits and field diagrams to their laws."
+      ],
+      [
+        "Reason",
+        "State units, assumptions and directional conventions."
+      ],
+      [
+        "Review",
+        "Separate calculations from written work awaiting verification."
+      ]
+    ],
+    "challenge": "Explain a new circuit or direction case with a labelled drawing. Compare written reasoning with the model and ask a teacher to verify it.",
+    "steps": [
+      {
+        "id": "sc12-connection",
+        "section": 0,
+        "title": "Connect current and compass",
+        "intro": "A compass needle is a small magnet; a nearby wire current can change its orientation.",
+        "simple": "Oersted’s1820 observation linked electricity and magnetism; Hans Christian Oersted lived1777–1851. Deflection depends on the wire field, Earth’s field and geometry; it is not directly a calibrated current reading.",
+        "example": [
+          "A compass needle is a small magnet; a nearby wire current can change its orientation.",
+          "Oersted’s1820 observation linked electricity and magnetism; Hans Christian Oersted lived1777–1851. Deflection depends on the wire field, Earth’s field and geometry; it is not directly a calibrated current reading."
+        ],
+        "question": "What does the compass observation establish?",
+        "options": [
+          "Current has a magnetic effect",
+          "All metals are permanent magnets",
+          "Current consumes compass material"
+        ],
+        "correct": 0,
+        "hints": [
+          "A compass needle is a small magnet; a nearby wire current can change its orientation.",
+          "Oersted’s1820 observation linked electricity and magnetism; Hans Christian Oersted lived1777–1851. Deflection depends on the wire field, Earth’s field and geometry; it is not directly a calibrated current reading."
+        ],
+        "feedback": [
+          "Correct. Oersted’s1820 observation linked electricity and magnetism; Hans Christian Oersted lived1777–1851. Deflection depends on the wire field, Earth’s field and geometry; it is not directly a calibrated current reading.",
+          "Reconsider: Oersted’s1820 observation linked electricity and magnetism; Hans Christian Oersted lived1777–1851. Deflection depends on the wire field, Earth’s field and geometry; it is not directly a calibrated current reading.",
+          "Reconsider: Oersted’s1820 observation linked electricity and magnetism; Hans Christian Oersted lived1777–1851. Deflection depends on the wire field, Earth’s field and geometry; it is not directly a calibrated current reading."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-bar",
+        "section": 0,
+        "title": "Follow the north end",
+        "intro": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
+        "simple": "Outside a bar magnet lines run N→S; inside they close S→N. Lines represent a field, not physical threads; closer consistent spacing can represent stronger field. They cannot cross where a unique nonzero B exists.",
+        "example": [
+          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
+          "Outside a bar magnet lines run N→S; inside they close S→N. Lines represent a field, not physical threads; closer consistent spacing can represent stronger field. They cannot cross where a unique nonzero B exists."
+        ],
+        "question": "What is the exterior field direction?",
+        "options": [
+          "S→N",
+          "N→S",
+          "Always upward"
+        ],
+        "correct": 1,
+        "hints": [
+          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
+          "Outside a bar magnet lines run N→S; inside they close S→N. Lines represent a field, not physical threads; closer consistent spacing can represent stronger field. They cannot cross where a unique nonzero B exists."
+        ],
+        "feedback": [
+          "Reconsider: Outside a bar magnet lines run N→S; inside they close S→N. Lines represent a field, not physical threads; closer consistent spacing can represent stronger field. They cannot cross where a unique nonzero B exists.",
+          "Correct. Outside a bar magnet lines run N→S; inside they close S→N. Lines represent a field, not physical threads; closer consistent spacing can represent stronger field. They cannot cross where a unique nonzero B exists.",
+          "Reconsider: Outside a bar magnet lines run N→S; inside they close S→N. Lines represent a field, not physical threads; closer consistent spacing can represent stronger field. They cannot cross where a unique nonzero B exists."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-straight",
+        "section": 1,
+        "title": "Circle a straight current",
+        "intro": "Near a long straight wire, field lines are concentric circles in planes perpendicular to the conductor.",
+        "simple": "Reversing conventional current reverses circulation. For the same geometry, larger I gives stronger B and more distance gives weaker B. Current out of page(dot) gives anticlockwise circulation; into page(cross) gives clockwise.",
+        "example": [
+          "Near a long straight wire, field lines are concentric circles in planes perpendicular to the conductor.",
+          "Reversing conventional current reverses circulation. For the same geometry, larger I gives stronger B and more distance gives weaker B. Current out of page(dot) gives anticlockwise circulation; into page(cross) gives clockwise."
+        ],
+        "question": "Which pattern is correct near the wire?",
+        "options": [
+          "Radial lines starting from it",
+          "Straight lines along the wire",
+          "Concentric circles"
+        ],
+        "correct": 2,
+        "hints": [
+          "Near a long straight wire, field lines are concentric circles in planes perpendicular to the conductor.",
+          "Reversing conventional current reverses circulation. For the same geometry, larger I gives stronger B and more distance gives weaker B. Current out of page(dot) gives anticlockwise circulation; into page(cross) gives clockwise."
+        ],
+        "feedback": [
+          "Reconsider: Reversing conventional current reverses circulation. For the same geometry, larger I gives stronger B and more distance gives weaker B. Current out of page(dot) gives anticlockwise circulation; into page(cross) gives clockwise.",
+          "Reconsider: Reversing conventional current reverses circulation. For the same geometry, larger I gives stronger B and more distance gives weaker B. Current out of page(dot) gives anticlockwise circulation; into page(cross) gives clockwise.",
+          "Correct. Reversing conventional current reverses circulation. For the same geometry, larger I gives stronger B and more distance gives weaker B. Current out of page(dot) gives anticlockwise circulation; into page(cross) gives clockwise."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-thumb",
+        "section": 1,
+        "title": "Use the right hand for the field",
+        "intro": "Right thumb points along conventional current; curled fingers give field circulation.",
+        "simple": "Clockwise needs a viewing direction. For east→west current, the field directly below is southward and above northward; reversing the view reverses the apparent circulation description, not the physical field.",
+        "example": [
+          "Right thumb points along conventional current; curled fingers give field circulation.",
+          "Clockwise needs a viewing direction. For east→west current, the field directly below is southward and above northward; reversing the view reverses the apparent circulation description, not the physical field."
+        ],
+        "question": "What happens to B direction when current reverses?",
+        "options": [
+          "It reverses",
+          "It never changes",
+          "It becomes radial"
+        ],
+        "correct": 0,
+        "hints": [
+          "Right thumb points along conventional current; curled fingers give field circulation.",
+          "Clockwise needs a viewing direction. For east→west current, the field directly below is southward and above northward; reversing the view reverses the apparent circulation description, not the physical field."
+        ],
+        "feedback": [
+          "Correct. Clockwise needs a viewing direction. For east→west current, the field directly below is southward and above northward; reversing the view reverses the apparent circulation description, not the physical field.",
+          "Reconsider: Clockwise needs a viewing direction. For east→west current, the field directly below is southward and above northward; reversing the view reverses the apparent circulation description, not the physical field.",
+          "Reconsider: Clockwise needs a viewing direction. For east→west current, the field directly below is southward and above northward; reversing the view reverses the apparent circulation description, not the physical field."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-loop",
+        "section": 1,
+        "title": "Distinguish wire and field loops",
+        "intro": "A circular current loop has local fields around its wire segments and an approximately axial field near its centre.",
+        "simple": "For clockwise current on a table viewed from above, central B enters the table and external return field points outward. More same-current turns reinforce B; the circle representing the wire is not itself one field line.",
+        "example": [
+          "A circular current loop has local fields around its wire segments and an approximately axial field near its centre.",
+          "For clockwise current on a table viewed from above, central B enters the table and external return field points outward. More same-current turns reinforce B; the circle representing the wire is not itself one field line."
+        ],
+        "question": "Clockwise current viewed from above gives which central B?",
+        "options": [
+          "Out of the table",
+          "Into the table",
+          "Around the wire circumference"
+        ],
+        "correct": 1,
+        "hints": [
+          "A circular current loop has local fields around its wire segments and an approximately axial field near its centre.",
+          "For clockwise current on a table viewed from above, central B enters the table and external return field points outward. More same-current turns reinforce B; the circle representing the wire is not itself one field line."
+        ],
+        "feedback": [
+          "Reconsider: For clockwise current on a table viewed from above, central B enters the table and external return field points outward. More same-current turns reinforce B; the circle representing the wire is not itself one field line.",
+          "Correct. For clockwise current on a table viewed from above, central B enters the table and external return field points outward. More same-current turns reinforce B; the circle representing the wire is not itself one field line.",
+          "Reconsider: For clockwise current on a table viewed from above, central B enters the table and external return field points outward. More same-current turns reinforce B; the circle representing the wire is not itself one field line."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-solenoid",
+        "section": 1,
+        "title": "Make a bar-like field with a coil",
+        "intro": "A long solenoid has an approximately uniform field well inside, away from ends, and acts with north/south poles.",
+        "simple": "Viewed from an end, anticlockwise current makes that end north. Soft iron suits readily switchable electromagnets; source Fig12.11 mentions magnetising steel, which retains magnetisation differently. These are not universally interchangeable cores.",
+        "example": [
+          "A long solenoid has an approximately uniform field well inside, away from ends, and acts with north/south poles.",
+          "Viewed from an end, anticlockwise current makes that end north. Soft iron suits readily switchable electromagnets; source Fig12.11 mentions magnetising steel, which retains magnetisation differently. These are not universally interchangeable cores."
+        ],
+        "question": "Where is the uniform-field approximation best?",
+        "options": [
+          "Everywhere outside",
+          "Only at one corner",
+          "Well inside, away from ends"
+        ],
+        "correct": 2,
+        "hints": [
+          "A long solenoid has an approximately uniform field well inside, away from ends, and acts with north/south poles.",
+          "Viewed from an end, anticlockwise current makes that end north. Soft iron suits readily switchable electromagnets; source Fig12.11 mentions magnetising steel, which retains magnetisation differently. These are not universally interchangeable cores."
+        ],
+        "feedback": [
+          "Reconsider: Viewed from an end, anticlockwise current makes that end north. Soft iron suits readily switchable electromagnets; source Fig12.11 mentions magnetising steel, which retains magnetisation differently. These are not universally interchangeable cores.",
+          "Reconsider: Viewed from an end, anticlockwise current makes that end north. Soft iron suits readily switchable electromagnets; source Fig12.11 mentions magnetising steel, which retains magnetisation differently. These are not universally interchangeable cores.",
+          "Correct. Viewed from an end, anticlockwise current makes that end north. Soft iron suits readily switchable electromagnets; source Fig12.11 mentions magnetising steel, which retains magnetisation differently. These are not universally interchangeable cores."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-uniform",
+        "section": 1,
+        "title": "Represent a uniform region",
+        "intro": "Draw parallel equally spaced arrows of the same direction for an ideal uniform field.",
+        "simple": "This is a specified-region approximation, not a claim that every finite coil has a globally uniform field or literal material threads.",
+        "example": [
+          "Draw parallel equally spaced arrows of the same direction for an ideal uniform field.",
+          "This is a specified-region approximation, not a claim that every finite coil has a globally uniform field or literal material threads."
+        ],
+        "question": "Which drawing represents a uniform field?",
+        "options": [
+          "Parallel equally spaced arrows",
+          "Intersecting random lines",
+          "Radial lines from one point"
+        ],
+        "correct": 0,
+        "hints": [
+          "Draw parallel equally spaced arrows of the same direction for an ideal uniform field.",
+          "This is a specified-region approximation, not a claim that every finite coil has a globally uniform field or literal material threads."
+        ],
+        "feedback": [
+          "Correct. This is a specified-region approximation, not a claim that every finite coil has a globally uniform field or literal material threads.",
+          "Reconsider: This is a specified-region approximation, not a claim that every finite coil has a globally uniform field or literal material threads.",
+          "Reconsider: This is a specified-region approximation, not a claim that every finite coil has a globally uniform field or literal material threads."
+        ],
+        "explorer": "magnetic"
+      },
+      {
+        "id": "sc12-force",
+        "section": 2,
+        "title": "Compare I, B and force",
+        "intro": "A current-carrying conductor in an external field can experience force perpendicular to current and field.",
+        "simple": "For fixed B,I and active length, force is greatest at 90° and zero for parallel alignment. Reverse either current or B to reverse force; reverse both to preserve it. Actual displacement also depends on supports/dynamics.",
+        "example": [
+          "A current-carrying conductor in an external field can experience force perpendicular to current and field.",
+          "For fixed B,I and active length, force is greatest at 90° and zero for parallel alignment. Reverse either current or B to reverse force; reverse both to preserve it. Actual displacement also depends on supports/dynamics."
+        ],
+        "question": "When is force greatest, other quantities fixed?",
+        "options": [
+          "I parallel to B",
+          "I perpendicular to B",
+          "I=0"
+        ],
+        "correct": 1,
+        "hints": [
+          "A current-carrying conductor in an external field can experience force perpendicular to current and field.",
+          "For fixed B,I and active length, force is greatest at 90° and zero for parallel alignment. Reverse either current or B to reverse force; reverse both to preserve it. Actual displacement also depends on supports/dynamics."
+        ],
+        "feedback": [
+          "Reconsider: For fixed B,I and active length, force is greatest at 90° and zero for parallel alignment. Reverse either current or B to reverse force; reverse both to preserve it. Actual displacement also depends on supports/dynamics.",
+          "Correct. For fixed B,I and active length, force is greatest at 90° and zero for parallel alignment. Reverse either current or B to reverse force; reverse both to preserve it. Actual displacement also depends on supports/dynamics.",
+          "Reconsider: For fixed B,I and active length, force is greatest at 90° and zero for parallel alignment. Reverse either current or B to reverse force; reverse both to preserve it. Actual displacement also depends on supports/dynamics."
+        ],
+        "explorer": "force"
+      },
+      {
+        "id": "sc12-left-hand",
+        "section": 2,
+        "title": "Use the left hand for force",
+        "intro": "Fleming’s left-hand rule: first finger B, second finger conventional I, thumb force, mutually perpendicular.",
+        "simple": "This is different from the right-hand wire-field rule. Electron motion is opposite to conventional current, so negative charge reverses the positive-charge force prediction for the same velocity.",
+        "example": [
+          "Fleming’s left-hand rule: first finger B, second finger conventional I, thumb force, mutually perpendicular.",
+          "This is different from the right-hand wire-field rule. Electron motion is opposite to conventional current, so negative charge reverses the positive-charge force prediction for the same velocity."
+        ],
+        "question": "Can electron velocity be substituted as conventional I without reversal?",
+        "options": [
+          "Yes, charge sign never matters",
+          "Only if the electron is blue",
+          "No"
+        ],
+        "correct": 2,
+        "hints": [
+          "Fleming’s left-hand rule: first finger B, second finger conventional I, thumb force, mutually perpendicular.",
+          "This is different from the right-hand wire-field rule. Electron motion is opposite to conventional current, so negative charge reverses the positive-charge force prediction for the same velocity."
+        ],
+        "feedback": [
+          "Reconsider: This is different from the right-hand wire-field rule. Electron motion is opposite to conventional current, so negative charge reverses the positive-charge force prediction for the same velocity.",
+          "Reconsider: This is different from the right-hand wire-field rule. Electron motion is opposite to conventional current, so negative charge reverses the positive-charge force prediction for the same velocity.",
+          "Correct. This is different from the right-hand wire-field rule. Electron motion is opposite to conventional current, so negative charge reverses the positive-charge force prediction for the same velocity."
+        ],
+        "explorer": "force"
+      },
+      {
+        "id": "sc12-particle",
+        "section": 2,
+        "title": "Turn motion without adding speed",
+        "intro": "For a freely moving charge under magnetic force alone, velocity and momentum directions can change while speed and rest mass remain unchanged in the school model.",
+        "simple": "Positive-charge force follows v×B; an electron reverses it. Westward positive motion deflected north fits upward B. Motors,speakers and instruments are applications; detailed motor/generator construction is not a separate section in this supplied edition.",
+        "example": [
+          "For a freely moving charge under magnetic force alone, velocity and momentum directions can change while speed and rest mass remain unchanged in the school model.",
+          "Positive-charge force follows v×B; an electron reverses it. Westward positive motion deflected north fits upward B. Motors,speakers and instruments are applications; detailed motor/generator construction is not a separate section in this supplied edition."
+        ],
+        "question": "Which source proton properties can change?",
+        "options": [
+          "Velocity and momentum directions",
+          "Rest mass must change",
+          "Speed must increase"
+        ],
+        "correct": 0,
+        "hints": [
+          "For a freely moving charge under magnetic force alone, velocity and momentum directions can change while speed and rest mass remain unchanged in the school model.",
+          "Positive-charge force follows v×B; an electron reverses it. Westward positive motion deflected north fits upward B. Motors,speakers and instruments are applications; detailed motor/generator construction is not a separate section in this supplied edition."
+        ],
+        "feedback": [
+          "Correct. Positive-charge force follows v×B; an electron reverses it. Westward positive motion deflected north fits upward B. Motors,speakers and instruments are applications; detailed motor/generator construction is not a separate section in this supplied edition.",
+          "Reconsider: Positive-charge force follows v×B; an electron reverses it. Westward positive motion deflected north fits upward B. Motors,speakers and instruments are applications; detailed motor/generator construction is not a separate section in this supplied edition.",
+          "Reconsider: Positive-charge force follows v×B; an electron reverses it. Westward positive motion deflected north fits upward B. Motors,speakers and instruments are applications; detailed motor/generator construction is not a separate section in this supplied edition."
+        ],
+        "explorer": "force"
+      },
+      {
+        "id": "sc12-domestic",
+        "section": 3,
+        "title": "Separate operating and protective paths",
+        "intro": "The source uses 220 V,50 Hz AC and parallel loads. Live/neutral form the operating circuit; earth is not the normal return path.",
+        "simple": "Source colours are red live,black neutral,green earth. Actual codes vary; colour alone cannot identify a safe conductor. Protective earth connects exposed cases to a protective fault path so appropriate devices can disconnect; this does not guarantee zero shock in every fault.",
+        "example": [
+          "The source uses 220 V,50 Hz AC and parallel loads. Live/neutral form the operating circuit; earth is not the normal return path.",
+          "Source colours are red live,black neutral,green earth. Actual codes vary; colour alone cannot identify a safe conductor. Protective earth connects exposed cases to a protective fault path so appropriate devices can disconnect; this does not guarantee zero shock in every fault."
+        ],
+        "question": "What is protective earth’s role?",
+        "options": [
+          "Carry all normal load current",
+          "A protective fault path for exposed metalwork",
+          "Replace live"
+        ],
+        "correct": 1,
+        "hints": [
+          "The source uses 220 V,50 Hz AC and parallel loads. Live/neutral form the operating circuit; earth is not the normal return path.",
+          "Source colours are red live,black neutral,green earth. Actual codes vary; colour alone cannot identify a safe conductor. Protective earth connects exposed cases to a protective fault path so appropriate devices can disconnect; this does not guarantee zero shock in every fault."
+        ],
+        "feedback": [
+          "Reconsider: Source colours are red live,black neutral,green earth. Actual codes vary; colour alone cannot identify a safe conductor. Protective earth connects exposed cases to a protective fault path so appropriate devices can disconnect; this does not guarantee zero shock in every fault.",
+          "Correct. Source colours are red live,black neutral,green earth. Actual codes vary; colour alone cannot identify a safe conductor. Protective earth connects exposed cases to a protective fault path so appropriate devices can disconnect; this does not guarantee zero shock in every fault.",
+          "Reconsider: Source colours are red live,black neutral,green earth. Actual codes vary; colour alone cannot identify a safe conductor. Protective earth connects exposed cases to a protective fault path so appropriate devices can disconnect; this does not guarantee zero shock in every fault."
+        ],
+        "explorer": "domestic"
+      },
+      {
+        "id": "sc12-faults",
+        "section": 3,
+        "title": "Separate overload and short circuit",
+        "intro": "Overload means excessive demand; a short circuit creates an unintended low-impedance path and can cause a large current limited by the real circuit and protection.",
+        "simple": "Suitably designed fuses/MCBs go in the proper live path; residual-current protection has a distinct role. A2kW oven at 220 V draws 9.09 A, beyond5 A. Merely fitting a larger device does not make unsuitable wiring safe.",
+        "example": [
+          "Overload means excessive demand; a short circuit creates an unintended low-impedance path and can cause a large current limited by the real circuit and protection.",
+          "Suitably designed fuses/MCBs go in the proper live path; residual-current protection has a distinct role. A2kW oven at 220 V draws 9.09 A, beyond5 A. Merely fitting a larger device does not make unsuitable wiring safe."
+        ],
+        "question": "What does that oven cause on the 5 A-rated circuit?",
+        "options": [
+          "Current automatically stays at 5 A",
+          "Exactly zero risk",
+          "An overload condition"
+        ],
+        "correct": 2,
+        "hints": [
+          "Overload means excessive demand; a short circuit creates an unintended low-impedance path and can cause a large current limited by the real circuit and protection.",
+          "Suitably designed fuses/MCBs go in the proper live path; residual-current protection has a distinct role. A2kW oven at 220 V draws 9.09 A, beyond5 A. Merely fitting a larger device does not make unsuitable wiring safe."
+        ],
+        "feedback": [
+          "Reconsider: Suitably designed fuses/MCBs go in the proper live path; residual-current protection has a distinct role. A2kW oven at 220 V draws 9.09 A, beyond5 A. Merely fitting a larger device does not make unsuitable wiring safe.",
+          "Reconsider: Suitably designed fuses/MCBs go in the proper live path; residual-current protection has a distinct role. A2kW oven at 220 V draws 9.09 A, beyond5 A. Merely fitting a larger device does not make unsuitable wiring safe.",
+          "Correct. Suitably designed fuses/MCBs go in the proper live path; residual-current protection has a distinct role. A2kW oven at 220 V draws 9.09 A, beyond5 A. Merely fitting a larger device does not make unsuitable wiring safe."
+        ],
+        "explorer": "domestic"
+      },
+      {
+        "id": "sc12-recap",
+        "section": 4,
+        "title": "Check the rule and viewpoint",
+        "intro": "Finding B around a wire and finding force from an external B are different problems.",
+        "simple": "Right-hand thumb rule finds the wire field; Fleming’s left-hand rule finds force with conventional current. State page/room axes and keep classroom diagrams separate from real mains installation.",
+        "example": [
+          "Finding B around a wire and finding force from an external B are different problems.",
+          "Right-hand thumb rule finds the wire field; Fleming’s left-hand rule finds force with conventional current. State page/room axes and keep classroom diagrams separate from real mains installation."
+        ],
+        "question": "Which rule gives the straight wire’s B direction?",
+        "options": [
+          "Right-hand thumb rule",
+          "Fleming’s left-hand rule alone",
+          "A lens sign convention"
+        ],
+        "correct": 0,
+        "hints": [
+          "Finding B around a wire and finding force from an external B are different problems.",
+          "Right-hand thumb rule finds the wire field; Fleming’s left-hand rule finds force with conventional current. State page/room axes and keep classroom diagrams separate from real mains installation."
+        ],
+        "feedback": [
+          "Correct. Right-hand thumb rule finds the wire field; Fleming’s left-hand rule finds force with conventional current. State page/room axes and keep classroom diagrams separate from real mains installation.",
+          "Reconsider: Right-hand thumb rule finds the wire field; Fleming’s left-hand rule finds force with conventional current. State page/room axes and keep classroom diagrams separate from real mains installation.",
+          "Reconsider: Right-hand thumb rule finds the wire field; Fleming’s left-hand rule finds force with conventional current. State page/room axes and keep classroom diagrams separate from real mains installation."
+        ],
+        "explorer": "magnetic"
+      }
+    ]
+  }
+]

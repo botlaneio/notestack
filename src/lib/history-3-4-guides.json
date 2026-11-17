@@ -1,0 +1,1530 @@
+[
+  {
+    "number": 3,
+    "subject": "social-science",
+    "part": 1,
+    "slug": "the-impact-of-the-british-rule-in-india",
+    "title": "The Impact of the British Rule in India",
+    "sections": [
+      "Administration and justice · pp 19–21",
+      "Land-revenue systems · pp 21–23",
+      "Education and its effects · pp 23–24",
+      "Company-era Acts · pp 25–27",
+      "Crown-era Acts · pp 28–31",
+      "Review and evidence · pp 31–32"
+    ],
+    "steps": [
+      {
+        "id": "hi3-context",
+        "section": 0,
+        "title": "Ask whose interests a reform served",
+        "intro": "Company administration linked commercial interests, military power and political control.",
+        "simple": "Company administration linked commercial interests, military power and political control.",
+        "example": [
+          "Company administration linked commercial interests, military power and political control.",
+          "The source discusses divide-and-rule, war and negotiation. Centralisation regulated courts, education and revenue, but did not erase older political organisation or make colonial rule the only origin of Indian unity. Ask who gained authority and who bore costs."
+        ],
+        "question": "Which question helps assess a reform?",
+        "options": [
+          "Who gained power and who carried the costs?",
+          "Did it make every person equally free?",
+          "Was every old institution absent?"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source discusses divide-and-rule, war and negotiation. Centralisation regulated courts, education and revenue, but did not erase older political organisation or make colonial rule the only origin of Indian unity. Ask who gained authority and who bore costs.",
+          "Reconsider: The source discusses divide-and-rule, war and negotiation. Centralisation regulated courts, education and revenue, but did not erase older political organisation or make colonial rule the only origin of Indian unity. Ask who gained authority and who bore costs.",
+          "Reconsider: The source discusses divide-and-rule, war and negotiation. Centralisation regulated courts, education and revenue, but did not erase older political organisation or make colonial rule the only origin of Indian unity. Ask who gained authority and who bore costs."
+        ],
+        "hints": [
+          "Company administration linked commercial interests, military power and political control.",
+          "The source discusses divide-and-rule, war and negotiation. Centralisation regulated courts, education and revenue, but did not erase older political organisation or make colonial rule the only origin of Indian unity. Ask who gained authority and who bore costs."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-civil",
+        "section": 0,
+        "title": "Distinguish recruitment from equal access",
+        "intro": "Cornwallis reorganised the Company’s civil administration and restricted senior posts largely to Europeans.",
+        "simple": "Cornwallis reorganised the Company’s civil administration and restricted senior posts largely to Europeans.",
+        "example": [
+          "Cornwallis reorganised the Company’s civil administration and restricted senior posts largely to Europeans.",
+          "The source links patronage and private trading to corruption. Wellesley’s Fort William College belongs to 1800 (the book says 1801); the 1853 Charter Act opened a route to competitive recruitment, with examinations from 1855. Location, language and discriminatory barriers limited Indian access. Cornwallis’s sweeping accusation against Indians is a prejudiced colonial opinion, not a factual description of a population."
+        ],
+        "question": "Did an examination policy immediately create equal access?",
+        "options": [
+          "Yes, every barrier vanished",
+          "No; eligibility and practical access were different",
+          "There were no examinations ever"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source links patronage and private trading to corruption. Wellesley’s Fort William College belongs to 1800 (the book says 1801); the 1853 Charter Act opened a route to competitive recruitment, with examinations from 1855. Location, language and discriminatory barriers limited Indian access. Cornwallis’s sweeping accusation against Indians is a prejudiced colonial opinion, not a factual description of a population.",
+          "Correct. The source links patronage and private trading to corruption. Wellesley’s Fort William College belongs to 1800 (the book says 1801); the 1853 Charter Act opened a route to competitive recruitment, with examinations from 1855. Location, language and discriminatory barriers limited Indian access. Cornwallis’s sweeping accusation against Indians is a prejudiced colonial opinion, not a factual description of a population.",
+          "Reconsider: The source links patronage and private trading to corruption. Wellesley’s Fort William College belongs to 1800 (the book says 1801); the 1853 Charter Act opened a route to competitive recruitment, with examinations from 1855. Location, language and discriminatory barriers limited Indian access. Cornwallis’s sweeping accusation against Indians is a prejudiced colonial opinion, not a factual description of a population."
+        ],
+        "hints": [
+          "Cornwallis reorganised the Company’s civil administration and restricted senior posts largely to Europeans.",
+          "The source links patronage and private trading to corruption. Wellesley’s Fort William College belongs to 1800 (the book says 1801); the 1853 Charter Act opened a route to competitive recruitment, with examinations from 1855. Location, language and discriminatory barriers limited Indian access. Cornwallis’s sweeping accusation against Indians is a prejudiced colonial opinion, not a factual description of a population."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-judiciary",
+        "section": 0,
+        "title": "Separate civil from criminal jurisdiction",
+        "intro": "Warren Hastings’s 1772 plan established district Diwani Adalats for civil cases and Nizamat/Faujdari Adalats for criminal cases.",
+        "simple": "Warren Hastings’s 1772 plan established district Diwani Adalats for civil cases and Nizamat/Faujdari Adalats for criminal cases.",
+        "example": [
+          "Warren Hastings’s 1772 plan established district Diwani Adalats for civil cases and Nizamat/Faujdari Adalats for criminal cases.",
+          "Civil courts used Hindu and Muslim personal-law traditions with European supervision; criminal justice involved qazis and other law officers under Company oversight. This was a changing colonial system, not India’s first experience of courts. Diwani revenue rights followed Buxar in 1765; the later court plan is a separate event."
+        ],
+        "question": "Which court dealt with civil matters?",
+        "options": [
+          "Diwani Adalat",
+          "A military regiment",
+          "The Board of Control alone"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Civil courts used Hindu and Muslim personal-law traditions with European supervision; criminal justice involved qazis and other law officers under Company oversight. This was a changing colonial system, not India’s first experience of courts. Diwani revenue rights followed Buxar in 1765; the later court plan is a separate event.",
+          "Reconsider: Civil courts used Hindu and Muslim personal-law traditions with European supervision; criminal justice involved qazis and other law officers under Company oversight. This was a changing colonial system, not India’s first experience of courts. Diwani revenue rights followed Buxar in 1765; the later court plan is a separate event.",
+          "Reconsider: Civil courts used Hindu and Muslim personal-law traditions with European supervision; criminal justice involved qazis and other law officers under Company oversight. This was a changing colonial system, not India’s first experience of courts. Diwani revenue rights followed Buxar in 1765; the later court plan is a separate event."
+        ],
+        "hints": [
+          "Warren Hastings’s 1772 plan established district Diwani Adalats for civil cases and Nizamat/Faujdari Adalats for criminal cases.",
+          "Civil courts used Hindu and Muslim personal-law traditions with European supervision; criminal justice involved qazis and other law officers under Company oversight. This was a changing colonial system, not India’s first experience of courts. Diwani revenue rights followed Buxar in 1765; the later court plan is a separate event."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-police",
+        "section": 0,
+        "title": "Trace policing through several reforms",
+        "intro": "Cornwallis reorganised policing around districts and stations in the 1790 s.",
+        "simple": "Cornwallis reorganised policing around districts and stations in the 1790 s.",
+        "example": [
+          "Cornwallis reorganised policing around districts and stations in the 1790 s.",
+          "The book credits him with Superintendent of Police arrangements and mentions kotwals and chowkidars; the station-level Cornwallis system is also associated with darogas, so do not treat all titles as identical or simultaneously modern. The source traces magistrate supervision from 1781, the Police Act 1861 and a commission from 1902. Policing maintained order and colonial authority, with continuing racial discrimination."
+        ],
+        "question": "Which statement is careful?",
+        "options": [
+          "Every police rank is the same office",
+          "Policing changed over time under different laws and officers",
+          "India had no policing before Cornwallis"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The book credits him with Superintendent of Police arrangements and mentions kotwals and chowkidars; the station-level Cornwallis system is also associated with darogas, so do not treat all titles as identical or simultaneously modern. The source traces magistrate supervision from 1781, the Police Act 1861 and a commission from 1902. Policing maintained order and colonial authority, with continuing racial discrimination.",
+          "Correct. The book credits him with Superintendent of Police arrangements and mentions kotwals and chowkidars; the station-level Cornwallis system is also associated with darogas, so do not treat all titles as identical or simultaneously modern. The source traces magistrate supervision from 1781, the Police Act 1861 and a commission from 1902. Policing maintained order and colonial authority, with continuing racial discrimination.",
+          "Reconsider: The book credits him with Superintendent of Police arrangements and mentions kotwals and chowkidars; the station-level Cornwallis system is also associated with darogas, so do not treat all titles as identical or simultaneously modern. The source traces magistrate supervision from 1781, the Police Act 1861 and a commission from 1902. Policing maintained order and colonial authority, with continuing racial discrimination."
+        ],
+        "hints": [
+          "Cornwallis reorganised policing around districts and stations in the 1790 s.",
+          "The book credits him with Superintendent of Police arrangements and mentions kotwals and chowkidars; the station-level Cornwallis system is also associated with darogas, so do not treat all titles as identical or simultaneously modern. The source traces magistrate supervision from 1781, the Police Act 1861 and a commission from 1902. Policing maintained order and colonial authority, with continuing racial discrimination."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-military",
+        "section": 0,
+        "title": "Connect recruitment and unequal command",
+        "intro": "Indian soldiers formed much of the Company’s military, while senior command remained predominantly European.",
+        "simple": "Indian soldiers formed much of the Company’s military, while senior command remained predominantly European.",
+        "example": [
+          "Indian soldiers formed much of the Company’s military, while senior command remained predominantly European.",
+          "The source gives subedar as an important Indian rank and uses a demeaning labour label for soldiers; use respectful sepoy/soldier terminology. Post 1857 reorganisation changed recruitment and control. The Peel Commission belongs to the post-revolt 1858–1859 process, not a completed recommendation in 1857 as the text suggests."
+        ],
+        "question": "What distinction mattered?",
+        "options": [
+          "Large Indian recruitment did not mean equal senior command",
+          "Every soldier was a European officer",
+          "The army had no administrative role"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source gives subedar as an important Indian rank and uses a demeaning labour label for soldiers; use respectful sepoy/soldier terminology. Post 1857 reorganisation changed recruitment and control. The Peel Commission belongs to the post-revolt 1858–1859 process, not a completed recommendation in 1857 as the text suggests.",
+          "Reconsider: The source gives subedar as an important Indian rank and uses a demeaning labour label for soldiers; use respectful sepoy/soldier terminology. Post 1857 reorganisation changed recruitment and control. The Peel Commission belongs to the post-revolt 1858–1859 process, not a completed recommendation in 1857 as the text suggests.",
+          "Reconsider: The source gives subedar as an important Indian rank and uses a demeaning labour label for soldiers; use respectful sepoy/soldier terminology. Post 1857 reorganisation changed recruitment and control. The Peel Commission belongs to the post-revolt 1858–1859 process, not a completed recommendation in 1857 as the text suggests."
+        ],
+        "hints": [
+          "Indian soldiers formed much of the Company’s military, while senior command remained predominantly European.",
+          "The source gives subedar as an important Indian rank and uses a demeaning labour label for soldiers; use respectful sepoy/soldier terminology. Post 1857 reorganisation changed recruitment and control. The Peel Commission belongs to the post-revolt 1858–1859 process, not a completed recommendation in 1857 as the text suggests."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-permanent",
+        "section": 1,
+        "title": "Identify what was made permanent",
+        "intro": "Cornwallis introduced the Permanent Settlement in 1793 in Bengal and Bihar.",
+        "simple": "Cornwallis introduced the Permanent Settlement in 1793 in Bengal and Bihar.",
+        "example": [
+          "Cornwallis introduced the Permanent Settlement in 1793 in Bengal and Bihar.",
+          "Zamindars were recognised as proprietors responsible for a fixed Company revenue payment by a deadline; they collected rents from cultivators and could retain the difference. Non-payment could lead to estate sale even after crop loss. Permanent government demand did not guarantee permanent, low or fair rents for cultivators. The source also mentions later regional extensions, with local variations."
+        ],
+        "question": "What was fixed in this settlement?",
+        "options": [
+          "The Company’s assessed revenue demand",
+          "Every farmer’s harvest forever",
+          "All rents at zero"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Zamindars were recognised as proprietors responsible for a fixed Company revenue payment by a deadline; they collected rents from cultivators and could retain the difference. Non-payment could lead to estate sale even after crop loss. Permanent government demand did not guarantee permanent, low or fair rents for cultivators. The source also mentions later regional extensions, with local variations.",
+          "Reconsider: Zamindars were recognised as proprietors responsible for a fixed Company revenue payment by a deadline; they collected rents from cultivators and could retain the difference. Non-payment could lead to estate sale even after crop loss. Permanent government demand did not guarantee permanent, low or fair rents for cultivators. The source also mentions later regional extensions, with local variations.",
+          "Reconsider: Zamindars were recognised as proprietors responsible for a fixed Company revenue payment by a deadline; they collected rents from cultivators and could retain the difference. Non-payment could lead to estate sale even after crop loss. Permanent government demand did not guarantee permanent, low or fair rents for cultivators. The source also mentions later regional extensions, with local variations."
+        ],
+        "hints": [
+          "Cornwallis introduced the Permanent Settlement in 1793 in Bengal and Bihar.",
+          "Zamindars were recognised as proprietors responsible for a fixed Company revenue payment by a deadline; they collected rents from cultivators and could retain the difference. Non-payment could lead to estate sale even after crop loss. Permanent government demand did not guarantee permanent, low or fair rents for cultivators. The source also mentions later regional extensions, with local variations."
+        ],
+        "explorer": "history-revenue"
+      },
+      {
+        "id": "hi3-mahal",
+        "section": 1,
+        "title": "Locate collective revenue responsibility",
+        "intro": "Mahalwari settlement assessed revenue at the level of a mahal, often a village or estate.",
+        "simple": "Mahalwari settlement assessed revenue at the level of a mahal, often a village or estate.",
+        "example": [
+          "Mahalwari settlement assessed revenue at the level of a mahal, often a village or estate.",
+          "The book associates implementation with R.M.Bird and James Thomason and lists parts of Uttar Pradesh, Madhya Pradesh, Punjab and Delhi. A mahal was a revenue unit, not automatically the same as a modern taluk. Assessments could be revised; high demands and collective liability could burden proprietors and dependent cultivators."
+        ],
+        "question": "Which unit characterises Mahalwari?",
+        "options": [
+          "Only the port warehouse",
+          "Village/estate revenue unit",
+          "Every individual ship"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The book associates implementation with R.M.Bird and James Thomason and lists parts of Uttar Pradesh, Madhya Pradesh, Punjab and Delhi. A mahal was a revenue unit, not automatically the same as a modern taluk. Assessments could be revised; high demands and collective liability could burden proprietors and dependent cultivators.",
+          "Correct. The book associates implementation with R.M.Bird and James Thomason and lists parts of Uttar Pradesh, Madhya Pradesh, Punjab and Delhi. A mahal was a revenue unit, not automatically the same as a modern taluk. Assessments could be revised; high demands and collective liability could burden proprietors and dependent cultivators.",
+          "Reconsider: The book associates implementation with R.M.Bird and James Thomason and lists parts of Uttar Pradesh, Madhya Pradesh, Punjab and Delhi. A mahal was a revenue unit, not automatically the same as a modern taluk. Assessments could be revised; high demands and collective liability could burden proprietors and dependent cultivators."
+        ],
+        "hints": [
+          "Mahalwari settlement assessed revenue at the level of a mahal, often a village or estate.",
+          "The book associates implementation with R.M.Bird and James Thomason and lists parts of Uttar Pradesh, Madhya Pradesh, Punjab and Delhi. A mahal was a revenue unit, not automatically the same as a modern taluk. Assessments could be revised; high demands and collective liability could burden proprietors and dependent cultivators."
+        ],
+        "explorer": "history-revenue"
+      },
+      {
+        "id": "hi3-ryot",
+        "section": 1,
+        "title": "Follow the direct state–cultivator link",
+        "intro": "Ryotwari linked the revenue authority directly with individual cultivators or ryots.",
+        "simple": "Ryotwari linked the revenue authority directly with individual cultivators or ryots.",
+        "example": [
+          "Ryotwari linked the revenue authority directly with individual cultivators or ryots.",
+          "The source names Alexander Read (spelt Reed in the book), Baramahal 1792 and Thomas Munro (Munroe in the book), with later Madras/Mysore-region experiments. It describes a 50%produce demand and 30-year review tenure; these are the extract’s simplified figures, not uniform terms for every place and year. Heavy demand, crop failure and coercive collection could still cause debt despite recognised occupancy/proprietary claims."
+        ],
+        "question": "Who was the immediate settlement partner?",
+        "options": [
+          "The individual cultivator",
+          "Only a European trading ship",
+          "Only an elected parliament"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names Alexander Read (spelt Reed in the book), Baramahal 1792 and Thomas Munro (Munroe in the book), with later Madras/Mysore-region experiments. It describes a 50%produce demand and 30-year review tenure; these are the extract’s simplified figures, not uniform terms for every place and year. Heavy demand, crop failure and coercive collection could still cause debt despite recognised occupancy/proprietary claims.",
+          "Reconsider: The source names Alexander Read (spelt Reed in the book), Baramahal 1792 and Thomas Munro (Munroe in the book), with later Madras/Mysore-region experiments. It describes a 50%produce demand and 30-year review tenure; these are the extract’s simplified figures, not uniform terms for every place and year. Heavy demand, crop failure and coercive collection could still cause debt despite recognised occupancy/proprietary claims.",
+          "Reconsider: The source names Alexander Read (spelt Reed in the book), Baramahal 1792 and Thomas Munro (Munroe in the book), with later Madras/Mysore-region experiments. It describes a 50%produce demand and 30-year review tenure; these are the extract’s simplified figures, not uniform terms for every place and year. Heavy demand, crop failure and coercive collection could still cause debt despite recognised occupancy/proprietary claims."
+        ],
+        "hints": [
+          "Ryotwari linked the revenue authority directly with individual cultivators or ryots.",
+          "The source names Alexander Read (spelt Reed in the book), Baramahal 1792 and Thomas Munro (Munroe in the book), with later Madras/Mysore-region experiments. It describes a 50%produce demand and 30-year review tenure; these are the extract’s simplified figures, not uniform terms for every place and year. Heavy demand, crop failure and coercive collection could still cause debt despite recognised occupancy/proprietary claims."
+        ],
+        "explorer": "history-revenue"
+      },
+      {
+        "id": "hi3-debt",
+        "section": 1,
+        "title": "Explain a debt pathway, not a slogan",
+        "intro": "A fixed or heavy revenue demand could remain due when harvest income fell.",
+        "simple": "A fixed or heavy revenue demand could remain due when harvest income fell.",
+        "example": [
+          "A fixed or heavy revenue demand could remain due when harvest income fell.",
+          "Cultivators might borrow, mortgage land and lose it after failure to repay. Revenue systems also strengthened moneylenders, changed land into a saleable/mortgageable asset, affected labour insecurity and encouraged commercial crops for markets and industry. Some zamindars also lost estates. The source’s quotation about lifelong debt is an interpretive generalisation, not a literal biography of every farmer."
+        ],
+        "question": "Which sequence explains vulnerability?",
+        "options": [
+          "Crop failure → borrowing → interest/arrears → possible land loss",
+          "Crop failure → automatic cancellation everywhere",
+          "Debt → no consequences for anyone"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Cultivators might borrow, mortgage land and lose it after failure to repay. Revenue systems also strengthened moneylenders, changed land into a saleable/mortgageable asset, affected labour insecurity and encouraged commercial crops for markets and industry. Some zamindars also lost estates. The source’s quotation about lifelong debt is an interpretive generalisation, not a literal biography of every farmer.",
+          "Reconsider: Cultivators might borrow, mortgage land and lose it after failure to repay. Revenue systems also strengthened moneylenders, changed land into a saleable/mortgageable asset, affected labour insecurity and encouraged commercial crops for markets and industry. Some zamindars also lost estates. The source’s quotation about lifelong debt is an interpretive generalisation, not a literal biography of every farmer.",
+          "Reconsider: Cultivators might borrow, mortgage land and lose it after failure to repay. Revenue systems also strengthened moneylenders, changed land into a saleable/mortgageable asset, affected labour insecurity and encouraged commercial crops for markets and industry. Some zamindars also lost estates. The source’s quotation about lifelong debt is an interpretive generalisation, not a literal biography of every farmer."
+        ],
+        "hints": [
+          "A fixed or heavy revenue demand could remain due when harvest income fell.",
+          "Cultivators might borrow, mortgage land and lose it after failure to repay. Revenue systems also strengthened moneylenders, changed land into a saleable/mortgageable asset, affected labour insecurity and encouraged commercial crops for markets and industry. Some zamindars also lost estates. The source’s quotation about lifelong debt is an interpretive generalisation, not a literal biography of every farmer."
+        ],
+        "explorer": "history-revenue"
+      },
+      {
+        "id": "hi3-education-origins",
+        "section": 2,
+        "title": "Distinguish older learning and new institutions",
+        "intro": "Indian educational traditions existed before colonial schooling.",
+        "simple": "Indian educational traditions existed before colonial schooling.",
+        "example": [
+          "Indian educational traditions existed before colonial schooling.",
+          "The source names Calcutta Madrasa under Hastings in 1781, Jonathan Duncan’s Banaras Sanskrit College and Charles Grant’s advocacy. The Sanskrit College is generally dated 1791 rather than the source’s 1792. Early institutions served differing linguistic, religious and administrative purposes; education did not begin from nothing with the Company."
+        ],
+        "question": "What is the best interpretation?",
+        "options": [
+          "All learning began in 1835",
+          "New institutions interacted with older educational traditions",
+          "The source describes no schools"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source names Calcutta Madrasa under Hastings in 1781, Jonathan Duncan’s Banaras Sanskrit College and Charles Grant’s advocacy. The Sanskrit College is generally dated 1791 rather than the source’s 1792. Early institutions served differing linguistic, religious and administrative purposes; education did not begin from nothing with the Company.",
+          "Correct. The source names Calcutta Madrasa under Hastings in 1781, Jonathan Duncan’s Banaras Sanskrit College and Charles Grant’s advocacy. The Sanskrit College is generally dated 1791 rather than the source’s 1792. Early institutions served differing linguistic, religious and administrative purposes; education did not begin from nothing with the Company.",
+          "Reconsider: The source names Calcutta Madrasa under Hastings in 1781, Jonathan Duncan’s Banaras Sanskrit College and Charles Grant’s advocacy. The Sanskrit College is generally dated 1791 rather than the source’s 1792. Early institutions served differing linguistic, religious and administrative purposes; education did not begin from nothing with the Company."
+        ],
+        "hints": [
+          "Indian educational traditions existed before colonial schooling.",
+          "The source names Calcutta Madrasa under Hastings in 1781, Jonathan Duncan’s Banaras Sanskrit College and Charles Grant’s advocacy. The Sanskrit College is generally dated 1791 rather than the source’s 1792. Early institutions served differing linguistic, religious and administrative purposes; education did not begin from nothing with the Company."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi3-macaulay",
+        "section": 2,
+        "title": "Read an education policy and its aim",
+        "intro": "Macaulay’s 1835 Minute favoured English-medium higher learning within colonial educational policy.",
+        "simple": "Macaulay’s 1835 Minute favoured English-medium higher learning within colonial educational policy.",
+        "example": [
+          "Macaulay’s 1835 Minute favoured English-medium higher learning within colonial educational policy.",
+          "Bentinck’s administration supported this direction. The quoted aim of forming an Indian intermediary class with English tastes expresses a colonial objective, not a desirable standard for judging Indian intelligence. English learning spread alongside continuing vernacular traditions; access remained unequal."
+        ],
+        "question": "What should a quotation about colonial aims be treated as?",
+        "options": [
+          "A policy viewpoint to analyse",
+          "Proof all Indian knowledge was worthless",
+          "A neutral measure of ability"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Bentinck’s administration supported this direction. The quoted aim of forming an Indian intermediary class with English tastes expresses a colonial objective, not a desirable standard for judging Indian intelligence. English learning spread alongside continuing vernacular traditions; access remained unequal.",
+          "Reconsider: Bentinck’s administration supported this direction. The quoted aim of forming an Indian intermediary class with English tastes expresses a colonial objective, not a desirable standard for judging Indian intelligence. English learning spread alongside continuing vernacular traditions; access remained unequal.",
+          "Reconsider: Bentinck’s administration supported this direction. The quoted aim of forming an Indian intermediary class with English tastes expresses a colonial objective, not a desirable standard for judging Indian intelligence. English learning spread alongside continuing vernacular traditions; access remained unequal."
+        ],
+        "hints": [
+          "Macaulay’s 1835 Minute favoured English-medium higher learning within colonial educational policy.",
+          "Bentinck’s administration supported this direction. The quoted aim of forming an Indian intermediary class with English tastes expresses a colonial objective, not a desirable standard for judging Indian intelligence. English learning spread alongside continuing vernacular traditions; access remained unequal."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-wood",
+        "section": 2,
+        "title": "Separate the 1854 proposal from 1857 universities",
+        "intro": "Wood’s Despatch of 1854 recommended an organised education system and universities.",
+        "simple": "Wood’s Despatch of 1854 recommended an organised education system and universities.",
+        "example": [
+          "Wood’s Despatch of 1854 recommended an organised education system and universities.",
+          "The universities at Calcutta, Bombay and Madras were established in 1857 during Canning’s tenure, not personally founded by Dalhousie in 1854. The source’s “Wood’s Commission” should be read with this distinction. Expanded schooling did not make education universal: gender, class, caste, region and language affected access."
+        ],
+        "question": "Which sequence is correct?",
+        "options": [
+          "1854 Despatch →1857 universities",
+          "1857 universities →1600 Company charter",
+          "Universal schooling for everyone in 1854"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The universities at Calcutta, Bombay and Madras were established in 1857 during Canning’s tenure, not personally founded by Dalhousie in 1854. The source’s “Wood’s Commission” should be read with this distinction. Expanded schooling did not make education universal: gender, class, caste, region and language affected access.",
+          "Reconsider: The universities at Calcutta, Bombay and Madras were established in 1857 during Canning’s tenure, not personally founded by Dalhousie in 1854. The source’s “Wood’s Commission” should be read with this distinction. Expanded schooling did not make education universal: gender, class, caste, region and language affected access.",
+          "Reconsider: The universities at Calcutta, Bombay and Madras were established in 1857 during Canning’s tenure, not personally founded by Dalhousie in 1854. The source’s “Wood’s Commission” should be read with this distinction. Expanded schooling did not make education universal: gender, class, caste, region and language affected access."
+        ],
+        "hints": [
+          "Wood’s Despatch of 1854 recommended an organised education system and universities.",
+          "The universities at Calcutta, Bombay and Madras were established in 1857 during Canning’s tenure, not personally founded by Dalhousie in 1854. The source’s “Wood’s Commission” should be read with this distinction. Expanded schooling did not make education universal: gender, class, caste, region and language affected access."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi3-education-effects",
+        "section": 2,
+        "title": "Explain effects beyond the colonial intention",
+        "intro": "New educational networks contributed to debate, print culture and political criticism.",
+        "simple": "New educational networks contributed to debate, print culture and political criticism.",
+        "example": [
+          "New educational networks contributed to debate, print culture and political criticism.",
+          "The book lists rational, secular, democratic and national ideas; growth of local literature; periodicals scrutinising policy; social/religious reform; discussion of Mill, Rousseau and Montesquieu; inspiration from world struggles; and reassessment of Indian traditions. Indians actively adapted these ideas rather than simply receiving them passively. Benefits were uneven and colonial purposes did not determine every outcome."
+        ],
+        "question": "Which outcome could challenge colonial interests?",
+        "options": [
+          "Critical newspapers and nationalist debate",
+          "Only unquestioning obedience",
+          "The end of every local language"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book lists rational, secular, democratic and national ideas; growth of local literature; periodicals scrutinising policy; social/religious reform; discussion of Mill, Rousseau and Montesquieu; inspiration from world struggles; and reassessment of Indian traditions. Indians actively adapted these ideas rather than simply receiving them passively. Benefits were uneven and colonial purposes did not determine every outcome.",
+          "Reconsider: The book lists rational, secular, democratic and national ideas; growth of local literature; periodicals scrutinising policy; social/religious reform; discussion of Mill, Rousseau and Montesquieu; inspiration from world struggles; and reassessment of Indian traditions. Indians actively adapted these ideas rather than simply receiving them passively. Benefits were uneven and colonial purposes did not determine every outcome.",
+          "Reconsider: The book lists rational, secular, democratic and national ideas; growth of local literature; periodicals scrutinising policy; social/religious reform; discussion of Mill, Rousseau and Montesquieu; inspiration from world struggles; and reassessment of Indian traditions. Indians actively adapted these ideas rather than simply receiving them passively. Benefits were uneven and colonial purposes did not determine every outcome."
+        ],
+        "hints": [
+          "New educational networks contributed to debate, print culture and political criticism.",
+          "The book lists rational, secular, democratic and national ideas; growth of local literature; periodicals scrutinising policy; social/religious reform; discussion of Mill, Rousseau and Montesquieu; inspiration from world struggles; and reassessment of Indian traditions. Indians actively adapted these ideas rather than simply receiving them passively. Benefits were uneven and colonial purposes did not determine every outcome."
+        ],
+        "explorer": "history-institutions"
+      },
+      {
+        "id": "hi3-1773",
+        "section": 3,
+        "title": "Explain regulation without confusing titles",
+        "intro": "The Regulating Act 1773 increased parliamentary oversight of Company administration.",
+        "simple": "The Regulating Act 1773 increased parliamentary oversight of Company administration.",
+        "example": [
+          "The Regulating Act 1773 increased parliamentary oversight of Company administration.",
+          "Bengal’s Governor became Governor-General of Bengal with a council; Bombay and Madras faced restrictions on independent war and diplomacy, with emergency exceptions. A Supreme Court was established at Calcutta in 1774 under the Act, with a Chief Justice and three judges. “Governor-General of India” is the later 1833 title. Corruption and financial/political concerns, including criticism by Edmund Burke, formed the background."
+        ],
+        "question": "Which title belongs to the 1773 arrangement?",
+        "options": [
+          "Governor-General of Bengal",
+          "President of independent India",
+          "Governor-General of India for the first time"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Bengal’s Governor became Governor-General of Bengal with a council; Bombay and Madras faced restrictions on independent war and diplomacy, with emergency exceptions. A Supreme Court was established at Calcutta in 1774 under the Act, with a Chief Justice and three judges. “Governor-General of India” is the later 1833 title. Corruption and financial/political concerns, including criticism by Edmund Burke, formed the background.",
+          "Reconsider: Bengal’s Governor became Governor-General of Bengal with a council; Bombay and Madras faced restrictions on independent war and diplomacy, with emergency exceptions. A Supreme Court was established at Calcutta in 1774 under the Act, with a Chief Justice and three judges. “Governor-General of India” is the later 1833 title. Corruption and financial/political concerns, including criticism by Edmund Burke, formed the background.",
+          "Reconsider: Bengal’s Governor became Governor-General of Bengal with a council; Bombay and Madras faced restrictions on independent war and diplomacy, with emergency exceptions. A Supreme Court was established at Calcutta in 1774 under the Act, with a Chief Justice and three judges. “Governor-General of India” is the later 1833 title. Corruption and financial/political concerns, including criticism by Edmund Burke, formed the background."
+        ],
+        "hints": [
+          "The Regulating Act 1773 increased parliamentary oversight of Company administration.",
+          "Bengal’s Governor became Governor-General of Bengal with a council; Bombay and Madras faced restrictions on independent war and diplomacy, with emergency exceptions. A Supreme Court was established at Calcutta in 1774 under the Act, with a Chief Justice and three judges. “Governor-General of India” is the later 1833 title. Corruption and financial/political concerns, including criticism by Edmund Burke, formed the background."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1784",
+        "section": 3,
+        "title": "Keep two institutions in view",
+        "intro": "Pitt’s India Act 1784 created a six-member Board of Control for government supervision of political affairs.",
+        "simple": "Pitt’s India Act 1784 created a six-member Board of Control for government supervision of political affairs.",
+        "example": [
+          "Pitt’s India Act 1784 created a six-member Board of Control for government supervision of political affairs.",
+          "The Company’s Court of Directors continued with commercial and administrative functions; the Board did not simply replace or abolish it, despite the text’s wording. Revenue, civil and military policy came under stronger government oversight. This was dual control of Company affairs, not Bengal’s 1765 dual-government arrangement."
+        ],
+        "question": "Did the Board of Control abolish the directors?",
+        "options": [
+          "Yes, all directors vanished",
+          "No, the two institutions continued with different roles",
+          "It was a village council"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The Company’s Court of Directors continued with commercial and administrative functions; the Board did not simply replace or abolish it, despite the text’s wording. Revenue, civil and military policy came under stronger government oversight. This was dual control of Company affairs, not Bengal’s 1765 dual-government arrangement.",
+          "Correct. The Company’s Court of Directors continued with commercial and administrative functions; the Board did not simply replace or abolish it, despite the text’s wording. Revenue, civil and military policy came under stronger government oversight. This was dual control of Company affairs, not Bengal’s 1765 dual-government arrangement.",
+          "Reconsider: The Company’s Court of Directors continued with commercial and administrative functions; the Board did not simply replace or abolish it, despite the text’s wording. Revenue, civil and military policy came under stronger government oversight. This was dual control of Company affairs, not Bengal’s 1765 dual-government arrangement."
+        ],
+        "hints": [
+          "Pitt’s India Act 1784 created a six-member Board of Control for government supervision of political affairs.",
+          "The Company’s Court of Directors continued with commercial and administrative functions; the Board did not simply replace or abolish it, despite the text’s wording. Revenue, civil and military policy came under stronger government oversight. This was dual control of Company affairs, not Bengal’s 1765 dual-government arrangement."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-charters",
+        "section": 3,
+        "title": "Understand a charter renewal",
+        "intro": "Charter Acts renewed and altered the Company’s privileges and administrative framework.",
+        "simple": "Charter Acts renewed and altered the Company’s privileges and administrative framework.",
+        "example": [
+          "Charter Acts renewed and altered the Company’s privileges and administrative framework.",
+          "The chapter names 1793,1813,1833 and 1853. Earlier renewals followed 20-year intervals, but 1853 did not simply guarantee another fixed 20-year monopoly. Each Act’s provisions must be compared rather than assuming identical renewals."
+        ],
+        "question": "What can change at renewal?",
+        "options": [
+          "Privileges and administrative powers",
+          "Only the name of a river",
+          "Nothing under any circumstances"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter names 1793,1813,1833 and 1853. Earlier renewals followed 20-year intervals, but 1853 did not simply guarantee another fixed 20-year monopoly. Each Act’s provisions must be compared rather than assuming identical renewals.",
+          "Reconsider: The chapter names 1793,1813,1833 and 1853. Earlier renewals followed 20-year intervals, but 1853 did not simply guarantee another fixed 20-year monopoly. Each Act’s provisions must be compared rather than assuming identical renewals.",
+          "Reconsider: The chapter names 1793,1813,1833 and 1853. Earlier renewals followed 20-year intervals, but 1853 did not simply guarantee another fixed 20-year monopoly. Each Act’s provisions must be compared rather than assuming identical renewals."
+        ],
+        "hints": [
+          "Charter Acts renewed and altered the Company’s privileges and administrative framework.",
+          "The chapter names 1793,1813,1833 and 1853. Earlier renewals followed 20-year intervals, but 1853 did not simply guarantee another fixed 20-year monopoly. Each Act’s provisions must be compared rather than assuming identical renewals."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1813",
+        "section": 3,
+        "title": "Explain which monopoly ended",
+        "intro": "The Charter Act 1813 ended the Company’s monopoly over much trade with India.",
+        "simple": "The Charter Act 1813 ended the Company’s monopoly over much trade with India.",
+        "example": [
+          "The Charter Act 1813 ended the Company’s monopoly over much trade with India.",
+          "Company tea and China-trade monopolies remained until 1833. The source also describes licensing arrangements, director appointment powers and official entry for Christian missionaries, with educational and religious activity. It was not unrestricted free trade by every person in every commodity, and missionary aims should be described rather than endorsed as superior morality."
+        ],
+        "question": "Which exception remained after 1813?",
+        "options": [
+          "Tea and China trade",
+          "Every inland crop forever",
+          "All trade had ended"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Company tea and China-trade monopolies remained until 1833. The source also describes licensing arrangements, director appointment powers and official entry for Christian missionaries, with educational and religious activity. It was not unrestricted free trade by every person in every commodity, and missionary aims should be described rather than endorsed as superior morality.",
+          "Reconsider: Company tea and China-trade monopolies remained until 1833. The source also describes licensing arrangements, director appointment powers and official entry for Christian missionaries, with educational and religious activity. It was not unrestricted free trade by every person in every commodity, and missionary aims should be described rather than endorsed as superior morality.",
+          "Reconsider: Company tea and China-trade monopolies remained until 1833. The source also describes licensing arrangements, director appointment powers and official entry for Christian missionaries, with educational and religious activity. It was not unrestricted free trade by every person in every commodity, and missionary aims should be described rather than endorsed as superior morality."
+        ],
+        "hints": [
+          "The Charter Act 1813 ended the Company’s monopoly over much trade with India.",
+          "Company tea and China-trade monopolies remained until 1833. The source also describes licensing arrangements, director appointment powers and official entry for Christian missionaries, with educational and religious activity. It was not unrestricted free trade by every person in every commodity, and missionary aims should be described rather than endorsed as superior morality."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1833",
+        "section": 3,
+        "title": "Identify centralisation and a limit on equality",
+        "intro": "The Charter Act 1833 made the Governor-General of Bengal the Governor-General of India and ended the Company’s remaining commercial functions.",
+        "simple": "The Charter Act 1833 made the Governor-General of Bengal the Governor-General of India and ended the Company’s remaining commercial functions.",
+        "example": [
+          "The Charter Act 1833 made the Governor-General of Bengal the Governor-General of India and ended the Company’s remaining commercial functions.",
+          "It centralised lawmaking and political oversight, provided a law member and expressed non-disqualification from office by religion, birth, descent or colour. Formal wording did not remove practical racial barriers. The source also stresses written dissent in council and central decisions on war, peace and relations with states; do not describe the Act as merely giving the Company more trading monopolies."
+        ],
+        "question": "Which change belongs to 1833?",
+        "options": [
+          "Governor-General of India title and end of Company commerce",
+          "The start of Dutch VOC",
+          "Equal access achieved instantly"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. It centralised lawmaking and political oversight, provided a law member and expressed non-disqualification from office by religion, birth, descent or colour. Formal wording did not remove practical racial barriers. The source also stresses written dissent in council and central decisions on war, peace and relations with states; do not describe the Act as merely giving the Company more trading monopolies.",
+          "Reconsider: It centralised lawmaking and political oversight, provided a law member and expressed non-disqualification from office by religion, birth, descent or colour. Formal wording did not remove practical racial barriers. The source also stresses written dissent in council and central decisions on war, peace and relations with states; do not describe the Act as merely giving the Company more trading monopolies.",
+          "Reconsider: It centralised lawmaking and political oversight, provided a law member and expressed non-disqualification from office by religion, birth, descent or colour. Formal wording did not remove practical racial barriers. The source also stresses written dissent in council and central decisions on war, peace and relations with states; do not describe the Act as merely giving the Company more trading monopolies."
+        ],
+        "hints": [
+          "The Charter Act 1833 made the Governor-General of Bengal the Governor-General of India and ended the Company’s remaining commercial functions.",
+          "It centralised lawmaking and political oversight, provided a law member and expressed non-disqualification from office by religion, birth, descent or colour. Formal wording did not remove practical racial barriers. The source also stresses written dissent in council and central decisions on war, peace and relations with states; do not describe the Act as merely giving the Company more trading monopolies."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1853",
+        "section": 3,
+        "title": "Separate law from the first examination",
+        "intro": "The Charter Act 1853 helped open civil-service recruitment to competition.",
+        "simple": "The Charter Act 1853 helped open civil-service recruitment to competition.",
+        "example": [
+          "The Charter Act 1853 helped open civil-service recruitment to competition.",
+          "Examinations began in 1855; the 1853 legal change and 1855 implementation are distinct. Patronage did not simply become universal equality because the examination was in Britain and other barriers remained. The chapter lists 1853 among the Charter Acts even though it gives it less separate discussion."
+        ],
+        "question": "Which distinction is correct?",
+        "options": [
+          "1853 provision;1855 examinations",
+          "1853 was the first Mysore war",
+          "No distinction between rule and implementation"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Examinations began in 1855; the 1853 legal change and 1855 implementation are distinct. Patronage did not simply become universal equality because the examination was in Britain and other barriers remained. The chapter lists 1853 among the Charter Acts even though it gives it less separate discussion.",
+          "Reconsider: Examinations began in 1855; the 1853 legal change and 1855 implementation are distinct. Patronage did not simply become universal equality because the examination was in Britain and other barriers remained. The chapter lists 1853 among the Charter Acts even though it gives it less separate discussion.",
+          "Reconsider: Examinations began in 1855; the 1853 legal change and 1855 implementation are distinct. Patronage did not simply become universal equality because the examination was in Britain and other barriers remained. The chapter lists 1853 among the Charter Acts even though it gives it less separate discussion."
+        ],
+        "hints": [
+          "The Charter Act 1853 helped open civil-service recruitment to competition.",
+          "Examinations began in 1855; the 1853 legal change and 1855 implementation are distinct. Patronage did not simply become universal equality because the examination was in Britain and other barriers remained. The chapter lists 1853 among the Charter Acts even though it gives it less separate discussion."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1858",
+        "section": 4,
+        "title": "Identify the transfer from Company to Crown",
+        "intro": "The Government of India Act 1858 transferred Company governing authority to the Crown after the 1857 uprising.",
+        "simple": "The Government of India Act 1858 transferred Company governing authority to the Crown after the 1857 uprising.",
+        "example": [
+          "The Government of India Act 1858 transferred Company governing authority to the Crown after the 1857 uprising.",
+          "A Secretary of State for India in the British cabinet was assisted by a 15-member Council of India. Canning became the first Viceroy; the Governor-General office continued, with viceroy expressing the Crown representative role. Victoria’s 1 November 1858 proclamation is a related declaration, not the date every provision was enacted. Promises should be distinguished from results."
+        ],
+        "question": "Who gained governing authority in 1858?",
+        "options": [
+          "The Crown rather than the Company",
+          "The VOC",
+          "An independent elected Indian republic"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A Secretary of State for India in the British cabinet was assisted by a 15-member Council of India. Canning became the first Viceroy; the Governor-General office continued, with viceroy expressing the Crown representative role. Victoria’s 1 November 1858 proclamation is a related declaration, not the date every provision was enacted. Promises should be distinguished from results.",
+          "Reconsider: A Secretary of State for India in the British cabinet was assisted by a 15-member Council of India. Canning became the first Viceroy; the Governor-General office continued, with viceroy expressing the Crown representative role. Victoria’s 1 November 1858 proclamation is a related declaration, not the date every provision was enacted. Promises should be distinguished from results.",
+          "Reconsider: A Secretary of State for India in the British cabinet was assisted by a 15-member Council of India. Canning became the first Viceroy; the Governor-General office continued, with viceroy expressing the Crown representative role. Victoria’s 1 November 1858 proclamation is a related declaration, not the date every provision was enacted. Promises should be distinguished from results."
+        ],
+        "hints": [
+          "The Government of India Act 1858 transferred Company governing authority to the Crown after the 1857 uprising.",
+          "A Secretary of State for India in the British cabinet was assisted by a 15-member Council of India. Canning became the first Viceroy; the Governor-General office continued, with viceroy expressing the Crown representative role. Victoria’s 1 November 1858 proclamation is a related declaration, not the date every provision was enacted. Promises should be distinguished from results."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1861",
+        "section": 4,
+        "title": "Distinguish nomination from democratic election",
+        "intro": "The Indian Councils Act 1861 provided for nominated non-official members, including Indians, in legislative councils.",
+        "simple": "The Indian Councils Act 1861 provided for nominated non-official members, including Indians, in legislative councils.",
+        "example": [
+          "The Indian Councils Act 1861 provided for nominated non-official members, including Indians, in legislative councils.",
+          "The Viceroy could issue emergency ordinances. The source calls this “Policy of Assertion”; it is commonly explained as association with legislation. Limited nomination did not mean universal elected representation or responsible government."
+        ],
+        "question": "Was nomination the same as a universal election?",
+        "options": [
+          "No, these are different ways of selecting members",
+          "Yes, every adult voted",
+          "There were no councils"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Viceroy could issue emergency ordinances. The source calls this “Policy of Assertion”; it is commonly explained as association with legislation. Limited nomination did not mean universal elected representation or responsible government.",
+          "Reconsider: The Viceroy could issue emergency ordinances. The source calls this “Policy of Assertion”; it is commonly explained as association with legislation. Limited nomination did not mean universal elected representation or responsible government.",
+          "Reconsider: The Viceroy could issue emergency ordinances. The source calls this “Policy of Assertion”; it is commonly explained as association with legislation. Limited nomination did not mean universal elected representation or responsible government."
+        ],
+        "hints": [
+          "The Indian Councils Act 1861 provided for nominated non-official members, including Indians, in legislative councils.",
+          "The Viceroy could issue emergency ordinances. The source calls this “Policy of Assertion”; it is commonly explained as association with legislation. Limited nomination did not mean universal elected representation or responsible government."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1892",
+        "section": 4,
+        "title": "Read the scope of council powers",
+        "intro": "The 1892 Act enlarged councils and allowed discussion of budgets and public questions with notice.",
+        "simple": "The 1892 Act enlarged councils and allowed discussion of budgets and public questions with notice.",
+        "example": [
+          "The 1892 Act enlarged councils and allowed discussion of budgets and public questions with notice.",
+          "The book specifies six days’ notice. Discussion did not mean a right to vote the budget or control the executive; indirect recommendation/elective practices were limited. Congress criticism and demands help explain the context, not a claim that the reforms met every demand."
+        ],
+        "question": "What should not be inferred from budget discussion?",
+        "options": [
+          "Complete control over the budget",
+          "Some opportunity for criticism",
+          "A change in council procedure"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book specifies six days’ notice. Discussion did not mean a right to vote the budget or control the executive; indirect recommendation/elective practices were limited. Congress criticism and demands help explain the context, not a claim that the reforms met every demand.",
+          "Reconsider: The book specifies six days’ notice. Discussion did not mean a right to vote the budget or control the executive; indirect recommendation/elective practices were limited. Congress criticism and demands help explain the context, not a claim that the reforms met every demand.",
+          "Reconsider: The book specifies six days’ notice. Discussion did not mean a right to vote the budget or control the executive; indirect recommendation/elective practices were limited. Congress criticism and demands help explain the context, not a claim that the reforms met every demand."
+        ],
+        "hints": [
+          "The 1892 Act enlarged councils and allowed discussion of budgets and public questions with notice.",
+          "The book specifies six days’ notice. Discussion did not mean a right to vote the budget or control the executive; indirect recommendation/elective practices were limited. Congress criticism and demands help explain the context, not a claim that the reforms met every demand."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1909",
+        "section": 4,
+        "title": "Explain representation and its divisions",
+        "intro": "The 1909 Morley–Minto reforms expanded councils and provided separate Muslim electorates.",
+        "simple": "The 1909 Morley–Minto reforms expanded councils and provided separate Muslim electorates.",
+        "example": [
+          "The 1909 Morley–Minto reforms expanded councils and provided separate Muslim electorates.",
+          "The source gives an increase from 16 to 60 for the central additional legislative membership; distinguish statutory categories from a loose total count. Elections were limited, not universal adult franchise. Separate electorates selected representatives through separate rolls and encouraged politically organised communal distinctions; do not assign a single viewpoint to every member of a community."
+        ],
+        "question": "What does separate electorate mean here?",
+        "options": [
+          "Separate electoral rolls for designated representation",
+          "Every person votes for every seat equally",
+          "A separate military regiment"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source gives an increase from 16 to 60 for the central additional legislative membership; distinguish statutory categories from a loose total count. Elections were limited, not universal adult franchise. Separate electorates selected representatives through separate rolls and encouraged politically organised communal distinctions; do not assign a single viewpoint to every member of a community.",
+          "Reconsider: The source gives an increase from 16 to 60 for the central additional legislative membership; distinguish statutory categories from a loose total count. Elections were limited, not universal adult franchise. Separate electorates selected representatives through separate rolls and encouraged politically organised communal distinctions; do not assign a single viewpoint to every member of a community.",
+          "Reconsider: The source gives an increase from 16 to 60 for the central additional legislative membership; distinguish statutory categories from a loose total count. Elections were limited, not universal adult franchise. Separate electorates selected representatives through separate rolls and encouraged politically organised communal distinctions; do not assign a single viewpoint to every member of a community."
+        ],
+        "hints": [
+          "The 1909 Morley–Minto reforms expanded councils and provided separate Muslim electorates.",
+          "The source gives an increase from 16 to 60 for the central additional legislative membership; distinguish statutory categories from a loose total count. Elections were limited, not universal adult franchise. Separate electorates selected representatives through separate rolls and encouraged politically organised communal distinctions; do not assign a single viewpoint to every member of a community."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1919",
+        "section": 4,
+        "title": "Distinguish provincial dyarchy from bicameralism",
+        "intro": "The 1919 Montagu–Chelmsford reforms introduced provincial dyarchy and a two-house central legislature.",
+        "simple": "The 1919 Montagu–Chelmsford reforms introduced provincial dyarchy and a two-house central legislature.",
+        "example": [
+          "The 1919 Montagu–Chelmsford reforms introduced provincial dyarchy and a two-house central legislature.",
+          "Provincial subjects were divided into reserved and transferred branches; this was not the same as upper/lower houses. The source also lists a High Commissioner for India, separate provincial budgets, local-government development and expanded separate electorates. Montagu announced the 1917 policy in Parliament; do not attribute that announcement solely to Chelmsford. Restricted franchise and executive safeguards remained."
+        ],
+        "question": "Which pair is correctly distinguished?",
+        "options": [
+          "Dyarchy=split executive subjects; bicameralism=two legislative houses",
+          "Both mean two kings",
+          "Both mean universal democracy"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Provincial subjects were divided into reserved and transferred branches; this was not the same as upper/lower houses. The source also lists a High Commissioner for India, separate provincial budgets, local-government development and expanded separate electorates. Montagu announced the 1917 policy in Parliament; do not attribute that announcement solely to Chelmsford. Restricted franchise and executive safeguards remained.",
+          "Reconsider: Provincial subjects were divided into reserved and transferred branches; this was not the same as upper/lower houses. The source also lists a High Commissioner for India, separate provincial budgets, local-government development and expanded separate electorates. Montagu announced the 1917 policy in Parliament; do not attribute that announcement solely to Chelmsford. Restricted franchise and executive safeguards remained.",
+          "Reconsider: Provincial subjects were divided into reserved and transferred branches; this was not the same as upper/lower houses. The source also lists a High Commissioner for India, separate provincial budgets, local-government development and expanded separate electorates. Montagu announced the 1917 policy in Parliament; do not attribute that announcement solely to Chelmsford. Restricted franchise and executive safeguards remained."
+        ],
+        "hints": [
+          "The 1919 Montagu–Chelmsford reforms introduced provincial dyarchy and a two-house central legislature.",
+          "Provincial subjects were divided into reserved and transferred branches; this was not the same as upper/lower houses. The source also lists a High Commissioner for India, separate provincial budgets, local-government development and expanded separate electorates. Montagu announced the 1917 policy in Parliament; do not attribute that announcement solely to Chelmsford. Restricted franchise and executive safeguards remained."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-1935",
+        "section": 4,
+        "title": "Separate proposed federation from implemented autonomy",
+        "intro": "The 1935 Act proposed an all-India federation and central dyarchy, but those federal arrangements never came into operation.",
+        "simple": "The 1935 Act proposed an all-India federation and central dyarchy, but those federal arrangements never came into operation.",
+        "example": [
+          "The 1935 Act proposed an all-India federation and central dyarchy, but those federal arrangements never came into operation.",
+          "Provincial dyarchy was replaced by provincial autonomy from 1937, with significant governor safeguards. The Federal Court opened in 1937. RBI began in 1935 under the separate RBI Act 1934, not because the 1935 Government of India Act created it. The text’s fully responsible government claim needs these limits. The 1928 Nehru Report belongs to wider constitutional debate, not the sole cause of the Act."
+        ],
+        "question": "Which provision actually operated?",
+        "options": [
+          "Provincial autonomy from 1937",
+          "The proposed all-India federation in 1935",
+          "Universal sovereignty under elected ministers everywhere"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Provincial dyarchy was replaced by provincial autonomy from 1937, with significant governor safeguards. The Federal Court opened in 1937. RBI began in 1935 under the separate RBI Act 1934, not because the 1935 Government of India Act created it. The text’s fully responsible government claim needs these limits. The 1928 Nehru Report belongs to wider constitutional debate, not the sole cause of the Act.",
+          "Reconsider: Provincial dyarchy was replaced by provincial autonomy from 1937, with significant governor safeguards. The Federal Court opened in 1937. RBI began in 1935 under the separate RBI Act 1934, not because the 1935 Government of India Act created it. The text’s fully responsible government claim needs these limits. The 1928 Nehru Report belongs to wider constitutional debate, not the sole cause of the Act.",
+          "Reconsider: Provincial dyarchy was replaced by provincial autonomy from 1937, with significant governor safeguards. The Federal Court opened in 1937. RBI began in 1935 under the separate RBI Act 1934, not because the 1935 Government of India Act created it. The text’s fully responsible government claim needs these limits. The 1928 Nehru Report belongs to wider constitutional debate, not the sole cause of the Act."
+        ],
+        "hints": [
+          "The 1935 Act proposed an all-India federation and central dyarchy, but those federal arrangements never came into operation.",
+          "Provincial dyarchy was replaced by provincial autonomy from 1937, with significant governor safeguards. The Federal Court opened in 1937. RBI began in 1935 under the separate RBI Act 1934, not because the 1935 Government of India Act created it. The text’s fully responsible government claim needs these limits. The 1928 Nehru Report belongs to wider constitutional debate, not the sole cause of the Act."
+        ],
+        "explorer": "history-law"
+      },
+      {
+        "id": "hi3-review",
+        "section": 5,
+        "title": "Explain influence without calling it independence",
+        "intro": "Colonial laws influenced later administrative and constitutional forms, but did not themselves establish independent democratic India.",
+        "simple": "Colonial laws influenced later administrative and constitutional forms, but did not themselves establish independent democratic India.",
+        "example": [
+          "Colonial laws influenced later administrative and constitutional forms, but did not themselves establish independent democratic India.",
+          "The Constitution drew selectively on several traditions and transformed colonial arrangements through sovereignty, fundamental rights and democratic commitments. Compare centralisation, representation and accountability, and distinguish intended imperial control from outcomes shaped by Indian struggles."
+        ],
+        "question": "Which account is defensible?",
+        "options": [
+          "Selective influence plus major constitutional transformation",
+          "The Constitution was simply an unchanged colonial Act",
+          "India became independent in 1773"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Constitution drew selectively on several traditions and transformed colonial arrangements through sovereignty, fundamental rights and democratic commitments. Compare centralisation, representation and accountability, and distinguish intended imperial control from outcomes shaped by Indian struggles.",
+          "Reconsider: The Constitution drew selectively on several traditions and transformed colonial arrangements through sovereignty, fundamental rights and democratic commitments. Compare centralisation, representation and accountability, and distinguish intended imperial control from outcomes shaped by Indian struggles.",
+          "Reconsider: The Constitution drew selectively on several traditions and transformed colonial arrangements through sovereignty, fundamental rights and democratic commitments. Compare centralisation, representation and accountability, and distinguish intended imperial control from outcomes shaped by Indian struggles."
+        ],
+        "hints": [
+          "Colonial laws influenced later administrative and constitutional forms, but did not themselves establish independent democratic India.",
+          "The Constitution drew selectively on several traditions and transformed colonial arrangements through sovereignty, fundamental rights and democratic commitments. Compare centralisation, representation and accountability, and distinguish intended imperial control from outcomes shaped by Indian struggles."
+        ],
+        "explorer": "history-law"
+      }
+    ],
+    "summary": [
+      [
+        "Administration",
+        "Compare civil service, courts, police and military as institutions of colonial rule."
+      ],
+      [
+        "Revenue",
+        "Distinguish settlement partner, assessment and vulnerability across three systems."
+      ],
+      [
+        "Education",
+        "Explain colonial purposes, unequal access and Indian adaptation and criticism."
+      ],
+      [
+        "Law and implementation",
+        "Trace Company and Crown legislation without treating every proposal as an implemented democracy."
+      ]
+    ],
+    "challenge": "Use dated examples and labelled comparisons to explain change, resistance and consequences. Distinguish an enacted provision, its implementation and a later historical interpretation."
+  },
+  {
+    "number": 4,
+    "subject": "social-science",
+    "part": 1,
+    "slug": "opposition-to-british-rule-in-karnataka-and-wodeyars-of-mysore",
+    "title": "Opposition to British Rule in Karnataka and Wodeyars of Mysore",
+    "sections": [
+      "Wodeyars and early Mysore · pp 33–34",
+      "Commissioners, restoration and development · pp 34–36",
+      "Hyder Ali, Tipu and Mysore wars · pp 36–41",
+      "Resistance after 1799 · pp 42–45",
+      "Surapura, Koppal and Halagali · pp 45–47",
+      "Source map, review and projects · pp 41,47–48"
+    ],
+    "steps": [
+      {
+        "id": "hi4-origin",
+        "section": 0,
+        "title": "Read a dynasty’s origin account",
+        "intro": "The source traces the Wodeyar dynasty traditionally from Yaduraya and lists 25 rulers through Jayachamaraja.",
+        "simple": "The source traces the Wodeyar dynasty traditionally from Yaduraya and lists 25 rulers through Jayachamaraja.",
+        "example": [
+          "The source traces the Wodeyar dynasty traditionally from Yaduraya and lists 25 rulers through Jayachamaraja.",
+          "The Hadinadu account describes Chamaraja’s death, Maranayaka’s demand, Yaduraya and Krishnaraya arriving from Dwaraka, and a marriage after defeating Maranayaka. Present this as a dynastic origin tradition, not independently verified biography. Mysore’s position changed under Vijayanagara and later powers; the 1399–1947 heading is a broad dynastic frame, not uninterrupted identical sovereignty."
+        ],
+        "question": "How should an origin tradition be presented?",
+        "options": [
+          "As a source account with its evidential status",
+          "As proof every detail is independently verified",
+          "As a reason to omit all later history"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Hadinadu account describes Chamaraja’s death, Maranayaka’s demand, Yaduraya and Krishnaraya arriving from Dwaraka, and a marriage after defeating Maranayaka. Present this as a dynastic origin tradition, not independently verified biography. Mysore’s position changed under Vijayanagara and later powers; the 1399–1947 heading is a broad dynastic frame, not uninterrupted identical sovereignty.",
+          "Reconsider: The Hadinadu account describes Chamaraja’s death, Maranayaka’s demand, Yaduraya and Krishnaraya arriving from Dwaraka, and a marriage after defeating Maranayaka. Present this as a dynastic origin tradition, not independently verified biography. Mysore’s position changed under Vijayanagara and later powers; the 1399–1947 heading is a broad dynastic frame, not uninterrupted identical sovereignty.",
+          "Reconsider: The Hadinadu account describes Chamaraja’s death, Maranayaka’s demand, Yaduraya and Krishnaraya arriving from Dwaraka, and a marriage after defeating Maranayaka. Present this as a dynastic origin tradition, not independently verified biography. Mysore’s position changed under Vijayanagara and later powers; the 1399–1947 heading is a broad dynastic frame, not uninterrupted identical sovereignty."
+        ],
+        "hints": [
+          "The source traces the Wodeyar dynasty traditionally from Yaduraya and lists 25 rulers through Jayachamaraja.",
+          "The Hadinadu account describes Chamaraja’s death, Maranayaka’s demand, Yaduraya and Krishnaraya arriving from Dwaraka, and a marriage after defeating Maranayaka. Present this as a dynastic origin tradition, not independently verified biography. Mysore’s position changed under Vijayanagara and later powers; the 1399–1947 heading is a broad dynastic frame, not uninterrupted identical sovereignty."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-raja",
+        "section": 0,
+        "title": "Connect a capital with political expansion",
+        "intro": "Raja Wodeyar expanded Mysore and made Srirangapatna his capital.",
+        "simple": "Raja Wodeyar expanded Mysore and made Srirangapatna his capital.",
+        "example": [
+          "Raja Wodeyar expanded Mysore and made Srirangapatna his capital.",
+          "The source dates his rule 1578–1617 and links capture from the Vijayanagara representative with territorial expansion, temple patronage at Srirangapatna, Mysore and Melukote, the Rajamudi offering to Cheluvanarayana, and the Dasara/Navaratri tradition at Srirangapatna."
+        ],
+        "question": "Which capital is associated with Raja Wodeyar?",
+        "options": [
+          "Srirangapatna",
+          "Calcutta",
+          "Surat"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source dates his rule 1578–1617 and links capture from the Vijayanagara representative with territorial expansion, temple patronage at Srirangapatna, Mysore and Melukote, the Rajamudi offering to Cheluvanarayana, and the Dasara/Navaratri tradition at Srirangapatna.",
+          "Reconsider: The source dates his rule 1578–1617 and links capture from the Vijayanagara representative with territorial expansion, temple patronage at Srirangapatna, Mysore and Melukote, the Rajamudi offering to Cheluvanarayana, and the Dasara/Navaratri tradition at Srirangapatna.",
+          "Reconsider: The source dates his rule 1578–1617 and links capture from the Vijayanagara representative with territorial expansion, temple patronage at Srirangapatna, Mysore and Melukote, the Rajamudi offering to Cheluvanarayana, and the Dasara/Navaratri tradition at Srirangapatna."
+        ],
+        "hints": [
+          "Raja Wodeyar expanded Mysore and made Srirangapatna his capital.",
+          "The source dates his rule 1578–1617 and links capture from the Vijayanagara representative with territorial expansion, temple patronage at Srirangapatna, Mysore and Melukote, the Rajamudi offering to Cheluvanarayana, and the Dasara/Navaratri tradition at Srirangapatna."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-chikka",
+        "section": 0,
+        "title": "Group Chikkadevaraja’s achievements",
+        "intro": "Chikkadevaraja Wodeyar ruled 1673–1704 and expanded and reorganised the state.",
+        "simple": "Chikkadevaraja Wodeyar ruled 1673–1704 and expanded and reorganised the state.",
+        "example": [
+          "Chikkadevaraja Wodeyar ruled 1673–1704 and expanded and reorganised the state.",
+          "The source names Magadi, Madhugiri and Koratagere; purchase of Bangalore; Athara Kacheri, council/administrative organisation, postal arrangements, Cauvery irrigation and Chikka/Dodda Devaraja canals; patronage of Tirumalarya and Sanchi Honnamma. Its claims and titles, including Navakoti Narayana and Aprathima Veera, are source descriptions. Group military, administrative, economic and cultural claims rather than treating a title as proof of a specific conquest."
+        ],
+        "question": "Which pairing belongs to this account?",
+        "options": [
+          "Athara Kacheri and postal/irrigation measures",
+          "RBI and 1935 federation",
+          "Doctrine of Lapse in 1793"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names Magadi, Madhugiri and Koratagere; purchase of Bangalore; Athara Kacheri, council/administrative organisation, postal arrangements, Cauvery irrigation and Chikka/Dodda Devaraja canals; patronage of Tirumalarya and Sanchi Honnamma. Its claims and titles, including Navakoti Narayana and Aprathima Veera, are source descriptions. Group military, administrative, economic and cultural claims rather than treating a title as proof of a specific conquest.",
+          "Reconsider: The source names Magadi, Madhugiri and Koratagere; purchase of Bangalore; Athara Kacheri, council/administrative organisation, postal arrangements, Cauvery irrigation and Chikka/Dodda Devaraja canals; patronage of Tirumalarya and Sanchi Honnamma. Its claims and titles, including Navakoti Narayana and Aprathima Veera, are source descriptions. Group military, administrative, economic and cultural claims rather than treating a title as proof of a specific conquest.",
+          "Reconsider: The source names Magadi, Madhugiri and Koratagere; purchase of Bangalore; Athara Kacheri, council/administrative organisation, postal arrangements, Cauvery irrigation and Chikka/Dodda Devaraja canals; patronage of Tirumalarya and Sanchi Honnamma. Its claims and titles, including Navakoti Narayana and Aprathima Veera, are source descriptions. Group military, administrative, economic and cultural claims rather than treating a title as proof of a specific conquest."
+        ],
+        "hints": [
+          "Chikkadevaraja Wodeyar ruled 1673–1704 and expanded and reorganised the state.",
+          "The source names Magadi, Madhugiri and Koratagere; purchase of Bangalore; Athara Kacheri, council/administrative organisation, postal arrangements, Cauvery irrigation and Chikka/Dodda Devaraja canals; patronage of Tirumalarya and Sanchi Honnamma. Its claims and titles, including Navakoti Narayana and Aprathima Veera, are source descriptions. Group military, administrative, economic and cultural claims rather than treating a title as proof of a specific conquest."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-commissioners",
+        "section": 1,
+        "title": "Separate a rebellion from direct administration",
+        "intro": "The Nagara uprising belongs to 1830–1831; British commissioners administered Mysore from 1831 to 1881.",
+        "simple": "The Nagara uprising belongs to 1830–1831; British commissioners administered Mysore from 1831 to 1881.",
+        "example": [
+          "The Nagara uprising belongs to 1830–1831; British commissioners administered Mysore from 1831 to 1881.",
+          "The book’s isolated 1830 takeover statement must be read alongside its 1831–1881 heading. Krishnaraja Wodeyar III sought restoration; the 1867 decision concerned an heir, not his personal return, and he died in 1868. The source names seven commissioners, especially Mark Cubbon and L.B.Bowring, and James Gordon at the 1881 handover. Modernisation claims should be considered alongside colonial control."
+        ],
+        "question": "Which period is the commissioners’ administration?",
+        "options": [
+          "1831–1881",
+          "1767–1769",
+          "1909–1919"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book’s isolated 1830 takeover statement must be read alongside its 1831–1881 heading. Krishnaraja Wodeyar III sought restoration; the 1867 decision concerned an heir, not his personal return, and he died in 1868. The source names seven commissioners, especially Mark Cubbon and L.B.Bowring, and James Gordon at the 1881 handover. Modernisation claims should be considered alongside colonial control.",
+          "Reconsider: The book’s isolated 1830 takeover statement must be read alongside its 1831–1881 heading. Krishnaraja Wodeyar III sought restoration; the 1867 decision concerned an heir, not his personal return, and he died in 1868. The source names seven commissioners, especially Mark Cubbon and L.B.Bowring, and James Gordon at the 1881 handover. Modernisation claims should be considered alongside colonial control.",
+          "Reconsider: The book’s isolated 1830 takeover statement must be read alongside its 1831–1881 heading. Krishnaraja Wodeyar III sought restoration; the 1867 decision concerned an heir, not his personal return, and he died in 1868. The source names seven commissioners, especially Mark Cubbon and L.B.Bowring, and James Gordon at the 1881 handover. Modernisation claims should be considered alongside colonial control."
+        ],
+        "hints": [
+          "The Nagara uprising belongs to 1830–1831; British commissioners administered Mysore from 1831 to 1881.",
+          "The book’s isolated 1830 takeover statement must be read alongside its 1831–1881 heading. Krishnaraja Wodeyar III sought restoration; the 1867 decision concerned an heir, not his personal return, and he died in 1868. The source names seven commissioners, especially Mark Cubbon and L.B.Bowring, and James Gordon at the 1881 handover. Modernisation claims should be considered alongside colonial control."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-chamaraja",
+        "section": 1,
+        "title": "Distinguish restoration from independence",
+        "intro": "Administration was restored to Chamarajendra Wodeyar X in 1881, with a British Resident remaining.",
+        "simple": "Administration was restored to Chamarajendra Wodeyar X in 1881, with a British Resident remaining.",
+        "example": [
+          "Administration was restored to Chamarajendra Wodeyar X in 1881, with a British Resident remaining.",
+          "C.Rangacharlu became dewan and established the Mysore Representative Assembly. The source associates this phase with Kolar gold mining and the Bangalore–Mysore railway. Restoration of princely administration did not remove paramount British influence or create universal democratic government."
+        ],
+        "question": "What did the 1881 restoration mean?",
+        "options": [
+          "Princely administration resumed under continuing British influence",
+          "All colonial influence ended",
+          "The dynasty began for the first time"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. C.Rangacharlu became dewan and established the Mysore Representative Assembly. The source associates this phase with Kolar gold mining and the Bangalore–Mysore railway. Restoration of princely administration did not remove paramount British influence or create universal democratic government.",
+          "Reconsider: C.Rangacharlu became dewan and established the Mysore Representative Assembly. The source associates this phase with Kolar gold mining and the Bangalore–Mysore railway. Restoration of princely administration did not remove paramount British influence or create universal democratic government.",
+          "Reconsider: C.Rangacharlu became dewan and established the Mysore Representative Assembly. The source associates this phase with Kolar gold mining and the Bangalore–Mysore railway. Restoration of princely administration did not remove paramount British influence or create universal democratic government."
+        ],
+        "hints": [
+          "Administration was restored to Chamarajendra Wodeyar X in 1881, with a British Resident remaining.",
+          "C.Rangacharlu became dewan and established the Mysore Representative Assembly. The source associates this phase with Kolar gold mining and the Bangalore–Mysore railway. Restoration of princely administration did not remove paramount British influence or create universal democratic government."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-dewan",
+        "section": 1,
+        "title": "Explain a ruler–dewan relationship",
+        "intro": "After Rangacharlu’s death in 1883, K.Seshadri Iyer became dewan.",
+        "simple": "After Rangacharlu’s death in 1883, K.Seshadri Iyer became dewan.",
+        "example": [
+          "After Rangacharlu’s death in 1883, K.Seshadri Iyer became dewan.",
+          "The source credits railway expansion, Mysore civil-service examinations, the 1894 Infant Marriages Prevention Regulation and planning associated with hydroelectric development. It also discusses girls’ education, Maharani’s school, irrigation, Vivekananda’s visit and Chicago support, and Basappa Shastry’s scholarship and Kayo Sri Gowri. Projects spanning reigns should not have every completion date assigned to the earliest proposal."
+        ],
+        "question": "Who followed Rangacharlu as dewan?",
+        "options": [
+          "K.Seshadri Iyer",
+          "Hector Munro",
+          "Dupleix"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source credits railway expansion, Mysore civil-service examinations, the 1894 Infant Marriages Prevention Regulation and planning associated with hydroelectric development. It also discusses girls’ education, Maharani’s school, irrigation, Vivekananda’s visit and Chicago support, and Basappa Shastry’s scholarship and Kayo Sri Gowri. Projects spanning reigns should not have every completion date assigned to the earliest proposal.",
+          "Reconsider: The source credits railway expansion, Mysore civil-service examinations, the 1894 Infant Marriages Prevention Regulation and planning associated with hydroelectric development. It also discusses girls’ education, Maharani’s school, irrigation, Vivekananda’s visit and Chicago support, and Basappa Shastry’s scholarship and Kayo Sri Gowri. Projects spanning reigns should not have every completion date assigned to the earliest proposal.",
+          "Reconsider: The source credits railway expansion, Mysore civil-service examinations, the 1894 Infant Marriages Prevention Regulation and planning associated with hydroelectric development. It also discusses girls’ education, Maharani’s school, irrigation, Vivekananda’s visit and Chicago support, and Basappa Shastry’s scholarship and Kayo Sri Gowri. Projects spanning reigns should not have every completion date assigned to the earliest proposal."
+        ],
+        "hints": [
+          "After Rangacharlu’s death in 1883, K.Seshadri Iyer became dewan.",
+          "The source credits railway expansion, Mysore civil-service examinations, the 1894 Infant Marriages Prevention Regulation and planning associated with hydroelectric development. It also discusses girls’ education, Maharani’s school, irrigation, Vivekananda’s visit and Chicago support, and Basappa Shastry’s scholarship and Kayo Sri Gowri. Projects spanning reigns should not have every completion date assigned to the earliest proposal."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-regency",
+        "section": 1,
+        "title": "Distinguish accession from taking personal charge",
+        "intro": "Krishnaraja Wodeyar IV succeeded as a minor in 1894 and took personal charge in 1902.",
+        "simple": "Krishnaraja Wodeyar IV succeeded as a minor in 1894 and took personal charge in 1902.",
+        "example": [
+          "Krishnaraja Wodeyar IV succeeded as a minor in 1894 and took personal charge in 1902.",
+          "Regent Vani Vilasa Sannidhana Kempa Nanjammanni, dewan officials and advisers oversaw work in education, health, railways, Marikanive and hydroelectric development. Shivanasamudra power supplied Kolar and later Bangalore. The text’s unqualified “first city electrified in India” claim is not used as a settled fact because earlier electrification projects elsewhere require comparison."
+        ],
+        "question": "Why distinguish 1894 from 1902?",
+        "options": [
+          "A regency preceded the ruler’s personal administration",
+          "They were dates of two different Company charters",
+          "Nothing changed in authority"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Regent Vani Vilasa Sannidhana Kempa Nanjammanni, dewan officials and advisers oversaw work in education, health, railways, Marikanive and hydroelectric development. Shivanasamudra power supplied Kolar and later Bangalore. The text’s unqualified “first city electrified in India” claim is not used as a settled fact because earlier electrification projects elsewhere require comparison.",
+          "Reconsider: Regent Vani Vilasa Sannidhana Kempa Nanjammanni, dewan officials and advisers oversaw work in education, health, railways, Marikanive and hydroelectric development. Shivanasamudra power supplied Kolar and later Bangalore. The text’s unqualified “first city electrified in India” claim is not used as a settled fact because earlier electrification projects elsewhere require comparison.",
+          "Reconsider: Regent Vani Vilasa Sannidhana Kempa Nanjammanni, dewan officials and advisers oversaw work in education, health, railways, Marikanive and hydroelectric development. Shivanasamudra power supplied Kolar and later Bangalore. The text’s unqualified “first city electrified in India” claim is not used as a settled fact because earlier electrification projects elsewhere require comparison."
+        ],
+        "hints": [
+          "Krishnaraja Wodeyar IV succeeded as a minor in 1894 and took personal charge in 1902.",
+          "Regent Vani Vilasa Sannidhana Kempa Nanjammanni, dewan officials and advisers oversaw work in education, health, railways, Marikanive and hydroelectric development. Shivanasamudra power supplied Kolar and later Bangalore. The text’s unqualified “first city electrified in India” claim is not used as a settled fact because earlier electrification projects elsewhere require comparison."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-krishna4",
+        "section": 1,
+        "title": "Explain institutions and development",
+        "intro": "Krishnaraja Wodeyar IV’s administration supported education, irrigation, industry and representative institutions.",
+        "simple": "Krishnaraja Wodeyar IV’s administration supported education, irrigation, industry and representative institutions.",
+        "example": [
+          "Krishnaraja Wodeyar IV’s administration supported education, irrigation, industry and representative institutions.",
+          "The source lists free primary schooling, girls’ education, the University of Mysore, foreign-study scholarships, IISc 1909 with Tata and Mysore support, Cauvery irrigation, railways, and factories for iron/steel, cement, paper, sugar, sandal oil, soap and chemicals/fertilisers. Locate Bhadravati, Mandya, Mysore, Bangalore and Belagola in this discussion. Institutions developed through multiple rulers, regents, dewans and specialists, not one person acting alone."
+        ],
+        "question": "Which evidence best supports an achievement claim?",
+        "options": [
+          "A named institution and its documented contribution",
+          "A title without any example",
+          "A claim all projects had one founder"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source lists free primary schooling, girls’ education, the University of Mysore, foreign-study scholarships, IISc 1909 with Tata and Mysore support, Cauvery irrigation, railways, and factories for iron/steel, cement, paper, sugar, sandal oil, soap and chemicals/fertilisers. Locate Bhadravati, Mandya, Mysore, Bangalore and Belagola in this discussion. Institutions developed through multiple rulers, regents, dewans and specialists, not one person acting alone.",
+          "Reconsider: The source lists free primary schooling, girls’ education, the University of Mysore, foreign-study scholarships, IISc 1909 with Tata and Mysore support, Cauvery irrigation, railways, and factories for iron/steel, cement, paper, sugar, sandal oil, soap and chemicals/fertilisers. Locate Bhadravati, Mandya, Mysore, Bangalore and Belagola in this discussion. Institutions developed through multiple rulers, regents, dewans and specialists, not one person acting alone.",
+          "Reconsider: The source lists free primary schooling, girls’ education, the University of Mysore, foreign-study scholarships, IISc 1909 with Tata and Mysore support, Cauvery irrigation, railways, and factories for iron/steel, cement, paper, sugar, sandal oil, soap and chemicals/fertilisers. Locate Bhadravati, Mandya, Mysore, Bangalore and Belagola in this discussion. Institutions developed through multiple rulers, regents, dewans and specialists, not one person acting alone."
+        ],
+        "hints": [
+          "Krishnaraja Wodeyar IV’s administration supported education, irrigation, industry and representative institutions.",
+          "The source lists free primary schooling, girls’ education, the University of Mysore, foreign-study scholarships, IISc 1909 with Tata and Mysore support, Cauvery irrigation, railways, and factories for iron/steel, cement, paper, sugar, sandal oil, soap and chemicals/fertilisers. Locate Bhadravati, Mandya, Mysore, Bangalore and Belagola in this discussion. Institutions developed through multiple rulers, regents, dewans and specialists, not one person acting alone."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-arts",
+        "section": 1,
+        "title": "Connect patronage and the “Model State” description",
+        "intro": "The source calls Mysore a Model State and says Gandhi called Krishnaraja IV “Rajarshi”.",
+        "simple": "The source calls Mysore a Model State and says Gandhi called Krishnaraja IV “Rajarshi”.",
+        "example": [
+          "The source calls Mysore a Model State and says Gandhi called Krishnaraja IV “Rajarshi”.",
+          "Its dewan list includes P.N.Krishnamurthy, V.P.Madhava Rao, M.Visvesvaraya, Kantharaj Urs, Albion Banerjee and Mirza Ismail. It names cultural figures including M.Hiriyanna, Veena Seshanna, Sambayya, Bidaram Krishnappa, Muthiah Bhagavatar, Vasudevacharya and T.Chowdaiah; their roles were not all identical. Explain patronage alongside material policies and their limits, rather than treating praise as a quantitative development measure."
+        ],
+        "question": "What should accompany a title such as Model State?",
+        "options": [
+          "Specific evidence and context",
+          "A claim every resident had identical benefits",
+          "No institutional examples"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Its dewan list includes P.N.Krishnamurthy, V.P.Madhava Rao, M.Visvesvaraya, Kantharaj Urs, Albion Banerjee and Mirza Ismail. It names cultural figures including M.Hiriyanna, Veena Seshanna, Sambayya, Bidaram Krishnappa, Muthiah Bhagavatar, Vasudevacharya and T.Chowdaiah; their roles were not all identical. Explain patronage alongside material policies and their limits, rather than treating praise as a quantitative development measure.",
+          "Reconsider: Its dewan list includes P.N.Krishnamurthy, V.P.Madhava Rao, M.Visvesvaraya, Kantharaj Urs, Albion Banerjee and Mirza Ismail. It names cultural figures including M.Hiriyanna, Veena Seshanna, Sambayya, Bidaram Krishnappa, Muthiah Bhagavatar, Vasudevacharya and T.Chowdaiah; their roles were not all identical. Explain patronage alongside material policies and their limits, rather than treating praise as a quantitative development measure.",
+          "Reconsider: Its dewan list includes P.N.Krishnamurthy, V.P.Madhava Rao, M.Visvesvaraya, Kantharaj Urs, Albion Banerjee and Mirza Ismail. It names cultural figures including M.Hiriyanna, Veena Seshanna, Sambayya, Bidaram Krishnappa, Muthiah Bhagavatar, Vasudevacharya and T.Chowdaiah; their roles were not all identical. Explain patronage alongside material policies and their limits, rather than treating praise as a quantitative development measure."
+        ],
+        "hints": [
+          "The source calls Mysore a Model State and says Gandhi called Krishnaraja IV “Rajarshi”.",
+          "Its dewan list includes P.N.Krishnamurthy, V.P.Madhava Rao, M.Visvesvaraya, Kantharaj Urs, Albion Banerjee and Mirza Ismail. It names cultural figures including M.Hiriyanna, Veena Seshanna, Sambayya, Bidaram Krishnappa, Muthiah Bhagavatar, Vasudevacharya and T.Chowdaiah; their roles were not all identical. Explain patronage alongside material policies and their limits, rather than treating praise as a quantitative development measure."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-jayachamaraja",
+        "section": 1,
+        "title": "Keep post-independence offices distinct",
+        "intro": "Jayachamaraja Wodeyar succeeded in 1940 and supported scholarship, music, literature and the arts.",
+        "simple": "Jayachamaraja Wodeyar succeeded in 1940 and supported scholarship, music, literature and the arts.",
+        "example": [
+          "Jayachamaraja Wodeyar succeeded in 1940 and supported scholarship, music, literature and the arts.",
+          "The source names dewans Mirza Ismail, Nyapathi Madhava Rao and Arcot Ramaswami Mudaliar. His accession to India in 1947, role as Rajpramukh from 1950 and later governorship were different constitutional positions. The book’s 1940–1950 heading must not imply uninterrupted independent kingship or immediate appointment as governor in 1947."
+        ],
+        "question": "Were Maharaja, Rajpramukh and Governor identical offices?",
+        "options": [
+          "No, their constitutional contexts differed",
+          "Yes, all were Company clerks",
+          "Only names for the same army rank"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names dewans Mirza Ismail, Nyapathi Madhava Rao and Arcot Ramaswami Mudaliar. His accession to India in 1947, role as Rajpramukh from 1950 and later governorship were different constitutional positions. The book’s 1940–1950 heading must not imply uninterrupted independent kingship or immediate appointment as governor in 1947.",
+          "Reconsider: The source names dewans Mirza Ismail, Nyapathi Madhava Rao and Arcot Ramaswami Mudaliar. His accession to India in 1947, role as Rajpramukh from 1950 and later governorship were different constitutional positions. The book’s 1940–1950 heading must not imply uninterrupted independent kingship or immediate appointment as governor in 1947.",
+          "Reconsider: The source names dewans Mirza Ismail, Nyapathi Madhava Rao and Arcot Ramaswami Mudaliar. His accession to India in 1947, role as Rajpramukh from 1950 and later governorship were different constitutional positions. The book’s 1940–1950 heading must not imply uninterrupted independent kingship or immediate appointment as governor in 1947."
+        ],
+        "hints": [
+          "Jayachamaraja Wodeyar succeeded in 1940 and supported scholarship, music, literature and the arts.",
+          "The source names dewans Mirza Ismail, Nyapathi Madhava Rao and Arcot Ramaswami Mudaliar. His accession to India in 1947, role as Rajpramukh from 1950 and later governorship were different constitutional positions. The book’s 1940–1950 heading must not imply uninterrupted independent kingship or immediate appointment as governor in 1947."
+        ],
+        "explorer": "history-rulers"
+      },
+      {
+        "id": "hi4-hyder",
+        "section": 2,
+        "title": "Explain a rise through military power",
+        "intro": "Hyder Ali rose through military and court struggles as Mysore’s administration faced instability.",
+        "simple": "Hyder Ali rose through military and court struggles as Mysore’s administration faced instability.",
+        "example": [
+          "Hyder Ali rose through military and court struggles as Mysore’s administration faced instability.",
+          "The source links the aftermath of Chikkadevaraja’s death in 1704 with later succession and dalvoy struggles. Hyder gained effective power over the Wodeyar court, with Krishnaraja II under restraint. European rivalry intersected with Mysore’s choices; the death of Aurangzeb in 1707 was important background, not the sole explanation of every later political event."
+        ],
+        "question": "What kind of explanation is strongest?",
+        "options": [
+          "Court conflict, military organisation and alliances together",
+          "One distant date explains everything alone",
+          "Hyder was a governor appointed by Dalhousie"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source links the aftermath of Chikkadevaraja’s death in 1704 with later succession and dalvoy struggles. Hyder gained effective power over the Wodeyar court, with Krishnaraja II under restraint. European rivalry intersected with Mysore’s choices; the death of Aurangzeb in 1707 was important background, not the sole explanation of every later political event.",
+          "Reconsider: The source links the aftermath of Chikkadevaraja’s death in 1704 with later succession and dalvoy struggles. Hyder gained effective power over the Wodeyar court, with Krishnaraja II under restraint. European rivalry intersected with Mysore’s choices; the death of Aurangzeb in 1707 was important background, not the sole explanation of every later political event.",
+          "Reconsider: The source links the aftermath of Chikkadevaraja’s death in 1704 with later succession and dalvoy struggles. Hyder gained effective power over the Wodeyar court, with Krishnaraja II under restraint. European rivalry intersected with Mysore’s choices; the death of Aurangzeb in 1707 was important background, not the sole explanation of every later political event."
+        ],
+        "hints": [
+          "Hyder Ali rose through military and court struggles as Mysore’s administration faced instability.",
+          "The source links the aftermath of Chikkadevaraja’s death in 1704 with later succession and dalvoy struggles. Hyder gained effective power over the Wodeyar court, with Krishnaraja II under restraint. European rivalry intersected with Mysore’s choices; the death of Aurangzeb in 1707 was important background, not the sole explanation of every later political event."
+        ],
+        "explorer": "history-wars"
+      },
+      {
+        "id": "hi4-war1",
+        "section": 2,
+        "title": "Explain why the first war ended at Madras",
+        "intro": "The First Anglo-Mysore War lasted 1767–1769 and ended with the Treaty of Madras.",
+        "simple": "The First Anglo-Mysore War lasted 1767–1769 and ended with the Treaty of Madras.",
+        "example": [
+          "The First Anglo-Mysore War lasted 1767–1769 and ended with the Treaty of Madras.",
+          "Hyder faced changing British, Maratha and Hyderabad alignments and disrupted the initial coalition. Fighting around Arcot, Tiruchirappalli, Tiruvannamalai and Ambur preceded his rapid approach to Madras in 1769. The treaty involved mutual assistance; military pressure and changing alliances mattered."
+        ],
+        "question": "Which treaty ended the first war?",
+        "options": [
+          "Madras 1769",
+          "Mangalore 1784",
+          "Srirangapatna 1792"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Hyder faced changing British, Maratha and Hyderabad alignments and disrupted the initial coalition. Fighting around Arcot, Tiruchirappalli, Tiruvannamalai and Ambur preceded his rapid approach to Madras in 1769. The treaty involved mutual assistance; military pressure and changing alliances mattered.",
+          "Reconsider: Hyder faced changing British, Maratha and Hyderabad alignments and disrupted the initial coalition. Fighting around Arcot, Tiruchirappalli, Tiruvannamalai and Ambur preceded his rapid approach to Madras in 1769. The treaty involved mutual assistance; military pressure and changing alliances mattered.",
+          "Reconsider: Hyder faced changing British, Maratha and Hyderabad alignments and disrupted the initial coalition. Fighting around Arcot, Tiruchirappalli, Tiruvannamalai and Ambur preceded his rapid approach to Madras in 1769. The treaty involved mutual assistance; military pressure and changing alliances mattered."
+        ],
+        "hints": [
+          "The First Anglo-Mysore War lasted 1767–1769 and ended with the Treaty of Madras.",
+          "Hyder faced changing British, Maratha and Hyderabad alignments and disrupted the initial coalition. Fighting around Arcot, Tiruchirappalli, Tiruvannamalai and Ambur preceded his rapid approach to Madras in 1769. The treaty involved mutual assistance; military pressure and changing alliances mattered."
+        ],
+        "explorer": "history-wars"
+      },
+      {
+        "id": "hi4-war2",
+        "section": 2,
+        "title": "Trace a war across a change of ruler",
+        "intro": "The Second Anglo-Mysore War lasted 1780–1784 and ended with the Treaty of Mangalore.",
+        "simple": "The Second Anglo-Mysore War lasted 1780–1784 and ended with the Treaty of Mangalore.",
+        "example": [
+          "The Second Anglo-Mysore War lasted 1780–1784 and ended with the Treaty of Mangalore.",
+          "Disputes over British non-assistance under Madras and the capture of the French settlement at Mahe contributed. The source describes Hyder’s Carnatic gains, Arcot and coastal operations, Eyre Coote’s victory at Porto Novo 1781, and later setbacks elsewhere. Hyder died in 1782; Tipu continued resistance and coastal operations around Mangalore and Bidanur. Salbai changed the wider alliance setting. Mangalore restored peace without the 1792 territorial/hostage terms."
+        ],
+        "question": "Who continued Mysore’s war after Hyder’s death?",
+        "options": [
+          "Tipu Sultan",
+          "Raja Wodeyar in 1610",
+          "Dalhousie"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Disputes over British non-assistance under Madras and the capture of the French settlement at Mahe contributed. The source describes Hyder’s Carnatic gains, Arcot and coastal operations, Eyre Coote’s victory at Porto Novo 1781, and later setbacks elsewhere. Hyder died in 1782; Tipu continued resistance and coastal operations around Mangalore and Bidanur. Salbai changed the wider alliance setting. Mangalore restored peace without the 1792 territorial/hostage terms.",
+          "Reconsider: Disputes over British non-assistance under Madras and the capture of the French settlement at Mahe contributed. The source describes Hyder’s Carnatic gains, Arcot and coastal operations, Eyre Coote’s victory at Porto Novo 1781, and later setbacks elsewhere. Hyder died in 1782; Tipu continued resistance and coastal operations around Mangalore and Bidanur. Salbai changed the wider alliance setting. Mangalore restored peace without the 1792 territorial/hostage terms.",
+          "Reconsider: Disputes over British non-assistance under Madras and the capture of the French settlement at Mahe contributed. The source describes Hyder’s Carnatic gains, Arcot and coastal operations, Eyre Coote’s victory at Porto Novo 1781, and later setbacks elsewhere. Hyder died in 1782; Tipu continued resistance and coastal operations around Mangalore and Bidanur. Salbai changed the wider alliance setting. Mangalore restored peace without the 1792 territorial/hostage terms."
+        ],
+        "hints": [
+          "The Second Anglo-Mysore War lasted 1780–1784 and ended with the Treaty of Mangalore.",
+          "Disputes over British non-assistance under Madras and the capture of the French settlement at Mahe contributed. The source describes Hyder’s Carnatic gains, Arcot and coastal operations, Eyre Coote’s victory at Porto Novo 1781, and later setbacks elsewhere. Hyder died in 1782; Tipu continued resistance and coastal operations around Mangalore and Bidanur. Salbai changed the wider alliance setting. Mangalore restored peace without the 1792 territorial/hostage terms."
+        ],
+        "explorer": "history-wars"
+      },
+      {
+        "id": "hi4-modernisation",
+        "section": 2,
+        "title": "Connect military technology and resources",
+        "intro": "Hyder and Tipu modernised parts of their army and sought resources for sustained resistance.",
+        "simple": "Hyder and Tipu modernised parts of their army and sought resources for sustained resistance.",
+        "example": [
+          "Hyder and Tipu modernised parts of their army and sought resources for sustained resistance.",
+          "The source describes European-style drill, French expertise, iron-cased rocket development, state monopolies including sandalwood and tobacco, and trade agreements. Rockets existed before Mysore; these were important developments, not the first missiles anywhere. Tipu sought alliances and challenged Company trade power, while also pursuing Mysore’s own expansion. Study political objectives and effects rather than reducing his rule to a single slogan."
+        ],
+        "question": "Why link revenue and army reform?",
+        "options": [
+          "Military operations required finance as well as technology",
+          "Technology removed every need for supplies",
+          "Every trade agreement ended all conflict"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes European-style drill, French expertise, iron-cased rocket development, state monopolies including sandalwood and tobacco, and trade agreements. Rockets existed before Mysore; these were important developments, not the first missiles anywhere. Tipu sought alliances and challenged Company trade power, while also pursuing Mysore’s own expansion. Study political objectives and effects rather than reducing his rule to a single slogan.",
+          "Reconsider: The source describes European-style drill, French expertise, iron-cased rocket development, state monopolies including sandalwood and tobacco, and trade agreements. Rockets existed before Mysore; these were important developments, not the first missiles anywhere. Tipu sought alliances and challenged Company trade power, while also pursuing Mysore’s own expansion. Study political objectives and effects rather than reducing his rule to a single slogan.",
+          "Reconsider: The source describes European-style drill, French expertise, iron-cased rocket development, state monopolies including sandalwood and tobacco, and trade agreements. Rockets existed before Mysore; these were important developments, not the first missiles anywhere. Tipu sought alliances and challenged Company trade power, while also pursuing Mysore’s own expansion. Study political objectives and effects rather than reducing his rule to a single slogan."
+        ],
+        "hints": [
+          "Hyder and Tipu modernised parts of their army and sought resources for sustained resistance.",
+          "The source describes European-style drill, French expertise, iron-cased rocket development, state monopolies including sandalwood and tobacco, and trade agreements. Rockets existed before Mysore; these were important developments, not the first missiles anywhere. Tipu sought alliances and challenged Company trade power, while also pursuing Mysore’s own expansion. Study political objectives and effects rather than reducing his rule to a single slogan."
+        ],
+        "explorer": "history-wars"
+      },
+      {
+        "id": "hi4-war3",
+        "section": 2,
+        "title": "Read the 1792 treaty conditions",
+        "intro": "The Third Anglo-Mysore War of 1790–1792 ended with the Treaty of Srirangapatna.",
+        "simple": "The Third Anglo-Mysore War of 1790–1792 ended with the Treaty of Srirangapatna.",
+        "example": [
+          "The Third Anglo-Mysore War of 1790–1792 ended with the Treaty of Srirangapatna.",
+          "Travancore/Cochin fort disputes and British alliances formed the background. The source traces Meadows’s campaigns, Tipu at Baramahal/Sathyamangalam, Cornwallis at Bangalore and combined British, Maratha and Nizam pressure. It lists loss of half the kingdom,₹3 crore indemnity, two sons as hostages pending payment, and release of prisoners. Many historical accounts give₹3.3 crore rather than the printed₹3 crore: attribute the source amount rather than silently treating the discrepancy as exact."
+        ],
+        "question": "Which term belongs to the 1792 settlement?",
+        "options": [
+          "Half the territory ceded and two sons held as hostages",
+          "Universal voting rights",
+          "The end of every British presence"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Travancore/Cochin fort disputes and British alliances formed the background. The source traces Meadows’s campaigns, Tipu at Baramahal/Sathyamangalam, Cornwallis at Bangalore and combined British, Maratha and Nizam pressure. It lists loss of half the kingdom,₹3 crore indemnity, two sons as hostages pending payment, and release of prisoners. Many historical accounts give₹3.3 crore rather than the printed₹3 crore: attribute the source amount rather than silently treating the discrepancy as exact.",
+          "Reconsider: Travancore/Cochin fort disputes and British alliances formed the background. The source traces Meadows’s campaigns, Tipu at Baramahal/Sathyamangalam, Cornwallis at Bangalore and combined British, Maratha and Nizam pressure. It lists loss of half the kingdom,₹3 crore indemnity, two sons as hostages pending payment, and release of prisoners. Many historical accounts give₹3.3 crore rather than the printed₹3 crore: attribute the source amount rather than silently treating the discrepancy as exact.",
+          "Reconsider: Travancore/Cochin fort disputes and British alliances formed the background. The source traces Meadows’s campaigns, Tipu at Baramahal/Sathyamangalam, Cornwallis at Bangalore and combined British, Maratha and Nizam pressure. It lists loss of half the kingdom,₹3 crore indemnity, two sons as hostages pending payment, and release of prisoners. Many historical accounts give₹3.3 crore rather than the printed₹3 crore: attribute the source amount rather than silently treating the discrepancy as exact."
+        ],
+        "hints": [
+          "The Third Anglo-Mysore War of 1790–1792 ended with the Treaty of Srirangapatna.",
+          "Travancore/Cochin fort disputes and British alliances formed the background. The source traces Meadows’s campaigns, Tipu at Baramahal/Sathyamangalam, Cornwallis at Bangalore and combined British, Maratha and Nizam pressure. It lists loss of half the kingdom,₹3 crore indemnity, two sons as hostages pending payment, and release of prisoners. Many historical accounts give₹3.3 crore rather than the printed₹3 crore: attribute the source amount rather than silently treating the discrepancy as exact."
+        ],
+        "explorer": "history-wars"
+      },
+      {
+        "id": "hi4-war4",
+        "section": 2,
+        "title": "Separate the 1799 outcome from the earlier treaty",
+        "intro": "The Fourth Anglo-Mysore War ended in 1799 with Tipu’s death defending Srirangapatna.",
+        "simple": "The Fourth Anglo-Mysore War ended in 1799 with Tipu’s death defending Srirangapatna.",
+        "example": [
+          "The Fourth Anglo-Mysore War ended in 1799 with Tipu’s death defending Srirangapatna.",
+          "Wellesley’s concerns about French connections, demands for submission and Tipu’s rejection of restrictive conditions formed part of the context. The principal territorial beneficiaries were the Company and the Nizam; a reduced Mysore was restored to the Wodeyars under British influence. The map also labels neighbouring Maratha territory: that is not proof every shaded Maratha area was a new 1799 grant. Tipu’s defeat did not place all India under one direct administration."
+        ],
+        "question": "Which outcome followed 1799?",
+        "options": [
+          "A reduced Wodeyar state under British influence",
+          "The identical 1784 treaty again",
+          "Immediate independence of all Mysore territory"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Wellesley’s concerns about French connections, demands for submission and Tipu’s rejection of restrictive conditions formed part of the context. The principal territorial beneficiaries were the Company and the Nizam; a reduced Mysore was restored to the Wodeyars under British influence. The map also labels neighbouring Maratha territory: that is not proof every shaded Maratha area was a new 1799 grant. Tipu’s defeat did not place all India under one direct administration.",
+          "Reconsider: Wellesley’s concerns about French connections, demands for submission and Tipu’s rejection of restrictive conditions formed part of the context. The principal territorial beneficiaries were the Company and the Nizam; a reduced Mysore was restored to the Wodeyars under British influence. The map also labels neighbouring Maratha territory: that is not proof every shaded Maratha area was a new 1799 grant. Tipu’s defeat did not place all India under one direct administration.",
+          "Reconsider: Wellesley’s concerns about French connections, demands for submission and Tipu’s rejection of restrictive conditions formed part of the context. The principal territorial beneficiaries were the Company and the Nizam; a reduced Mysore was restored to the Wodeyars under British influence. The map also labels neighbouring Maratha territory: that is not proof every shaded Maratha area was a new 1799 grant. Tipu’s defeat did not place all India under one direct administration."
+        ],
+        "hints": [
+          "The Fourth Anglo-Mysore War ended in 1799 with Tipu’s death defending Srirangapatna.",
+          "Wellesley’s concerns about French connections, demands for submission and Tipu’s rejection of restrictive conditions formed part of the context. The principal territorial beneficiaries were the Company and the Nizam; a reduced Mysore was restored to the Wodeyars under British influence. The map also labels neighbouring Maratha territory: that is not proof every shaded Maratha area was a new 1799 grant. Tipu’s defeat did not place all India under one direct administration."
+        ],
+        "explorer": "history-wars"
+      },
+      {
+        "id": "hi4-dondiya",
+        "section": 3,
+        "title": "Follow a mobile resistance network",
+        "intro": "Dondiya Wagh assembled resistance after the 1799 Mysore settlement and was killed in 1800.",
+        "simple": "Dondiya Wagh assembled resistance after the 1799 Mysore settlement and was killed in 1800.",
+        "example": [
+          "Dondiya Wagh assembled resistance after the 1799 Mysore settlement and was killed in 1800.",
+          "The source traces a cavalry background, service and imprisonment under Tipu, release after 1799, and recruitment among displaced soldiers and local chiefs. It names Bidanur, Shivamogga, Honnali, Harihar, Shikaripura, Chitradurga and movements amid Maratha/Nizam forces, ending near Konagal. Distinguish Governor-General Wellesley from field commander Arthur Wellesley; a shared surname does not make them one person."
+        ],
+        "question": "What helped sustain his resistance?",
+        "options": [
+          "Mobile forces and networks of displaced soldiers/local chiefs",
+          "A universal elected parliament",
+          "The 1935 federation"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source traces a cavalry background, service and imprisonment under Tipu, release after 1799, and recruitment among displaced soldiers and local chiefs. It names Bidanur, Shivamogga, Honnali, Harihar, Shikaripura, Chitradurga and movements amid Maratha/Nizam forces, ending near Konagal. Distinguish Governor-General Wellesley from field commander Arthur Wellesley; a shared surname does not make them one person.",
+          "Reconsider: The source traces a cavalry background, service and imprisonment under Tipu, release after 1799, and recruitment among displaced soldiers and local chiefs. It names Bidanur, Shivamogga, Honnali, Harihar, Shikaripura, Chitradurga and movements amid Maratha/Nizam forces, ending near Konagal. Distinguish Governor-General Wellesley from field commander Arthur Wellesley; a shared surname does not make them one person.",
+          "Reconsider: The source traces a cavalry background, service and imprisonment under Tipu, release after 1799, and recruitment among displaced soldiers and local chiefs. It names Bidanur, Shivamogga, Honnali, Harihar, Shikaripura, Chitradurga and movements amid Maratha/Nizam forces, ending near Konagal. Distinguish Governor-General Wellesley from field commander Arthur Wellesley; a shared surname does not make them one person."
+        ],
+        "hints": [
+          "Dondiya Wagh assembled resistance after the 1799 Mysore settlement and was killed in 1800.",
+          "The source traces a cavalry background, service and imprisonment under Tipu, release after 1799, and recruitment among displaced soldiers and local chiefs. It names Bidanur, Shivamogga, Honnali, Harihar, Shikaripura, Chitradurga and movements amid Maratha/Nizam forces, ending near Konagal. Distinguish Governor-General Wellesley from field commander Arthur Wellesley; a shared surname does not make them one person."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-kittur",
+        "section": 3,
+        "title": "Keep 1824 separate from 1848",
+        "intro": "Chennamma resisted British interference in Kittur’s succession in 1824 after Shivalingappa’s adoption.",
+        "simple": "Chennamma resisted British interference in Kittur’s succession in 1824 after Shivalingappa’s adoption.",
+        "example": [
+          "Chennamma resisted British interference in Kittur’s succession in 1824 after Shivalingappa’s adoption.",
+          "The source names Mallasarja, Shivalingarudra Sarja and Collector Thackeray, whose attempt to control the treasury/fort provoked resistance. Thackeray was killed; renewed British attacks led to Chennamma’s capture and imprisonment at Bailhongal. This succession intervention preceded Dalhousie’s 1848 Doctrine of Lapse; the later label must not be moved backwards as an already enacted 1824 policy."
+        ],
+        "question": "Which chronology is correct?",
+        "options": [
+          "Kittur 1824 before Dalhousie’s 1848 policy",
+          "Dalhousie personally led the 1824 attack",
+          "Kittur occurred after 1935"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names Mallasarja, Shivalingarudra Sarja and Collector Thackeray, whose attempt to control the treasury/fort provoked resistance. Thackeray was killed; renewed British attacks led to Chennamma’s capture and imprisonment at Bailhongal. This succession intervention preceded Dalhousie’s 1848 Doctrine of Lapse; the later label must not be moved backwards as an already enacted 1824 policy.",
+          "Reconsider: The source names Mallasarja, Shivalingarudra Sarja and Collector Thackeray, whose attempt to control the treasury/fort provoked resistance. Thackeray was killed; renewed British attacks led to Chennamma’s capture and imprisonment at Bailhongal. This succession intervention preceded Dalhousie’s 1848 Doctrine of Lapse; the later label must not be moved backwards as an already enacted 1824 policy.",
+          "Reconsider: The source names Mallasarja, Shivalingarudra Sarja and Collector Thackeray, whose attempt to control the treasury/fort provoked resistance. Thackeray was killed; renewed British attacks led to Chennamma’s capture and imprisonment at Bailhongal. This succession intervention preceded Dalhousie’s 1848 Doctrine of Lapse; the later label must not be moved backwards as an already enacted 1824 policy."
+        ],
+        "hints": [
+          "Chennamma resisted British interference in Kittur’s succession in 1824 after Shivalingappa’s adoption.",
+          "The source names Mallasarja, Shivalingarudra Sarja and Collector Thackeray, whose attempt to control the treasury/fort provoked resistance. Thackeray was killed; renewed British attacks led to Chennamma’s capture and imprisonment at Bailhongal. This succession intervention preceded Dalhousie’s 1848 Doctrine of Lapse; the later label must not be moved backwards as an already enacted 1824 policy."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-rayanna",
+        "section": 3,
+        "title": "Distinguish resistance and execution dates",
+        "intro": "Sangolli Rayanna continued the Kittur struggle through mobile and clandestine organising.",
+        "simple": "Sangolli Rayanna continued the Kittur struggle through mobile and clandestine organising.",
+        "example": [
+          "Sangolli Rayanna continued the Kittur struggle through mobile and clandestine organising.",
+          "The source describes release after imprisonment, secret meetings, a force of about 500, attacks on British treasuries/taluk offices and efforts to regain Kittur authority. Informants and opposing local officials, including Krishnaraya, helped capture him. The source dates his execution at Nandagad to 26 January 1831;1829–1830 describes a phase of resistance, not a different execution date. Oral histories and ballads preserve memory but require source attribution."
+        ],
+        "question": "Which date is his execution in the chapter?",
+        "options": [
+          "26 January 1831",
+          "23 June 1757",
+          "1 April 1935"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes release after imprisonment, secret meetings, a force of about 500, attacks on British treasuries/taluk offices and efforts to regain Kittur authority. Informants and opposing local officials, including Krishnaraya, helped capture him. The source dates his execution at Nandagad to 26 January 1831;1829–1830 describes a phase of resistance, not a different execution date. Oral histories and ballads preserve memory but require source attribution.",
+          "Reconsider: The source describes release after imprisonment, secret meetings, a force of about 500, attacks on British treasuries/taluk offices and efforts to regain Kittur authority. Informants and opposing local officials, including Krishnaraya, helped capture him. The source dates his execution at Nandagad to 26 January 1831;1829–1830 describes a phase of resistance, not a different execution date. Oral histories and ballads preserve memory but require source attribution.",
+          "Reconsider: The source describes release after imprisonment, secret meetings, a force of about 500, attacks on British treasuries/taluk offices and efforts to regain Kittur authority. Informants and opposing local officials, including Krishnaraya, helped capture him. The source dates his execution at Nandagad to 26 January 1831;1829–1830 describes a phase of resistance, not a different execution date. Oral histories and ballads preserve memory but require source attribution."
+        ],
+        "hints": [
+          "Sangolli Rayanna continued the Kittur struggle through mobile and clandestine organising.",
+          "The source describes release after imprisonment, secret meetings, a force of about 500, attacks on British treasuries/taluk offices and efforts to regain Kittur authority. Informants and opposing local officials, including Krishnaraya, helped capture him. The source dates his execution at Nandagad to 26 January 1831;1829–1830 describes a phase of resistance, not a different execution date. Oral histories and ballads preserve memory but require source attribution."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-amara",
+        "section": 3,
+        "title": "Identify agrarian and political grievances",
+        "intro": "Amara Sullia resistance connected coastal and Kodagu unrest with agrarian grievances.",
+        "simple": "Amara Sullia resistance connected coastal and Kodagu unrest with agrarian grievances.",
+        "example": [
+          "Amara Sullia resistance connected coastal and Kodagu unrest with agrarian grievances.",
+          "The source links Kodagu’s 1834 annexation and Chikkaveerarajendra’s removal with claimants Swami Aparampara, Kalyanaswamy and Puttabasappa. It describes unrest across 1835–1837 and earlier arrests; avoid forcing every event into a single year. Names and assumed identities in these accounts can overlap; do not invent a settled genealogy from the text’s fragmentary sentence."
+        ],
+        "question": "Which description best fits?",
+        "options": [
+          "A farmers’ rebellion with political grievances",
+          "Only a dispute over a European university",
+          "The same event as Plassey"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source links Kodagu’s 1834 annexation and Chikkaveerarajendra’s removal with claimants Swami Aparampara, Kalyanaswamy and Puttabasappa. It describes unrest across 1835–1837 and earlier arrests; avoid forcing every event into a single year. Names and assumed identities in these accounts can overlap; do not invent a settled genealogy from the text’s fragmentary sentence.",
+          "Reconsider: The source links Kodagu’s 1834 annexation and Chikkaveerarajendra’s removal with claimants Swami Aparampara, Kalyanaswamy and Puttabasappa. It describes unrest across 1835–1837 and earlier arrests; avoid forcing every event into a single year. Names and assumed identities in these accounts can overlap; do not invent a settled genealogy from the text’s fragmentary sentence.",
+          "Reconsider: The source links Kodagu’s 1834 annexation and Chikkaveerarajendra’s removal with claimants Swami Aparampara, Kalyanaswamy and Puttabasappa. It describes unrest across 1835–1837 and earlier arrests; avoid forcing every event into a single year. Names and assumed identities in these accounts can overlap; do not invent a settled genealogy from the text’s fragmentary sentence."
+        ],
+        "hints": [
+          "Amara Sullia resistance connected coastal and Kodagu unrest with agrarian grievances.",
+          "The source links Kodagu’s 1834 annexation and Chikkaveerarajendra’s removal with claimants Swami Aparampara, Kalyanaswamy and Puttabasappa. It describes unrest across 1835–1837 and earlier arrests; avoid forcing every event into a single year. Names and assumed identities in these accounts can overlap; do not invent a settled genealogy from the text’s fragmentary sentence."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-puttabasappa",
+        "section": 3,
+        "title": "Connect local action and wider mobilisation",
+        "intro": "Puttabasappa led a phase of the 1837 Amara Sullia rebellion.",
+        "simple": "Puttabasappa led a phase of the 1837 Amara Sullia rebellion.",
+        "example": [
+          "Puttabasappa led a phase of the 1837 Amara Sullia rebellion.",
+          "The source describes promises to remove tobacco/salt taxes, capture of the Bellare office, movement via Panemangalore and Bantwal towards Mangalore, and attacks on state treasuries/prison. British reinforcements and local assistance contributed to suppression. It names executed rebels including Puttabasappa, Lakshmappa, Bangarasa, Kedambadi Ramayya Gowda and Guddemane Appayya; biographical/end-date details need separate verification rather than assuming identical fates for every named person."
+        ],
+        "question": "What links grievances and mobilisation here?",
+        "options": [
+          "Tax promises, local offices and regional networks",
+          "Only a change in the 1892 council",
+          "A treaty ending the first Mysore war"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes promises to remove tobacco/salt taxes, capture of the Bellare office, movement via Panemangalore and Bantwal towards Mangalore, and attacks on state treasuries/prison. British reinforcements and local assistance contributed to suppression. It names executed rebels including Puttabasappa, Lakshmappa, Bangarasa, Kedambadi Ramayya Gowda and Guddemane Appayya; biographical/end-date details need separate verification rather than assuming identical fates for every named person.",
+          "Reconsider: The source describes promises to remove tobacco/salt taxes, capture of the Bellare office, movement via Panemangalore and Bantwal towards Mangalore, and attacks on state treasuries/prison. British reinforcements and local assistance contributed to suppression. It names executed rebels including Puttabasappa, Lakshmappa, Bangarasa, Kedambadi Ramayya Gowda and Guddemane Appayya; biographical/end-date details need separate verification rather than assuming identical fates for every named person.",
+          "Reconsider: The source describes promises to remove tobacco/salt taxes, capture of the Bellare office, movement via Panemangalore and Bantwal towards Mangalore, and attacks on state treasuries/prison. British reinforcements and local assistance contributed to suppression. It names executed rebels including Puttabasappa, Lakshmappa, Bangarasa, Kedambadi Ramayya Gowda and Guddemane Appayya; biographical/end-date details need separate verification rather than assuming identical fates for every named person."
+        ],
+        "hints": [
+          "Puttabasappa led a phase of the 1837 Amara Sullia rebellion.",
+          "The source describes promises to remove tobacco/salt taxes, capture of the Bellare office, movement via Panemangalore and Bantwal towards Mangalore, and attacks on state treasuries/prison. British reinforcements and local assistance contributed to suppression. It names executed rebels including Puttabasappa, Lakshmappa, Bangarasa, Kedambadi Ramayya Gowda and Guddemane Appayya; biographical/end-date details need separate verification rather than assuming identical fates for every named person."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-surapura",
+        "section": 4,
+        "title": "Separate political supervision from rebellion",
+        "intro": "Surapura in present Yadgir district became a focus of resistance under Venkatappa Nayaka.",
+        "simple": "Surapura in present Yadgir district became a focus of resistance under Venkatappa Nayaka.",
+        "example": [
+          "Surapura in present Yadgir district became a focus of resistance under Venkatappa Nayaka.",
+          "The source describes a succession dispute with Peddanayaka, Meadows Taylor’s 1842 supervisory role, land survey/revenue measures and Venkatappa taking charge in 1853. Reports of links to Nana Sahib’s representatives during 1857 and Campbell’s investigation preceded British capture in 1858. The source explicitly says Venkatappa’s end is uncertain; do not invent a definitive death account."
+        ],
+        "question": "Which claim should remain qualified?",
+        "options": [
+          "The circumstances of Venkatappa Nayaka’s end",
+          "Surapura is in Karnataka",
+          "British capture occurred after 1857"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes a succession dispute with Peddanayaka, Meadows Taylor’s 1842 supervisory role, land survey/revenue measures and Venkatappa taking charge in 1853. Reports of links to Nana Sahib’s representatives during 1857 and Campbell’s investigation preceded British capture in 1858. The source explicitly says Venkatappa’s end is uncertain; do not invent a definitive death account.",
+          "Reconsider: The source describes a succession dispute with Peddanayaka, Meadows Taylor’s 1842 supervisory role, land survey/revenue measures and Venkatappa taking charge in 1853. Reports of links to Nana Sahib’s representatives during 1857 and Campbell’s investigation preceded British capture in 1858. The source explicitly says Venkatappa’s end is uncertain; do not invent a definitive death account.",
+          "Reconsider: The source describes a succession dispute with Peddanayaka, Meadows Taylor’s 1842 supervisory role, land survey/revenue measures and Venkatappa taking charge in 1853. Reports of links to Nana Sahib’s representatives during 1857 and Campbell’s investigation preceded British capture in 1858. The source explicitly says Venkatappa’s end is uncertain; do not invent a definitive death account."
+        ],
+        "hints": [
+          "Surapura in present Yadgir district became a focus of resistance under Venkatappa Nayaka.",
+          "The source describes a succession dispute with Peddanayaka, Meadows Taylor’s 1842 supervisory role, land survey/revenue measures and Venkatappa taking charge in 1853. Reports of links to Nana Sahib’s representatives during 1857 and Campbell’s investigation preceded British capture in 1858. The source explicitly says Venkatappa’s end is uncertain; do not invent a definitive death account."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-koppal",
+        "section": 4,
+        "title": "Explain a rebellion across overlapping authority",
+        "intro": "Veerappa’s Koppal resistance challenged exploitation in territory under the Nizam and involved British intervention.",
+        "simple": "Veerappa’s Koppal resistance challenged exploitation in territory under the Nizam and involved British intervention.",
+        "example": [
+          "Veerappa’s Koppal resistance challenged exploitation in territory under the Nizam and involved British intervention.",
+          "The source describes occupation of Koppal and nearby forts, support from cultivators and zamindars, and joint pressure by British/Nizam forces. Veerappa died fighting and the fort was retaken. The extract supplies no precise date for this episode; keep the chronology unassigned instead of inventing one or merging it with Halagali."
+        ],
+        "question": "How should an absent date be handled?",
+        "options": [
+          "State that this extract does not specify it",
+          "Invent a convenient date",
+          "Automatically use 1935"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes occupation of Koppal and nearby forts, support from cultivators and zamindars, and joint pressure by British/Nizam forces. Veerappa died fighting and the fort was retaken. The extract supplies no precise date for this episode; keep the chronology unassigned instead of inventing one or merging it with Halagali.",
+          "Reconsider: The source describes occupation of Koppal and nearby forts, support from cultivators and zamindars, and joint pressure by British/Nizam forces. Veerappa died fighting and the fort was retaken. The extract supplies no precise date for this episode; keep the chronology unassigned instead of inventing one or merging it with Halagali.",
+          "Reconsider: The source describes occupation of Koppal and nearby forts, support from cultivators and zamindars, and joint pressure by British/Nizam forces. Veerappa died fighting and the fort was retaken. The extract supplies no precise date for this episode; keep the chronology unassigned instead of inventing one or merging it with Halagali."
+        ],
+        "hints": [
+          "Veerappa’s Koppal resistance challenged exploitation in territory under the Nizam and involved British intervention.",
+          "The source describes occupation of Koppal and nearby forts, support from cultivators and zamindars, and joint pressure by British/Nizam forces. Veerappa died fighting and the fort was retaken. The extract supplies no precise date for this episode; keep the chronology unassigned instead of inventing one or merging it with Halagali."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-halagali",
+        "section": 4,
+        "title": "Connect disarmament and local resistance",
+        "intro": "Halagali in Mudhol taluk, Bagalkote, was a centre of Beda resistance in 1857.",
+        "simple": "Halagali in Mudhol taluk, Bagalkote, was a centre of Beda resistance in 1857.",
+        "example": [
+          "Halagali in Mudhol taluk, Bagalkote, was a centre of Beda resistance in 1857.",
+          "The source links demands to surrender firearms with hunting traditions and resistance joined by Mantur, Boodni, Alagundi and neighbouring villages. British forces violently suppressed it and rebels were executed; the text’s “all rebels” is a sweeping statement, not an audited casualty list. Its Arms Act sidebar explains licensing. Do not confuse 1857 disarmament with the later Indian Arms Act 1878 or turn this into present-day weapons guidance."
+        ],
+        "question": "Which issue was central?",
+        "options": [
+          "Colonial disarmament demands",
+          "University founding in 1857",
+          "The 1833 law member"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source links demands to surrender firearms with hunting traditions and resistance joined by Mantur, Boodni, Alagundi and neighbouring villages. British forces violently suppressed it and rebels were executed; the text’s “all rebels” is a sweeping statement, not an audited casualty list. Its Arms Act sidebar explains licensing. Do not confuse 1857 disarmament with the later Indian Arms Act 1878 or turn this into present-day weapons guidance.",
+          "Reconsider: The source links demands to surrender firearms with hunting traditions and resistance joined by Mantur, Boodni, Alagundi and neighbouring villages. British forces violently suppressed it and rebels were executed; the text’s “all rebels” is a sweeping statement, not an audited casualty list. Its Arms Act sidebar explains licensing. Do not confuse 1857 disarmament with the later Indian Arms Act 1878 or turn this into present-day weapons guidance.",
+          "Reconsider: The source links demands to surrender firearms with hunting traditions and resistance joined by Mantur, Boodni, Alagundi and neighbouring villages. British forces violently suppressed it and rebels were executed; the text’s “all rebels” is a sweeping statement, not an audited casualty list. Its Arms Act sidebar explains licensing. Do not confuse 1857 disarmament with the later Indian Arms Act 1878 or turn this into present-day weapons guidance."
+        ],
+        "hints": [
+          "Halagali in Mudhol taluk, Bagalkote, was a centre of Beda resistance in 1857.",
+          "The source links demands to surrender firearms with hunting traditions and resistance joined by Mantur, Boodni, Alagundi and neighbouring villages. British forces violently suppressed it and rebels were executed; the text’s “all rebels” is a sweeping statement, not an audited casualty list. Its Arms Act sidebar explains licensing. Do not confuse 1857 disarmament with the later Indian Arms Act 1878 or turn this into present-day weapons guidance."
+        ],
+        "explorer": "history-resistance"
+      },
+      {
+        "id": "hi4-map",
+        "section": 5,
+        "title": "Read the map without inventing territorial precision",
+        "intro": "The p 41 map labels Mysore after Tipu using English, Nizam, Maratha and Maharaja categories.",
+        "simple": "The p 41 map labels Mysore after Tipu using English, Nizam, Maratha and Maharaja categories.",
+        "example": [
+          "The p 41 map labels Mysore after Tipu using English, Nizam, Maratha and Maharaja categories.",
+          "Locate Srirangapatna, Mysore, Bangalore, Chitradurga and coastal/Deccan context. A regional locator shows places, not reconstructed boundary polygons. The source map’s neighbouring Maratha territory must not automatically be interpreted as a new 1799 allocation. Use the legend, period and explanatory text together."
+        ],
+        "question": "What can a point locator establish?",
+        "options": [
+          "Approximate place context, not exact historical state boundaries",
+          "The precise extent of every 1799 grant",
+          "That every nearby state had the same ruler"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Locate Srirangapatna, Mysore, Bangalore, Chitradurga and coastal/Deccan context. A regional locator shows places, not reconstructed boundary polygons. The source map’s neighbouring Maratha territory must not automatically be interpreted as a new 1799 allocation. Use the legend, period and explanatory text together.",
+          "Reconsider: Locate Srirangapatna, Mysore, Bangalore, Chitradurga and coastal/Deccan context. A regional locator shows places, not reconstructed boundary polygons. The source map’s neighbouring Maratha territory must not automatically be interpreted as a new 1799 allocation. Use the legend, period and explanatory text together.",
+          "Reconsider: Locate Srirangapatna, Mysore, Bangalore, Chitradurga and coastal/Deccan context. A regional locator shows places, not reconstructed boundary polygons. The source map’s neighbouring Maratha territory must not automatically be interpreted as a new 1799 allocation. Use the legend, period and explanatory text together."
+        ],
+        "hints": [
+          "The p 41 map labels Mysore after Tipu using English, Nizam, Maratha and Maharaja categories.",
+          "Locate Srirangapatna, Mysore, Bangalore, Chitradurga and coastal/Deccan context. A regional locator shows places, not reconstructed boundary polygons. The source map’s neighbouring Maratha territory must not automatically be interpreted as a new 1799 allocation. Use the legend, period and explanatory text together."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi4-review",
+        "section": 5,
+        "title": "Compare resistance without flattening differences",
+        "intro": "Courtly resistance, soldier networks, agrarian mobilisation and community disarmament struggles had different immediate causes.",
+        "simple": "Courtly resistance, soldier networks, agrarian mobilisation and community disarmament struggles had different immediate causes.",
+        "example": [
+          "Courtly resistance, soldier networks, agrarian mobilisation and community disarmament struggles had different immediate causes.",
+          "Compare Mysore’s wars, Kittur succession, Amara Sullia revenue grievances, Surapura’s autonomy and Halagali disarmament. Use named participants, place and source dates; avoid claiming every episode had identical organisation or a fully developed twentieth-century nationalism. Modern remembrance and contemporary motives can differ."
+        ],
+        "question": "Which comparison is strongest?",
+        "options": [
+          "Explain distinct grievances and shared opposition to colonial pressure",
+          "All episodes had one cause and one leader",
+          "Ignore chronology and place"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Compare Mysore’s wars, Kittur succession, Amara Sullia revenue grievances, Surapura’s autonomy and Halagali disarmament. Use named participants, place and source dates; avoid claiming every episode had identical organisation or a fully developed twentieth-century nationalism. Modern remembrance and contemporary motives can differ.",
+          "Reconsider: Compare Mysore’s wars, Kittur succession, Amara Sullia revenue grievances, Surapura’s autonomy and Halagali disarmament. Use named participants, place and source dates; avoid claiming every episode had identical organisation or a fully developed twentieth-century nationalism. Modern remembrance and contemporary motives can differ.",
+          "Reconsider: Compare Mysore’s wars, Kittur succession, Amara Sullia revenue grievances, Surapura’s autonomy and Halagali disarmament. Use named participants, place and source dates; avoid claiming every episode had identical organisation or a fully developed twentieth-century nationalism. Modern remembrance and contemporary motives can differ."
+        ],
+        "hints": [
+          "Courtly resistance, soldier networks, agrarian mobilisation and community disarmament struggles had different immediate causes.",
+          "Compare Mysore’s wars, Kittur succession, Amara Sullia revenue grievances, Surapura’s autonomy and Halagali disarmament. Use named participants, place and source dates; avoid claiming every episode had identical organisation or a fully developed twentieth-century nationalism. Modern remembrance and contemporary motives can differ."
+        ],
+        "explorer": "history-timeline"
+      }
+    ],
+    "summary": [
+      [
+        "Mysore governance",
+        "Distinguish dynasty, commissioner administration, restoration, regency and constitutional offices."
+      ],
+      [
+        "Four Mysore wars",
+        "Match causes, participants, treaties and the 1799 political settlement."
+      ],
+      [
+        "Regional resistance",
+        "Compare Kittur, Rayanna, Amara Sullia, Surapura, Koppal and Halagali through their own grievances."
+      ],
+      [
+        "Historical evidence",
+        "Read map legends, ballads, portraits and uncertain accounts with explicit limits."
+      ]
+    ],
+    "challenge": "Use dated examples and labelled comparisons to explain change, resistance and consequences. Distinguish an enacted provision, its implementation and a later historical interpretation."
+  }
+]

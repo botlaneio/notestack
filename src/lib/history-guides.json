@@ -1,0 +1,1194 @@
+[
+  {
+    "number": 1,
+    "subject": "social-science",
+    "part": 1,
+    "slug": "the-advent-of-europeans-to-india",
+    "title": "The Advent of Europeans to India",
+    "sections": [
+      "Trade and new maritime routes · pp 1–2",
+      "European trading companies · pp 2–5",
+      "Carnatic rivalry and wars · pp 5–8",
+      "Bengal: Plassey and Buxar · pp 8–10",
+      "Diwani and dual government · p 11",
+      "Review and source reading · pp 11–12"
+    ],
+    "steps": [
+      {
+        "id": "hi1-trade",
+        "section": 0,
+        "title": "Follow the medieval trade chain",
+        "intro": "Indian spices travelled through established Asian and Mediterranean trading networks.",
+        "simple": "Indian spices travelled through established Asian and Mediterranean trading networks.",
+        "example": [
+          "Indian spices travelled through established Asian and Mediterranean trading networks.",
+          "In the book’s simplified chain, Arab merchants carried Asian goods towards Constantinople; Italian merchants distributed them in Europe. Pepper, cumin, cinnamon, cardamom and ginger were valuable commodities. This was a network with many participants, not a newly discovered empty ocean."
+        ],
+        "question": "Which chain matches the book’s model?",
+        "options": [
+          "India/Asia → Arab intermediaries → Constantinople → Italian merchants → Europe",
+          "Europe → no traders → India",
+          "Only direct air transport"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. In the book’s simplified chain, Arab merchants carried Asian goods towards Constantinople; Italian merchants distributed them in Europe. Pepper, cumin, cinnamon, cardamom and ginger were valuable commodities. This was a network with many participants, not a newly discovered empty ocean.",
+          "Reconsider: In the book’s simplified chain, Arab merchants carried Asian goods towards Constantinople; Italian merchants distributed them in Europe. Pepper, cumin, cinnamon, cardamom and ginger were valuable commodities. This was a network with many participants, not a newly discovered empty ocean.",
+          "Reconsider: In the book’s simplified chain, Arab merchants carried Asian goods towards Constantinople; Italian merchants distributed them in Europe. Pepper, cumin, cinnamon, cardamom and ginger were valuable commodities. This was a network with many participants, not a newly discovered empty ocean."
+        ],
+        "hints": [
+          "Indian spices travelled through established Asian and Mediterranean trading networks.",
+          "In the book’s simplified chain, Arab merchants carried Asian goods towards Constantinople; Italian merchants distributed them in Europe. Pepper, cumin, cinnamon, cardamom and ginger were valuable commodities. This was a network with many participants, not a newly discovered empty ocean."
+        ],
+        "explorer": "history-route"
+      },
+      {
+        "id": "hi1-1453",
+        "section": 0,
+        "title": "Connect a political change to trade",
+        "intro": "Ottoman forces captured Constantinople in 1453.",
+        "simple": "Ottoman forces captured Constantinople in 1453.",
+        "example": [
+          "Ottoman forces captured Constantinople in 1453.",
+          "The textbook links Ottoman control and taxes to European efforts to find alternative routes. Commercial rivalry and existing demand also mattered; the capture did not mean every land route suddenly ceased to exist."
+        ],
+        "question": "Which event belongs to 1453?",
+        "options": [
+          "Capture of Constantinople",
+          "Battle of Buxar",
+          "Opening of Suez Canal"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The textbook links Ottoman control and taxes to European efforts to find alternative routes. Commercial rivalry and existing demand also mattered; the capture did not mean every land route suddenly ceased to exist.",
+          "Reconsider: The textbook links Ottoman control and taxes to European efforts to find alternative routes. Commercial rivalry and existing demand also mattered; the capture did not mean every land route suddenly ceased to exist.",
+          "Reconsider: The textbook links Ottoman control and taxes to European efforts to find alternative routes. Commercial rivalry and existing demand also mattered; the capture did not mean every land route suddenly ceased to exist."
+        ],
+        "hints": [
+          "Ottoman forces captured Constantinople in 1453.",
+          "The textbook links Ottoman control and taxes to European efforts to find alternative routes. Commercial rivalry and existing demand also mattered; the capture did not mean every land route suddenly ceased to exist."
+        ],
+        "explorer": "history-route"
+      },
+      {
+        "id": "hi1-voyage",
+        "section": 0,
+        "title": "Trace the Cape route",
+        "intro": "Vasco da Gama reached Kappad near Calicut in 1498 after sailing from Portugal around southern Africa.",
+        "simple": "Vasco da Gama reached Kappad near Calicut in 1498 after sailing from Portugal around southern Africa.",
+        "example": [
+          "Vasco da Gama reached Kappad near Calicut in 1498 after sailing from Portugal around southern Africa.",
+          "This established a new direct maritime route for the Portuguese to India within already active Indian Ocean networks. Compass and astrolabe aided navigation; gunpowder supported armed maritime expansion."
+        ],
+        "question": "Where did da Gama arrive in 1498?",
+        "options": [
+          "Delhi",
+          "Kappad near Calicut",
+          "Buxar"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: This established a new direct maritime route for the Portuguese to India within already active Indian Ocean networks. Compass and astrolabe aided navigation; gunpowder supported armed maritime expansion.",
+          "Correct. This established a new direct maritime route for the Portuguese to India within already active Indian Ocean networks. Compass and astrolabe aided navigation; gunpowder supported armed maritime expansion.",
+          "Reconsider: This established a new direct maritime route for the Portuguese to India within already active Indian Ocean networks. Compass and astrolabe aided navigation; gunpowder supported armed maritime expansion."
+        ],
+        "hints": [
+          "Vasco da Gama reached Kappad near Calicut in 1498 after sailing from Portugal around southern Africa.",
+          "This established a new direct maritime route for the Portuguese to India within already active Indian Ocean networks. Compass and astrolabe aided navigation; gunpowder supported armed maritime expansion."
+        ],
+        "explorer": "history-route"
+      },
+      {
+        "id": "hi1-suez",
+        "section": 0,
+        "title": "Keep later routes separate",
+        "intro": "The Suez Canal opened in 1869, linking the Mediterranean and Red Seas.",
+        "simple": "The Suez Canal opened in 1869, linking the Mediterranean and Red Seas.",
+        "example": [
+          "The Suez Canal opened in 1869, linking the Mediterranean and Red Seas.",
+          "It shortened the route between Europe and the Indian Ocean. It was not available to da Gama in 1498. The Cape of Good Hope is a landmark on the older route; Cape Agulhas is Africa’s southernmost point."
+        ],
+        "question": "Could the 1498 voyage use Suez Canal?",
+        "options": [
+          "Yes, it opened in 1453",
+          "No, it opened centuries later",
+          "Only during the Carnatic wars"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: It shortened the route between Europe and the Indian Ocean. It was not available to da Gama in 1498. The Cape of Good Hope is a landmark on the older route; Cape Agulhas is Africa’s southernmost point.",
+          "Correct. It shortened the route between Europe and the Indian Ocean. It was not available to da Gama in 1498. The Cape of Good Hope is a landmark on the older route; Cape Agulhas is Africa’s southernmost point.",
+          "Reconsider: It shortened the route between Europe and the Indian Ocean. It was not available to da Gama in 1498. The Cape of Good Hope is a landmark on the older route; Cape Agulhas is Africa’s southernmost point."
+        ],
+        "hints": [
+          "The Suez Canal opened in 1869, linking the Mediterranean and Red Seas.",
+          "It shortened the route between Europe and the Indian Ocean. It was not available to da Gama in 1498. The Cape of Good Hope is a landmark on the older route; Cape Agulhas is Africa’s southernmost point."
+        ],
+        "explorer": "history-route"
+      },
+      {
+        "id": "hi1-portuguese",
+        "section": 1,
+        "title": "Distinguish sea power and a territorial base",
+        "intro": "Portuguese viceroy Francisco de Almeida promoted maritime supremacy through the Blue Water Policy.",
+        "simple": "Portuguese viceroy Francisco de Almeida promoted maritime supremacy through the Blue Water Policy.",
+        "example": [
+          "Portuguese viceroy Francisco de Almeida promoted maritime supremacy through the Blue Water Policy.",
+          "Alfonso de Albuquerque captured Goa from the Bijapur Sultanate in 1510; Goa became the main Portuguese administrative base in India. Portuguese power later faced competition, but Portuguese enclaves did not all disappear in the eighteenth century."
+        ],
+        "question": "Who is linked to the Blue Water Policy?",
+        "options": [
+          "Almeida",
+          "Dalhousie",
+          "Hector Munro"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate in 1510; Goa became the main Portuguese administrative base in India. Portuguese power later faced competition, but Portuguese enclaves did not all disappear in the eighteenth century.",
+          "Reconsider: Alfonso de Albuquerque captured Goa from the Bijapur Sultanate in 1510; Goa became the main Portuguese administrative base in India. Portuguese power later faced competition, but Portuguese enclaves did not all disappear in the eighteenth century.",
+          "Reconsider: Alfonso de Albuquerque captured Goa from the Bijapur Sultanate in 1510; Goa became the main Portuguese administrative base in India. Portuguese power later faced competition, but Portuguese enclaves did not all disappear in the eighteenth century."
+        ],
+        "hints": [
+          "Portuguese viceroy Francisco de Almeida promoted maritime supremacy through the Blue Water Policy.",
+          "Alfonso de Albuquerque captured Goa from the Bijapur Sultanate in 1510; Goa became the main Portuguese administrative base in India. Portuguese power later faced competition, but Portuguese enclaves did not all disappear in the eighteenth century."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi1-dutch",
+        "section": 1,
+        "title": "Locate the Dutch trading network",
+        "intro": "The Dutch East India Company (VOC) was established in 1602.",
+        "simple": "The Dutch East India Company (VOC) was established in 1602.",
+        "example": [
+          "The Dutch East India Company (VOC) was established in 1602.",
+          "The book lists Surat, Broach, Cambay, Cochin, Nagapatnam, Machalipatnam and Chinsurah among Dutch factories. A factory meant a trading station or warehouse, not necessarily an industrial manufacturing plant."
+        ],
+        "question": "What does factory mean in this context?",
+        "options": [
+          "Only a steam-powered mill",
+          "A trading station/warehouse",
+          "A legislature"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The book lists Surat, Broach, Cambay, Cochin, Nagapatnam, Machalipatnam and Chinsurah among Dutch factories. A factory meant a trading station or warehouse, not necessarily an industrial manufacturing plant.",
+          "Correct. The book lists Surat, Broach, Cambay, Cochin, Nagapatnam, Machalipatnam and Chinsurah among Dutch factories. A factory meant a trading station or warehouse, not necessarily an industrial manufacturing plant.",
+          "Reconsider: The book lists Surat, Broach, Cambay, Cochin, Nagapatnam, Machalipatnam and Chinsurah among Dutch factories. A factory meant a trading station or warehouse, not necessarily an industrial manufacturing plant."
+        ],
+        "hints": [
+          "The Dutch East India Company (VOC) was established in 1602.",
+          "The book lists Surat, Broach, Cambay, Cochin, Nagapatnam, Machalipatnam and Chinsurah among Dutch factories. A factory meant a trading station or warehouse, not necessarily an industrial manufacturing plant."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi1-travancore",
+        "section": 1,
+        "title": "Recognise resistance to Dutch expansion",
+        "intro": "Marthanda Varma, ruler of Travancore from 1729 to 1758, challenged Dutch commercial and military ambitions.",
+        "simple": "Marthanda Varma, ruler of Travancore from 1729 to 1758, challenged Dutch commercial and military ambitions.",
+        "example": [
+          "Marthanda Varma, ruler of Travancore from 1729 to 1758, challenged Dutch commercial and military ambitions.",
+          "His forces defeated the Dutch in 1741, associated with Colachel; the source also describes conflict around neighbouring principalities and the 1753 settlement. Its label “of Wayanad” is inaccurate: this account concerns Travancore. Trade pressure did not make European victory inevitable."
+        ],
+        "question": "Which state resisted the Dutch under Marthanda Varma?",
+        "options": [
+          "Travancore",
+          "Awadh",
+          "Bengal"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. His forces defeated the Dutch in 1741, associated with Colachel; the source also describes conflict around neighbouring principalities and the 1753 settlement. Its label “of Wayanad” is inaccurate: this account concerns Travancore. Trade pressure did not make European victory inevitable.",
+          "Reconsider: His forces defeated the Dutch in 1741, associated with Colachel; the source also describes conflict around neighbouring principalities and the 1753 settlement. Its label “of Wayanad” is inaccurate: this account concerns Travancore. Trade pressure did not make European victory inevitable.",
+          "Reconsider: His forces defeated the Dutch in 1741, associated with Colachel; the source also describes conflict around neighbouring principalities and the 1753 settlement. Its label “of Wayanad” is inaccurate: this account concerns Travancore. Trade pressure did not make European victory inevitable."
+        ],
+        "hints": [
+          "Marthanda Varma, ruler of Travancore from 1729 to 1758, challenged Dutch commercial and military ambitions.",
+          "His forces defeated the Dutch in 1741, associated with Colachel; the source also describes conflict around neighbouring principalities and the 1753 settlement. Its label “of Wayanad” is inaccurate: this account concerns Travancore. Trade pressure did not make European victory inevitable."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi1-english",
+        "section": 1,
+        "title": "Separate the charter from the settlements",
+        "intro": "The English East India Company received Elizabeth I’s royal charter on 31 December 1600.",
+        "simple": "The English East India Company received Elizabeth I’s royal charter on 31 December 1600.",
+        "example": [
+          "The English East India Company received Elizabeth I’s royal charter on 31 December 1600.",
+          "The charter initially authorised eastern trade for fifteen years. The narrative places the Surat factory in 1613; Madras/Fort St George in 1639. A p 11 sidebar incorrectly repeats Surat for 1639, so keep these entries distinct."
+        ],
+        "question": "Which event belongs to 1600?",
+        "options": [
+          "Company charter",
+          "Battle of Plassey",
+          "Treaty of Bassein"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The charter initially authorised eastern trade for fifteen years. The narrative places the Surat factory in 1613; Madras/Fort St George in 1639. A p 11 sidebar incorrectly repeats Surat for 1639, so keep these entries distinct.",
+          "Reconsider: The charter initially authorised eastern trade for fifteen years. The narrative places the Surat factory in 1613; Madras/Fort St George in 1639. A p 11 sidebar incorrectly repeats Surat for 1639, so keep these entries distinct.",
+          "Reconsider: The charter initially authorised eastern trade for fifteen years. The narrative places the Surat factory in 1613; Madras/Fort St George in 1639. A p 11 sidebar incorrectly repeats Surat for 1639, so keep these entries distinct."
+        ],
+        "hints": [
+          "The English East India Company received Elizabeth I’s royal charter on 31 December 1600.",
+          "The charter initially authorised eastern trade for fifteen years. The narrative places the Surat factory in 1613; Madras/Fort St George in 1639. A p 11 sidebar incorrectly repeats Surat for 1639, so keep these entries distinct."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi1-presidencies",
+        "section": 1,
+        "title": "Connect ports, forts and presidency cities",
+        "intro": "Bombay, Madras and Calcutta became major English presidency centres.",
+        "simple": "Bombay, Madras and Calcutta became major English presidency centres.",
+        "example": [
+          "Bombay, Madras and Calcutta became major English presidency centres.",
+          "Madras was associated with Fort St George; Calcutta with Fort William and settlements at Sutanuti, Kalikata and Govindapur. Charles II leased Bombay to the Company in 1668. Roe negotiated with Jahangir during his 1615–1619 mission; the book’s 1617 is not its starting date."
+        ],
+        "question": "Which fort is associated with Madras?",
+        "options": [
+          "Fort William",
+          "Fort St George",
+          "Lahore Fort"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Madras was associated with Fort St George; Calcutta with Fort William and settlements at Sutanuti, Kalikata and Govindapur. Charles II leased Bombay to the Company in 1668. Roe negotiated with Jahangir during his 1615–1619 mission; the book’s 1617 is not its starting date.",
+          "Correct. Madras was associated with Fort St George; Calcutta with Fort William and settlements at Sutanuti, Kalikata and Govindapur. Charles II leased Bombay to the Company in 1668. Roe negotiated with Jahangir during his 1615–1619 mission; the book’s 1617 is not its starting date.",
+          "Reconsider: Madras was associated with Fort St George; Calcutta with Fort William and settlements at Sutanuti, Kalikata and Govindapur. Charles II leased Bombay to the Company in 1668. Roe negotiated with Jahangir during his 1615–1619 mission; the book’s 1617 is not its starting date."
+        ],
+        "hints": [
+          "Bombay, Madras and Calcutta became major English presidency centres.",
+          "Madras was associated with Fort St George; Calcutta with Fort William and settlements at Sutanuti, Kalikata and Govindapur. Charles II leased Bombay to the Company in 1668. Roe negotiated with Jahangir during his 1615–1619 mission; the book’s 1617 is not its starting date."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi1-french",
+        "section": 1,
+        "title": "Locate French trading and political ambitions",
+        "intro": "The French East India Company was formed in 1664 and opened a Surat factory in 1668.",
+        "simple": "The French East India Company was formed in 1664 and opened a Surat factory in 1668.",
+        "example": [
+          "The French East India Company was formed in 1664 and opened a Surat factory in 1668.",
+          "Pondicherry became a major French centre from 1674; the book also lists Machalipatnam, Chandernagore, Mahe, Karaikal, Cassimbazar and Balasore. Dupleix became governor in 1742, not first in 1746 as one passage suggests."
+        ],
+        "question": "What was the principal French centre in the chapter?",
+        "options": [
+          "Pondicherry",
+          "Poona",
+          "Koregaon"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Pondicherry became a major French centre from 1674; the book also lists Machalipatnam, Chandernagore, Mahe, Karaikal, Cassimbazar and Balasore. Dupleix became governor in 1742, not first in 1746 as one passage suggests.",
+          "Reconsider: Pondicherry became a major French centre from 1674; the book also lists Machalipatnam, Chandernagore, Mahe, Karaikal, Cassimbazar and Balasore. Dupleix became governor in 1742, not first in 1746 as one passage suggests.",
+          "Reconsider: Pondicherry became a major French centre from 1674; the book also lists Machalipatnam, Chandernagore, Mahe, Karaikal, Cassimbazar and Balasore. Dupleix became governor in 1742, not first in 1746 as one passage suggests."
+        ],
+        "hints": [
+          "The French East India Company was formed in 1664 and opened a Surat factory in 1668.",
+          "Pondicherry became a major French centre from 1674; the book also lists Machalipatnam, Chandernagore, Mahe, Karaikal, Cassimbazar and Balasore. Dupleix became governor in 1742, not first in 1746 as one passage suggests."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi1-rivalry",
+        "section": 2,
+        "title": "See two levels of rivalry",
+        "intro": "Anglo-French competition interacted with succession conflicts in Hyderabad and the Carnatic.",
+        "simple": "Anglo-French competition interacted with succession conflicts in Hyderabad and the Carnatic.",
+        "example": [
+          "Anglo-French competition interacted with succession conflicts in Hyderabad and the Carnatic.",
+          "Asaf Jah founded Hyderabad in 1724. The source names Dost Ali, Chanda Sahib and Anwaruddin in the Carnatic background; after Asaf Jah died in 1748, rival claimants invited external support. European wars and local choices both shaped the conflict."
+        ],
+        "question": "Why did the rivalry become political?",
+        "options": [
+          "Succession disputes and armed alliances offered influence",
+          "Trade had no political connection",
+          "All Indian states had already vanished"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Asaf Jah founded Hyderabad in 1724. The source names Dost Ali, Chanda Sahib and Anwaruddin in the Carnatic background; after Asaf Jah died in 1748, rival claimants invited external support. European wars and local choices both shaped the conflict.",
+          "Reconsider: Asaf Jah founded Hyderabad in 1724. The source names Dost Ali, Chanda Sahib and Anwaruddin in the Carnatic background; after Asaf Jah died in 1748, rival claimants invited external support. European wars and local choices both shaped the conflict.",
+          "Reconsider: Asaf Jah founded Hyderabad in 1724. The source names Dost Ali, Chanda Sahib and Anwaruddin in the Carnatic background; after Asaf Jah died in 1748, rival claimants invited external support. European wars and local choices both shaped the conflict."
+        ],
+        "hints": [
+          "Anglo-French competition interacted with succession conflicts in Hyderabad and the Carnatic.",
+          "Asaf Jah founded Hyderabad in 1724. The source names Dost Ali, Chanda Sahib and Anwaruddin in the Carnatic background; after Asaf Jah died in 1748, rival claimants invited external support. European wars and local choices both shaped the conflict."
+        ],
+        "explorer": "history-alliances"
+      },
+      {
+        "id": "hi1-carnatic1",
+        "section": 2,
+        "title": "Explain the First Carnatic War",
+        "intro": "The First Carnatic War lasted from 1746 to 1748.",
+        "simple": "The First Carnatic War lasted from 1746 to 1748.",
+        "example": [
+          "The First Carnatic War lasted from 1746 to 1748.",
+          "La Bourdonnais captured Madras for the French; Anwaruddin’s forces could not dislodge them. Dupleix and La Bourdonnais disagreed over its handling. The European Treaty of Aix-la-Chapelle ended the war and Madras was restored to the English."
+        ],
+        "question": "Which treaty ended this war?",
+        "options": [
+          "Salbai",
+          "Aix-la-Chapelle",
+          "Bassein"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: La Bourdonnais captured Madras for the French; Anwaruddin’s forces could not dislodge them. Dupleix and La Bourdonnais disagreed over its handling. The European Treaty of Aix-la-Chapelle ended the war and Madras was restored to the English.",
+          "Correct. La Bourdonnais captured Madras for the French; Anwaruddin’s forces could not dislodge them. Dupleix and La Bourdonnais disagreed over its handling. The European Treaty of Aix-la-Chapelle ended the war and Madras was restored to the English.",
+          "Reconsider: La Bourdonnais captured Madras for the French; Anwaruddin’s forces could not dislodge them. Dupleix and La Bourdonnais disagreed over its handling. The European Treaty of Aix-la-Chapelle ended the war and Madras was restored to the English."
+        ],
+        "hints": [
+          "The First Carnatic War lasted from 1746 to 1748.",
+          "La Bourdonnais captured Madras for the French; Anwaruddin’s forces could not dislodge them. Dupleix and La Bourdonnais disagreed over its handling. The European Treaty of Aix-la-Chapelle ended the war and Madras was restored to the English."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi1-claimants",
+        "section": 2,
+        "title": "Match claimants to their supporters",
+        "intro": "France supported Muzaffar Jung in Hyderabad and Chanda Sahib in the Carnatic.",
+        "simple": "France supported Muzaffar Jung in Hyderabad and Chanda Sahib in the Carnatic.",
+        "example": [
+          "France supported Muzaffar Jung in Hyderabad and Chanda Sahib in the Carnatic.",
+          "The English initially backed Nasir Jung and Anwaruddin; after Anwaruddin’s death at Ambur in 1749, his son Muhammad Ali received English support. Muzaffar Jung’s later death led the French to back Salabat Jung, supported by Bussy."
+        ],
+        "question": "Which pair was initially backed by France?",
+        "options": [
+          "Muzaffar Jung and Chanda Sahib",
+          "Nasir Jung and Anwaruddin",
+          "Ranjit Singh and Dalhousie"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The English initially backed Nasir Jung and Anwaruddin; after Anwaruddin’s death at Ambur in 1749, his son Muhammad Ali received English support. Muzaffar Jung’s later death led the French to back Salabat Jung, supported by Bussy.",
+          "Reconsider: The English initially backed Nasir Jung and Anwaruddin; after Anwaruddin’s death at Ambur in 1749, his son Muhammad Ali received English support. Muzaffar Jung’s later death led the French to back Salabat Jung, supported by Bussy.",
+          "Reconsider: The English initially backed Nasir Jung and Anwaruddin; after Anwaruddin’s death at Ambur in 1749, his son Muhammad Ali received English support. Muzaffar Jung’s later death led the French to back Salabat Jung, supported by Bussy."
+        ],
+        "hints": [
+          "France supported Muzaffar Jung in Hyderabad and Chanda Sahib in the Carnatic.",
+          "The English initially backed Nasir Jung and Anwaruddin; after Anwaruddin’s death at Ambur in 1749, his son Muhammad Ali received English support. Muzaffar Jung’s later death led the French to back Salabat Jung, supported by Bussy."
+        ],
+        "explorer": "history-alliances"
+      },
+      {
+        "id": "hi1-carnatic2",
+        "section": 2,
+        "title": "Explain the Second Carnatic War",
+        "intro": "The Second Carnatic War is dated 1749–1754 in the book.",
+        "simple": "The Second Carnatic War is dated 1749–1754 in the book.",
+        "example": [
+          "The Second Carnatic War is dated 1749–1754 in the book.",
+          "Robert Clive attacked Arcot in 1751, weakening Chanda Sahib’s position. Chanda Sahib was killed; Muhammad Ali emerged as Nawab with English support. The Treaty of Pondicherry ended the war in 1754, and Dupleix was recalled."
+        ],
+        "question": "Which action is linked to Clive in this war?",
+        "options": [
+          "Annexing Punjab",
+          "Attack on Arcot",
+          "Opening Suez Canal"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Robert Clive attacked Arcot in 1751, weakening Chanda Sahib’s position. Chanda Sahib was killed; Muhammad Ali emerged as Nawab with English support. The Treaty of Pondicherry ended the war in 1754, and Dupleix was recalled.",
+          "Correct. Robert Clive attacked Arcot in 1751, weakening Chanda Sahib’s position. Chanda Sahib was killed; Muhammad Ali emerged as Nawab with English support. The Treaty of Pondicherry ended the war in 1754, and Dupleix was recalled.",
+          "Reconsider: Robert Clive attacked Arcot in 1751, weakening Chanda Sahib’s position. Chanda Sahib was killed; Muhammad Ali emerged as Nawab with English support. The Treaty of Pondicherry ended the war in 1754, and Dupleix was recalled."
+        ],
+        "hints": [
+          "The Second Carnatic War is dated 1749–1754 in the book.",
+          "Robert Clive attacked Arcot in 1751, weakening Chanda Sahib’s position. Chanda Sahib was killed; Muhammad Ali emerged as Nawab with English support. The Treaty of Pondicherry ended the war in 1754, and Dupleix was recalled."
+        ],
+        "explorer": "history-alliances"
+      },
+      {
+        "id": "hi1-carnatic3",
+        "section": 2,
+        "title": "Identify the decisive military turn",
+        "intro": "The book dates the Third Carnatic War to 1756–1763.",
+        "simple": "The book dates the Third Carnatic War to 1756–1763.",
+        "example": [
+          "The book dates the Third Carnatic War to 1756–1763.",
+          "Eyre Coote defeated the French at Wandiwash in 1760; Pondicherry fell in 1761. The Treaty of Paris in 1763 returned French trading settlements, including Pondicherry, under restrictions. French political ambitions were curtailed; French presence did not end entirely."
+        ],
+        "question": "Which battle weakened French political power decisively?",
+        "options": [
+          "Wandiwash",
+          "Buxar",
+          "Ashti"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Eyre Coote defeated the French at Wandiwash in 1760; Pondicherry fell in 1761. The Treaty of Paris in 1763 returned French trading settlements, including Pondicherry, under restrictions. French political ambitions were curtailed; French presence did not end entirely.",
+          "Reconsider: Eyre Coote defeated the French at Wandiwash in 1760; Pondicherry fell in 1761. The Treaty of Paris in 1763 returned French trading settlements, including Pondicherry, under restrictions. French political ambitions were curtailed; French presence did not end entirely.",
+          "Reconsider: Eyre Coote defeated the French at Wandiwash in 1760; Pondicherry fell in 1761. The Treaty of Paris in 1763 returned French trading settlements, including Pondicherry, under restrictions. French political ambitions were curtailed; French presence did not end entirely."
+        ],
+        "hints": [
+          "The book dates the Third Carnatic War to 1756–1763.",
+          "Eyre Coote defeated the French at Wandiwash in 1760; Pondicherry fell in 1761. The Treaty of Paris in 1763 returned French trading settlements, including Pondicherry, under restrictions. French political ambitions were curtailed; French presence did not end entirely."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi1-dastak",
+        "section": 3,
+        "title": "Connect a trade privilege to a revenue dispute",
+        "intro": "Dastaks were passes authorising privileged duty-free Company trade.",
+        "simple": "Dastaks were passes authorising privileged duty-free Company trade.",
+        "example": [
+          "Dastaks were passes authorising privileged duty-free Company trade.",
+          "The chapter associates them with Farrukhsiyar’s grant. Officials’ private misuse reduced Bengal’s customs revenue and created unfair competition. Do not treat every merchant as legally entitled to unlimited tax-free trade."
+        ],
+        "question": "Why did private misuse provoke the Nawab?",
+        "options": [
+          "It reduced revenue and distorted competition",
+          "It created the Suez Canal",
+          "It transferred Punjab"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter associates them with Farrukhsiyar’s grant. Officials’ private misuse reduced Bengal’s customs revenue and created unfair competition. Do not treat every merchant as legally entitled to unlimited tax-free trade.",
+          "Reconsider: The chapter associates them with Farrukhsiyar’s grant. Officials’ private misuse reduced Bengal’s customs revenue and created unfair competition. Do not treat every merchant as legally entitled to unlimited tax-free trade.",
+          "Reconsider: The chapter associates them with Farrukhsiyar’s grant. Officials’ private misuse reduced Bengal’s customs revenue and created unfair competition. Do not treat every merchant as legally entitled to unlimited tax-free trade."
+        ],
+        "hints": [
+          "Dastaks were passes authorising privileged duty-free Company trade.",
+          "The chapter associates them with Farrukhsiyar’s grant. Officials’ private misuse reduced Bengal’s customs revenue and created unfair competition. Do not treat every merchant as legally entitled to unlimited tax-free trade."
+        ],
+        "explorer": "history-power"
+      },
+      {
+        "id": "hi1-plassey",
+        "section": 3,
+        "title": "Build a cause–event–result explanation",
+        "intro": "Plassey was fought on 23 June 1757 between Siraj-ud-Daulah and Company forces led by Robert Clive.",
+        "simple": "Plassey was fought on 23 June 1757 between Siraj-ud-Daulah and Company forces led by Robert Clive.",
+        "example": [
+          "Plassey was fought on 23 June 1757 between Siraj-ud-Daulah and Company forces led by Robert Clive.",
+          "Causes included misuse of dastaks and unauthorised Calcutta fortification. Clive negotiated with Mir Jafar and influential financiers; Mir Jafar’s non-participation helped the Company. The disputed Fort William imprisonment account should be attributed, not treated as a settled casualty count."
+        ],
+        "question": "Which leader commanded the Company at Plassey?",
+        "options": [
+          "Hector Munro",
+          "Robert Clive",
+          "Ranjit Singh"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Causes included misuse of dastaks and unauthorised Calcutta fortification. Clive negotiated with Mir Jafar and influential financiers; Mir Jafar’s non-participation helped the Company. The disputed Fort William imprisonment account should be attributed, not treated as a settled casualty count.",
+          "Correct. Causes included misuse of dastaks and unauthorised Calcutta fortification. Clive negotiated with Mir Jafar and influential financiers; Mir Jafar’s non-participation helped the Company. The disputed Fort William imprisonment account should be attributed, not treated as a settled casualty count.",
+          "Reconsider: Causes included misuse of dastaks and unauthorised Calcutta fortification. Clive negotiated with Mir Jafar and influential financiers; Mir Jafar’s non-participation helped the Company. The disputed Fort William imprisonment account should be attributed, not treated as a settled casualty count."
+        ],
+        "hints": [
+          "Plassey was fought on 23 June 1757 between Siraj-ud-Daulah and Company forces led by Robert Clive.",
+          "Causes included misuse of dastaks and unauthorised Calcutta fortification. Clive negotiated with Mir Jafar and influential financiers; Mir Jafar’s non-participation helped the Company. The disputed Fort William imprisonment account should be attributed, not treated as a settled casualty count."
+        ],
+        "explorer": "history-power"
+      },
+      {
+        "id": "hi1-plassey-results",
+        "section": 3,
+        "title": "Explain influence after Plassey",
+        "intro": "Mir Jafar became Nawab after Plassey, while the Company gained wealth and political leverage.",
+        "simple": "Mir Jafar became Nawab after Plassey, while the Company gained wealth and political leverage.",
+        "example": [
+          "Mir Jafar became Nawab after Plassey, while the Company gained wealth and political leverage.",
+          "The book lists trade privileges and an indemnity of ₹17 crore 70 lakh. Treat this figure as the supplied book’s account, not a newly audited financial total. Explain the alliance and resource transfer rather than judging an entire population as inherently disunited or greedy."
+        ],
+        "question": "What changed after Plassey?",
+        "options": [
+          "Mir Jafar became Nawab with Company backing",
+          "Dalhousie annexed Punjab immediately",
+          "The VOC was founded"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book lists trade privileges and an indemnity of ₹17 crore 70 lakh. Treat this figure as the supplied book’s account, not a newly audited financial total. Explain the alliance and resource transfer rather than judging an entire population as inherently disunited or greedy.",
+          "Reconsider: The book lists trade privileges and an indemnity of ₹17 crore 70 lakh. Treat this figure as the supplied book’s account, not a newly audited financial total. Explain the alliance and resource transfer rather than judging an entire population as inherently disunited or greedy.",
+          "Reconsider: The book lists trade privileges and an indemnity of ₹17 crore 70 lakh. Treat this figure as the supplied book’s account, not a newly audited financial total. Explain the alliance and resource transfer rather than judging an entire population as inherently disunited or greedy."
+        ],
+        "hints": [
+          "Mir Jafar became Nawab after Plassey, while the Company gained wealth and political leverage.",
+          "The book lists trade privileges and an indemnity of ₹17 crore 70 lakh. Treat this figure as the supplied book’s account, not a newly audited financial total. Explain the alliance and resource transfer rather than judging an entire population as inherently disunited or greedy."
+        ],
+        "explorer": "history-power"
+      },
+      {
+        "id": "hi1-qasim",
+        "section": 3,
+        "title": "Explain why a replacement Nawab resisted",
+        "intro": "Mir Qasim replaced Mir Jafar and later tried to assert independence.",
+        "simple": "Mir Qasim replaced Mir Jafar and later tried to assert independence.",
+        "example": [
+          "Mir Qasim replaced Mir Jafar and later tried to assert independence.",
+          "He ended internal duties for all traders to challenge the Company’s unfair advantage from duty-free privileges. The Company restored Mir Jafar; Mir Qasim allied with Shuja-ud-Daulah of Awadh and Mughal emperor Shah Alam II."
+        ],
+        "question": "Who joined Mir Qasim against the Company?",
+        "options": [
+          "Shah Alam II and Shuja-ud-Daulah",
+          "Dupleix and Almeida",
+          "Ranjit Singh and Baji Rao II"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. He ended internal duties for all traders to challenge the Company’s unfair advantage from duty-free privileges. The Company restored Mir Jafar; Mir Qasim allied with Shuja-ud-Daulah of Awadh and Mughal emperor Shah Alam II.",
+          "Reconsider: He ended internal duties for all traders to challenge the Company’s unfair advantage from duty-free privileges. The Company restored Mir Jafar; Mir Qasim allied with Shuja-ud-Daulah of Awadh and Mughal emperor Shah Alam II.",
+          "Reconsider: He ended internal duties for all traders to challenge the Company’s unfair advantage from duty-free privileges. The Company restored Mir Jafar; Mir Qasim allied with Shuja-ud-Daulah of Awadh and Mughal emperor Shah Alam II."
+        ],
+        "hints": [
+          "Mir Qasim replaced Mir Jafar and later tried to assert independence.",
+          "He ended internal duties for all traders to challenge the Company’s unfair advantage from duty-free privileges. The Company restored Mir Jafar; Mir Qasim allied with Shuja-ud-Daulah of Awadh and Mughal emperor Shah Alam II."
+        ],
+        "explorer": "history-alliances"
+      },
+      {
+        "id": "hi1-buxar",
+        "section": 3,
+        "title": "Distinguish Buxar from Plassey",
+        "intro": "Buxar was fought in 1764; Hector Munro commanded the victorious Company forces.",
+        "simple": "Buxar was fought in 1764; Hector Munro commanded the victorious Company forces.",
+        "example": [
+          "Buxar was fought in 1764; Hector Munro commanded the victorious Company forces.",
+          "The opposing coalition involved Mir Qasim, Shuja-ud-Daulah and Shah Alam II. Postwar settlements gave the Company revenue rights and strengthened its position in Bengal, Bihar and Odisha; the Diwani grant followed in 1765, not in 1757."
+        ],
+        "question": "Who commanded the Company at Buxar?",
+        "options": [
+          "Clive",
+          "Hector Munro",
+          "La Bourdonnais"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The opposing coalition involved Mir Qasim, Shuja-ud-Daulah and Shah Alam II. Postwar settlements gave the Company revenue rights and strengthened its position in Bengal, Bihar and Odisha; the Diwani grant followed in 1765, not in 1757.",
+          "Correct. The opposing coalition involved Mir Qasim, Shuja-ud-Daulah and Shah Alam II. Postwar settlements gave the Company revenue rights and strengthened its position in Bengal, Bihar and Odisha; the Diwani grant followed in 1765, not in 1757.",
+          "Reconsider: The opposing coalition involved Mir Qasim, Shuja-ud-Daulah and Shah Alam II. Postwar settlements gave the Company revenue rights and strengthened its position in Bengal, Bihar and Odisha; the Diwani grant followed in 1765, not in 1757."
+        ],
+        "hints": [
+          "Buxar was fought in 1764; Hector Munro commanded the victorious Company forces.",
+          "The opposing coalition involved Mir Qasim, Shuja-ud-Daulah and Shah Alam II. Postwar settlements gave the Company revenue rights and strengthened its position in Bengal, Bihar and Odisha; the Diwani grant followed in 1765, not in 1757."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi1-diwani",
+        "section": 4,
+        "title": "Define a revenue right precisely",
+        "intro": "Shah Alam II granted the Company the Diwani of Bengal, Bihar and Odisha in 1765.",
+        "simple": "Shah Alam II granted the Company the Diwani of Bengal, Bihar and Odisha in 1765.",
+        "example": [
+          "Shah Alam II granted the Company the Diwani of Bengal, Bihar and Odisha in 1765.",
+          "Diwani meant revenue collection authority, connected with fiscal and civil administration. The source lists ₹26 lakh annual payment to the emperor and ₹50 lakh indemnity from Awadh. Do not confuse those sums or turn revenue rights into instantaneous direct administration of all India."
+        ],
+        "question": "Who granted the Diwani?",
+        "options": [
+          "Shah Alam II",
+          "Mir Jafar alone",
+          "Elizabeth I"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Diwani meant revenue collection authority, connected with fiscal and civil administration. The source lists ₹26 lakh annual payment to the emperor and ₹50 lakh indemnity from Awadh. Do not confuse those sums or turn revenue rights into instantaneous direct administration of all India.",
+          "Reconsider: Diwani meant revenue collection authority, connected with fiscal and civil administration. The source lists ₹26 lakh annual payment to the emperor and ₹50 lakh indemnity from Awadh. Do not confuse those sums or turn revenue rights into instantaneous direct administration of all India.",
+          "Reconsider: Diwani meant revenue collection authority, connected with fiscal and civil administration. The source lists ₹26 lakh annual payment to the emperor and ₹50 lakh indemnity from Awadh. Do not confuse those sums or turn revenue rights into instantaneous direct administration of all India."
+        ],
+        "hints": [
+          "Shah Alam II granted the Company the Diwani of Bengal, Bihar and Odisha in 1765.",
+          "Diwani meant revenue collection authority, connected with fiscal and civil administration. The source lists ₹26 lakh annual payment to the emperor and ₹50 lakh indemnity from Awadh. Do not confuse those sums or turn revenue rights into instantaneous direct administration of all India."
+        ],
+        "explorer": "history-power"
+      },
+      {
+        "id": "hi1-dual",
+        "section": 4,
+        "title": "Separate power, work and responsibility",
+        "intro": "Clive introduced Bengal’s dual-government arrangement in 1765.",
+        "simple": "Clive introduced Bengal’s dual-government arrangement in 1765.",
+        "example": [
+          "Clive introduced Bengal’s dual-government arrangement in 1765.",
+          "The Company held revenue power through Indian deputies while the Nawab retained nominal responsibility for administration and order. The book’s wording on tax collection is muddled: distinguish Company revenue authority from the Indian officials doing collection. Power without matching responsibility was central to the system."
+        ],
+        "question": "Which describes the arrangement best?",
+        "options": [
+          "Equal democratic power for two elected bodies",
+          "Company revenue power with nominal Nawabi administration",
+          "The Nawab independently controlled Company policy"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The Company held revenue power through Indian deputies while the Nawab retained nominal responsibility for administration and order. The book’s wording on tax collection is muddled: distinguish Company revenue authority from the Indian officials doing collection. Power without matching responsibility was central to the system.",
+          "Correct. The Company held revenue power through Indian deputies while the Nawab retained nominal responsibility for administration and order. The book’s wording on tax collection is muddled: distinguish Company revenue authority from the Indian officials doing collection. Power without matching responsibility was central to the system.",
+          "Reconsider: The Company held revenue power through Indian deputies while the Nawab retained nominal responsibility for administration and order. The book’s wording on tax collection is muddled: distinguish Company revenue authority from the Indian officials doing collection. Power without matching responsibility was central to the system."
+        ],
+        "hints": [
+          "Clive introduced Bengal’s dual-government arrangement in 1765.",
+          "The Company held revenue power through Indian deputies while the Nawab retained nominal responsibility for administration and order. The book’s wording on tax collection is muddled: distinguish Company revenue authority from the Indian officials doing collection. Power without matching responsibility was central to the system."
+        ],
+        "explorer": "history-power"
+      },
+      {
+        "id": "hi1-source",
+        "section": 5,
+        "title": "Read a historical claim critically",
+        "intro": "A textbook claim, an eyewitness account and a later interpretation are different kinds of evidence.",
+        "simple": "A textbook claim, an eyewitness account and a later interpretation are different kinds of evidence.",
+        "example": [
+          "A textbook claim, an eyewitness account and a later interpretation are different kinds of evidence.",
+          "The “Black Hole” narrative and its 146/123 figures are disputed. The date sidebar conflicts with the main Surat/Madras narrative. Record what the source says, identify the conflict and use a reliable reference; do not erase the book reference or memorise an error as certain."
+        ],
+        "question": "How should you handle a disputed figure?",
+        "options": [
+          "Attribute it and explain uncertainty",
+          "Present it as unquestionable",
+          "Invent a replacement figure"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The “Black Hole” narrative and its 146/123 figures are disputed. The date sidebar conflicts with the main Surat/Madras narrative. Record what the source says, identify the conflict and use a reliable reference; do not erase the book reference or memorise an error as certain.",
+          "Reconsider: The “Black Hole” narrative and its 146/123 figures are disputed. The date sidebar conflicts with the main Surat/Madras narrative. Record what the source says, identify the conflict and use a reliable reference; do not erase the book reference or memorise an error as certain.",
+          "Reconsider: The “Black Hole” narrative and its 146/123 figures are disputed. The date sidebar conflicts with the main Surat/Madras narrative. Record what the source says, identify the conflict and use a reliable reference; do not erase the book reference or memorise an error as certain."
+        ],
+        "hints": [
+          "A textbook claim, an eyewitness account and a later interpretation are different kinds of evidence.",
+          "The “Black Hole” narrative and its 146/123 figures are disputed. The date sidebar conflicts with the main Surat/Madras narrative. Record what the source says, identify the conflict and use a reliable reference; do not erase the book reference or memorise an error as certain."
+        ],
+        "explorer": "history-timeline"
+      }
+    ],
+    "summary": [
+      [
+        "Trade and routes",
+        "Explain older networks and the Portuguese Cape route without erasing existing Indian Ocean trade."
+      ],
+      [
+        "Companies and rivalry",
+        "Compare trading bases, alliances and the three Carnatic wars."
+      ],
+      [
+        "Bengal and revenue",
+        "Distinguish Plassey, Buxar, Diwani and dual government."
+      ],
+      [
+        "Historical reasoning",
+        "Link causes to outcomes and qualify conflicting or disputed source claims."
+      ]
+    ],
+    "challenge": "Explain the sequence of events using dates, named participants, causes and consequences. Distinguish the textbook account from a qualified historical interpretation."
+  },
+  {
+    "number": 2,
+    "subject": "social-science",
+    "part": 1,
+    "slug": "the-extension-of-the-british-rule",
+    "title": "The Extension of the British Rule",
+    "sections": [
+      "Expansion and Maratha resistance · pp 13–14",
+      "Wellesley and Subsidiary Alliance · pp 14–15",
+      "Second and Third Anglo-Maratha Wars · pp 15–16",
+      "Sikh resistance and annexation · pp 16–17",
+      "Dalhousie and Doctrine of Lapse · pp 16–18",
+      "Compare strategies and evidence · p 18"
+    ],
+    "steps": [
+      {
+        "id": "hi2-context",
+        "section": 0,
+        "title": "Locate the limits of Company power",
+        "intro": "Company gains in Bengal did not mean control of every Indian state in 1765.",
+        "simple": "Company gains in Bengal did not mean control of every Indian state in 1765.",
+        "example": [
+          "Company gains in Bengal did not mean control of every Indian state in 1765.",
+          "Mysore under Hyder Ali and Tipu Sultan, the Marathas and the Sikh kingdom were important powers. The book introduces three Anglo-Maratha, four Anglo-Mysore and two Anglo-Sikh wars; the Mysore wars are taught in Chapter 4."
+        ],
+        "question": "Which inference is justified?",
+        "options": [
+          "Company expansion still faced powerful opponents",
+          "All states were annexed in 1765",
+          "The Sikh kingdom was a European company"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Mysore under Hyder Ali and Tipu Sultan, the Marathas and the Sikh kingdom were important powers. The book introduces three Anglo-Maratha, four Anglo-Mysore and two Anglo-Sikh wars; the Mysore wars are taught in Chapter 4.",
+          "Reconsider: Mysore under Hyder Ali and Tipu Sultan, the Marathas and the Sikh kingdom were important powers. The book introduces three Anglo-Maratha, four Anglo-Mysore and two Anglo-Sikh wars; the Mysore wars are taught in Chapter 4.",
+          "Reconsider: Mysore under Hyder Ali and Tipu Sultan, the Marathas and the Sikh kingdom were important powers. The book introduces three Anglo-Maratha, four Anglo-Mysore and two Anglo-Sikh wars; the Mysore wars are taught in Chapter 4."
+        ],
+        "hints": [
+          "Company gains in Bengal did not mean control of every Indian state in 1765.",
+          "Mysore under Hyder Ali and Tipu Sultan, the Marathas and the Sikh kingdom were important powers. The book introduces three Anglo-Maratha, four Anglo-Mysore and two Anglo-Sikh wars; the Mysore wars are taught in Chapter 4."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi2-succession",
+        "section": 0,
+        "title": "Connect a succession dispute to intervention",
+        "intro": "After Madhav Rao I’s death and Narayan Rao’s murder, the Peshwa succession became contested.",
+        "simple": "After Madhav Rao I’s death and Narayan Rao’s murder, the Peshwa succession became contested.",
+        "example": [
+          "After Madhav Rao I’s death and Narayan Rao’s murder, the Peshwa succession became contested.",
+          "The Maratha confederacy backed the infant Madhav Rao II. Raghunath Rao (Raghoba) sought English support, creating an opening for intervention. The book also links tensions to Shah Alam II and Kora/Allahabad; these were background, not a substitute for the succession dispute."
+        ],
+        "question": "Who sought Company help for his Peshwa claim?",
+        "options": [
+          "Raghunath Rao",
+          "Marthanda Varma",
+          "Albuquerque"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Maratha confederacy backed the infant Madhav Rao II. Raghunath Rao (Raghoba) sought English support, creating an opening for intervention. The book also links tensions to Shah Alam II and Kora/Allahabad; these were background, not a substitute for the succession dispute.",
+          "Reconsider: The Maratha confederacy backed the infant Madhav Rao II. Raghunath Rao (Raghoba) sought English support, creating an opening for intervention. The book also links tensions to Shah Alam II and Kora/Allahabad; these were background, not a substitute for the succession dispute.",
+          "Reconsider: The Maratha confederacy backed the infant Madhav Rao II. Raghunath Rao (Raghoba) sought English support, creating an opening for intervention. The book also links tensions to Shah Alam II and Kora/Allahabad; these were background, not a substitute for the succession dispute."
+        ],
+        "hints": [
+          "After Madhav Rao I’s death and Narayan Rao’s murder, the Peshwa succession became contested.",
+          "The Maratha confederacy backed the infant Madhav Rao II. Raghunath Rao (Raghoba) sought English support, creating an opening for intervention. The book also links tensions to Shah Alam II and Kora/Allahabad; these were background, not a substitute for the succession dispute."
+        ],
+        "explorer": "history-alliances"
+      },
+      {
+        "id": "hi2-maratha1",
+        "section": 0,
+        "title": "Explain the first war’s settlement",
+        "intro": "The First Anglo-Maratha War lasted from 1775 to 1782.",
+        "simple": "The First Anglo-Maratha War lasted from 1775 to 1782.",
+        "example": [
+          "The First Anglo-Maratha War lasted from 1775 to 1782.",
+          "The Treaty of Salbai ended it and recognised Madhav Rao II as Peshwa. The Company retained some gains, including Salsette, but did not abolish the Maratha confederacy. The book’s simple defeat wording should not be confused with the decisive end of Peshwa power in 1818."
+        ],
+        "question": "Which agreement ended the war?",
+        "options": [
+          "Paris",
+          "Salbai",
+          "Lahore"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The Treaty of Salbai ended it and recognised Madhav Rao II as Peshwa. The Company retained some gains, including Salsette, but did not abolish the Maratha confederacy. The book’s simple defeat wording should not be confused with the decisive end of Peshwa power in 1818.",
+          "Correct. The Treaty of Salbai ended it and recognised Madhav Rao II as Peshwa. The Company retained some gains, including Salsette, but did not abolish the Maratha confederacy. The book’s simple defeat wording should not be confused with the decisive end of Peshwa power in 1818.",
+          "Reconsider: The Treaty of Salbai ended it and recognised Madhav Rao II as Peshwa. The Company retained some gains, including Salsette, but did not abolish the Maratha confederacy. The book’s simple defeat wording should not be confused with the decisive end of Peshwa power in 1818."
+        ],
+        "hints": [
+          "The First Anglo-Maratha War lasted from 1775 to 1782.",
+          "The Treaty of Salbai ended it and recognised Madhav Rao II as Peshwa. The Company retained some gains, including Salsette, but did not abolish the Maratha confederacy. The book’s simple defeat wording should not be confused with the decisive end of Peshwa power in 1818."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi2-wellesley",
+        "section": 1,
+        "title": "Identify three expansion methods",
+        "intro": "Wellesley served as Governor-General from 1798 to 1805.",
+        "simple": "Wellesley served as Governor-General from 1798 to 1805.",
+        "example": [
+          "Wellesley served as Governor-General from 1798 to 1805.",
+          "The source groups his methods as Subsidiary Alliance, war and direct administration of controlled territory. These methods interacted rather than operating as wholly separate processes."
+        ],
+        "question": "Which policy is strongly linked to Wellesley?",
+        "options": [
+          "Doctrine of Lapse in 1848",
+          "Subsidiary Alliance from 1798",
+          "Suez construction"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source groups his methods as Subsidiary Alliance, war and direct administration of controlled territory. These methods interacted rather than operating as wholly separate processes.",
+          "Correct. The source groups his methods as Subsidiary Alliance, war and direct administration of controlled territory. These methods interacted rather than operating as wholly separate processes.",
+          "Reconsider: The source groups his methods as Subsidiary Alliance, war and direct administration of controlled territory. These methods interacted rather than operating as wholly separate processes."
+        ],
+        "hints": [
+          "Wellesley served as Governor-General from 1798 to 1805.",
+          "The source groups his methods as Subsidiary Alliance, war and direct administration of controlled territory. These methods interacted rather than operating as wholly separate processes."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-alliance-terms",
+        "section": 1,
+        "title": "Read all six alliance conditions",
+        "intro": "An allied ruler had to host Company troops and pay their costs or cede revenue-bearing territory.",
+        "simple": "An allied ruler had to host Company troops and pay their costs or cede revenue-bearing territory.",
+        "example": [
+          "An allied ruler had to host Company troops and pay their costs or cede revenue-bearing territory.",
+          "The six source terms also required a British Resident, permission to employ other Europeans, Governor-General approval for agreements with other Indian states, and Company protection against internal/external threats. This was unequal military protection, not an equal friendship without restrictions."
+        ],
+        "question": "Which condition limited foreign relations?",
+        "options": [
+          "Governor-General approval for agreements",
+          "Complete freedom to make any treaty",
+          "Removal of every Company soldier"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The six source terms also required a British Resident, permission to employ other Europeans, Governor-General approval for agreements with other Indian states, and Company protection against internal/external threats. This was unequal military protection, not an equal friendship without restrictions.",
+          "Reconsider: The six source terms also required a British Resident, permission to employ other Europeans, Governor-General approval for agreements with other Indian states, and Company protection against internal/external threats. This was unequal military protection, not an equal friendship without restrictions.",
+          "Reconsider: The six source terms also required a British Resident, permission to employ other Europeans, Governor-General approval for agreements with other Indian states, and Company protection against internal/external threats. This was unequal military protection, not an equal friendship without restrictions."
+        ],
+        "hints": [
+          "An allied ruler had to host Company troops and pay their costs or cede revenue-bearing territory.",
+          "The six source terms also required a British Resident, permission to employ other Europeans, Governor-General approval for agreements with other Indian states, and Company protection against internal/external threats. This was unequal military protection, not an equal friendship without restrictions."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-alliance-effects",
+        "section": 1,
+        "title": "Explain the trade-off",
+        "intro": "Hyderabad was the first state to accept Wellesley’s Subsidiary Alliance system.",
+        "simple": "Hyderabad was the first state to accept Wellesley’s Subsidiary Alliance system.",
+        "example": [
+          "Hyderabad was the first state to accept Wellesley’s Subsidiary Alliance system.",
+          "The source then lists Mysore, Awadh, Tanjavur, Maratha states, Berar, Arcot, Pune and Gwalior. The ruler could retain a throne while losing autonomy and bearing expensive military obligations; the Company gained influence with costs shifted to the state."
+        ],
+        "question": "Which consequence follows from the terms?",
+        "options": [
+          "Greater autonomous diplomacy",
+          "Reduced autonomy and financial pressure",
+          "Automatic annexation in every case"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source then lists Mysore, Awadh, Tanjavur, Maratha states, Berar, Arcot, Pune and Gwalior. The ruler could retain a throne while losing autonomy and bearing expensive military obligations; the Company gained influence with costs shifted to the state.",
+          "Correct. The source then lists Mysore, Awadh, Tanjavur, Maratha states, Berar, Arcot, Pune and Gwalior. The ruler could retain a throne while losing autonomy and bearing expensive military obligations; the Company gained influence with costs shifted to the state.",
+          "Reconsider: The source then lists Mysore, Awadh, Tanjavur, Maratha states, Berar, Arcot, Pune and Gwalior. The ruler could retain a throne while losing autonomy and bearing expensive military obligations; the Company gained influence with costs shifted to the state."
+        ],
+        "hints": [
+          "Hyderabad was the first state to accept Wellesley’s Subsidiary Alliance system.",
+          "The source then lists Mysore, Awadh, Tanjavur, Maratha states, Berar, Arcot, Pune and Gwalior. The ruler could retain a throne while losing autonomy and bearing expensive military obligations; the Company gained influence with costs shifted to the state."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-bassein",
+        "section": 2,
+        "title": "Trace the Treaty of Bassein",
+        "intro": "After Holkar defeated the Peshwa and Scindia’s forces in 1802, Baji Rao II sought British support.",
+        "simple": "After Holkar defeated the Peshwa and Scindia’s forces in 1802, Baji Rao II sought British support.",
+        "example": [
+          "After Holkar defeated the Peshwa and Scindia’s forces in 1802, Baji Rao II sought British support.",
+          "The Treaty of Bassein (1802) placed the Peshwa under Subsidiary Alliance. Other Maratha leaders opposed the arrangement. The text’s “Balaji Rao II” is a naming error here: the Peshwa was Baji Rao II."
+        ],
+        "question": "Who signed at Bassein?",
+        "options": [
+          "Baji Rao II",
+          "Madhav Rao I",
+          "Ranjit Singh"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Treaty of Bassein (1802) placed the Peshwa under Subsidiary Alliance. Other Maratha leaders opposed the arrangement. The text’s “Balaji Rao II” is a naming error here: the Peshwa was Baji Rao II.",
+          "Reconsider: The Treaty of Bassein (1802) placed the Peshwa under Subsidiary Alliance. Other Maratha leaders opposed the arrangement. The text’s “Balaji Rao II” is a naming error here: the Peshwa was Baji Rao II.",
+          "Reconsider: The Treaty of Bassein (1802) placed the Peshwa under Subsidiary Alliance. Other Maratha leaders opposed the arrangement. The text’s “Balaji Rao II” is a naming error here: the Peshwa was Baji Rao II."
+        ],
+        "hints": [
+          "After Holkar defeated the Peshwa and Scindia’s forces in 1802, Baji Rao II sought British support.",
+          "The Treaty of Bassein (1802) placed the Peshwa under Subsidiary Alliance. Other Maratha leaders opposed the arrangement. The text’s “Balaji Rao II” is a naming error here: the Peshwa was Baji Rao II."
+        ],
+        "explorer": "history-alliances"
+      },
+      {
+        "id": "hi2-maratha2",
+        "section": 2,
+        "title": "Explain the second war",
+        "intro": "The Second Anglo-Maratha War is dated 1803–1805 in the book.",
+        "simple": "The Second Anglo-Maratha War is dated 1803–1805 in the book.",
+        "example": [
+          "The Second Anglo-Maratha War is dated 1803–1805 in the book.",
+          "Rivalries among Holkar, Scindia and the Peshwa, and resistance to Bassein, enabled intervention. Company victories increased its power, but campaigning increased expenses. The source links criticism of these costs to Wellesley’s return to England in 1805."
+        ],
+        "question": "Which treaty helped trigger this conflict?",
+        "options": [
+          "Bassein",
+          "Aix-la-Chapelle",
+          "Salbai in 1782 only"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Rivalries among Holkar, Scindia and the Peshwa, and resistance to Bassein, enabled intervention. Company victories increased its power, but campaigning increased expenses. The source links criticism of these costs to Wellesley’s return to England in 1805.",
+          "Reconsider: Rivalries among Holkar, Scindia and the Peshwa, and resistance to Bassein, enabled intervention. Company victories increased its power, but campaigning increased expenses. The source links criticism of these costs to Wellesley’s return to England in 1805.",
+          "Reconsider: Rivalries among Holkar, Scindia and the Peshwa, and resistance to Bassein, enabled intervention. Company victories increased its power, but campaigning increased expenses. The source links criticism of these costs to Wellesley’s return to England in 1805."
+        ],
+        "hints": [
+          "The Second Anglo-Maratha War is dated 1803–1805 in the book.",
+          "Rivalries among Holkar, Scindia and the Peshwa, and resistance to Bassein, enabled intervention. Company victories increased its power, but campaigning increased expenses. The source links criticism of these costs to Wellesley’s return to England in 1805."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi2-maratha3",
+        "section": 2,
+        "title": "Track the end of Peshwa authority",
+        "intro": "The Third Anglo-Maratha War lasted from 1817 to 1818.",
+        "simple": "The Third Anglo-Maratha War lasted from 1817 to 1818.",
+        "example": [
+          "The Third Anglo-Maratha War lasted from 1817 to 1818.",
+          "The Peshwa attacked the British Residency in Poona in 1817. Resistance involving Appa Saheb of Nagpur and Malhar Rao Holkar was suppressed. Fighting included Koregaon and Ashti; Baji Rao II surrendered in 1818, the Peshwa office was abolished and he received a pension."
+        ],
+        "question": "What happened to the Peshwa office?",
+        "options": [
+          "It became the French Company",
+          "It was abolished",
+          "It was created for the first time"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The Peshwa attacked the British Residency in Poona in 1817. Resistance involving Appa Saheb of Nagpur and Malhar Rao Holkar was suppressed. Fighting included Koregaon and Ashti; Baji Rao II surrendered in 1818, the Peshwa office was abolished and he received a pension.",
+          "Correct. The Peshwa attacked the British Residency in Poona in 1817. Resistance involving Appa Saheb of Nagpur and Malhar Rao Holkar was suppressed. Fighting included Koregaon and Ashti; Baji Rao II surrendered in 1818, the Peshwa office was abolished and he received a pension.",
+          "Reconsider: The Peshwa attacked the British Residency in Poona in 1817. Resistance involving Appa Saheb of Nagpur and Malhar Rao Holkar was suppressed. Fighting included Koregaon and Ashti; Baji Rao II surrendered in 1818, the Peshwa office was abolished and he received a pension."
+        ],
+        "hints": [
+          "The Third Anglo-Maratha War lasted from 1817 to 1818.",
+          "The Peshwa attacked the British Residency in Poona in 1817. Resistance involving Appa Saheb of Nagpur and Malhar Rao Holkar was suppressed. Fighting included Koregaon and Ashti; Baji Rao II surrendered in 1818, the Peshwa office was abolished and he received a pension."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi2-satara",
+        "section": 2,
+        "title": "Distinguish a reduced state from a confederacy",
+        "intro": "Pratap Singh, a descendant of Shivaji, was installed at Satara after the 1818 settlement.",
+        "simple": "Pratap Singh, a descendant of Shivaji, was installed at Satara after the 1818 settlement.",
+        "example": [
+          "Pratap Singh, a descendant of Shivaji, was installed at Satara after the 1818 settlement.",
+          "A reduced Satara kingdom under British influence did not restore the Peshwa’s former confederate authority. Later Satara itself was annexed under the Doctrine of Lapse."
+        ],
+        "question": "Did Satara restore the old Peshwa office?",
+        "options": [
+          "No; the office had been abolished",
+          "Yes, with complete independence",
+          "Only as a Dutch factory"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A reduced Satara kingdom under British influence did not restore the Peshwa’s former confederate authority. Later Satara itself was annexed under the Doctrine of Lapse.",
+          "Reconsider: A reduced Satara kingdom under British influence did not restore the Peshwa’s former confederate authority. Later Satara itself was annexed under the Doctrine of Lapse.",
+          "Reconsider: A reduced Satara kingdom under British influence did not restore the Peshwa’s former confederate authority. Later Satara itself was annexed under the Doctrine of Lapse."
+        ],
+        "hints": [
+          "Pratap Singh, a descendant of Shivaji, was installed at Satara after the 1818 settlement.",
+          "A reduced Satara kingdom under British influence did not restore the Peshwa’s former confederate authority. Later Satara itself was annexed under the Doctrine of Lapse."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-ranjit",
+        "section": 3,
+        "title": "Understand a powerful independent state",
+        "intro": "Ranjit Singh consolidated the Sikh kingdom and ruled until his death in 1839.",
+        "simple": "Ranjit Singh consolidated the Sikh kingdom and ruled until his death in 1839.",
+        "example": [
+          "Ranjit Singh consolidated the Sikh kingdom and ruled until his death in 1839.",
+          "The sidebar traces his Sukerchakia misl background, Lahore base, European-style army organisation, cannon foundry and appointments across religious communities. The 1809 Treaty of Amritsar helped define relations with the British; Britain also valued a northwestern buffer."
+        ],
+        "question": "Which event preceded the Anglo-Sikh wars?",
+        "options": [
+          "Ranjit Singh’s death in 1839",
+          "Plassey in 1857",
+          "Formation of the VOC in 1849"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The sidebar traces his Sukerchakia misl background, Lahore base, European-style army organisation, cannon foundry and appointments across religious communities. The 1809 Treaty of Amritsar helped define relations with the British; Britain also valued a northwestern buffer.",
+          "Reconsider: The sidebar traces his Sukerchakia misl background, Lahore base, European-style army organisation, cannon foundry and appointments across religious communities. The 1809 Treaty of Amritsar helped define relations with the British; Britain also valued a northwestern buffer.",
+          "Reconsider: The sidebar traces his Sukerchakia misl background, Lahore base, European-style army organisation, cannon foundry and appointments across religious communities. The 1809 Treaty of Amritsar helped define relations with the British; Britain also valued a northwestern buffer."
+        ],
+        "hints": [
+          "Ranjit Singh consolidated the Sikh kingdom and ruled until his death in 1839.",
+          "The sidebar traces his Sukerchakia misl background, Lahore base, European-style army organisation, cannon foundry and appointments across religious communities. The 1809 Treaty of Amritsar helped define relations with the British; Britain also valued a northwestern buffer."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi2-sikh1",
+        "section": 3,
+        "title": "Explain the first Anglo-Sikh settlement",
+        "intro": "The First Anglo-Sikh War began in 1845 and ended in 1846.",
+        "simple": "The First Anglo-Sikh War began in 1845 and ended in 1846.",
+        "example": [
+          "The First Anglo-Sikh War began in 1845 and ended in 1846.",
+          "After Ranjit Singh’s death, political instability and expanding Company involvement contributed to conflict. The Treaty of Lahore imposed terms; later arrangements increased the Resident’s control. Punjab became dependent rather than being fully annexed immediately in 1846."
+        ],
+        "question": "Which distinction matters?",
+        "options": [
+          "Dependence in 1846 differs from annexation in 1849",
+          "Punjab was annexed in 1600",
+          "All Punjabis supported Company rule"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. After Ranjit Singh’s death, political instability and expanding Company involvement contributed to conflict. The Treaty of Lahore imposed terms; later arrangements increased the Resident’s control. Punjab became dependent rather than being fully annexed immediately in 1846.",
+          "Reconsider: After Ranjit Singh’s death, political instability and expanding Company involvement contributed to conflict. The Treaty of Lahore imposed terms; later arrangements increased the Resident’s control. Punjab became dependent rather than being fully annexed immediately in 1846.",
+          "Reconsider: After Ranjit Singh’s death, political instability and expanding Company involvement contributed to conflict. The Treaty of Lahore imposed terms; later arrangements increased the Resident’s control. Punjab became dependent rather than being fully annexed immediately in 1846."
+        ],
+        "hints": [
+          "The First Anglo-Sikh War began in 1845 and ended in 1846.",
+          "After Ranjit Singh’s death, political instability and expanding Company involvement contributed to conflict. The Treaty of Lahore imposed terms; later arrangements increased the Resident’s control. Punjab became dependent rather than being fully annexed immediately in 1846."
+        ],
+        "explorer": "history-timeline"
+      },
+      {
+        "id": "hi2-sikh2",
+        "section": 3,
+        "title": "Identify resistance and annexation",
+        "intro": "Renewed conflict in 1848–1849 ended with Punjab’s annexation under Dalhousie.",
+        "simple": "Renewed conflict in 1848–1849 ended with Punjab’s annexation under Dalhousie.",
+        "example": [
+          "Renewed conflict in 1848–1849 ended with Punjab’s annexation under Dalhousie.",
+          "The source names Chattar Singh Attariwala and Mulraj of Multan as resistance leaders. Explain political control, military conflict and leadership choices without presenting betrayal as a trait of an entire religious community."
+        ],
+        "question": "Who was Governor-General at annexation?",
+        "options": [
+          "Wellesley in 1798",
+          "Dalhousie",
+          "Almeida"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source names Chattar Singh Attariwala and Mulraj of Multan as resistance leaders. Explain political control, military conflict and leadership choices without presenting betrayal as a trait of an entire religious community.",
+          "Correct. The source names Chattar Singh Attariwala and Mulraj of Multan as resistance leaders. Explain political control, military conflict and leadership choices without presenting betrayal as a trait of an entire religious community.",
+          "Reconsider: The source names Chattar Singh Attariwala and Mulraj of Multan as resistance leaders. Explain political control, military conflict and leadership choices without presenting betrayal as a trait of an entire religious community."
+        ],
+        "hints": [
+          "Renewed conflict in 1848–1849 ended with Punjab’s annexation under Dalhousie.",
+          "The source names Chattar Singh Attariwala and Mulraj of Multan as resistance leaders. Explain political control, military conflict and leadership choices without presenting betrayal as a trait of an entire religious community."
+        ],
+        "explorer": "history-map"
+      },
+      {
+        "id": "hi2-lapse",
+        "section": 4,
+        "title": "Identify the succession rule",
+        "intro": "Dalhousie used the Doctrine of Lapse to annex dependent states when an adopted successor was denied recognition.",
+        "simple": "Dalhousie used the Doctrine of Lapse to annex dependent states when an adopted successor was denied recognition.",
+        "example": [
+          "Dalhousie used the Doctrine of Lapse to annex dependent states when an adopted successor was denied recognition.",
+          "The policy concerned recognition of succession to a dependent state, not a general ban on adoption in every Indian family. It made the absence of an accepted natural male heir a tool for annexation."
+        ],
+        "question": "What did the Company refuse to recognise?",
+        "options": [
+          "The adopted heir’s succession to certain thrones",
+          "Every adopted child’s existence",
+          "All maritime trade"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The policy concerned recognition of succession to a dependent state, not a general ban on adoption in every Indian family. It made the absence of an accepted natural male heir a tool for annexation.",
+          "Reconsider: The policy concerned recognition of succession to a dependent state, not a general ban on adoption in every Indian family. It made the absence of an accepted natural male heir a tool for annexation.",
+          "Reconsider: The policy concerned recognition of succession to a dependent state, not a general ban on adoption in every Indian family. It made the absence of an accepted natural male heir a tool for annexation."
+        ],
+        "hints": [
+          "Dalhousie used the Doctrine of Lapse to annex dependent states when an adopted successor was denied recognition.",
+          "The policy concerned recognition of succession to a dependent state, not a general ban on adoption in every Indian family. It made the absence of an accepted natural male heir a tool for annexation."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-lapse-states",
+        "section": 4,
+        "title": "Read the list with geographic care",
+        "intro": "The book lists Satara, Nagpur, Sambalpur, Udaipur, Jhansi and Jaitpur under the Doctrine of Lapse.",
+        "simple": "The book lists Satara, Nagpur, Sambalpur, Udaipur, Jhansi and Jaitpur under the Doctrine of Lapse.",
+        "example": [
+          "The book lists Satara, Nagpur, Sambalpur, Udaipur, Jhansi and Jaitpur under the Doctrine of Lapse.",
+          "Retain the source list. Its unqualified “Udaipur” is ambiguous and should not be mapped automatically to the large Mewar state in Rajasthan; verify the particular smaller state before assigning a location. Awadh’s annexation used a different justification, not lapse."
+        ],
+        "question": "Which state appears in this source list?",
+        "options": [
+          "Jhansi",
+          "Every presidency city",
+          "Travancore in 1741"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Retain the source list. Its unqualified “Udaipur” is ambiguous and should not be mapped automatically to the large Mewar state in Rajasthan; verify the particular smaller state before assigning a location. Awadh’s annexation used a different justification, not lapse.",
+          "Reconsider: Retain the source list. Its unqualified “Udaipur” is ambiguous and should not be mapped automatically to the large Mewar state in Rajasthan; verify the particular smaller state before assigning a location. Awadh’s annexation used a different justification, not lapse.",
+          "Reconsider: Retain the source list. Its unqualified “Udaipur” is ambiguous and should not be mapped automatically to the large Mewar state in Rajasthan; verify the particular smaller state before assigning a location. Awadh’s annexation used a different justification, not lapse."
+        ],
+        "hints": [
+          "The book lists Satara, Nagpur, Sambalpur, Udaipur, Jhansi and Jaitpur under the Doctrine of Lapse.",
+          "Retain the source list. Its unqualified “Udaipur” is ambiguous and should not be mapped automatically to the large Mewar state in Rajasthan; verify the particular smaller state before assigning a location. Awadh’s annexation used a different justification, not lapse."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-1857",
+        "section": 4,
+        "title": "Link grievance without claiming one cause",
+        "intro": "Annexations created grievances among ruling families and their supporters.",
+        "simple": "Annexations created grievances among ruling families and their supporters.",
+        "example": [
+          "Annexations created grievances among ruling families and their supporters.",
+          "The source connects these to the uprising of 1857. They were one contributing factor alongside other political, military, economic and social causes. Expansion between 1818 and 1857 did not erase every princely state or create identical direct rule everywhere."
+        ],
+        "question": "How should lapse be linked to 1857?",
+        "options": [
+          "As the only possible cause",
+          "As one contributing grievance",
+          "As an event after 1900"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source connects these to the uprising of 1857. They were one contributing factor alongside other political, military, economic and social causes. Expansion between 1818 and 1857 did not erase every princely state or create identical direct rule everywhere.",
+          "Correct. The source connects these to the uprising of 1857. They were one contributing factor alongside other political, military, economic and social causes. Expansion between 1818 and 1857 did not erase every princely state or create identical direct rule everywhere.",
+          "Reconsider: The source connects these to the uprising of 1857. They were one contributing factor alongside other political, military, economic and social causes. Expansion between 1818 and 1857 did not erase every princely state or create identical direct rule everywhere."
+        ],
+        "hints": [
+          "Annexations created grievances among ruling families and their supporters.",
+          "The source connects these to the uprising of 1857. They were one contributing factor alongside other political, military, economic and social causes. Expansion between 1818 and 1857 did not erase every princely state or create identical direct rule everywhere."
+        ],
+        "explorer": "history-policy"
+      },
+      {
+        "id": "hi2-compare",
+        "section": 5,
+        "title": "Compare methods rather than memorise labels",
+        "intro": "War, alliance and annexation could all extend Company power, but their mechanisms differed.",
+        "simple": "War, alliance and annexation could all extend Company power, but their mechanisms differed.",
+        "example": [
+          "War, alliance and annexation could all extend Company power, but their mechanisms differed.",
+          "A Subsidiary Alliance constrained a ruler through troops, money and diplomatic restrictions; lapse converted a succession claim into annexation. War used armed force and settlements. Use a dated example for each, and distinguish the Company from later Crown rule."
+        ],
+        "question": "Which pairing is accurate?",
+        "options": [
+          "Wellesley—Subsidiary Alliance; Dalhousie—Doctrine of Lapse",
+          "Wellesley—Suez Canal; Dalhousie—VOC founding",
+          "Both policies were identical equal alliances"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A Subsidiary Alliance constrained a ruler through troops, money and diplomatic restrictions; lapse converted a succession claim into annexation. War used armed force and settlements. Use a dated example for each, and distinguish the Company from later Crown rule.",
+          "Reconsider: A Subsidiary Alliance constrained a ruler through troops, money and diplomatic restrictions; lapse converted a succession claim into annexation. War used armed force and settlements. Use a dated example for each, and distinguish the Company from later Crown rule.",
+          "Reconsider: A Subsidiary Alliance constrained a ruler through troops, money and diplomatic restrictions; lapse converted a succession claim into annexation. War used armed force and settlements. Use a dated example for each, and distinguish the Company from later Crown rule."
+        ],
+        "hints": [
+          "War, alliance and annexation could all extend Company power, but their mechanisms differed.",
+          "A Subsidiary Alliance constrained a ruler through troops, money and diplomatic restrictions; lapse converted a succession claim into annexation. War used armed force and settlements. Use a dated example for each, and distinguish the Company from later Crown rule."
+        ],
+        "explorer": "history-policy"
+      }
+    ],
+    "summary": [
+      [
+        "Maratha wars",
+        "Explain contested succession, Bassein and the abolition of the Peshwa office in 1818."
+      ],
+      [
+        "Subsidiary Alliance",
+        "Connect six conditions to reduced autonomy and military expense."
+      ],
+      [
+        "Sikh resistance",
+        "Distinguish Ranjit Singh’s independent kingdom, dependence in 1846 and annexation in 1849."
+      ],
+      [
+        "Annexation and grievance",
+        "Explain lapse, its source state list and its contribution to resistance without reducing 1857 to one cause."
+      ]
+    ],
+    "challenge": "Explain the sequence of events using dates, named participants, causes and consequences. Distinguish the textbook account from a qualified historical interpretation."
+  }
+]

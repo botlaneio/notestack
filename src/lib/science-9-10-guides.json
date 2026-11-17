@@ -1,0 +1,1154 @@
+[
+  {
+    "number": 9,
+    "subject": "science",
+    "part": 2,
+    "slug": "light-reflection-and-refraction",
+    "title": "Light – Reflection and Refraction",
+    "sections": [
+      "9.1 Reflection · pp64–65",
+      "9.2 Spherical Mirrors · pp65–75",
+      "9.3 Refraction and Refractive Index · pp75–79",
+      "9.3.3–9.3.8 Lenses and Power · pp79–88",
+      "What you have learnt · p89"
+    ],
+    "summary": [
+      [
+        "Trace",
+        "Use normals, axes and labelled optical structures."
+      ],
+      [
+        "Calculate",
+        "Keep sign conventions, units and numerical precision consistent."
+      ],
+      [
+        "Explain",
+        "Separate the ideal model, actual observations and their limitations."
+      ]
+    ],
+    "challenge": "Draw an appropriate ray construction, justify your signs and explain the physical result. Compare written work with the model and ask a teacher to verify it.",
+    "steps": [
+      {
+        "id": "sc9-reflection",
+        "section": 0,
+        "title": "Reflect at equal angles",
+        "intro": "For reflection, incident ray, normal and reflected ray are coplanar and angle of incidence equals angle of reflection. Angles are measured from the normal.",
+        "simple": "A plane mirror forms a virtual, erect, laterally inverted image of equal size, as far behind the mirror as the object is in front.",
+        "example": [
+          "A plane mirror forms a virtual, erect, laterally inverted image of equal size, as far behind the mirror as the object is in front.",
+          "A ray model describes propagation; light also shows wave effects such as diffraction, so the straight-ray approximation has limits."
+        ],
+        "question": "A ray makes 30° with the normal. What is its reflection angle?",
+        "options": [
+          "60°",
+          "30°",
+          "90°"
+        ],
+        "correct": 1,
+        "hints": [
+          "A plane mirror forms a virtual, erect, laterally inverted image of equal size, as far behind the mirror as the object is in front.",
+          "A ray model describes propagation; light also shows wave effects such as diffraction, so the straight-ray approximation has limits."
+        ],
+        "feedback": [
+          "Reconsider: A ray model describes propagation; light also shows wave effects such as diffraction, so the straight-ray approximation has limits.",
+          "Correct. A ray model describes propagation; light also shows wave effects such as diffraction, so the straight-ray approximation has limits.",
+          "Reconsider: A ray model describes propagation; light also shows wave effects such as diffraction, so the straight-ray approximation has limits."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-parts",
+        "section": 1,
+        "title": "Locate a spherical mirror’s landmarks",
+        "intro": "Pole P is the centre of the reflecting surface; C is the centre of the parent sphere; the principal axis passes through them. R is the radius of curvature.",
+        "simple": "For small-aperture paraxial spherical mirrors, f ≈ R/2. A concave mirror converges parallel rays in front; a convex mirror makes them diverge as if from behind.",
+        "example": [
+          "For small-aperture paraxial spherical mirrors, f ≈ R/2. A concave mirror converges parallel rays in front; a convex mirror makes them diverge as if from behind.",
+          "The focus is an axial point, not the centre of the mirror surface. Aperture is the effective width of the reflecting area."
+        ],
+        "question": "Which point is the centre of the parent sphere?",
+        "options": [
+          "P",
+          "F",
+          "C"
+        ],
+        "correct": 2,
+        "hints": [
+          "For small-aperture paraxial spherical mirrors, f ≈ R/2. A concave mirror converges parallel rays in front; a convex mirror makes them diverge as if from behind.",
+          "The focus is an axial point, not the centre of the mirror surface. Aperture is the effective width of the reflecting area."
+        ],
+        "feedback": [
+          "Reconsider: The focus is an axial point, not the centre of the mirror surface. Aperture is the effective width of the reflecting area.",
+          "Reconsider: The focus is an axial point, not the centre of the mirror surface. Aperture is the effective width of the reflecting area.",
+          "Correct. The focus is an axial point, not the centre of the mirror surface. Aperture is the effective width of the reflecting area."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-concave",
+        "section": 1,
+        "title": "Move across the concave mirror’s focus",
+        "intro": "A concave mirror can form real inverted images or a virtual erect enlarged image, depending on object position.",
+        "simple": "Beyond C: diminished image between C and F; at C: same-size image at C; between C and F: enlarged image beyond C.",
+        "example": [
+          "Beyond C: diminished image between C and F; at C: same-size image at C; between C and F: enlarged image beyond C.",
+          "At F the reflected rays are parallel and the image is at infinity in the ideal model. Between F and P, backward extensions meet behind the mirror: a virtual enlarged image. A very distant object approaches the focus."
+        ],
+        "question": "Where should an object be for a virtual enlarged concave-mirror image?",
+        "options": [
+          "Beyond C",
+          "Between P and F",
+          "Exactly at C"
+        ],
+        "correct": 1,
+        "hints": [
+          "Beyond C: diminished image between C and F; at C: same-size image at C; between C and F: enlarged image beyond C.",
+          "At F the reflected rays are parallel and the image is at infinity in the ideal model. Between F and P, backward extensions meet behind the mirror: a virtual enlarged image. A very distant object approaches the focus."
+        ],
+        "feedback": [
+          "Reconsider: At F the reflected rays are parallel and the image is at infinity in the ideal model. Between F and P, backward extensions meet behind the mirror: a virtual enlarged image. A very distant object approaches the focus.",
+          "Correct. At F the reflected rays are parallel and the image is at infinity in the ideal model. Between F and P, backward extensions meet behind the mirror: a virtual enlarged image. A very distant object approaches the focus.",
+          "Reconsider: At F the reflected rays are parallel and the image is at infinity in the ideal model. Between F and P, backward extensions meet behind the mirror: a virtual enlarged image. A very distant object approaches the focus."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-mcase-inf",
+        "section": 1,
+        "title": "Begin with parallel incoming rays",
+        "intro": "For a very distant object, incident rays from a point are approximately parallel and a concave mirror brings them near its focus.",
+        "simple": "The exact infinity model gives a point-image limit at F.",
+        "example": [
+          "The exact infinity model gives a point-image limit at F.",
+          "A far but finite object gives a very small, real inverted image near F."
+        ],
+        "question": "Where does the distant-object limit lie?",
+        "options": [
+          "At F in front of the concave mirror",
+          "At the pole regardless of focus",
+          "Behind every mirror"
+        ],
+        "correct": 0,
+        "hints": [
+          "The exact infinity model gives a point-image limit at F.",
+          "A far but finite object gives a very small, real inverted image near F."
+        ],
+        "feedback": [
+          "Correct. A far but finite object gives a very small, real inverted image near F.",
+          "Reconsider: A far but finite object gives a very small, real inverted image near F.",
+          "Reconsider: A far but finite object gives a very small, real inverted image near F."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-mcase-3",
+        "section": 1,
+        "title": "Put the object beyond C",
+        "intro": "With the object farther from a concave mirror than its centre of curvature, actual rays meet between C and F.",
+        "simple": "For f=−20 cm,u=−60 cm, v=−30 cm and m=−0.5.",
+        "example": [
+          "For f=−20 cm,u=−60 cm, v=−30 cm and m=−0.5.",
+          "The image is real, inverted and diminished; its physical distance lies between 20 cm and 40 cm."
+        ],
+        "question": "Which describes this image?",
+        "options": [
+          "Virtual and enlarged",
+          "Real, inverted and diminished",
+          "Erect and the same size"
+        ],
+        "correct": 1,
+        "hints": [
+          "For f=−20 cm,u=−60 cm, v=−30 cm and m=−0.5.",
+          "The image is real, inverted and diminished; its physical distance lies between 20 cm and 40 cm."
+        ],
+        "feedback": [
+          "Reconsider: The image is real, inverted and diminished; its physical distance lies between 20 cm and 40 cm.",
+          "Correct. The image is real, inverted and diminished; its physical distance lies between 20 cm and 40 cm.",
+          "Reconsider: The image is real, inverted and diminished; its physical distance lies between 20 cm and 40 cm."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-mcase-2",
+        "section": 1,
+        "title": "Place the object at C",
+        "intro": "At the centre-of-curvature distance, a concave mirror makes a real image at C with the same height magnitude.",
+        "simple": "For u=2f=−40 cm, v=−40 cm and m=−1.",
+        "example": [
+          "For u=2f=−40 cm, v=−40 cm and m=−1.",
+          "Equal size does not mean erect: the negative magnification indicates inversion."
+        ],
+        "question": "For m=−1, what is the orientation and size?",
+        "options": [
+          "Erect and double size",
+          "Virtual and half size",
+          "Inverted and equal size"
+        ],
+        "correct": 2,
+        "hints": [
+          "For u=2f=−40 cm, v=−40 cm and m=−1.",
+          "Equal size does not mean erect: the negative magnification indicates inversion."
+        ],
+        "feedback": [
+          "Reconsider: Equal size does not mean erect: the negative magnification indicates inversion.",
+          "Reconsider: Equal size does not mean erect: the negative magnification indicates inversion.",
+          "Correct. Equal size does not mean erect: the negative magnification indicates inversion."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-mcase-15",
+        "section": 1,
+        "title": "Move between C and F",
+        "intro": "A real object between the concave mirror’s focus and centre of curvature gives a larger real image beyond C.",
+        "simple": "With f=−20 cm,u=−30 cm, v=−60 cm and m=−2.",
+        "example": [
+          "With f=−20 cm,u=−30 cm, v=−60 cm and m=−2.",
+          "The negative image height describes inversion, while |m|=2 describes enlargement."
+        ],
+        "question": "Where is this real image?",
+        "options": [
+          "Beyond C in front of the mirror",
+          "Between P and F behind the mirror",
+          "At infinity for every position"
+        ],
+        "correct": 0,
+        "hints": [
+          "With f=−20 cm,u=−30 cm, v=−60 cm and m=−2.",
+          "The negative image height describes inversion, while |m|=2 describes enlargement."
+        ],
+        "feedback": [
+          "Correct. The negative image height describes inversion, while |m|=2 describes enlargement.",
+          "Reconsider: The negative image height describes inversion, while |m|=2 describes enlargement.",
+          "Reconsider: The negative image height describes inversion, while |m|=2 describes enlargement."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-mcase-1",
+        "section": 1,
+        "title": "Reach the exact mirror focus",
+        "intro": "When the object point is in the focal plane of an ideal concave mirror, the outgoing rays are parallel.",
+        "simple": "The mirror equation has 1/v=0: there is no finite image distance.",
+        "example": [
+          "The mirror equation has 1/v=0: there is no finite image distance.",
+          "Do not enter v=0 or pretend a finite screen can catch a sharp image. Nearby positions give very distant images."
+        ],
+        "question": "What does1/v=0 signify here?",
+        "options": [
+          "Image on the mirror surface",
+          "An image at infinity in the ideal model",
+          "An image with zero focal length"
+        ],
+        "correct": 1,
+        "hints": [
+          "The mirror equation has 1/v=0: there is no finite image distance.",
+          "Do not enter v=0 or pretend a finite screen can catch a sharp image. Nearby positions give very distant images."
+        ],
+        "feedback": [
+          "Reconsider: Do not enter v=0 or pretend a finite screen can catch a sharp image. Nearby positions give very distant images.",
+          "Correct. Do not enter v=0 or pretend a finite screen can catch a sharp image. Nearby positions give very distant images.",
+          "Reconsider: Do not enter v=0 or pretend a finite screen can catch a sharp image. Nearby positions give very distant images."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-ray-rules",
+        "section": 1,
+        "title": "Construct an image with independent rays",
+        "intro": "Use rays from the same object point. Actual reflected rays meet at a real image; only their backward extensions meet at a virtual image.",
+        "simple": "A parallel ray reflects through F (or appears from F); a ray directed through/toward F reflects parallel. A C-directed ray is normal to the spherical surface and retraces.",
+        "example": [
+          "A parallel ray reflects through F (or appears from F); a ray directed through/toward F reflects parallel. A C-directed ray is normal to the spherical surface and retraces.",
+          "A pole ray obeys equal angles to the principal-axis normal. Dashed extensions are not extra light travelling behind an opaque mirror."
+        ],
+        "question": "What distinguishes a virtual-image construction?",
+        "options": [
+          "Actual rays meet behind the opaque mirror",
+          "Backward extensions meet, rather than the actual outgoing rays",
+          "There are no rays at all"
+        ],
+        "correct": 1,
+        "hints": [
+          "A parallel ray reflects through F (or appears from F); a ray directed through/toward F reflects parallel. A C-directed ray is normal to the spherical surface and retraces.",
+          "A pole ray obeys equal angles to the principal-axis normal. Dashed extensions are not extra light travelling behind an opaque mirror."
+        ],
+        "feedback": [
+          "Reconsider: A pole ray obeys equal angles to the principal-axis normal. Dashed extensions are not extra light travelling behind an opaque mirror.",
+          "Correct. A pole ray obeys equal angles to the principal-axis normal. Dashed extensions are not extra light travelling behind an opaque mirror.",
+          "Reconsider: A pole ray obeys equal angles to the principal-axis normal. Dashed extensions are not extra light travelling behind an opaque mirror."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-convex",
+        "section": 1,
+        "title": "Trade image size for field of view",
+        "intro": "A convex mirror produces a virtual, erect, diminished image between its pole and focus for a finite real object.",
+        "simple": "As the object moves farther away, the image approaches F and becomes smaller. At infinity it approaches a point at F.",
+        "example": [
+          "As the object moves farther away, the image approaches F and becomes smaller. At infinity it approaches a point at F.",
+          "Convex rear-view mirrors give a wider field of view, while diminished images can make distance judgement harder. Concave mirrors serve close-up magnification, reflectors and solar concentration."
+        ],
+        "question": "Why use convex rear-view mirrors?",
+        "options": [
+          "They always enlarge the image",
+          "They make a real image on the windscreen",
+          "They give a wider field of view with erect images"
+        ],
+        "correct": 2,
+        "hints": [
+          "As the object moves farther away, the image approaches F and becomes smaller. At infinity it approaches a point at F.",
+          "Convex rear-view mirrors give a wider field of view, while diminished images can make distance judgement harder. Concave mirrors serve close-up magnification, reflectors and solar concentration."
+        ],
+        "feedback": [
+          "Reconsider: Convex rear-view mirrors give a wider field of view, while diminished images can make distance judgement harder. Concave mirrors serve close-up magnification, reflectors and solar concentration.",
+          "Reconsider: Convex rear-view mirrors give a wider field of view, while diminished images can make distance judgement harder. Concave mirrors serve close-up magnification, reflectors and solar concentration.",
+          "Correct. Convex rear-view mirrors give a wider field of view, while diminished images can make distance judgement harder. Concave mirrors serve close-up magnification, reflectors and solar concentration."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-signs",
+        "section": 1,
+        "title": "Keep distances signed",
+        "intro": "Take incident light left to right and the mirror pole as origin. Rightward distances are positive; leftward distances negative. Heights above the axis are positive.",
+        "simple": "For a real object on the left, u<0. Concave mirror f<0; convex mirror f>0. A real mirror image in front has v<0.",
+        "example": [
+          "For a real object on the left, u<0. Concave mirror f<0; convex mirror f>0. A real mirror image in front has v<0.",
+          "Mirror equation: 1/v + 1/u = 1/f; m = h′/h = −v/u. A negative m means inverted, not a negative physical length."
+        ],
+        "question": "Which focal-length sign describes a concave mirror here?",
+        "options": [
+          "Negative",
+          "Positive",
+          "Always zero"
+        ],
+        "correct": 0,
+        "hints": [
+          "For a real object on the left, u<0. Concave mirror f<0; convex mirror f>0. A real mirror image in front has v<0.",
+          "Mirror equation: 1/v + 1/u = 1/f; m = h′/h = −v/u. A negative m means inverted, not a negative physical length."
+        ],
+        "feedback": [
+          "Correct. Mirror equation: 1/v + 1/u = 1/f; m = h′/h = −v/u. A negative m means inverted, not a negative physical length.",
+          "Reconsider: Mirror equation: 1/v + 1/u = 1/f; m = h′/h = −v/u. A negative m means inverted, not a negative physical length.",
+          "Reconsider: Mirror equation: 1/v + 1/u = 1/f; m = h′/h = −v/u. A negative m means inverted, not a negative physical length."
+        ],
+        "explorer": "mirror"
+      },
+      {
+        "id": "sc9-refraction",
+        "section": 2,
+        "title": "Bend relative to the normal",
+        "intro": "Refraction changes a ray’s direction when its speed changes at an oblique boundary between media. At normal incidence direction can remain unchanged.",
+        "simple": "Entering higher refractive index bends toward the normal; entering lower index bends away, where transmission occurs.",
+        "example": [
+          "Entering higher refractive index bends toward the normal; entering lower index bends away, where transmission occurs.",
+          "For a given frequency n1 sin i = n2 sin r. Frequency is continuous at a stationary boundary, while speed and wavelength change."
+        ],
+        "question": "Air to glass at oblique incidence usually bends which way?",
+        "options": [
+          "Toward the surface",
+          "Toward the normal",
+          "No bending at any angle"
+        ],
+        "correct": 1,
+        "hints": [
+          "Entering higher refractive index bends toward the normal; entering lower index bends away, where transmission occurs.",
+          "For a given frequency n1 sin i = n2 sin r. Frequency is continuous at a stationary boundary, while speed and wavelength change."
+        ],
+        "feedback": [
+          "Reconsider: For a given frequency n1 sin i = n2 sin r. Frequency is continuous at a stationary boundary, while speed and wavelength change.",
+          "Correct. For a given frequency n1 sin i = n2 sin r. Frequency is continuous at a stationary boundary, while speed and wavelength change.",
+          "Reconsider: For a given frequency n1 sin i = n2 sin r. Frequency is continuous at a stationary boundary, while speed and wavelength change."
+        ],
+        "explorer": "refraction"
+      },
+      {
+        "id": "sc9-slab",
+        "section": 2,
+        "title": "Two parallel faces can restore direction",
+        "intro": "Through a parallel-sided glass slab surrounded by the same medium, the emergent ray is parallel to the incident ray but laterally displaced.",
+        "simple": "The first and second refractions compensate in direction because the faces are parallel; inside the slab the ray has a different direction.",
+        "example": [
+          "The first and second refractions compensate in direction because the faces are parallel; inside the slab the ray has a different direction.",
+          "Apparent raising of a coin, a shifted line and a bent-looking pencil are image-location effects caused by refraction, not the object actually moving."
+        ],
+        "question": "What is normally true of the emergent slab ray?",
+        "options": [
+          "Parallel to the incident ray, with possible displacement",
+          "Always perpendicular to the incident ray",
+          "It must follow the original line exactly"
+        ],
+        "correct": 0,
+        "hints": [
+          "The first and second refractions compensate in direction because the faces are parallel; inside the slab the ray has a different direction.",
+          "Apparent raising of a coin, a shifted line and a bent-looking pencil are image-location effects caused by refraction, not the object actually moving."
+        ],
+        "feedback": [
+          "Correct. Apparent raising of a coin, a shifted line and a bent-looking pencil are image-location effects caused by refraction, not the object actually moving.",
+          "Reconsider: Apparent raising of a coin, a shifted line and a bent-looking pencil are image-location effects caused by refraction, not the object actually moving.",
+          "Reconsider: Apparent raising of a coin, a shifted line and a bent-looking pencil are image-location effects caused by refraction, not the object actually moving."
+        ],
+        "explorer": "refraction"
+      },
+      {
+        "id": "sc9-index",
+        "section": 2,
+        "title": "Compare optical speed, not mass density",
+        "intro": "Absolute refractive index n=c/v; relative index n21=v1/v2=n2/n1. Optical density refers to refractive behaviour rather than mass per volume.",
+        "simple": "For glass n=1.50, v=3×10^8/1.50=2×10^8 m/s. Diamond’s 2.42 means light travels at c/2.42 in that material under the stated conditions.",
+        "example": [
+          "For glass n=1.50, v=3×10^8/1.50=2×10^8 m/s. Diamond’s 2.42 means light travels at c/2.42 in that material under the stated conditions.",
+          "The source table’s indices are approximate and depend on wavelength and conditions. A higher index means lower phase speed, not necessarily greater mass density."
+        ],
+        "question": "Among water 1.33, kerosene 1.44 and turpentine 1.47, where is speed greatest?",
+        "options": [
+          "Turpentine",
+          "Kerosene",
+          "Water"
+        ],
+        "correct": 2,
+        "hints": [
+          "For glass n=1.50, v=3×10^8/1.50=2×10^8 m/s. Diamond’s 2.42 means light travels at c/2.42 in that material under the stated conditions.",
+          "The source table’s indices are approximate and depend on wavelength and conditions. A higher index means lower phase speed, not necessarily greater mass density."
+        ],
+        "feedback": [
+          "Reconsider: The source table’s indices are approximate and depend on wavelength and conditions. A higher index means lower phase speed, not necessarily greater mass density.",
+          "Reconsider: The source table’s indices are approximate and depend on wavelength and conditions. A higher index means lower phase speed, not necessarily greater mass density.",
+          "Correct. The source table’s indices are approximate and depend on wavelength and conditions. A higher index means lower phase speed, not necessarily greater mass density."
+        ],
+        "explorer": "refraction"
+      },
+      {
+        "id": "sc9-lenses",
+        "section": 3,
+        "title": "Compare converging and diverging lenses",
+        "intro": "A convex lens is thicker centrally and usually converges light in air; a concave lens is thinner centrally and diverges light in air.",
+        "simple": "A lens has two spherical surfaces (or a spherical and plane surface), two curvature centres, an optical centre and principal foci.",
+        "example": [
+          "A lens has two spherical surfaces (or a spherical and plane surface), two curvature centres, an optical centre and principal foci.",
+          "Converging/diverging behaviour depends on relative refractive indices; the source classifications assume ordinary transparent lenses in air."
+        ],
+        "question": "Which ordinary lens in air has positive focal length?",
+        "options": [
+          "Convex lens",
+          "Concave lens",
+          "Every opaque sheet"
+        ],
+        "correct": 0,
+        "hints": [
+          "A lens has two spherical surfaces (or a spherical and plane surface), two curvature centres, an optical centre and principal foci.",
+          "Converging/diverging behaviour depends on relative refractive indices; the source classifications assume ordinary transparent lenses in air."
+        ],
+        "feedback": [
+          "Correct. Converging/diverging behaviour depends on relative refractive indices; the source classifications assume ordinary transparent lenses in air.",
+          "Reconsider: Converging/diverging behaviour depends on relative refractive indices; the source classifications assume ordinary transparent lenses in air.",
+          "Reconsider: Converging/diverging behaviour depends on relative refractive indices; the source classifications assume ordinary transparent lenses in air."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-convex-lens",
+        "section": 3,
+        "title": "Cross the two focal positions",
+        "intro": "A convex lens forms different images as a real object moves relative to F1 and 2F1.",
+        "simple": "Beyond 2F1: real inverted diminished between F2/2F2; at 2F1: same-size at 2F2; between F1/2F1: real inverted enlarged beyond 2F2.",
+        "example": [
+          "Beyond 2F1: real inverted diminished between F2/2F2; at 2F1: same-size at 2F2; between F1/2F1: real inverted enlarged beyond 2F2.",
+          "At F1 outgoing rays are parallel; inside F1 a virtual erect enlarged image appears on the object side. A very distant object approaches a small image at F2."
+        ],
+        "question": "Where is a real same-size convex-lens image obtained?",
+        "options": [
+          "Object at F1",
+          "Object at 2F1",
+          "Object inside F1"
+        ],
+        "correct": 1,
+        "hints": [
+          "Beyond 2F1: real inverted diminished between F2/2F2; at 2F1: same-size at 2F2; between F1/2F1: real inverted enlarged beyond 2F2.",
+          "At F1 outgoing rays are parallel; inside F1 a virtual erect enlarged image appears on the object side. A very distant object approaches a small image at F2."
+        ],
+        "feedback": [
+          "Reconsider: At F1 outgoing rays are parallel; inside F1 a virtual erect enlarged image appears on the object side. A very distant object approaches a small image at F2.",
+          "Correct. At F1 outgoing rays are parallel; inside F1 a virtual erect enlarged image appears on the object side. A very distant object approaches a small image at F2.",
+          "Reconsider: At F1 outgoing rays are parallel; inside F1 a virtual erect enlarged image appears on the object side. A very distant object approaches a small image at F2."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-lcase-inf",
+        "section": 3,
+        "title": "Focus a distant object through a lens",
+        "intro": "A convex lens brings parallel rays toward its far principal focus.",
+        "simple": "For the ideal infinity case, v=f on the opposite side.",
+        "example": [
+          "For the ideal infinity case, v=f on the opposite side.",
+          "A far but finite object produces a small real inverted image near F2."
+        ],
+        "question": "Which focus is involved for left-to-right light?",
+        "options": [
+          "F1 on the object side",
+          "Only the optical centre",
+          "F2 on the far side"
+        ],
+        "correct": 2,
+        "hints": [
+          "For the ideal infinity case, v=f on the opposite side.",
+          "A far but finite object produces a small real inverted image near F2."
+        ],
+        "feedback": [
+          "Reconsider: A far but finite object produces a small real inverted image near F2.",
+          "Reconsider: A far but finite object produces a small real inverted image near F2.",
+          "Correct. A far but finite object produces a small real inverted image near F2."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-lcase-3",
+        "section": 3,
+        "title": "Start beyond two focal lengths",
+        "intro": "A convex lens with an object beyond 2F1 gives a real diminished image between F2 and 2F2.",
+        "simple": "For f=+20 cm,u=−60 cm, v=+30 cm and m=−0.5.",
+        "example": [
+          "For f=+20 cm,u=−60 cm, v=+30 cm and m=−0.5.",
+          "A positive v here places the real image on the right; it does not make the image erect."
+        ],
+        "question": "What tells you the image is inverted?",
+        "options": [
+          "The positive focal length alone",
+          "Negative magnification",
+          "The object being green"
+        ],
+        "correct": 1,
+        "hints": [
+          "For f=+20 cm,u=−60 cm, v=+30 cm and m=−0.5.",
+          "A positive v here places the real image on the right; it does not make the image erect."
+        ],
+        "feedback": [
+          "Reconsider: A positive v here places the real image on the right; it does not make the image erect.",
+          "Correct. A positive v here places the real image on the right; it does not make the image erect.",
+          "Reconsider: A positive v here places the real image on the right; it does not make the image erect."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-lcase-15",
+        "section": 3,
+        "title": "Move between F1 and 2F1",
+        "intro": "Move a real object inside the two-focus distance but outside the convex lens’s near focus.",
+        "simple": "For f=+20 cm,u=−30 cm, v=+60 cm and m=−2.",
+        "example": [
+          "For f=+20 cm,u=−30 cm, v=+60 cm and m=−2.",
+          "The image is real, enlarged and inverted beyond 2F2."
+        ],
+        "question": "Which construction matches?",
+        "options": [
+          "Virtual erect image between O and F1",
+          "No refraction at all",
+          "Real inverted image beyond 2F2"
+        ],
+        "correct": 2,
+        "hints": [
+          "For f=+20 cm,u=−30 cm, v=+60 cm and m=−2.",
+          "The image is real, enlarged and inverted beyond 2F2."
+        ],
+        "feedback": [
+          "Reconsider: The image is real, enlarged and inverted beyond 2F2.",
+          "Reconsider: The image is real, enlarged and inverted beyond 2F2.",
+          "Correct. The image is real, enlarged and inverted beyond 2F2."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-lcase-1",
+        "section": 3,
+        "title": "At the lens’s near focus",
+        "intro": "At the near focal plane of a convex lens, outgoing rays from a point are parallel.",
+        "simple": "For u=−f, the thin-lens equation gives 1/v=0.",
+        "example": [
+          "For u=−f, the thin-lens equation gives 1/v=0.",
+          "The infinity case is a limiting ideal result, not a finite location or a failed sign convention."
+        ],
+        "question": "Can a finite screen position give a sharply focused ideal image?",
+        "options": [
+          "No; there is no finite image distance",
+          "Yes, always at O",
+          "Yes, always at 2F2"
+        ],
+        "correct": 0,
+        "hints": [
+          "For u=−f, the thin-lens equation gives 1/v=0.",
+          "The infinity case is a limiting ideal result, not a finite location or a failed sign convention."
+        ],
+        "feedback": [
+          "Correct. The infinity case is a limiting ideal result, not a finite location or a failed sign convention.",
+          "Reconsider: The infinity case is a limiting ideal result, not a finite location or a failed sign convention.",
+          "Reconsider: The infinity case is a limiting ideal result, not a finite location or a failed sign convention."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-lcase-05",
+        "section": 3,
+        "title": "Use a convex lens as a magnifier",
+        "intro": "With a real object inside F1, a convex lens produces diverging outgoing rays whose backward extensions intersect on the object side.",
+        "simple": "For f=+20 cm,u=−10 cm, v=−20 cm and m=+2.",
+        "example": [
+          "For f=+20 cm,u=−10 cm, v=−20 cm and m=+2.",
+          "The image is virtual, erect and enlarged; it cannot be caught directly on a screen at that virtual location."
+        ],
+        "question": "What does positive m=2 mean?",
+        "options": [
+          "An inverted image with half the height",
+          "An erect image with twice the height",
+          "A real image by definition"
+        ],
+        "correct": 1,
+        "hints": [
+          "For f=+20 cm,u=−10 cm, v=−20 cm and m=+2.",
+          "The image is virtual, erect and enlarged; it cannot be caught directly on a screen at that virtual location."
+        ],
+        "feedback": [
+          "Reconsider: The image is virtual, erect and enlarged; it cannot be caught directly on a screen at that virtual location.",
+          "Correct. The image is virtual, erect and enlarged; it cannot be caught directly on a screen at that virtual location.",
+          "Reconsider: The image is virtual, erect and enlarged; it cannot be caught directly on a screen at that virtual location."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-concave-lens",
+        "section": 3,
+        "title": "Trace a diverging lens’s extensions",
+        "intro": "For a finite real object, a concave lens in air forms a virtual, erect, diminished image on the object side between focus and optical centre.",
+        "simple": "A parallel incident ray diverges as if from the near focus; an optical-centre ray is approximately undeviated in the thin-lens model.",
+        "example": [
+          "A parallel incident ray diverges as if from the near focus; an optical-centre ray is approximately undeviated in the thin-lens model.",
+          "A ray directed toward the far focus emerges parallel. Use dashed backward extensions to find the virtual image."
+        ],
+        "question": "Can its image from a real object normally be caught directly on a screen?",
+        "options": [
+          "Yes, anywhere",
+          "Only if the object is a candle",
+          "No, because the image is virtual"
+        ],
+        "correct": 2,
+        "hints": [
+          "A parallel incident ray diverges as if from the near focus; an optical-centre ray is approximately undeviated in the thin-lens model.",
+          "A ray directed toward the far focus emerges parallel. Use dashed backward extensions to find the virtual image."
+        ],
+        "feedback": [
+          "Reconsider: A ray directed toward the far focus emerges parallel. Use dashed backward extensions to find the virtual image.",
+          "Reconsider: A ray directed toward the far focus emerges parallel. Use dashed backward extensions to find the virtual image.",
+          "Correct. A ray directed toward the far focus emerges parallel. Use dashed backward extensions to find the virtual image."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-lens-formula",
+        "section": 3,
+        "title": "Use the lens formula’s different sign",
+        "intro": "For a thin lens with left-to-right incident light, u<0 for a real object; convex f>0 and concave f<0. Real images on the right have v>0.",
+        "simple": "Lens equation: 1/v − 1/u = 1/f, so m=h′/h=v/u. Do not substitute the mirror magnification sign.",
+        "example": [
+          "Lens equation: 1/v − 1/u = 1/f, so m=h′/h=v/u. Do not substitute the mirror magnification sign.",
+          "The formulas are paraxial thin-element approximations; finite aperture, thickness and aberrations limit real performance."
+        ],
+        "question": "Which is the lens magnification formula?",
+        "options": [
+          "−v/u",
+          "v/u",
+          "u+v"
+        ],
+        "correct": 1,
+        "hints": [
+          "Lens equation: 1/v − 1/u = 1/f, so m=h′/h=v/u. Do not substitute the mirror magnification sign.",
+          "The formulas are paraxial thin-element approximations; finite aperture, thickness and aberrations limit real performance."
+        ],
+        "feedback": [
+          "Reconsider: The formulas are paraxial thin-element approximations; finite aperture, thickness and aberrations limit real performance.",
+          "Correct. The formulas are paraxial thin-element approximations; finite aperture, thickness and aberrations limit real performance.",
+          "Reconsider: The formulas are paraxial thin-element approximations; finite aperture, thickness and aberrations limit real performance."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-power",
+        "section": 3,
+        "title": "Convert centimetres before taking a reciprocal",
+        "intro": "Lens power P=1/f with focal length in metres. Its SI-derived unit is dioptre (D), equal to m⁻¹.",
+        "simple": "A convex lens in air has positive power; a concave lens has negative power. +2 D corresponds to f=+0.50 m; −2.5 D to f=−0.40 m.",
+        "example": [
+          "A convex lens in air has positive power; a concave lens has negative power. +2 D corresponds to f=+0.50 m; −2.5 D to f=−0.40 m.",
+          "For thin lenses in contact in the same surrounding medium, powers add algebraically. +2.00 D +0.25 D=+2.25 D; focal lengths do not simply add."
+        ],
+        "question": "A lens has f=+25 cm. What is its power?",
+        "options": [
+          "+0.04 D",
+          "+4 D",
+          "−4 D"
+        ],
+        "correct": 1,
+        "hints": [
+          "A convex lens in air has positive power; a concave lens has negative power. +2 D corresponds to f=+0.50 m; −2.5 D to f=−0.40 m.",
+          "For thin lenses in contact in the same surrounding medium, powers add algebraically. +2.00 D +0.25 D=+2.25 D; focal lengths do not simply add."
+        ],
+        "feedback": [
+          "Reconsider: For thin lenses in contact in the same surrounding medium, powers add algebraically. +2.00 D +0.25 D=+2.25 D; focal lengths do not simply add.",
+          "Correct. For thin lenses in contact in the same surrounding medium, powers add algebraically. +2.00 D +0.25 D=+2.25 D; focal lengths do not simply add.",
+          "Reconsider: For thin lenses in contact in the same surrounding medium, powers add algebraically. +2.00 D +0.25 D=+2.25 D; focal lengths do not simply add."
+        ],
+        "explorer": "lens"
+      },
+      {
+        "id": "sc9-recap",
+        "section": 4,
+        "title": "Link rays, formulas and observations",
+        "intro": "A diagram and a signed calculation should agree on image position, orientation, size and whether it is real or virtual.",
+        "simple": "For mirrors m=−v/u; for lenses m=v/u. Screen capture requires actual rays converging, not just their extensions.",
+        "example": [
+          "For mirrors m=−v/u; for lenses m=v/u. Screen capture requires actual rays converging, not just their extensions.",
+          "Real observations may depart from ideal thin/paraxial predictions; report predictions separately from measurements."
+        ],
+        "question": "Which is the strongest check on an optical answer?",
+        "options": [
+          "Ignore signs if the number is positive",
+          "Use only the object’s colour",
+          "Make its signed result agree with a ray construction"
+        ],
+        "correct": 2,
+        "hints": [
+          "For mirrors m=−v/u; for lenses m=v/u. Screen capture requires actual rays converging, not just their extensions.",
+          "Real observations may depart from ideal thin/paraxial predictions; report predictions separately from measurements."
+        ],
+        "feedback": [
+          "Reconsider: Real observations may depart from ideal thin/paraxial predictions; report predictions separately from measurements.",
+          "Reconsider: Real observations may depart from ideal thin/paraxial predictions; report predictions separately from measurements.",
+          "Correct. Real observations may depart from ideal thin/paraxial predictions; report predictions separately from measurements."
+        ]
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "subject": "science",
+    "part": 2,
+    "slug": "human-eye-and-the-colourful-world",
+    "title": "The Human Eye and the Colourful World",
+    "sections": [
+      "10.1 The Human Eye · pp91–92",
+      "10.2 Vision and Correction · pp92–95",
+      "10.3–10.4 Prism and Dispersion · pp95–97",
+      "10.5 Atmospheric Refraction · pp97–98",
+      "10.6 Scattering · p99",
+      "What you have learnt · p100"
+    ],
+    "summary": [
+      [
+        "Trace",
+        "Use normals, axes and labelled optical structures."
+      ],
+      [
+        "Calculate",
+        "Keep sign conventions, units and numerical precision consistent."
+      ],
+      [
+        "Explain",
+        "Separate the ideal model, actual observations and their limitations."
+      ]
+    ],
+    "challenge": "Draw an appropriate ray construction, justify your signs and explain the physical result. Compare written work with the model and ask a teacher to verify it.",
+    "steps": [
+      {
+        "id": "sc10-eye",
+        "section": 0,
+        "title": "Locate the light-sensitive screen",
+        "intro": "Light enters through the cornea and pupil; the cornea supplies much refraction while the crystalline lens adjusts focus on the retina.",
+        "simple": "The iris regulates pupil opening. Retinal photoreceptors produce signals that reach the brain through optic nerves; the optical retinal image is real and inverted.",
+        "example": [
+          "The iris regulates pupil opening. Retinal photoreceptors produce signals that reach the brain through optic nerves; the optical retinal image is real and inverted.",
+          "The source eyeball diameter is about 2.3 cm. Aqueous humour lies in the front optical region, vitreous humour fills the large cavity behind the lens, and ciliary muscles affect lens shape."
+        ],
+        "question": "Where is the optical image formed?",
+        "options": [
+          "Pupil",
+          "Retina",
+          "Iris"
+        ],
+        "correct": 1,
+        "hints": [
+          "The iris regulates pupil opening. Retinal photoreceptors produce signals that reach the brain through optic nerves; the optical retinal image is real and inverted.",
+          "The source eyeball diameter is about 2.3 cm. Aqueous humour lies in the front optical region, vitreous humour fills the large cavity behind the lens, and ciliary muscles affect lens shape."
+        ],
+        "feedback": [
+          "Reconsider: The source eyeball diameter is about 2.3 cm. Aqueous humour lies in the front optical region, vitreous humour fills the large cavity behind the lens, and ciliary muscles affect lens shape.",
+          "Correct. The source eyeball diameter is about 2.3 cm. Aqueous humour lies in the front optical region, vitreous humour fills the large cavity behind the lens, and ciliary muscles affect lens shape.",
+          "Reconsider: The source eyeball diameter is about 2.3 cm. Aqueous humour lies in the front optical region, vitreous humour fills the large cavity behind the lens, and ciliary muscles affect lens shape."
+        ],
+        "explorer": "eye"
+      },
+      {
+        "id": "sc10-accommodation",
+        "section": 0,
+        "title": "Adjust focus while keeping the retina in place",
+        "intro": "Accommodation changes the effective focusing power for different object distances, rather than moving the retina back and forth.",
+        "simple": "For nearby objects, ciliary action makes the lens more curved/thicker and shortens focal length; for distant viewing the lens is relatively thinner with longer focal length.",
+        "example": [
+          "For nearby objects, ciliary action makes the lens more curved/thicker and shortens focal length; for distant viewing the lens is relatively thinner with longer focal length.",
+          "For the source young-adult reference, far point is effectively infinity and near point about 25 cm. Near points vary with age and individuals; this is not a personal diagnostic threshold."
+        ],
+        "question": "What changes during accommodation?",
+        "options": [
+          "The retina moves to every image location",
+          "The eye becomes a mirror",
+          "Lens curvature and focal length"
+        ],
+        "correct": 2,
+        "hints": [
+          "For nearby objects, ciliary action makes the lens more curved/thicker and shortens focal length; for distant viewing the lens is relatively thinner with longer focal length.",
+          "For the source young-adult reference, far point is effectively infinity and near point about 25 cm. Near points vary with age and individuals; this is not a personal diagnostic threshold."
+        ],
+        "feedback": [
+          "Reconsider: For the source young-adult reference, far point is effectively infinity and near point about 25 cm. Near points vary with age and individuals; this is not a personal diagnostic threshold.",
+          "Reconsider: For the source young-adult reference, far point is effectively infinity and near point about 25 cm. Near points vary with age and individuals; this is not a personal diagnostic threshold.",
+          "Correct. For the source young-adult reference, far point is effectively infinity and near point about 25 cm. Near points vary with age and individuals; this is not a personal diagnostic threshold."
+        ],
+        "explorer": "eye"
+      },
+      {
+        "id": "sc10-myopia",
+        "section": 1,
+        "title": "Move a distant focus back to the retina",
+        "intro": "In myopia, distant objects focus in front of the retina, due to factors such as excessive optical power or a longer eyeball.",
+        "simple": "A suitable concave/diverging lens helps distant rays behave as if from the eye’s finite far point.",
+        "example": [
+          "A suitable concave/diverging lens helps distant rays behave as if from the eye’s finite far point.",
+          "For the school thin-correction model, an80 cm far point gives f≈−0.80 m, P≈−1.25 D. A real prescription requires professional assessment."
+        ],
+        "question": "Which lens corrects the source myopia model?",
+        "options": [
+          "Concave",
+          "Convex only",
+          "A plane mirror"
+        ],
+        "correct": 0,
+        "hints": [
+          "A suitable concave/diverging lens helps distant rays behave as if from the eye’s finite far point.",
+          "For the school thin-correction model, an80 cm far point gives f≈−0.80 m, P≈−1.25 D. A real prescription requires professional assessment."
+        ],
+        "feedback": [
+          "Correct. For the school thin-correction model, an80 cm far point gives f≈−0.80 m, P≈−1.25 D. A real prescription requires professional assessment.",
+          "Reconsider: For the school thin-correction model, an80 cm far point gives f≈−0.80 m, P≈−1.25 D. A real prescription requires professional assessment.",
+          "Reconsider: For the school thin-correction model, an80 cm far point gives f≈−0.80 m, P≈−1.25 D. A real prescription requires professional assessment."
+        ],
+        "explorer": "eye"
+      },
+      {
+        "id": "sc10-hypermetropia",
+        "section": 1,
+        "title": "Help a nearby object focus sooner",
+        "intro": "In hypermetropia, the relevant nearby-object image would lie behind the retina; causes include insufficient focusing power or a shorter eyeball.",
+        "simple": "A suitable convex/converging lens supplies additional focusing power. It can make an object at 25 cm appear virtually at the eye’s more distant near point.",
+        "example": [
+          "A suitable convex/converging lens supplies additional focusing power. It can make an object at 25 cm appear virtually at the eye’s more distant near point.",
+          "If that near point is 1 m, the simple model gives P=1/0.25−1/1=+3 D. Do not confuse that with merely taking the reciprocal of 1 m."
+        ],
+        "question": "Which lens is used in this school correction model?",
+        "options": [
+          "Concave",
+          "Convex",
+          "Opaque clay"
+        ],
+        "correct": 1,
+        "hints": [
+          "A suitable convex/converging lens supplies additional focusing power. It can make an object at 25 cm appear virtually at the eye’s more distant near point.",
+          "If that near point is 1 m, the simple model gives P=1/0.25−1/1=+3 D. Do not confuse that with merely taking the reciprocal of 1 m."
+        ],
+        "feedback": [
+          "Reconsider: If that near point is 1 m, the simple model gives P=1/0.25−1/1=+3 D. Do not confuse that with merely taking the reciprocal of 1 m.",
+          "Correct. If that near point is 1 m, the simple model gives P=1/0.25−1/1=+3 D. Do not confuse that with merely taking the reciprocal of 1 m.",
+          "Reconsider: If that near point is 1 m, the simple model gives P=1/0.25−1/1=+3 D. Do not confuse that with merely taking the reciprocal of 1 m."
+        ],
+        "explorer": "eye"
+      },
+      {
+        "id": "sc10-ageing",
+        "section": 1,
+        "title": "Separate presbyopia from cataract",
+        "intro": "Presbyopia is age-related loss of accommodation, associated especially with lens flexibility and the accommodation system. Cataract is clouding of the lens.",
+        "simple": "Near correction, bifocal or progressive designs may be used according to need. A bifocal can have separate distance/near powers; not every presbyopic person needs the same convex/concave combination.",
+        "example": [
+          "Near correction, bifocal or progressive designs may be used according to need. A bifocal can have separate distance/near powers; not every presbyopic person needs the same convex/concave combination.",
+          "Cataract is not just a refractive-power error; clinical treatment can involve lens surgery. Symptoms and suitable treatment require appropriate care."
+        ],
+        "question": "Which describes cataract?",
+        "options": [
+          "A normal increase in pupil diameter",
+          "Every case of myopia",
+          "Clouding of the crystalline lens"
+        ],
+        "correct": 2,
+        "hints": [
+          "Near correction, bifocal or progressive designs may be used according to need. A bifocal can have separate distance/near powers; not every presbyopic person needs the same convex/concave combination.",
+          "Cataract is not just a refractive-power error; clinical treatment can involve lens surgery. Symptoms and suitable treatment require appropriate care."
+        ],
+        "feedback": [
+          "Reconsider: Cataract is not just a refractive-power error; clinical treatment can involve lens surgery. Symptoms and suitable treatment require appropriate care.",
+          "Reconsider: Cataract is not just a refractive-power error; clinical treatment can involve lens surgery. Symptoms and suitable treatment require appropriate care.",
+          "Correct. Cataract is not just a refractive-power error; clinical treatment can involve lens surgery. Symptoms and suitable treatment require appropriate care."
+        ],
+        "explorer": "eye"
+      },
+      {
+        "id": "sc10-donation",
+        "section": 1,
+        "title": "Read the corneal-donation sidebar critically",
+        "intro": "The source discusses eye/corneal donation, confidentiality and evaluation by an eye bank. Corneal transplantation can help selected corneal blindness, not every cause of vision loss.",
+        "simple": "The source cites historical 35 million blindness,4.5 million corneal-blindness and 60% under 12 figures; do not present these as verified current statistics. It also mentions4–6 hours after death and 10–15 minutes for retrieval: contact an accredited eye bank promptly for its actual protocol.",
+        "example": [
+          "The source cites historical 35 million blindness,4.5 million corneal-blindness and 60% under 12 figures; do not present these as verified current statistics. It also mentions4–6 hours after death and 10–15 minutes for retrieval: contact an accredited eye bank promptly for its actual protocol.",
+          "Eligibility, tissue assessment and possible recipients depend on professional screening and tissue use. Spectacles or some prior conditions need not automatically exclude donation; neither the source’s lists nor its “up to four” statement guarantee individual eligibility or outcomes."
+        ],
+        "question": "Who evaluates donated corneal tissue for use?",
+        "options": [
+          "An accredited eye-bank team",
+          "A class survey alone",
+          "The ray-diagram slider"
+        ],
+        "correct": 0,
+        "hints": [
+          "The source cites historical 35 million blindness,4.5 million corneal-blindness and 60% under 12 figures; do not present these as verified current statistics. It also mentions4–6 hours after death and 10–15 minutes for retrieval: contact an accredited eye bank promptly for its actual protocol.",
+          "Eligibility, tissue assessment and possible recipients depend on professional screening and tissue use. Spectacles or some prior conditions need not automatically exclude donation; neither the source’s lists nor its “up to four” statement guarantee individual eligibility or outcomes."
+        ],
+        "feedback": [
+          "Correct. Eligibility, tissue assessment and possible recipients depend on professional screening and tissue use. Spectacles or some prior conditions need not automatically exclude donation; neither the source’s lists nor its “up to four” statement guarantee individual eligibility or outcomes.",
+          "Reconsider: Eligibility, tissue assessment and possible recipients depend on professional screening and tissue use. Spectacles or some prior conditions need not automatically exclude donation; neither the source’s lists nor its “up to four” statement guarantee individual eligibility or outcomes.",
+          "Reconsider: Eligibility, tissue assessment and possible recipients depend on professional screening and tissue use. Spectacles or some prior conditions need not automatically exclude donation; neither the source’s lists nor its “up to four” statement guarantee individual eligibility or outcomes."
+        ]
+      },
+      {
+        "id": "sc10-prism",
+        "section": 2,
+        "title": "Two inclined faces produce deviation",
+        "intro": "A prism has inclined refracting faces. The prism angle is between those faces; incidence/emergence angles are measured from their respective normals.",
+        "simple": "At each face refraction obeys the local boundary law. Unlike a parallel slab, the emerging ray is generally deviated from the original direction.",
+        "example": [
+          "At each face refraction obeys the local boundary law. Unlike a parallel slab, the emerging ray is generally deviated from the original direction.",
+          "The deviation angle compares the original incident direction with the emergent direction; it is not identical to the prism angle."
+        ],
+        "question": "Why does a prism generally change the net direction?",
+        "options": [
+          "Its two refracting faces are inclined",
+          "All prisms are opaque",
+          "Light has no direction inside glass"
+        ],
+        "correct": 0,
+        "hints": [
+          "At each face refraction obeys the local boundary law. Unlike a parallel slab, the emerging ray is generally deviated from the original direction.",
+          "The deviation angle compares the original incident direction with the emergent direction; it is not identical to the prism angle."
+        ],
+        "feedback": [
+          "Correct. The deviation angle compares the original incident direction with the emergent direction; it is not identical to the prism angle.",
+          "Reconsider: The deviation angle compares the original incident direction with the emergent direction; it is not identical to the prism angle.",
+          "Reconsider: The deviation angle compares the original incident direction with the emergent direction; it is not identical to the prism angle."
+        ],
+        "explorer": "spectrum"
+      },
+      {
+        "id": "sc10-dispersion",
+        "section": 2,
+        "title": "Separate colours already present in white light",
+        "intro": "Dispersion occurs because refractive index depends on wavelength. Ordinary glass usually deviates violet more than red in the visible band.",
+        "simple": "The source sequence VIBGYOR names regions of a continuous spectrum; a prism does not create seven new kinds of light from nothing.",
+        "example": [
+          "The source sequence VIBGYOR names regions of a continuous spectrum; a prism does not create seven new kinds of light from nothing.",
+          "Newton’s second, oppositely oriented prism can recombine a suitable spectrum toward white light."
+        ],
+        "question": "Which visible component is normally deviated least by ordinary glass?",
+        "options": [
+          "Violet",
+          "Red",
+          "All colours always equally"
+        ],
+        "correct": 1,
+        "hints": [
+          "The source sequence VIBGYOR names regions of a continuous spectrum; a prism does not create seven new kinds of light from nothing.",
+          "Newton’s second, oppositely oriented prism can recombine a suitable spectrum toward white light."
+        ],
+        "feedback": [
+          "Reconsider: Newton’s second, oppositely oriented prism can recombine a suitable spectrum toward white light.",
+          "Correct. Newton’s second, oppositely oriented prism can recombine a suitable spectrum toward white light.",
+          "Reconsider: Newton’s second, oppositely oriented prism can recombine a suitable spectrum toward white light."
+        ],
+        "explorer": "spectrum"
+      },
+      {
+        "id": "sc10-rainbow",
+        "section": 2,
+        "title": "Use both refraction and internal reflection",
+        "intro": "A primary rainbow involves refraction/dispersion on entering droplets, internal reflection and refraction on leaving.",
+        "simple": "The Sun is behind the observer and droplets in front; many droplets supply the observed bow, not one droplet sending every colour toward one eye.",
+        "example": [
+          "The Sun is behind the observer and droplets in front; many droplets supply the observed bow, not one droplet sending every colour toward one eye.",
+          "The primary bow has red outside and violet inside. Never look directly at the Sun to investigate it."
+        ],
+        "question": "Which additional event occurs inside a primary-rainbow droplet?",
+        "options": [
+          "Only absorption of all light",
+          "Internal reflection",
+          "Production of a new Sun"
+        ],
+        "correct": 1,
+        "hints": [
+          "The Sun is behind the observer and droplets in front; many droplets supply the observed bow, not one droplet sending every colour toward one eye.",
+          "The primary bow has red outside and violet inside. Never look directly at the Sun to investigate it."
+        ],
+        "feedback": [
+          "Reconsider: The primary bow has red outside and violet inside. Never look directly at the Sun to investigate it.",
+          "Correct. The primary bow has red outside and violet inside. Never look directly at the Sun to investigate it.",
+          "Reconsider: The primary bow has red outside and violet inside. Never look directly at the Sun to investigate it."
+        ],
+        "explorer": "spectrum"
+      },
+      {
+        "id": "sc10-atmosphere",
+        "section": 3,
+        "title": "A changing atmosphere shifts apparent light",
+        "intro": "Atmospheric refractive index varies with conditions and height. Starlight can bend so a star appears higher than its geometric position near the horizon.",
+        "simple": "Turbulence changes the light reaching us from a nearly point-like star, producing twinkling. Planets have an appreciable angular disk, so contributions average and they generally twinkle less.",
+        "example": [
+          "Turbulence changes the light reaching us from a nearly point-like star, producing twinkling. Planets have an appreciable angular disk, so contributions average and they generally twinkle less.",
+          "Planets can still twinkle under some conditions; the source’s “do not twinkle” is an introductory contrast, not an absolute rule."
+        ],
+        "question": "Why is stellar twinkling usually stronger than planetary twinkling?",
+        "options": [
+          "Stars behave more like point sources",
+          "Planets emit no light toward Earth",
+          "Only planets have atmospheres"
+        ],
+        "correct": 0,
+        "hints": [
+          "Turbulence changes the light reaching us from a nearly point-like star, producing twinkling. Planets have an appreciable angular disk, so contributions average and they generally twinkle less.",
+          "Planets can still twinkle under some conditions; the source’s “do not twinkle” is an introductory contrast, not an absolute rule."
+        ],
+        "feedback": [
+          "Correct. Planets can still twinkle under some conditions; the source’s “do not twinkle” is an introductory contrast, not an absolute rule.",
+          "Reconsider: Planets can still twinkle under some conditions; the source’s “do not twinkle” is an introductory contrast, not an absolute rule.",
+          "Reconsider: Planets can still twinkle under some conditions; the source’s “do not twinkle” is an introductory contrast, not an absolute rule."
+        ],
+        "explorer": "atmosphere"
+      },
+      {
+        "id": "sc10-sunrise",
+        "section": 3,
+        "title": "Distinguish apparent and geometric sunrise",
+        "intro": "Atmospheric refraction can make the Sun visible before its geometric rising and after geometric setting.",
+        "simple": "The source gives about 2 minutes at each end, or about 4 minutes added daylight in this simplified comparison. Conditions and latitude affect the actual amount.",
+        "example": [
+          "The source gives about 2 minutes at each end, or about 4 minutes added daylight in this simplified comparison. Conditions and latitude affect the actual amount.",
+          "Apparent solar-disk flattening near the horizon is also affected by differential refraction."
+        ],
+        "question": "Which explains the source’s advanced sunrise?",
+        "options": [
+          "The Sun physically jumps upward",
+          "Atmospheric refraction",
+          "The eye becomes a convex mirror"
+        ],
+        "correct": 1,
+        "hints": [
+          "The source gives about 2 minutes at each end, or about 4 minutes added daylight in this simplified comparison. Conditions and latitude affect the actual amount.",
+          "Apparent solar-disk flattening near the horizon is also affected by differential refraction."
+        ],
+        "feedback": [
+          "Reconsider: Apparent solar-disk flattening near the horizon is also affected by differential refraction.",
+          "Correct. Apparent solar-disk flattening near the horizon is also affected by differential refraction.",
+          "Reconsider: Apparent solar-disk flattening near the horizon is also affected by differential refraction."
+        ],
+        "explorer": "atmosphere"
+      },
+      {
+        "id": "sc10-scattering",
+        "section": 4,
+        "title": "Compare beam visibility and sky colour",
+        "intro": "Small particles can scatter shorter visible wavelengths more strongly. Colloidal scattering makes a beam path visible as the Tyndall effect.",
+        "simple": "A clear molecular solution generally shows little side-scattered beam under a simple demonstration; colloidal particles make the path more visible. Larger particles can scatter a wider range and look white.",
+        "example": [
+          "A clear molecular solution generally shows little side-scattered beam under a simple demonstration; colloidal particles make the path more visible. Larger particles can scatter a wider range and look white.",
+          "Blue sky results from preferential short-wavelength scattering plus the solar spectrum and visual response; the sky is not a mirror reflecting the sea. Without appreciable atmosphere/scattering it appears dark away from bright objects."
+        ],
+        "question": "Why can a colloid reveal a beam’s path?",
+        "options": [
+          "It destroys all wavelengths",
+          "It turns light into sound",
+          "Particles scatter some light toward the observer"
+        ],
+        "correct": 2,
+        "hints": [
+          "A clear molecular solution generally shows little side-scattered beam under a simple demonstration; colloidal particles make the path more visible. Larger particles can scatter a wider range and look white.",
+          "Blue sky results from preferential short-wavelength scattering plus the solar spectrum and visual response; the sky is not a mirror reflecting the sea. Without appreciable atmosphere/scattering it appears dark away from bright objects."
+        ],
+        "feedback": [
+          "Reconsider: Blue sky results from preferential short-wavelength scattering plus the solar spectrum and visual response; the sky is not a mirror reflecting the sea. Without appreciable atmosphere/scattering it appears dark away from bright objects.",
+          "Reconsider: Blue sky results from preferential short-wavelength scattering plus the solar spectrum and visual response; the sky is not a mirror reflecting the sea. Without appreciable atmosphere/scattering it appears dark away from bright objects.",
+          "Correct. Blue sky results from preferential short-wavelength scattering plus the solar spectrum and visual response; the sky is not a mirror reflecting the sea. Without appreciable atmosphere/scattering it appears dark away from bright objects."
+        ],
+        "explorer": "atmosphere"
+      },
+      {
+        "id": "sc10-red",
+        "section": 4,
+        "title": "A longer path changes transmitted light",
+        "intro": "A long atmospheric path can reduce more short-wavelength light in the directly transmitted sunlight, leaving a relatively redder beam.",
+        "simple": "In the small-particle approximation, scattering varies strongly with wavelength; for a red/blue wavelength ratio1.8, the ideal ratio scales as1.8⁴≈10.5. Real fog/smoke particles need not obey the same simple regime.",
+        "example": [
+          "In the small-particle approximation, scattering varies strongly with wavelength; for a red/blue wavelength ratio1.8, the ideal ratio scales as1.8⁴≈10.5. Real fog/smoke particles need not obey the same simple regime.",
+          "Red signals have useful visibility and signalling conventions, but real visibility depends on particle sizes, intensity and contrast; “red is never scattered” is false."
+        ],
+        "question": "Does red light experience zero scattering?",
+        "options": [
+          "No; it is often less scattered in the stated regime",
+          "Yes, in every fog",
+          "Yes, because it has no wavelength"
+        ],
+        "correct": 0,
+        "hints": [
+          "In the small-particle approximation, scattering varies strongly with wavelength; for a red/blue wavelength ratio1.8, the ideal ratio scales as1.8⁴≈10.5. Real fog/smoke particles need not obey the same simple regime.",
+          "Red signals have useful visibility and signalling conventions, but real visibility depends on particle sizes, intensity and contrast; “red is never scattered” is false."
+        ],
+        "feedback": [
+          "Correct. Red signals have useful visibility and signalling conventions, but real visibility depends on particle sizes, intensity and contrast; “red is never scattered” is false.",
+          "Reconsider: Red signals have useful visibility and signalling conventions, but real visibility depends on particle sizes, intensity and contrast; “red is never scattered” is false.",
+          "Reconsider: Red signals have useful visibility and signalling conventions, but real visibility depends on particle sizes, intensity and contrast; “red is never scattered” is false."
+        ],
+        "explorer": "atmosphere"
+      },
+      {
+        "id": "sc10-recap",
+        "section": 5,
+        "title": "Separate optical mechanisms",
+        "intro": "Accommodation, correction, dispersion, atmospheric refraction and scattering explain different observations.",
+        "simple": "A corrective lens changes ray vergence; a prism separates wavelengths; atmospheric refraction alters paths; scattering redirects light toward new directions.",
+        "example": [
+          "A corrective lens changes ray vergence; a prism separates wavelengths; atmospheric refraction alters paths; scattering redirects light toward new directions.",
+          "Use labelled diagrams and signed calculations where appropriate, without treating the model as a personal clinical diagnosis."
+        ],
+        "question": "Which mechanism is central to splitting white light with a prism?",
+        "options": [
+          "Meniscus formation",
+          "Dispersion",
+          "Retinal movement"
+        ],
+        "correct": 1,
+        "hints": [
+          "A corrective lens changes ray vergence; a prism separates wavelengths; atmospheric refraction alters paths; scattering redirects light toward new directions.",
+          "Use labelled diagrams and signed calculations where appropriate, without treating the model as a personal clinical diagnosis."
+        ],
+        "feedback": [
+          "Reconsider: Use labelled diagrams and signed calculations where appropriate, without treating the model as a personal clinical diagnosis.",
+          "Correct. Use labelled diagrams and signed calculations where appropriate, without treating the model as a personal clinical diagnosis.",
+          "Reconsider: Use labelled diagrams and signed calculations where appropriate, without treating the model as a personal clinical diagnosis."
+        ]
+      }
+    ]
+  }
+]

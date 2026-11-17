@@ -1,3 +1,4 @@
+import {reformEvents} from './social-5-6.ts';
 import {laterHistoryEvents} from './history-3-4.ts';
 export type HistoricalEvent={year:number;label:string;detail:string};
 export const historyEvents:Record<number,HistoricalEvent[]>={1:[
@@ -17,3 +18,5 @@ export const alliances=[{name:'Second Carnatic War',sides:[['French','Muzaffar J
 export const politicalCentres:Settlement[]=[{name:'Lahore · Punjab',lat:31.55,lon:74.34,companies:[],note:'Sikh kingdom centre; Punjab annexed1849.'},{name:'Amritsar · Punjab',lat:31.63,lon:74.87,companies:[],note:'Treaty of Amritsar1809.'},{name:'Poona / Pune · Maratha centre',lat:18.52,lon:73.85,companies:[],note:'Peshwa and British Residency; conflict1817.'},{name:'Satara',lat:17.68,lon:74.02,companies:[],note:'Reduced state after1818; later annexed by lapse.'},{name:'Nagpur',lat:21.15,lon:79.09,companies:[],note:'Maratha resistance and a later lapse annexation.'},{name:'Hyderabad',lat:17.38,lon:78.49,companies:[],note:'First state to accept Wellesley’s1798alliance system.'},{name:'Mysore / Mysuru',lat:12.3,lon:76.64,companies:[],note:'Mysore resistance is introduced; its wars are covered in History Chapter4.'},{name:'Lucknow · Awadh',lat:26.85,lon:80.95,companies:[],note:'Awadh annexation used a different justification from lapse.'},{name:'Jhansi',lat:25.45,lon:78.57,companies:[],note:'Named in the source lapse list.'},{name:'Sambalpur',lat:21.47,lon:83.98,companies:[],note:'Named in the source lapse list.'},{name:'Jaitpur · Bundelkhand',lat:25.25,lon:79.57,companies:[],note:'Named in the source lapse list. The ambiguous Udaipur entry is not assigned a point.'}];
 
 Object.assign(historyEvents,laterHistoryEvents);
+
+historyEvents[5]=reformEvents;

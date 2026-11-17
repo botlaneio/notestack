@@ -1,0 +1,1363 @@
+[
+  {
+    "number": 5,
+    "subject": "social-science",
+    "discipline": "History",
+    "part": 1,
+    "slug": "social-and-religious-reform-movements",
+    "title": "Social and Religious Reform Movements",
+    "sections": [
+      "Renaissance, Brahmo and Young Bengal · pp 49–51",
+      "Arya, Prarthana and Satyashodhak · pp 51–52",
+      "Aligarh and Ramakrishna Mission · pp 53–54",
+      "Theosophy and Home Rule · p 54",
+      "Narayana Guru and Periyar · pp 55–56",
+      "Compare movements and evidence · pp 56–57"
+    ],
+    "steps": [
+      {
+        "id": "ss5-context",
+        "section": 0,
+        "title": "Ask what “Renaissance” means here",
+        "intro": "The book uses Indian Renaissance for nineteenth-century intellectual and social reform.",
+        "simple": "The book uses Indian Renaissance for nineteenth-century intellectual and social reform.",
+        "example": [
+          "The book uses Indian Renaissance for nineteenth-century intellectual and social reform.",
+          "English education, print, debate and encounters with Western ideas contributed, but Indian reformers also interpreted local traditions and earlier criticism. Democracy, freedom, equality and nationalism did not spread uniformly or only through colonial benevolence. Ask who challenged a practice, what evidence they used and whose opportunities changed."
+        ],
+        "question": "Which interpretation is careful?",
+        "options": [
+          "New encounters interacted with Indian traditions and reformers’ agency",
+          "All Indian thought began with British rule",
+          "Every reform had the same doctrine"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. English education, print, debate and encounters with Western ideas contributed, but Indian reformers also interpreted local traditions and earlier criticism. Democracy, freedom, equality and nationalism did not spread uniformly or only through colonial benevolence. Ask who challenged a practice, what evidence they used and whose opportunities changed.",
+          "Reconsider: English education, print, debate and encounters with Western ideas contributed, but Indian reformers also interpreted local traditions and earlier criticism. Democracy, freedom, equality and nationalism did not spread uniformly or only through colonial benevolence. Ask who challenged a practice, what evidence they used and whose opportunities changed.",
+          "Reconsider: English education, print, debate and encounters with Western ideas contributed, but Indian reformers also interpreted local traditions and earlier criticism. Democracy, freedom, equality and nationalism did not spread uniformly or only through colonial benevolence. Ask who challenged a practice, what evidence they used and whose opportunities changed."
+        ],
+        "hints": [
+          "The book uses Indian Renaissance for nineteenth-century intellectual and social reform.",
+          "English education, print, debate and encounters with Western ideas contributed, but Indian reformers also interpreted local traditions and earlier criticism. Democracy, freedom, equality and nationalism did not spread uniformly or only through colonial benevolence. Ask who challenged a practice, what evidence they used and whose opportunities changed."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-roy",
+        "section": 0,
+        "title": "Connect a reformer with methods",
+        "intro": "Ram Mohan Roy studied several languages and religious traditions and advocated modern learning and rational debate.",
+        "simple": "Ram Mohan Roy studied several languages and religious traditions and advocated modern learning and rational debate.",
+        "example": [
+          "Ram Mohan Roy studied several languages and religious traditions and advocated modern learning and rational debate.",
+          "The source describes his study of the Upanishads, criticism of idol worship, and campaigns against sati, child marriage and women’s exploitation. He supported Bentinck’s 1829 sati prohibition and used Bengali journalism through Sambad Kaumudi (Samvada Kaumudi in the book). “Father of Indian Renaissance” is an attributed honorific, not a claim one person alone caused reform."
+        ],
+        "question": "Which method helped him spread criticism?",
+        "options": [
+          "A Bengali newspaper and public argument",
+          "Only a military treaty",
+          "The 1935 federation"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes his study of the Upanishads, criticism of idol worship, and campaigns against sati, child marriage and women’s exploitation. He supported Bentinck’s 1829 sati prohibition and used Bengali journalism through Sambad Kaumudi (Samvada Kaumudi in the book). “Father of Indian Renaissance” is an attributed honorific, not a claim one person alone caused reform.",
+          "Reconsider: The source describes his study of the Upanishads, criticism of idol worship, and campaigns against sati, child marriage and women’s exploitation. He supported Bentinck’s 1829 sati prohibition and used Bengali journalism through Sambad Kaumudi (Samvada Kaumudi in the book). “Father of Indian Renaissance” is an attributed honorific, not a claim one person alone caused reform.",
+          "Reconsider: The source describes his study of the Upanishads, criticism of idol worship, and campaigns against sati, child marriage and women’s exploitation. He supported Bentinck’s 1829 sati prohibition and used Bengali journalism through Sambad Kaumudi (Samvada Kaumudi in the book). “Father of Indian Renaissance” is an attributed honorific, not a claim one person alone caused reform."
+        ],
+        "hints": [
+          "Ram Mohan Roy studied several languages and religious traditions and advocated modern learning and rational debate.",
+          "The source describes his study of the Upanishads, criticism of idol worship, and campaigns against sati, child marriage and women’s exploitation. He supported Bentinck’s 1829 sati prohibition and used Bengali journalism through Sambad Kaumudi (Samvada Kaumudi in the book). “Father of Indian Renaissance” is an attributed honorific, not a claim one person alone caused reform."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-brahmo",
+        "section": 0,
+        "title": "Separate a belief from a social programme",
+        "intro": "Brahmo reformers promoted monotheism and opposed idol worship and costly rituals.",
+        "simple": "Brahmo reformers promoted monotheism and opposed idol worship and costly rituals.",
+        "example": [
+          "Brahmo reformers promoted monotheism and opposed idol worship and costly rituals.",
+          "Ram Mohan Roy helped establish the Brahmo Sabha in 1828, associated with the later Brahmo Samaj. The source links religious criticism with education, women’s concerns and developing national ideas. These are the movement’s positions; the lesson does not require students to accept or reject a faith."
+        ],
+        "question": "Which belief is associated with Brahmo Samaj?",
+        "options": [
+          "Monotheism",
+          "A demand for every caste to keep unequal rights",
+          "The end of all education"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Ram Mohan Roy helped establish the Brahmo Sabha in 1828, associated with the later Brahmo Samaj. The source links religious criticism with education, women’s concerns and developing national ideas. These are the movement’s positions; the lesson does not require students to accept or reject a faith.",
+          "Reconsider: Ram Mohan Roy helped establish the Brahmo Sabha in 1828, associated with the later Brahmo Samaj. The source links religious criticism with education, women’s concerns and developing national ideas. These are the movement’s positions; the lesson does not require students to accept or reject a faith.",
+          "Reconsider: Ram Mohan Roy helped establish the Brahmo Sabha in 1828, associated with the later Brahmo Samaj. The source links religious criticism with education, women’s concerns and developing national ideas. These are the movement’s positions; the lesson does not require students to accept or reject a faith."
+        ],
+        "hints": [
+          "Brahmo reformers promoted monotheism and opposed idol worship and costly rituals.",
+          "Ram Mohan Roy helped establish the Brahmo Sabha in 1828, associated with the later Brahmo Samaj. The source links religious criticism with education, women’s concerns and developing national ideas. These are the movement’s positions; the lesson does not require students to accept or reject a faith."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-young",
+        "section": 0,
+        "title": "Trace free enquiry as a method",
+        "intro": "Henry Louis Vivian Derozio inspired Young Bengal through teaching and debate at Hindu College, Calcutta.",
+        "simple": "Henry Louis Vivian Derozio inspired Young Bengal through teaching and debate at Hindu College, Calcutta.",
+        "example": [
+          "Henry Louis Vivian Derozio inspired Young Bengal through teaching and debate at Hindu College, Calcutta.",
+          "The source dates his life 1809–1831 and the Academic Association to 1828. It stresses rational enquiry, humanism, women’s rights and opposition to caste discrimination, with influence concentrated in Calcutta and parts of Bengal. Its ancestry labels are not a basis for explaining ideas or for present-day identity categories. “Direjio” in the exercise refers to Derozio."
+        ],
+        "question": "What best describes this method?",
+        "options": [
+          "Free enquiry and discussion",
+          "Unquestioning acceptance of every custom",
+          "Direct recruitment by KPSC"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source dates his life 1809–1831 and the Academic Association to 1828. It stresses rational enquiry, humanism, women’s rights and opposition to caste discrimination, with influence concentrated in Calcutta and parts of Bengal. Its ancestry labels are not a basis for explaining ideas or for present-day identity categories. “Direjio” in the exercise refers to Derozio.",
+          "Reconsider: The source dates his life 1809–1831 and the Academic Association to 1828. It stresses rational enquiry, humanism, women’s rights and opposition to caste discrimination, with influence concentrated in Calcutta and parts of Bengal. Its ancestry labels are not a basis for explaining ideas or for present-day identity categories. “Direjio” in the exercise refers to Derozio.",
+          "Reconsider: The source dates his life 1809–1831 and the Academic Association to 1828. It stresses rational enquiry, humanism, women’s rights and opposition to caste discrimination, with influence concentrated in Calcutta and parts of Bengal. Its ancestry labels are not a basis for explaining ideas or for present-day identity categories. “Direjio” in the exercise refers to Derozio."
+        ],
+        "hints": [
+          "Henry Louis Vivian Derozio inspired Young Bengal through teaching and debate at Hindu College, Calcutta.",
+          "The source dates his life 1809–1831 and the Academic Association to 1828. It stresses rational enquiry, humanism, women’s rights and opposition to caste discrimination, with influence concentrated in Calcutta and parts of Bengal. Its ancestry labels are not a basis for explaining ideas or for present-day identity categories. “Direjio” in the exercise refers to Derozio."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-arya",
+        "section": 1,
+        "title": "Explain “Back to the Vedas” as an argument",
+        "intro": "Dayananda Saraswati established Arya Samaj and appealed to the Vedas as an authoritative source.",
+        "simple": "Dayananda Saraswati established Arya Samaj and appealed to the Vedas as an authoritative source.",
+        "example": [
+          "Dayananda Saraswati established Arya Samaj and appealed to the Vedas as an authoritative source.",
+          "He criticised idol worship and many rituals, opposed caste by birth and argued for worth or function rather than hereditary rank. The source also names widow remarriage, swadeshi, Swarajya, Swadharma, schools and colleges, Satyarth Prakash and “India for Indians”. These are his movement’s claims, not scientific proof that one religious text contains every kind of knowledge."
+        ],
+        "question": "What must an explanation of his slogan include?",
+        "options": [
+          "How he used Vedic authority to criticise practices",
+          "A requirement for every student to convert",
+          "That all reformers agreed on scripture"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. He criticised idol worship and many rituals, opposed caste by birth and argued for worth or function rather than hereditary rank. The source also names widow remarriage, swadeshi, Swarajya, Swadharma, schools and colleges, Satyarth Prakash and “India for Indians”. These are his movement’s claims, not scientific proof that one religious text contains every kind of knowledge.",
+          "Reconsider: He criticised idol worship and many rituals, opposed caste by birth and argued for worth or function rather than hereditary rank. The source also names widow remarriage, swadeshi, Swarajya, Swadharma, schools and colleges, Satyarth Prakash and “India for Indians”. These are his movement’s claims, not scientific proof that one religious text contains every kind of knowledge.",
+          "Reconsider: He criticised idol worship and many rituals, opposed caste by birth and argued for worth or function rather than hereditary rank. The source also names widow remarriage, swadeshi, Swarajya, Swadharma, schools and colleges, Satyarth Prakash and “India for Indians”. These are his movement’s claims, not scientific proof that one religious text contains every kind of knowledge."
+        ],
+        "hints": [
+          "Dayananda Saraswati established Arya Samaj and appealed to the Vedas as an authoritative source.",
+          "He criticised idol worship and many rituals, opposed caste by birth and argued for worth or function rather than hereditary rank. The source also names widow remarriage, swadeshi, Swarajya, Swadharma, schools and colleges, Satyarth Prakash and “India for Indians”. These are his movement’s claims, not scientific proof that one religious text contains every kind of knowledge."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-shuddhi",
+        "section": 1,
+        "title": "Read a movement’s own religious vocabulary",
+        "intro": "The Arya Samaj’s shuddhi or “purification” programme sought to bring some converts back into Hindu affiliation.",
+        "simple": "The Arya Samaj’s shuddhi or “purification” programme sought to bring some converts back into Hindu affiliation.",
+        "example": [
+          "The Arya Samaj’s shuddhi or “purification” programme sought to bring some converts back into Hindu affiliation.",
+          "The sidebar frames it as consolidating Hindu society and challenging inherited restrictions. Treat “purification” as the movement’s label, not a claim that people of another religion are impure. Religious choice and equal dignity must not be replaced by a hierarchy of people or by instructions to perform a ritual."
+        ],
+        "question": "How should the term be used in history?",
+        "options": [
+          "As an attributed programme name",
+          "As proof one community has less human worth",
+          "As a current instruction to target classmates"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The sidebar frames it as consolidating Hindu society and challenging inherited restrictions. Treat “purification” as the movement’s label, not a claim that people of another religion are impure. Religious choice and equal dignity must not be replaced by a hierarchy of people or by instructions to perform a ritual.",
+          "Reconsider: The sidebar frames it as consolidating Hindu society and challenging inherited restrictions. Treat “purification” as the movement’s label, not a claim that people of another religion are impure. Religious choice and equal dignity must not be replaced by a hierarchy of people or by instructions to perform a ritual.",
+          "Reconsider: The sidebar frames it as consolidating Hindu society and challenging inherited restrictions. Treat “purification” as the movement’s label, not a claim that people of another religion are impure. Religious choice and equal dignity must not be replaced by a hierarchy of people or by instructions to perform a ritual."
+        ],
+        "hints": [
+          "The Arya Samaj’s shuddhi or “purification” programme sought to bring some converts back into Hindu affiliation.",
+          "The sidebar frames it as consolidating Hindu society and challenging inherited restrictions. Treat “purification” as the movement’s label, not a claim that people of another religion are impure. Religious choice and equal dignity must not be replaced by a hierarchy of people or by instructions to perform a ritual."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-prarthana",
+        "section": 1,
+        "title": "Connect prayer reform and practical services",
+        "intro": "Atmaram Pandurang founded Prarthana Samaj in Bombay; M.G.Ranade helped popularise it.",
+        "simple": "Atmaram Pandurang founded Prarthana Samaj in Bombay; M.G.Ranade helped popularise it.",
+        "example": [
+          "Atmaram Pandurang founded Prarthana Samaj in Bombay; M.G.Ranade helped popularise it.",
+          "The source links service, education, widow remarriage, women’s literacy, intercaste marriage and dining, opposition to child marriage/caste exclusion/purdah, and respect for different religious paths. It describes schools, orphanages and women’s shelters. The Deccan Education Society is a distinct institution with overlapping reform networks, not simply another name for Prarthana Samaj."
+        ],
+        "question": "Who founded Prarthana Samaj?",
+        "options": [
+          "Atmaram Pandurang",
+          "Derozio",
+          "Lord Canning"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source links service, education, widow remarriage, women’s literacy, intercaste marriage and dining, opposition to child marriage/caste exclusion/purdah, and respect for different religious paths. It describes schools, orphanages and women’s shelters. The Deccan Education Society is a distinct institution with overlapping reform networks, not simply another name for Prarthana Samaj.",
+          "Reconsider: The source links service, education, widow remarriage, women’s literacy, intercaste marriage and dining, opposition to child marriage/caste exclusion/purdah, and respect for different religious paths. It describes schools, orphanages and women’s shelters. The Deccan Education Society is a distinct institution with overlapping reform networks, not simply another name for Prarthana Samaj.",
+          "Reconsider: The source links service, education, widow remarriage, women’s literacy, intercaste marriage and dining, opposition to child marriage/caste exclusion/purdah, and respect for different religious paths. It describes schools, orphanages and women’s shelters. The Deccan Education Society is a distinct institution with overlapping reform networks, not simply another name for Prarthana Samaj."
+        ],
+        "hints": [
+          "Atmaram Pandurang founded Prarthana Samaj in Bombay; M.G.Ranade helped popularise it.",
+          "The source links service, education, widow remarriage, women’s literacy, intercaste marriage and dining, opposition to child marriage/caste exclusion/purdah, and respect for different religious paths. It describes schools, orphanages and women’s shelters. The Deccan Education Society is a distinct institution with overlapping reform networks, not simply another name for Prarthana Samaj."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-ranade",
+        "section": 1,
+        "title": "Explain why social change mattered to politics",
+        "intro": "Ranade argued that political and economic progress required social reform.",
+        "simple": "Ranade argued that political and economic progress required social reform.",
+        "example": [
+          "Ranade argued that political and economic progress required social reform.",
+          "The source highlights women’s education, Hindu–Muslim cooperation, and participation in Congress alongside religious reform. Explain the link between institutions and opportunities rather than treating charitable service as the only form of change."
+        ],
+        "question": "What connection did he emphasise?",
+        "options": [
+          "Social reform with political/economic progress",
+          "All political questions were unrelated to society",
+          "Education should be restricted to one caste"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source highlights women’s education, Hindu–Muslim cooperation, and participation in Congress alongside religious reform. Explain the link between institutions and opportunities rather than treating charitable service as the only form of change.",
+          "Reconsider: The source highlights women’s education, Hindu–Muslim cooperation, and participation in Congress alongside religious reform. Explain the link between institutions and opportunities rather than treating charitable service as the only form of change.",
+          "Reconsider: The source highlights women’s education, Hindu–Muslim cooperation, and participation in Congress alongside religious reform. Explain the link between institutions and opportunities rather than treating charitable service as the only form of change."
+        ],
+        "hints": [
+          "Ranade argued that political and economic progress required social reform.",
+          "The source highlights women’s education, Hindu–Muslim cooperation, and participation in Congress alongside religious reform. Explain the link between institutions and opportunities rather than treating charitable service as the only form of change."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-phule",
+        "section": 1,
+        "title": "Use equality to examine institutions",
+        "intro": "Jyotirao Phule’s Satyashodhak Samaj challenged caste exclusion, gender inequality and exploitation.",
+        "simple": "Jyotirao Phule’s Satyashodhak Samaj challenged caste exclusion, gender inequality and exploitation.",
+        "example": [
+          "Jyotirao Phule’s Satyashodhak Samaj challenged caste exclusion, gender inequality and exploitation.",
+          "The source calls freedom a basic necessity and names opposition to untouchability, denial of rights and liquor abuse, alongside advocacy of free compulsory education. Gulamgiri/Ghulamagiri (“Slavery”) criticised social domination. Describe targeted systems of exclusion rather than assigning inherited guilt or worth to every member of a present-day community."
+        ],
+        "question": "Which principle organises this programme?",
+        "options": [
+          "Equal freedom and social justice",
+          "Rights only for hereditary elites",
+          "No access to schooling"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source calls freedom a basic necessity and names opposition to untouchability, denial of rights and liquor abuse, alongside advocacy of free compulsory education. Gulamgiri/Ghulamagiri (“Slavery”) criticised social domination. Describe targeted systems of exclusion rather than assigning inherited guilt or worth to every member of a present-day community.",
+          "Reconsider: The source calls freedom a basic necessity and names opposition to untouchability, denial of rights and liquor abuse, alongside advocacy of free compulsory education. Gulamgiri/Ghulamagiri (“Slavery”) criticised social domination. Describe targeted systems of exclusion rather than assigning inherited guilt or worth to every member of a present-day community.",
+          "Reconsider: The source calls freedom a basic necessity and names opposition to untouchability, denial of rights and liquor abuse, alongside advocacy of free compulsory education. Gulamgiri/Ghulamagiri (“Slavery”) criticised social domination. Describe targeted systems of exclusion rather than assigning inherited guilt or worth to every member of a present-day community."
+        ],
+        "hints": [
+          "Jyotirao Phule’s Satyashodhak Samaj challenged caste exclusion, gender inequality and exploitation.",
+          "The source calls freedom a basic necessity and names opposition to untouchability, denial of rights and liquor abuse, alongside advocacy of free compulsory education. Gulamgiri/Ghulamagiri (“Slavery”) criticised social domination. Describe targeted systems of exclusion rather than assigning inherited guilt or worth to every member of a present-day community."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-savitribai",
+        "section": 1,
+        "title": "Recognise reform as collective work",
+        "intro": "Savitribai and Jyotirao Phule worked for girls’ education and a society based on equality.",
+        "simple": "Savitribai and Jyotirao Phule worked for girls’ education and a society based on equality.",
+        "example": [
+          "Savitribai and Jyotirao Phule worked for girls’ education and a society based on equality.",
+          "The source also describes Shahu Maharaj’s support for Satyashodhak work and farmers’ struggles and its influence on Ambedkar. Savitribai was an educator and organiser, not merely an unnamed helper. Compare concrete work such as schools and support for students with broader claims of social transformation."
+        ],
+        "question": "Why name several contributors?",
+        "options": [
+          "Institutions and movements depended on collective effort",
+          "Only one person can make any social change",
+          "Women played no independent role"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source also describes Shahu Maharaj’s support for Satyashodhak work and farmers’ struggles and its influence on Ambedkar. Savitribai was an educator and organiser, not merely an unnamed helper. Compare concrete work such as schools and support for students with broader claims of social transformation.",
+          "Reconsider: The source also describes Shahu Maharaj’s support for Satyashodhak work and farmers’ struggles and its influence on Ambedkar. Savitribai was an educator and organiser, not merely an unnamed helper. Compare concrete work such as schools and support for students with broader claims of social transformation.",
+          "Reconsider: The source also describes Shahu Maharaj’s support for Satyashodhak work and farmers’ struggles and its influence on Ambedkar. Savitribai was an educator and organiser, not merely an unnamed helper. Compare concrete work such as schools and support for students with broader claims of social transformation."
+        ],
+        "hints": [
+          "Savitribai and Jyotirao Phule worked for girls’ education and a society based on equality.",
+          "The source also describes Shahu Maharaj’s support for Satyashodhak work and farmers’ struggles and its influence on Ambedkar. Savitribai was an educator and organiser, not merely an unnamed helper. Compare concrete work such as schools and support for students with broader claims of social transformation."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-aligarh",
+        "section": 2,
+        "title": "Distinguish a college from a later university",
+        "intro": "Sir Syed Ahmad Khan promoted modern learning through the Aligarh movement.",
+        "simple": "Sir Syed Ahmad Khan promoted modern learning through the Aligarh movement.",
+        "example": [
+          "Sir Syed Ahmad Khan promoted modern learning through the Aligarh movement.",
+          "AMU traces a school to 1875 and the Muhammadan Anglo-Oriental College to 1877; the university was established in 1920 after Sir Syed’s death. The source stresses combining religious and Western learning and his distance from Congress. Its brief claims about his views on women and marriage need qualification: do not infer that every later women’s-education initiative was founded by him or that all Muslims shared one political position."
+        ],
+        "question": "Which sequence is accurate?",
+        "options": [
+          "Educational movement/college before the 1920 university",
+          "University founded personally by Sir Syed in 1920",
+          "All Muslim political thought was identical"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. AMU traces a school to 1875 and the Muhammadan Anglo-Oriental College to 1877; the university was established in 1920 after Sir Syed’s death. The source stresses combining religious and Western learning and his distance from Congress. Its brief claims about his views on women and marriage need qualification: do not infer that every later women’s-education initiative was founded by him or that all Muslims shared one political position.",
+          "Reconsider: AMU traces a school to 1875 and the Muhammadan Anglo-Oriental College to 1877; the university was established in 1920 after Sir Syed’s death. The source stresses combining religious and Western learning and his distance from Congress. Its brief claims about his views on women and marriage need qualification: do not infer that every later women’s-education initiative was founded by him or that all Muslims shared one political position.",
+          "Reconsider: AMU traces a school to 1875 and the Muhammadan Anglo-Oriental College to 1877; the university was established in 1920 after Sir Syed’s death. The source stresses combining religious and Western learning and his distance from Congress. Its brief claims about his views on women and marriage need qualification: do not infer that every later women’s-education initiative was founded by him or that all Muslims shared one political position."
+        ],
+        "hints": [
+          "Sir Syed Ahmad Khan promoted modern learning through the Aligarh movement.",
+          "AMU traces a school to 1875 and the Muhammadan Anglo-Oriental College to 1877; the university was established in 1920 after Sir Syed’s death. The source stresses combining religious and Western learning and his distance from Congress. Its brief claims about his views on women and marriage need qualification: do not infer that every later women’s-education initiative was founded by him or that all Muslims shared one political position."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-ramakrishna",
+        "section": 2,
+        "title": "Separate a teacher from an institution’s founder",
+        "intro": "Ramakrishna Paramahamsa’s religious experience and teachings inspired Vivekananda.",
+        "simple": "Ramakrishna Paramahamsa’s religious experience and teachings inspired Vivekananda.",
+        "example": [
+          "Ramakrishna Paramahamsa’s religious experience and teachings inspired Vivekananda.",
+          "The source places him at Dakshineswar Kali Temple and emphasises devotion and respect for different religious paths. It contrasts his acceptance of image worship with movements that opposed it. A historical comparison can describe these differences without declaring one practice true or false."
+        ],
+        "question": "Which distinction matters?",
+        "options": [
+          "A teacher’s teachings differ from the later Mission’s institutional founding",
+          "All reformers rejected exactly the same worship",
+          "Ramakrishna founded UPSC"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source places him at Dakshineswar Kali Temple and emphasises devotion and respect for different religious paths. It contrasts his acceptance of image worship with movements that opposed it. A historical comparison can describe these differences without declaring one practice true or false.",
+          "Reconsider: The source places him at Dakshineswar Kali Temple and emphasises devotion and respect for different religious paths. It contrasts his acceptance of image worship with movements that opposed it. A historical comparison can describe these differences without declaring one practice true or false.",
+          "Reconsider: The source places him at Dakshineswar Kali Temple and emphasises devotion and respect for different religious paths. It contrasts his acceptance of image worship with movements that opposed it. A historical comparison can describe these differences without declaring one practice true or false."
+        ],
+        "hints": [
+          "Ramakrishna Paramahamsa’s religious experience and teachings inspired Vivekananda.",
+          "The source places him at Dakshineswar Kali Temple and emphasises devotion and respect for different religious paths. It contrasts his acceptance of image worship with movements that opposed it. A historical comparison can describe these differences without declaring one practice true or false."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-mission",
+        "section": 2,
+        "title": "Link service with an organisational goal",
+        "intro": "Vivekananda founded the Ramakrishna Mission in 1897 to put spiritual ideals and service into practice.",
+        "simple": "Vivekananda founded the Ramakrishna Mission in 1897 to put spiritual ideals and service into practice.",
+        "example": [
+          "Vivekananda founded the Ramakrishna Mission in 1897 to put spiritual ideals and service into practice.",
+          "The source names education, social service, religious tolerance and relief of poverty and illiteracy. Belur Math’s history distinguishes the Mission founded 1 May 1897 from the monastic Math’s development. Describe service and dialogue as the organisation’s programme, not a requirement that every learner accept a path to moksha."
+        ],
+        "question": "Who established the Mission in 1897?",
+        "options": [
+          "Swami Vivekananda",
+          "Sir Syed Ahmad Khan",
+          "Atmaram Pandurang"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names education, social service, religious tolerance and relief of poverty and illiteracy. Belur Math’s history distinguishes the Mission founded 1 May 1897 from the monastic Math’s development. Describe service and dialogue as the organisation’s programme, not a requirement that every learner accept a path to moksha.",
+          "Reconsider: The source names education, social service, religious tolerance and relief of poverty and illiteracy. Belur Math’s history distinguishes the Mission founded 1 May 1897 from the monastic Math’s development. Describe service and dialogue as the organisation’s programme, not a requirement that every learner accept a path to moksha.",
+          "Reconsider: The source names education, social service, religious tolerance and relief of poverty and illiteracy. Belur Math’s history distinguishes the Mission founded 1 May 1897 from the monastic Math’s development. Describe service and dialogue as the organisation’s programme, not a requirement that every learner accept a path to moksha."
+        ],
+        "hints": [
+          "Vivekananda founded the Ramakrishna Mission in 1897 to put spiritual ideals and service into practice.",
+          "The source names education, social service, religious tolerance and relief of poverty and illiteracy. Belur Math’s history distinguishes the Mission founded 1 May 1897 from the monastic Math’s development. Describe service and dialogue as the organisation’s programme, not a requirement that every learner accept a path to moksha."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-vivekananda",
+        "section": 2,
+        "title": "Connect public speech and social action",
+        "intro": "Vivekananda’s 1893 Chicago Parliament of Religions speech advocated tolerance and introduced his interpretation of Indian spiritual traditions.",
+        "simple": "Vivekananda’s 1893 Chicago Parliament of Religions speech advocated tolerance and introduced his interpretation of Indian spiritual traditions.",
+        "example": [
+          "Vivekananda’s 1893 Chicago Parliament of Religions speech advocated tolerance and introduced his interpretation of Indian spiritual traditions.",
+          "The book links individual dignity, education, social service, caste criticism, legislation and national self-confidence with his influence on later leaders. It also reports his warning against blind imitation of the West. Do not collapse all Indian religions or all national leaders into a single doctrine."
+        ],
+        "question": "Which explanation goes beyond a famous speech?",
+        "options": [
+          "Linking ideas with education and service institutions",
+          "Only repeating a title",
+          "Claiming every listener adopted one religion"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book links individual dignity, education, social service, caste criticism, legislation and national self-confidence with his influence on later leaders. It also reports his warning against blind imitation of the West. Do not collapse all Indian religions or all national leaders into a single doctrine.",
+          "Reconsider: The book links individual dignity, education, social service, caste criticism, legislation and national self-confidence with his influence on later leaders. It also reports his warning against blind imitation of the West. Do not collapse all Indian religions or all national leaders into a single doctrine.",
+          "Reconsider: The book links individual dignity, education, social service, caste criticism, legislation and national self-confidence with his influence on later leaders. It also reports his warning against blind imitation of the West. Do not collapse all Indian religions or all national leaders into a single doctrine."
+        ],
+        "hints": [
+          "Vivekananda’s 1893 Chicago Parliament of Religions speech advocated tolerance and introduced his interpretation of Indian spiritual traditions.",
+          "The book links individual dignity, education, social service, caste criticism, legislation and national self-confidence with his influence on later leaders. It also reports his warning against blind imitation of the West. Do not collapse all Indian religions or all national leaders into a single doctrine."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-theosophy",
+        "section": 3,
+        "title": "Keep founders and later leadership distinct",
+        "intro": "Helena Blavatsky and Henry Steel Olcott founded the Theosophical Society in 1875.",
+        "simple": "Helena Blavatsky and Henry Steel Olcott founded the Theosophical Society in 1875.",
+        "example": [
+          "Helena Blavatsky and Henry Steel Olcott founded the Theosophical Society in 1875.",
+          "The source lists universal brotherhood, comparative study and investigation of nature/human capacities as its aims. Its Indian work and Adyar headquarters preceded Annie Besant’s later leadership. Comparative religious or spiritual claims are described as the Society’s ideas, not established experimental science."
+        ],
+        "question": "Were Besant’s later activities the Society’s original founding?",
+        "options": [
+          "No, founding and later leadership were different",
+          "Yes, she alone founded it in 1917",
+          "The Society was a police force"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source lists universal brotherhood, comparative study and investigation of nature/human capacities as its aims. Its Indian work and Adyar headquarters preceded Annie Besant’s later leadership. Comparative religious or spiritual claims are described as the Society’s ideas, not established experimental science.",
+          "Reconsider: The source lists universal brotherhood, comparative study and investigation of nature/human capacities as its aims. Its Indian work and Adyar headquarters preceded Annie Besant’s later leadership. Comparative religious or spiritual claims are described as the Society’s ideas, not established experimental science.",
+          "Reconsider: The source lists universal brotherhood, comparative study and investigation of nature/human capacities as its aims. Its Indian work and Adyar headquarters preceded Annie Besant’s later leadership. Comparative religious or spiritual claims are described as the Society’s ideas, not established experimental science."
+        ],
+        "hints": [
+          "Helena Blavatsky and Henry Steel Olcott founded the Theosophical Society in 1875.",
+          "The source lists universal brotherhood, comparative study and investigation of nature/human capacities as its aims. Its Indian work and Adyar headquarters preceded Annie Besant’s later leadership. Comparative religious or spiritual claims are described as the Society’s ideas, not established experimental science."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-besant",
+        "section": 3,
+        "title": "Distinguish social, cultural and political work",
+        "intro": "Annie Besant promoted education, cultural self-confidence and Home Rule and became Congress president in 1917.",
+        "simple": "Annie Besant promoted education, cultural self-confidence and Home Rule and became Congress president in 1917.",
+        "example": [
+          "Annie Besant promoted education, cultural self-confidence and Home Rule and became Congress president in 1917.",
+          "The source names New India and her support for equality and universal brotherhood. Her contribution to Theosophy in India was not the beginning of all its Indian activity. Home Rule sought self-government within the imperial political setting; it was not immediate independence or a reform of worship alone."
+        ],
+        "question": "Which distinction is useful?",
+        "options": [
+          "Religious/cultural work and a political Home Rule campaign",
+          "Congress presidency means she founded every Samaj",
+          "Home Rule meant no institutions were needed"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names New India and her support for equality and universal brotherhood. Her contribution to Theosophy in India was not the beginning of all its Indian activity. Home Rule sought self-government within the imperial political setting; it was not immediate independence or a reform of worship alone.",
+          "Reconsider: The source names New India and her support for equality and universal brotherhood. Her contribution to Theosophy in India was not the beginning of all its Indian activity. Home Rule sought self-government within the imperial political setting; it was not immediate independence or a reform of worship alone.",
+          "Reconsider: The source names New India and her support for equality and universal brotherhood. Her contribution to Theosophy in India was not the beginning of all its Indian activity. Home Rule sought self-government within the imperial political setting; it was not immediate independence or a reform of worship alone."
+        ],
+        "hints": [
+          "Annie Besant promoted education, cultural self-confidence and Home Rule and became Congress president in 1917.",
+          "The source names New India and her support for equality and universal brotherhood. Her contribution to Theosophy in India was not the beginning of all its Indian activity. Home Rule sought self-government within the imperial political setting; it was not immediate independence or a reform of worship alone."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-home-rule",
+        "section": 3,
+        "title": "Compare two Home Rule Leagues",
+        "intro": "In 1916 Tilak and Besant led separate Home Rule Leagues with different organisational centres.",
+        "simple": "In 1916 Tilak and Besant led separate Home Rule Leagues with different organisational centres.",
+        "example": [
+          "In 1916 Tilak and Besant led separate Home Rule Leagues with different organisational centres.",
+          "The book gives Pune for Tilak and Madras for Besant. It names Tilak’s Kesari and Mahratta and Besant’s New India and Commonweal, and lists Tilak’s work in Maharashtra, North Karnataka, Central Provinces and Berar. Irish self-government campaigns provided context, not a claim the two countries had identical histories."
+        ],
+        "question": "Which pair matches the source?",
+        "options": [
+          "Tilak—Pune; Besant—Madras",
+          "Tilak—Aligarh; Besant—UPSC",
+          "Both were one 1897 Mission"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book gives Pune for Tilak and Madras for Besant. It names Tilak’s Kesari and Mahratta and Besant’s New India and Commonweal, and lists Tilak’s work in Maharashtra, North Karnataka, Central Provinces and Berar. Irish self-government campaigns provided context, not a claim the two countries had identical histories.",
+          "Reconsider: The book gives Pune for Tilak and Madras for Besant. It names Tilak’s Kesari and Mahratta and Besant’s New India and Commonweal, and lists Tilak’s work in Maharashtra, North Karnataka, Central Provinces and Berar. Irish self-government campaigns provided context, not a claim the two countries had identical histories.",
+          "Reconsider: The book gives Pune for Tilak and Madras for Besant. It names Tilak’s Kesari and Mahratta and Besant’s New India and Commonweal, and lists Tilak’s work in Maharashtra, North Karnataka, Central Provinces and Berar. Irish self-government campaigns provided context, not a claim the two countries had identical histories."
+        ],
+        "hints": [
+          "In 1916 Tilak and Besant led separate Home Rule Leagues with different organisational centres.",
+          "The book gives Pune for Tilak and Madras for Besant. It names Tilak’s Kesari and Mahratta and Besant’s New India and Commonweal, and lists Tilak’s work in Maharashtra, North Karnataka, Central Provinces and Berar. Irish self-government campaigns provided context, not a claim the two countries had identical histories."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-narayana",
+        "section": 4,
+        "title": "Explain an anti-exclusion programme",
+        "intro": "Narayana Guru and colleagues including Dr.Palpu and Kumaran Asan supported SNDP Yogam from 1903.",
+        "simple": "Narayana Guru and colleagues including Dr.Palpu and Kumaran Asan supported SNDP Yogam from 1903.",
+        "example": [
+          "Narayana Guru and colleagues including Dr.Palpu and Kumaran Asan supported SNDP Yogam from 1903.",
+          "The source locates his birth at Chempazhanthy and dates his life 1854–1928. It describes caste restrictions on roads, tanks, schooling, dress and temple access, and his emphasis on education, alternative institutions and “One Caste, One Religion, One God for humanity”. Attribute that inclusive spiritual slogan rather than using it to erase religious diversity or to endorse caste hierarchy."
+        ],
+        "question": "What was a central aim?",
+        "options": [
+          "Dignity, education and access for excluded communities",
+          "Keeping all public facilities closed to those communities",
+          "Replacing every school with an army"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source locates his birth at Chempazhanthy and dates his life 1854–1928. It describes caste restrictions on roads, tanks, schooling, dress and temple access, and his emphasis on education, alternative institutions and “One Caste, One Religion, One God for humanity”. Attribute that inclusive spiritual slogan rather than using it to erase religious diversity or to endorse caste hierarchy.",
+          "Reconsider: The source locates his birth at Chempazhanthy and dates his life 1854–1928. It describes caste restrictions on roads, tanks, schooling, dress and temple access, and his emphasis on education, alternative institutions and “One Caste, One Religion, One God for humanity”. Attribute that inclusive spiritual slogan rather than using it to erase religious diversity or to endorse caste hierarchy.",
+          "Reconsider: The source locates his birth at Chempazhanthy and dates his life 1854–1928. It describes caste restrictions on roads, tanks, schooling, dress and temple access, and his emphasis on education, alternative institutions and “One Caste, One Religion, One God for humanity”. Attribute that inclusive spiritual slogan rather than using it to erase religious diversity or to endorse caste hierarchy."
+        ],
+        "hints": [
+          "Narayana Guru and colleagues including Dr.Palpu and Kumaran Asan supported SNDP Yogam from 1903.",
+          "The source locates his birth at Chempazhanthy and dates his life 1854–1928. It describes caste restrictions on roads, tanks, schooling, dress and temple access, and his emphasis on education, alternative institutions and “One Caste, One Religion, One God for humanity”. Attribute that inclusive spiritual slogan rather than using it to erase religious diversity or to endorse caste hierarchy."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-vaikom",
+        "section": 4,
+        "title": "Separate road access from later temple entry",
+        "intro": "Vaikom Satyagraha of 1924–1925 challenged caste-based restrictions on roads around the temple.",
+        "simple": "Vaikom Satyagraha of 1924–1925 challenged caste-based restrictions on roads around the temple.",
+        "example": [
+          "Vaikom Satyagraha of 1924–1925 challenged caste-based restrictions on roads around the temple.",
+          "The source places it within a wider anti-exclusion struggle involving Narayana Guru’s influence, Periyar, Gandhi and many local organisers. The 1925 settlement opened several roads; fuller temple entry in Travancore followed the 1936 proclamation. Guruvayur’s 1931–1932 campaign was later, after Guru’s 1928 death, not a campaign he personally led."
+        ],
+        "question": "Why distinguish 1925 from 1936?",
+        "options": [
+          "Road-access gains were not identical to full temple entry",
+          "Every restriction ended immediately in 1924",
+          "The dates describe KPSC appointments"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source places it within a wider anti-exclusion struggle involving Narayana Guru’s influence, Periyar, Gandhi and many local organisers. The 1925 settlement opened several roads; fuller temple entry in Travancore followed the 1936 proclamation. Guruvayur’s 1931–1932 campaign was later, after Guru’s 1928 death, not a campaign he personally led.",
+          "Reconsider: The source places it within a wider anti-exclusion struggle involving Narayana Guru’s influence, Periyar, Gandhi and many local organisers. The 1925 settlement opened several roads; fuller temple entry in Travancore followed the 1936 proclamation. Guruvayur’s 1931–1932 campaign was later, after Guru’s 1928 death, not a campaign he personally led.",
+          "Reconsider: The source places it within a wider anti-exclusion struggle involving Narayana Guru’s influence, Periyar, Gandhi and many local organisers. The 1925 settlement opened several roads; fuller temple entry in Travancore followed the 1936 proclamation. Guruvayur’s 1931–1932 campaign was later, after Guru’s 1928 death, not a campaign he personally led."
+        ],
+        "hints": [
+          "Vaikom Satyagraha of 1924–1925 challenged caste-based restrictions on roads around the temple.",
+          "The source places it within a wider anti-exclusion struggle involving Narayana Guru’s influence, Periyar, Gandhi and many local organisers. The 1925 settlement opened several roads; fuller temple entry in Travancore followed the 1936 proclamation. Guruvayur’s 1931–1932 campaign was later, after Guru’s 1928 death, not a campaign he personally led."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-periyar",
+        "section": 4,
+        "title": "Connect self-respect and equal rights",
+        "intro": "E.V.Ramasamy, known as Periyar, challenged caste and gender discrimination through the Self-Respect movement.",
+        "simple": "E.V.Ramasamy, known as Periyar, challenged caste and gender discrimination through the Self-Respect movement.",
+        "example": [
+          "E.V.Ramasamy, known as Periyar, challenged caste and gender discrimination through the Self-Respect movement.",
+          "The source links his Erode background, participation at Vaikom and departure from Congress in 1925 with later organising. The movement is usually dated 1925; the extract gives 1926 for the League. He criticised hereditary rank and promoted dignity; its language and Dravidian identity arguments are historical political ideas, not biological rankings of people."
+        ],
+        "question": "What should be explained as a central aim?",
+        "options": [
+          "Equal dignity against caste/gender exclusion",
+          "Inherited superiority for one community",
+          "The abolition of every discussion"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source links his Erode background, participation at Vaikom and departure from Congress in 1925 with later organising. The movement is usually dated 1925; the extract gives 1926 for the League. He criticised hereditary rank and promoted dignity; its language and Dravidian identity arguments are historical political ideas, not biological rankings of people.",
+          "Reconsider: The source links his Erode background, participation at Vaikom and departure from Congress in 1925 with later organising. The movement is usually dated 1925; the extract gives 1926 for the League. He criticised hereditary rank and promoted dignity; its language and Dravidian identity arguments are historical political ideas, not biological rankings of people.",
+          "Reconsider: The source links his Erode background, participation at Vaikom and departure from Congress in 1925 with later organising. The movement is usually dated 1925; the extract gives 1926 for the League. He criticised hereditary rank and promoted dignity; its language and Dravidian identity arguments are historical political ideas, not biological rankings of people."
+        ],
+        "hints": [
+          "E.V.Ramasamy, known as Periyar, challenged caste and gender discrimination through the Self-Respect movement.",
+          "The source links his Erode background, participation at Vaikom and departure from Congress in 1925 with later organising. The movement is usually dated 1925; the extract gives 1926 for the League. He criticised hereditary rank and promoted dignity; its language and Dravidian identity arguments are historical political ideas, not biological rankings of people."
+        ],
+        "explorer": "reform-compare"
+      },
+      {
+        "id": "ss5-justice",
+        "section": 4,
+        "title": "Keep a party, a movement and an organisation distinct",
+        "intro": "The Justice Party began in 1916; Periyar’s later leadership and Dravidar Kazhagam were different stages.",
+        "simple": "The Justice Party began in 1916; Periyar’s later leadership and Dravidar Kazhagam were different stages.",
+        "example": [
+          "The Justice Party began in 1916; Periyar’s later leadership and Dravidar Kazhagam were different stages.",
+          "The book describes representation demands, Ayothee Thass/T.M.Nair, Revolt magazine and later Tamil politics. Standard chronologies date Periyar’s Justice Party presidency to 1938 rather than its 1939, and Dravidar Kazhagam to 1944. Its claim that every Tamil party uses “Dravida” is too broad. Describe particular organisations and periods rather than assigning one ideology to everyone."
+        ],
+        "question": "Which approach is accurate?",
+        "options": [
+          "Distinguish organisation, leadership and renaming dates",
+          "Treat every named organisation as one unchanged body",
+          "Infer every Tamil person’s beliefs from party names"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book describes representation demands, Ayothee Thass/T.M.Nair, Revolt magazine and later Tamil politics. Standard chronologies date Periyar’s Justice Party presidency to 1938 rather than its 1939, and Dravidar Kazhagam to 1944. Its claim that every Tamil party uses “Dravida” is too broad. Describe particular organisations and periods rather than assigning one ideology to everyone.",
+          "Reconsider: The book describes representation demands, Ayothee Thass/T.M.Nair, Revolt magazine and later Tamil politics. Standard chronologies date Periyar’s Justice Party presidency to 1938 rather than its 1939, and Dravidar Kazhagam to 1944. Its claim that every Tamil party uses “Dravida” is too broad. Describe particular organisations and periods rather than assigning one ideology to everyone.",
+          "Reconsider: The book describes representation demands, Ayothee Thass/T.M.Nair, Revolt magazine and later Tamil politics. Standard chronologies date Periyar’s Justice Party presidency to 1938 rather than its 1939, and Dravidar Kazhagam to 1944. Its claim that every Tamil party uses “Dravida” is too broad. Describe particular organisations and periods rather than assigning one ideology to everyone."
+        ],
+        "hints": [
+          "The Justice Party began in 1916; Periyar’s later leadership and Dravidar Kazhagam were different stages.",
+          "The book describes representation demands, Ayothee Thass/T.M.Nair, Revolt magazine and later Tamil politics. Standard chronologies date Periyar’s Justice Party presidency to 1938 rather than its 1939, and Dravidar Kazhagam to 1944. Its claim that every Tamil party uses “Dravida” is too broad. Describe particular organisations and periods rather than assigning one ideology to everyone."
+        ],
+        "explorer": "reform-timeline"
+      },
+      {
+        "id": "ss5-compare",
+        "section": 5,
+        "title": "Compare aims, methods and limits",
+        "intro": "Reform movements overlapped on education and social change while differing in scripture, worship, politics and organisation.",
+        "simple": "Reform movements overlapped on education and social change while differing in scripture, worship, politics and organisation.",
+        "example": [
+          "Reform movements overlapped on education and social change while differing in scripture, worship, politics and organisation.",
+          "Use a movement’s own claim, a concrete action and a limitation. Brahmo/Arya criticism of image worship was not identical to Ramakrishna’s devotional practice; shared concern for education did not make every programme identical or universally effective. Critically study discrimination without stereotyping present-day communities."
+        ],
+        "question": "Which comparison is strongest?",
+        "options": [
+          "Shared concern plus a specific difference and evidence",
+          "All reformers had the same theology",
+          "A leader’s portrait proves every achievement"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Use a movement’s own claim, a concrete action and a limitation. Brahmo/Arya criticism of image worship was not identical to Ramakrishna’s devotional practice; shared concern for education did not make every programme identical or universally effective. Critically study discrimination without stereotyping present-day communities.",
+          "Reconsider: Use a movement’s own claim, a concrete action and a limitation. Brahmo/Arya criticism of image worship was not identical to Ramakrishna’s devotional practice; shared concern for education did not make every programme identical or universally effective. Critically study discrimination without stereotyping present-day communities.",
+          "Reconsider: Use a movement’s own claim, a concrete action and a limitation. Brahmo/Arya criticism of image worship was not identical to Ramakrishna’s devotional practice; shared concern for education did not make every programme identical or universally effective. Critically study discrimination without stereotyping present-day communities."
+        ],
+        "hints": [
+          "Reform movements overlapped on education and social change while differing in scripture, worship, politics and organisation.",
+          "Use a movement’s own claim, a concrete action and a limitation. Brahmo/Arya criticism of image worship was not identical to Ramakrishna’s devotional practice; shared concern for education did not make every programme identical or universally effective. Critically study discrimination without stereotyping present-day communities."
+        ],
+        "explorer": "reform-compare"
+      }
+    ],
+    "summary": [
+      [
+        "Reform and agency",
+        "Explain distinct aims and methods through education, print, debate, service and collective organisation."
+      ],
+      [
+        "Compare without flattening",
+        "Shared social concerns did not make religious or political programmes identical."
+      ],
+      [
+        "Read chronology",
+        "Distinguish founders, followers, schools, colleges, universities and later campaigns."
+      ],
+      [
+        "Evidence and dignity",
+        "Attribute beliefs and source claims without stereotyping communities or endorsing discrimination."
+      ]
+    ],
+    "challenge": "Use named examples and source evidence to explain the ideas, organisation and consequences. Compare similar terms carefully and distinguish a source statement from a verified current rule."
+  },
+  {
+    "number": 6,
+    "subject": "social-science",
+    "discipline": "Civics",
+    "part": 1,
+    "slug": "public-administration-an-introduction",
+    "title": "Public Administration—An Introduction",
+    "sections": [
+      "Meaning, importance and scope · pp 58–60",
+      "POSDCoRB and recruitment · pp 61–62",
+      "UPSC, State Commissions and KPSC · pp 62–64",
+      "Law, order and Union responsibilities · pp 64–65",
+      "State police and public accountability · pp 65–67"
+    ],
+    "steps": [
+      {
+        "id": "ss6-meaning",
+        "section": 0,
+        "title": "Connect administration with carrying out public work",
+        "intro": "Public administration organises people, resources and procedures to implement public purposes and laws.",
+        "simple": "Public administration organises people, resources and procedures to implement public purposes and laws.",
+        "example": [
+          "Public administration organises people, resources and procedures to implement public purposes and laws.",
+          "The source explains administration through serving, caring and managing public affairs; the Latin form is usually administrare/ministrare rather than its “Ministiare” spelling. Administrative practice is ancient and cross-cultural. A modern academic discipline’s history does not mean administration first existed in America."
+        ],
+        "question": "Which example is administration?",
+        "options": [
+          "Organising staff and procedures to deliver an authorised service",
+          "Only announcing a wish without action",
+          "A private belief with no public function"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source explains administration through serving, caring and managing public affairs; the Latin form is usually administrare/ministrare rather than its “Ministiare” spelling. Administrative practice is ancient and cross-cultural. A modern academic discipline’s history does not mean administration first existed in America.",
+          "Reconsider: The source explains administration through serving, caring and managing public affairs; the Latin form is usually administrare/ministrare rather than its “Ministiare” spelling. Administrative practice is ancient and cross-cultural. A modern academic discipline’s history does not mean administration first existed in America.",
+          "Reconsider: The source explains administration through serving, caring and managing public affairs; the Latin form is usually administrare/ministrare rather than its “Ministiare” spelling. Administrative practice is ancient and cross-cultural. A modern academic discipline’s history does not mean administration first existed in America."
+        ],
+        "hints": [
+          "Public administration organises people, resources and procedures to implement public purposes and laws.",
+          "The source explains administration through serving, caring and managing public affairs; the Latin form is usually administrare/ministrare rather than its “Ministiare” spelling. Administrative practice is ancient and cross-cultural. A modern academic discipline’s history does not mean administration first existed in America."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-definitions",
+        "section": 0,
+        "title": "Compare what definitions emphasise",
+        "intro": "Wilson emphasises systematic application of law; Pfiffner coordinated government work; Gulick executive activity; F.M.Marx organised people, things and methods.",
+        "simple": "Wilson emphasises systematic application of law; Pfiffner coordinated government work; Gulick executive activity; F.M.Marx organised people, things and methods.",
+        "example": [
+          "Wilson emphasises systematic application of law; Pfiffner coordinated government work; Gulick executive activity; F.M.Marx organised people, things and methods.",
+          "Woodrow Wilson is conventionally called the father of modern public-administration study in this textbook tradition, not the inventor of all governing. The source attributes early use of the term in 1812 to Alexander Hamilton; that priority claim should remain attributed rather than treated as a proven first use in every language or society."
+        ],
+        "question": "How should the “father” title be interpreted?",
+        "options": [
+          "A conventional academic-history label",
+          "Proof no earlier society administered anything",
+          "An appointment under Article 315"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Woodrow Wilson is conventionally called the father of modern public-administration study in this textbook tradition, not the inventor of all governing. The source attributes early use of the term in 1812 to Alexander Hamilton; that priority claim should remain attributed rather than treated as a proven first use in every language or society.",
+          "Reconsider: Woodrow Wilson is conventionally called the father of modern public-administration study in this textbook tradition, not the inventor of all governing. The source attributes early use of the term in 1812 to Alexander Hamilton; that priority claim should remain attributed rather than treated as a proven first use in every language or society.",
+          "Reconsider: Woodrow Wilson is conventionally called the father of modern public-administration study in this textbook tradition, not the inventor of all governing. The source attributes early use of the term in 1812 to Alexander Hamilton; that priority claim should remain attributed rather than treated as a proven first use in every language or society."
+        ],
+        "hints": [
+          "Wilson emphasises systematic application of law; Pfiffner coordinated government work; Gulick executive activity; F.M.Marx organised people, things and methods.",
+          "Woodrow Wilson is conventionally called the father of modern public-administration study in this textbook tradition, not the inventor of all governing. The source attributes early use of the term in 1812 to Alexander Hamilton; that priority claim should remain attributed rather than treated as a proven first use in every language or society."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-implementation",
+        "section": 0,
+        "title": "Separate a decision from delivery",
+        "intro": "An announced policy needs administrative organisation to operate.",
+        "simple": "An announced policy needs administrative organisation to operate.",
+        "example": [
+          "An announced policy needs administrative organisation to operate.",
+          "The source calls administration a pillar of government and quotes Appleby to emphasise that decisions need execution. In India, legislative, executive and judicial roles and checks remain essential; this is not a claim that legislatures or courts should be removed. Officials may supply information for drafting while authority and accountability stay defined by law."
+        ],
+        "question": "Which gap does administration help bridge?",
+        "options": [
+          "Policy decision to lawful practical delivery",
+          "Personal preference to unlimited power",
+          "Public report to no accountability"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source calls administration a pillar of government and quotes Appleby to emphasise that decisions need execution. In India, legislative, executive and judicial roles and checks remain essential; this is not a claim that legislatures or courts should be removed. Officials may supply information for drafting while authority and accountability stay defined by law.",
+          "Reconsider: The source calls administration a pillar of government and quotes Appleby to emphasise that decisions need execution. In India, legislative, executive and judicial roles and checks remain essential; this is not a claim that legislatures or courts should be removed. Officials may supply information for drafting while authority and accountability stay defined by law.",
+          "Reconsider: The source calls administration a pillar of government and quotes Appleby to emphasise that decisions need execution. In India, legislative, executive and judicial roles and checks remain essential; this is not a claim that legislatures or courts should be removed. Officials may supply information for drafting while authority and accountability stay defined by law."
+        ],
+        "hints": [
+          "An announced policy needs administrative organisation to operate.",
+          "The source calls administration a pillar of government and quotes Appleby to emphasise that decisions need execution. In India, legislative, executive and judicial roles and checks remain essential; this is not a claim that legislatures or courts should be removed. Officials may supply information for drafting while authority and accountability stay defined by law."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-life-services",
+        "section": 0,
+        "title": "Trace services across a lifetime",
+        "intro": "People encounter public administration through health, registration, education, social support, public order and other services.",
+        "simple": "People encounter public administration through health, registration, education, social support, public order and other services.",
+        "example": [
+          "People encounter public administration through health, registration, education, social support, public order and other services.",
+          "The source’s birth-to-death phrase illustrates continuing relevance, not a guarantee every programme reaches everyone. Public interest includes protection of life/property, justice-related administration, education, employment support, necessities, defence and economic opportunity. Delivery requires coordination and accessible, non-discriminatory procedures."
+        ],
+        "question": "What makes the life-cycle example useful?",
+        "options": [
+          "It links public purposes to actual services",
+          "It proves all services always work perfectly",
+          "It removes the need for rights"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source’s birth-to-death phrase illustrates continuing relevance, not a guarantee every programme reaches everyone. Public interest includes protection of life/property, justice-related administration, education, employment support, necessities, defence and economic opportunity. Delivery requires coordination and accessible, non-discriminatory procedures.",
+          "Reconsider: The source’s birth-to-death phrase illustrates continuing relevance, not a guarantee every programme reaches everyone. Public interest includes protection of life/property, justice-related administration, education, employment support, necessities, defence and economic opportunity. Delivery requires coordination and accessible, non-discriminatory procedures.",
+          "Reconsider: The source’s birth-to-death phrase illustrates continuing relevance, not a guarantee every programme reaches everyone. Public interest includes protection of life/property, justice-related administration, education, employment support, necessities, defence and economic opportunity. Delivery requires coordination and accessible, non-discriminatory procedures."
+        ],
+        "hints": [
+          "People encounter public administration through health, registration, education, social support, public order and other services.",
+          "The source’s birth-to-death phrase illustrates continuing relevance, not a guarantee every programme reaches everyone. Public interest includes protection of life/property, justice-related administration, education, employment support, necessities, defence and economic opportunity. Delivery requires coordination and accessible, non-discriminatory procedures."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-security",
+        "section": 0,
+        "title": "Distinguish a welfare aim from a particular scheme",
+        "intro": "Social-security administration supports people facing disadvantage or specific needs under authorised programmes.",
+        "simple": "Social-security administration supports people facing disadvantage or specific needs under authorised programmes.",
+        "example": [
+          "Social-security administration supports people facing disadvantage or specific needs under authorised programmes.",
+          "The source gives pensions, disability support, Yuva Nidhi and food support. Eligibility, amounts and names can change; this is not a current benefits determination. It conflates the agricultural National Food Security Mission with BPL food entitlements:production programmes and National Food Security Act/food-distribution rights are different. Use respectful language and check official rules for real applications."
+        ],
+        "question": "Which distinction matters?",
+        "options": [
+          "A policy aim is not the same as every programme’s current eligibility",
+          "All households automatically qualify for every scheme",
+          "A textbook list is a live benefit calculator"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source gives pensions, disability support, Yuva Nidhi and food support. Eligibility, amounts and names can change; this is not a current benefits determination. It conflates the agricultural National Food Security Mission with BPL food entitlements:production programmes and National Food Security Act/food-distribution rights are different. Use respectful language and check official rules for real applications.",
+          "Reconsider: The source gives pensions, disability support, Yuva Nidhi and food support. Eligibility, amounts and names can change; this is not a current benefits determination. It conflates the agricultural National Food Security Mission with BPL food entitlements:production programmes and National Food Security Act/food-distribution rights are different. Use respectful language and check official rules for real applications.",
+          "Reconsider: The source gives pensions, disability support, Yuva Nidhi and food support. Eligibility, amounts and names can change; this is not a current benefits determination. It conflates the agricultural National Food Security Mission with BPL food entitlements:production programmes and National Food Security Act/food-distribution rights are different. Use respectful language and check official rules for real applications."
+        ],
+        "hints": [
+          "Social-security administration supports people facing disadvantage or specific needs under authorised programmes.",
+          "The source gives pensions, disability support, Yuva Nidhi and food support. Eligibility, amounts and names can change; this is not a current benefits determination. It conflates the agricultural National Food Security Mission with BPL food entitlements:production programmes and National Food Security Act/food-distribution rights are different. Use respectful language and check official rules for real applications."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-scope",
+        "section": 0,
+        "title": "Compare broad and executive-focused scope",
+        "intro": "A broad view studies administrative activity across government; an executive-focused view concentrates on carrying out policy.",
+        "simple": "A broad view studies administrative activity across government; an executive-focused view concentrates on carrying out policy.",
+        "example": [
+          "A broad view studies administrative activity across government; an executive-focused view concentrates on carrying out policy.",
+          "The source associates an integrated view with Wilson/L.D.White and a narrower view with Gulick/Simon. Scholarly classifications vary and a mnemonic does not replace law, politics, rights or judicial independence. Explain which scope is being used instead of declaring every thinker agreed on one boundary."
+        ],
+        "question": "Why name the scope before comparing definitions?",
+        "options": [
+          "Different definitions highlight different parts of government work",
+          "The words always mean identical tasks",
+          "The judiciary reports politically to every minister"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source associates an integrated view with Wilson/L.D.White and a narrower view with Gulick/Simon. Scholarly classifications vary and a mnemonic does not replace law, politics, rights or judicial independence. Explain which scope is being used instead of declaring every thinker agreed on one boundary.",
+          "Reconsider: The source associates an integrated view with Wilson/L.D.White and a narrower view with Gulick/Simon. Scholarly classifications vary and a mnemonic does not replace law, politics, rights or judicial independence. Explain which scope is being used instead of declaring every thinker agreed on one boundary.",
+          "Reconsider: The source associates an integrated view with Wilson/L.D.White and a narrower view with Gulick/Simon. Scholarly classifications vary and a mnemonic does not replace law, politics, rights or judicial independence. Explain which scope is being used instead of declaring every thinker agreed on one boundary."
+        ],
+        "hints": [
+          "A broad view studies administrative activity across government; an executive-focused view concentrates on carrying out policy.",
+          "The source associates an integrated view with Wilson/L.D.White and a narrower view with Gulick/Simon. Scholarly classifications vary and a mnemonic does not replace law, politics, rights or judicial independence. Explain which scope is being used instead of declaring every thinker agreed on one boundary."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-posdcorb",
+        "section": 1,
+        "title": "Use a mnemonic as a work organiser",
+        "intro": "POSDCoRB groups Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting.",
+        "simple": "POSDCoRB groups Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting.",
+        "example": [
+          "POSDCoRB groups Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting.",
+          "The source attributes it to Luther Gulick (with spelling variants). The seven functions can overlap and repeat; they are not seven compulsory chronological events or a complete constitutional description. Apply them to a fictional public-service programme and justify why an action fits a function."
+        ],
+        "question": "What does the mnemonic provide?",
+        "options": [
+          "A way to classify administrative functions",
+          "A law appointing every officer",
+          "A rule that reporting must stop all planning"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source attributes it to Luther Gulick (with spelling variants). The seven functions can overlap and repeat; they are not seven compulsory chronological events or a complete constitutional description. Apply them to a fictional public-service programme and justify why an action fits a function.",
+          "Reconsider: The source attributes it to Luther Gulick (with spelling variants). The seven functions can overlap and repeat; they are not seven compulsory chronological events or a complete constitutional description. Apply them to a fictional public-service programme and justify why an action fits a function.",
+          "Reconsider: The source attributes it to Luther Gulick (with spelling variants). The seven functions can overlap and repeat; they are not seven compulsory chronological events or a complete constitutional description. Apply them to a fictional public-service programme and justify why an action fits a function."
+        ],
+        "hints": [
+          "POSDCoRB groups Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting.",
+          "The source attributes it to Luther Gulick (with spelling variants). The seven functions can overlap and repeat; they are not seven compulsory chronological events or a complete constitutional description. Apply them to a fictional public-service programme and justify why an action fits a function."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-plan-organise",
+        "section": 1,
+        "title": "Separate a plan from an organisational structure",
+        "intro": "Planning identifies objectives and procedures; organising assigns work and relationships among units.",
+        "simple": "Planning identifies objectives and procedures; organising assigns work and relationships among units.",
+        "example": [
+          "Planning identifies objectives and procedures; organising assigns work and relationships among units.",
+          "For an illustrative public-library programme, choosing access goals and a schedule is planning; assigning responsibility to library, building and outreach teams is organising. Departments, corporations, divisions and subdivisions are source examples of structures, not interchangeable names for one office."
+        ],
+        "question": "Which action is organising?",
+        "options": [
+          "Assigning tasks and responsibilities among teams",
+          "Only stating the desired reading goal",
+          "Auditing completed accounts"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. For an illustrative public-library programme, choosing access goals and a schedule is planning; assigning responsibility to library, building and outreach teams is organising. Departments, corporations, divisions and subdivisions are source examples of structures, not interchangeable names for one office.",
+          "Reconsider: For an illustrative public-library programme, choosing access goals and a schedule is planning; assigning responsibility to library, building and outreach teams is organising. Departments, corporations, divisions and subdivisions are source examples of structures, not interchangeable names for one office.",
+          "Reconsider: For an illustrative public-library programme, choosing access goals and a schedule is planning; assigning responsibility to library, building and outreach teams is organising. Departments, corporations, divisions and subdivisions are source examples of structures, not interchangeable names for one office."
+        ],
+        "hints": [
+          "Planning identifies objectives and procedures; organising assigns work and relationships among units.",
+          "For an illustrative public-library programme, choosing access goals and a schedule is planning; assigning responsibility to library, building and outreach teams is organising. Departments, corporations, divisions and subdivisions are source examples of structures, not interchangeable names for one office."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-staff-direct",
+        "section": 1,
+        "title": "Separate staffing from directing",
+        "intro": "Staffing covers recruitment, training and service arrangements; directing gives lawful operational instructions.",
+        "simple": "Staffing covers recruitment, training and service arrangements; directing gives lawful operational instructions.",
+        "example": [
+          "Staffing covers recruitment, training and service arrangements; directing gives lawful operational instructions.",
+          "Selecting qualified library staff and training them is staffing. Issuing an authorised duty schedule is directing. Directions do not permit officials to override law or rights. Qualification and accountability matter as well as following a superior’s instruction."
+        ],
+        "question": "Which action is staffing?",
+        "options": [
+          "Recruiting and training suitable personnel",
+          "Giving a daily order to staff already selected",
+          "Reading a completed financial audit"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Selecting qualified library staff and training them is staffing. Issuing an authorised duty schedule is directing. Directions do not permit officials to override law or rights. Qualification and accountability matter as well as following a superior’s instruction.",
+          "Reconsider: Selecting qualified library staff and training them is staffing. Issuing an authorised duty schedule is directing. Directions do not permit officials to override law or rights. Qualification and accountability matter as well as following a superior’s instruction.",
+          "Reconsider: Selecting qualified library staff and training them is staffing. Issuing an authorised duty schedule is directing. Directions do not permit officials to override law or rights. Qualification and accountability matter as well as following a superior’s instruction."
+        ],
+        "hints": [
+          "Staffing covers recruitment, training and service arrangements; directing gives lawful operational instructions.",
+          "Selecting qualified library staff and training them is staffing. Issuing an authorised duty schedule is directing. Directions do not permit officials to override law or rights. Qualification and accountability matter as well as following a superior’s instruction."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-coordinate-report-budget",
+        "section": 1,
+        "title": "Connect coordination, reporting and finance",
+        "intro": "Coordinating aligns units; reporting communicates activity/evidence; budgeting plans and accounts for resources.",
+        "simple": "Coordinating aligns units; reporting communicates activity/evidence; budgeting plans and accounts for resources.",
+        "example": [
+          "Coordinating aligns units; reporting communicates activity/evidence; budgeting plans and accounts for resources.",
+          "The source links coordination with resolving departmental conflicts, reports with records/research/investigation and information for superiors/legislatures, and budgeting with financial planning, accounts and audit. These are different functions but information can feed back into planning."
+        ],
+        "question": "Which action is reporting?",
+        "options": [
+          "Submitting documented progress and problems",
+          "Recruiting every employee",
+          "Approving every police rank"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source links coordination with resolving departmental conflicts, reports with records/research/investigation and information for superiors/legislatures, and budgeting with financial planning, accounts and audit. These are different functions but information can feed back into planning.",
+          "Reconsider: The source links coordination with resolving departmental conflicts, reports with records/research/investigation and information for superiors/legislatures, and budgeting with financial planning, accounts and audit. These are different functions but information can feed back into planning.",
+          "Reconsider: The source links coordination with resolving departmental conflicts, reports with records/research/investigation and information for superiors/legislatures, and budgeting with financial planning, accounts and audit. These are different functions but information can feed back into planning."
+        ],
+        "hints": [
+          "Coordinating aligns units; reporting communicates activity/evidence; budgeting plans and accounts for resources.",
+          "The source links coordination with resolving departmental conflicts, reports with records/research/investigation and information for superiors/legislatures, and budgeting with financial planning, accounts and audit. These are different functions but information can feed back into planning."
+        ],
+        "explorer": "public-work"
+      },
+      {
+        "id": "ss6-recruitment",
+        "section": 1,
+        "title": "Match a method with the route into a post",
+        "intro": "Direct recruitment selects eligible candidates through the prescribed competitive process; promotion advances existing personnel under service rules.",
+        "simple": "Direct recruitment selects eligible candidates through the prescribed competitive process; promotion advances existing personnel under service rules.",
+        "example": [
+          "Direct recruitment selects eligible candidates through the prescribed competitive process; promotion advances existing personnel under service rules.",
+          "The source calls promotion indirect/internal recruitment and highlights qualification and seniority. Actual rules can include merit, examinations and other criteria; neither route guarantees that every post uses the same selection method. Recruitment supports an effective administration but must be lawful, fair and accountable."
+        ],
+        "question": "What distinguishes promotion here?",
+        "options": [
+          "Selection from existing service for a higher post",
+          "Every application from outside the service",
+          "Automatic entitlement with no service rules"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source calls promotion indirect/internal recruitment and highlights qualification and seniority. Actual rules can include merit, examinations and other criteria; neither route guarantees that every post uses the same selection method. Recruitment supports an effective administration but must be lawful, fair and accountable.",
+          "Reconsider: The source calls promotion indirect/internal recruitment and highlights qualification and seniority. Actual rules can include merit, examinations and other criteria; neither route guarantees that every post uses the same selection method. Recruitment supports an effective administration but must be lawful, fair and accountable.",
+          "Reconsider: The source calls promotion indirect/internal recruitment and highlights qualification and seniority. Actual rules can include merit, examinations and other criteria; neither route guarantees that every post uses the same selection method. Recruitment supports an effective administration but must be lawful, fair and accountable."
+        ],
+        "hints": [
+          "Direct recruitment selects eligible candidates through the prescribed competitive process; promotion advances existing personnel under service rules.",
+          "The source calls promotion indirect/internal recruitment and highlights qualification and seniority. Actual rules can include merit, examinations and other criteria; neither route guarantees that every post uses the same selection method. Recruitment supports an effective administration but must be lawful, fair and accountable."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-upsc",
+        "section": 2,
+        "title": "Connect the Union Commission to constitutional provisions",
+        "intro": "Article 315 provides for the Union and State Public Service Commissions.",
+        "simple": "Article 315 provides for the Union and State Public Service Commissions.",
+        "example": [
+          "Article 315 provides for the Union and State Public Service Commissions.",
+          "UPSC appointments are made by the President under Article 316; members serve six years or until 65, whichever is earlier. Article 317 sets removal safeguards, including a Supreme Court inquiry for misbehaviour in the relevant process; removal is not simply unrestricted executive choice. Headquarters are in New Delhi. The book’s one-chair/ten-member list is a source snapshot, not an unchanging constitutional number or a verified live roster."
+        ],
+        "question": "Who appoints UPSC members?",
+        "options": [
+          "President of India",
+          "Every district SP",
+          "The Governor of Karnataka"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. UPSC appointments are made by the President under Article 316; members serve six years or until 65, whichever is earlier. Article 317 sets removal safeguards, including a Supreme Court inquiry for misbehaviour in the relevant process; removal is not simply unrestricted executive choice. Headquarters are in New Delhi. The book’s one-chair/ten-member list is a source snapshot, not an unchanging constitutional number or a verified live roster.",
+          "Reconsider: UPSC appointments are made by the President under Article 316; members serve six years or until 65, whichever is earlier. Article 317 sets removal safeguards, including a Supreme Court inquiry for misbehaviour in the relevant process; removal is not simply unrestricted executive choice. Headquarters are in New Delhi. The book’s one-chair/ten-member list is a source snapshot, not an unchanging constitutional number or a verified live roster.",
+          "Reconsider: UPSC appointments are made by the President under Article 316; members serve six years or until 65, whichever is earlier. Article 317 sets removal safeguards, including a Supreme Court inquiry for misbehaviour in the relevant process; removal is not simply unrestricted executive choice. Headquarters are in New Delhi. The book’s one-chair/ten-member list is a source snapshot, not an unchanging constitutional number or a verified live roster."
+        ],
+        "hints": [
+          "Article 315 provides for the Union and State Public Service Commissions.",
+          "UPSC appointments are made by the President under Article 316; members serve six years or until 65, whichever is earlier. Article 317 sets removal safeguards, including a Supreme Court inquiry for misbehaviour in the relevant process; removal is not simply unrestricted executive choice. Headquarters are in New Delhi. The book’s one-chair/ten-member list is a source snapshot, not an unchanging constitutional number or a verified live roster."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-functions",
+        "section": 2,
+        "title": "Separate selection, advice and appointment",
+        "intro": "Article 320 includes examinations and advice on recruitment, service methods, promotion/transfer and disciplinary matters within its scope.",
+        "simple": "Article 320 includes examinations and advice on recruitment, service methods, promotion/transfer and disciplinary matters within its scope.",
+        "example": [
+          "Article 320 includes examinations and advice on recruitment, service methods, promotion/transfer and disciplinary matters within its scope.",
+          "The source lists Group A/B recruitment and personality tests and presidential references. UPSC is not the body that directly appoints every employee or adjudicates every disciplinary case in every State; the appointing government and applicable rules matter. Institutional independence operates within constitutional arrangements, not outside every legal check."
+        ],
+        "question": "Which description is strongest?",
+        "options": [
+          "A constitutional examination/advisory commission with defined functions",
+          "The employer that automatically appoints every applicant",
+          "A court deciding all criminal cases"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source lists Group A/B recruitment and personality tests and presidential references. UPSC is not the body that directly appoints every employee or adjudicates every disciplinary case in every State; the appointing government and applicable rules matter. Institutional independence operates within constitutional arrangements, not outside every legal check.",
+          "Reconsider: The source lists Group A/B recruitment and personality tests and presidential references. UPSC is not the body that directly appoints every employee or adjudicates every disciplinary case in every State; the appointing government and applicable rules matter. Institutional independence operates within constitutional arrangements, not outside every legal check.",
+          "Reconsider: The source lists Group A/B recruitment and personality tests and presidential references. UPSC is not the body that directly appoints every employee or adjudicates every disciplinary case in every State; the appointing government and applicable rules matter. Institutional independence operates within constitutional arrangements, not outside every legal check."
+        ],
+        "hints": [
+          "Article 320 includes examinations and advice on recruitment, service methods, promotion/transfer and disciplinary matters within its scope.",
+          "The source lists Group A/B recruitment and personality tests and presidential references. UPSC is not the body that directly appoints every employee or adjudicates every disciplinary case in every State; the appointing government and applicable rules matter. Institutional independence operates within constitutional arrangements, not outside every legal check."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-exams",
+        "section": 2,
+        "title": "Read an examination pathway without overgeneralising",
+        "intro": "The source lists services such as IAS, IPS, Indian Foreign Service, IRS and Indian Audit and Accounts Service.",
+        "simple": "The source lists services such as IAS, IPS, Indian Foreign Service, IRS and Indian Audit and Accounts Service.",
+        "example": [
+          "The source lists services such as IAS, IPS, Indian Foreign Service, IRS and Indian Audit and Accounts Service.",
+          "The Civil Services Examination has Preliminary, Mains and Personality Test stages. Indian Forest Service uses a shared preliminary screening but a distinct later examination process; technical, medical and defence examinations do not all use an identical three-stage template. Expand service names carefully:Foreign Service and Forest Service abbreviations can be confused."
+        ],
+        "question": "Can one exam-stage diagram describe every UPSC examination?",
+        "options": [
+          "No, check the particular examination’s notification",
+          "Yes, every service uses exactly the same papers",
+          "There are no service-specific rules"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Civil Services Examination has Preliminary, Mains and Personality Test stages. Indian Forest Service uses a shared preliminary screening but a distinct later examination process; technical, medical and defence examinations do not all use an identical three-stage template. Expand service names carefully:Foreign Service and Forest Service abbreviations can be confused.",
+          "Reconsider: The Civil Services Examination has Preliminary, Mains and Personality Test stages. Indian Forest Service uses a shared preliminary screening but a distinct later examination process; technical, medical and defence examinations do not all use an identical three-stage template. Expand service names carefully:Foreign Service and Forest Service abbreviations can be confused.",
+          "Reconsider: The Civil Services Examination has Preliminary, Mains and Personality Test stages. Indian Forest Service uses a shared preliminary screening but a distinct later examination process; technical, medical and defence examinations do not all use an identical three-stage template. Expand service names carefully:Foreign Service and Forest Service abbreviations can be confused."
+        ],
+        "hints": [
+          "The source lists services such as IAS, IPS, Indian Foreign Service, IRS and Indian Audit and Accounts Service.",
+          "The Civil Services Examination has Preliminary, Mains and Personality Test stages. Indian Forest Service uses a shared preliminary screening but a distinct later examination process; technical, medical and defence examinations do not all use an identical three-stage template. Expand service names carefully:Foreign Service and Forest Service abbreviations can be confused."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-state-joint",
+        "section": 2,
+        "title": "Distinguish a State Commission from a Joint Commission",
+        "intro": "Article 315 also permits arrangements for State and Joint State Public Service Commissions.",
+        "simple": "Article 315 also permits arrangements for State and Joint State Public Service Commissions.",
+        "example": [
+          "Article 315 also permits arrangements for State and Joint State Public Service Commissions.",
+          "A Joint Commission for two or more States is created by Parliament by law after the required State resolutions under Article 315(2). The source calls it statutory; that does not mean it lacks a constitutional basis. Appointment, age and service arrangements must be read with the relevant provisions rather than copied from UPSC by assumption."
+        ],
+        "question": "Which is correct about a Joint Commission?",
+        "options": [
+          "It can be established by law under Article 315 arrangements",
+          "It exists automatically whenever two States neighbour each other",
+          "It is the same as a police circle"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A Joint Commission for two or more States is created by Parliament by law after the required State resolutions under Article 315(2). The source calls it statutory; that does not mean it lacks a constitutional basis. Appointment, age and service arrangements must be read with the relevant provisions rather than copied from UPSC by assumption.",
+          "Reconsider: A Joint Commission for two or more States is created by Parliament by law after the required State resolutions under Article 315(2). The source calls it statutory; that does not mean it lacks a constitutional basis. Appointment, age and service arrangements must be read with the relevant provisions rather than copied from UPSC by assumption.",
+          "Reconsider: A Joint Commission for two or more States is created by Parliament by law after the required State resolutions under Article 315(2). The source calls it statutory; that does not mean it lacks a constitutional basis. Appointment, age and service arrangements must be read with the relevant provisions rather than copied from UPSC by assumption."
+        ],
+        "hints": [
+          "Article 315 also permits arrangements for State and Joint State Public Service Commissions.",
+          "A Joint Commission for two or more States is created by Parliament by law after the required State resolutions under Article 315(2). The source calls it statutory; that does not mean it lacks a constitutional basis. Appointment, age and service arrangements must be read with the relevant provisions rather than copied from UPSC by assumption."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-kpsc",
+        "section": 2,
+        "title": "Compare KPSC with UPSC",
+        "intro": "KPSC was established on 18 May 1951 and has its headquarters in Bengaluru.",
+        "simple": "KPSC was established on 18 May 1951 and has its headquarters in Bengaluru.",
+        "example": [
+          "KPSC was established on 18 May 1951 and has its headquarters in Bengaluru.",
+          "Its members are appointed by the Governor; the constitutional term is six years or age 62, whichever is earlier. The President—not the Governor alone—has the removal power under Article 317 with the prescribed process. The source’s one-chair/fifteen-member roster and regional-office list are snapshots, not permanent constitutional facts. Day-to-day work is supported by a secretary and examination administration."
+        ],
+        "question": "Which pair belongs to KPSC?",
+        "options": [
+          "Governor appoints; age limit 62 for the constitutional term",
+          "President appoints; every member serves to 80",
+          "The DG and IGP appoints for life"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Its members are appointed by the Governor; the constitutional term is six years or age 62, whichever is earlier. The President—not the Governor alone—has the removal power under Article 317 with the prescribed process. The source’s one-chair/fifteen-member roster and regional-office list are snapshots, not permanent constitutional facts. Day-to-day work is supported by a secretary and examination administration.",
+          "Reconsider: Its members are appointed by the Governor; the constitutional term is six years or age 62, whichever is earlier. The President—not the Governor alone—has the removal power under Article 317 with the prescribed process. The source’s one-chair/fifteen-member roster and regional-office list are snapshots, not permanent constitutional facts. Day-to-day work is supported by a secretary and examination administration.",
+          "Reconsider: Its members are appointed by the Governor; the constitutional term is six years or age 62, whichever is earlier. The President—not the Governor alone—has the removal power under Article 317 with the prescribed process. The source’s one-chair/fifteen-member roster and regional-office list are snapshots, not permanent constitutional facts. Day-to-day work is supported by a secretary and examination administration."
+        ],
+        "hints": [
+          "KPSC was established on 18 May 1951 and has its headquarters in Bengaluru.",
+          "Its members are appointed by the Governor; the constitutional term is six years or age 62, whichever is earlier. The President—not the Governor alone—has the removal power under Article 317 with the prescribed process. The source’s one-chair/fifteen-member roster and regional-office list are snapshots, not permanent constitutional facts. Day-to-day work is supported by a secretary and examination administration."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-kpsc-functions",
+        "section": 2,
+        "title": "Identify recruitment and advisory functions",
+        "intro": "KPSC conducts selections and prescribed examinations for State services and advises on service matters.",
+        "simple": "KPSC conducts selections and prescribed examinations for State services and advises on service matters.",
+        "example": [
+          "KPSC conducts selections and prescribed examinations for State services and advises on service matters.",
+          "The source names gazetted/non-gazetted recruitment, personality tests, departmental examinations, promotion/disciplinary advice and coordination for UPSC centres. Examples include Assistant Commissioner, DySP, Tahsildar, FDA and Excise Sub Inspector; requirements depend on current rules. A school lesson is not an official vacancy notice or eligibility decision."
+        ],
+        "question": "Which use of the list is appropriate?",
+        "options": [
+          "Learning functions while checking current notices for actual recruitment",
+          "Assuming every named post is currently open",
+          "Treating a textbook as an appointment letter"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names gazetted/non-gazetted recruitment, personality tests, departmental examinations, promotion/disciplinary advice and coordination for UPSC centres. Examples include Assistant Commissioner, DySP, Tahsildar, FDA and Excise Sub Inspector; requirements depend on current rules. A school lesson is not an official vacancy notice or eligibility decision.",
+          "Reconsider: The source names gazetted/non-gazetted recruitment, personality tests, departmental examinations, promotion/disciplinary advice and coordination for UPSC centres. Examples include Assistant Commissioner, DySP, Tahsildar, FDA and Excise Sub Inspector; requirements depend on current rules. A school lesson is not an official vacancy notice or eligibility decision.",
+          "Reconsider: The source names gazetted/non-gazetted recruitment, personality tests, departmental examinations, promotion/disciplinary advice and coordination for UPSC centres. Examples include Assistant Commissioner, DySP, Tahsildar, FDA and Excise Sub Inspector; requirements depend on current rules. A school lesson is not an official vacancy notice or eligibility decision."
+        ],
+        "hints": [
+          "KPSC conducts selections and prescribed examinations for State services and advises on service matters.",
+          "The source names gazetted/non-gazetted recruitment, personality tests, departmental examinations, promotion/disciplinary advice and coordination for UPSC centres. Examples include Assistant Commissioner, DySP, Tahsildar, FDA and Excise Sub Inspector; requirements depend on current rules. A school lesson is not an official vacancy notice or eligibility decision."
+        ],
+        "explorer": "commission-compare"
+      },
+      {
+        "id": "ss6-law-order",
+        "section": 3,
+        "title": "Connect public order with the rule of law",
+        "intro": "Public order and police are principally State subjects under the Seventh Schedule, with defined Union roles.",
+        "simple": "Public order and police are principally State subjects under the Seventh Schedule, with defined Union roles.",
+        "example": [
+          "Public order and police are principally State subjects under the Seventh Schedule, with defined Union roles.",
+          "Maintaining peace and protecting life/property must operate within constitutional rights and legal procedures. State responsibility is not exclusive freedom from every Union duty; Union assistance and deployment have their own legal basis. Public administration includes accountability as well as effective action."
+        ],
+        "question": "Which statement is accurate?",
+        "options": [
+          "State responsibility operates within constitutional arrangements",
+          "Police may ignore rights whenever convenient",
+          "Only a military office can implement any law"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Maintaining peace and protecting life/property must operate within constitutional rights and legal procedures. State responsibility is not exclusive freedom from every Union duty; Union assistance and deployment have their own legal basis. Public administration includes accountability as well as effective action.",
+          "Reconsider: Maintaining peace and protecting life/property must operate within constitutional rights and legal procedures. State responsibility is not exclusive freedom from every Union duty; Union assistance and deployment have their own legal basis. Public administration includes accountability as well as effective action.",
+          "Reconsider: Maintaining peace and protecting life/property must operate within constitutional rights and legal procedures. State responsibility is not exclusive freedom from every Union duty; Union assistance and deployment have their own legal basis. Public administration includes accountability as well as effective action."
+        ],
+        "hints": [
+          "Public order and police are principally State subjects under the Seventh Schedule, with defined Union roles.",
+          "Maintaining peace and protecting life/property must operate within constitutional rights and legal procedures. State responsibility is not exclusive freedom from every Union duty; Union assistance and deployment have their own legal basis. Public administration includes accountability as well as effective action."
+        ],
+        "explorer": "public-roles"
+      },
+      {
+        "id": "ss6-union",
+        "section": 3,
+        "title": "Distinguish constitutional duty from an automatic emergency",
+        "intro": "Article 355 sets a Union duty concerning external aggression, internal disturbance and constitutional government in States.",
+        "simple": "Article 355 sets a Union duty concerning external aggression, internal disturbance and constitutional government in States.",
+        "example": [
+          "Article 355 sets a Union duty concerning external aggression, internal disturbance and constitutional government in States.",
+          "Article 356 concerns failure of constitutional machinery with constitutional/parliamentary limits and judicial review; it is not an automatic response to any local disturbance. The textbook’s State Emergency label is shorthand for a different constitutional situation from ordinary police assistance."
+        ],
+        "question": "Does any public-order incident automatically justify Article 356?",
+        "options": [
+          "No, the constitutional grounds and safeguards differ",
+          "Yes, every traffic dispute triggers it",
+          "Article 356 appoints KPSC members"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Article 356 concerns failure of constitutional machinery with constitutional/parliamentary limits and judicial review; it is not an automatic response to any local disturbance. The textbook’s State Emergency label is shorthand for a different constitutional situation from ordinary police assistance.",
+          "Reconsider: Article 356 concerns failure of constitutional machinery with constitutional/parliamentary limits and judicial review; it is not an automatic response to any local disturbance. The textbook’s State Emergency label is shorthand for a different constitutional situation from ordinary police assistance.",
+          "Reconsider: Article 356 concerns failure of constitutional machinery with constitutional/parliamentary limits and judicial review; it is not an automatic response to any local disturbance. The textbook’s State Emergency label is shorthand for a different constitutional situation from ordinary police assistance."
+        ],
+        "hints": [
+          "Article 355 sets a Union duty concerning external aggression, internal disturbance and constitutional government in States.",
+          "Article 356 concerns failure of constitutional machinery with constitutional/parliamentary limits and judicial review; it is not an automatic response to any local disturbance. The textbook’s State Emergency label is shorthand for a different constitutional situation from ordinary police assistance."
+        ],
+        "explorer": "public-roles"
+      },
+      {
+        "id": "ss6-forces",
+        "section": 3,
+        "title": "Compare security forces by function and department",
+        "intro": "The source lists CRPF, BSF, RPF and CISF, but their responsibilities are not interchangeable.",
+        "simple": "The source lists CRPF, BSF, RPF and CISF, but their responsibilities are not interchangeable.",
+        "example": [
+          "The source lists CRPF, BSF, RPF and CISF, but their responsibilities are not interchangeable.",
+          "CRPF assists with internal security/public order; BSF guards the specified Pakistan/Bangladesh border context; CISF protects designated installations and airports; RPF works under the Ministry of Railways on railway security and authorised offences. Ordinary railway crime/law-and-order work involves State GRP/district police. Do not put RPF under the Home Ministry or assign every railway investigation to it."
+        ],
+        "question": "Which distinction is correct?",
+        "options": [
+          "RPF and State GRP have related but different roles",
+          "All four forces are one identical army command",
+          "RPF is a State Public Service Commission"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. CRPF assists with internal security/public order; BSF guards the specified Pakistan/Bangladesh border context; CISF protects designated installations and airports; RPF works under the Ministry of Railways on railway security and authorised offences. Ordinary railway crime/law-and-order work involves State GRP/district police. Do not put RPF under the Home Ministry or assign every railway investigation to it.",
+          "Reconsider: CRPF assists with internal security/public order; BSF guards the specified Pakistan/Bangladesh border context; CISF protects designated installations and airports; RPF works under the Ministry of Railways on railway security and authorised offences. Ordinary railway crime/law-and-order work involves State GRP/district police. Do not put RPF under the Home Ministry or assign every railway investigation to it.",
+          "Reconsider: CRPF assists with internal security/public order; BSF guards the specified Pakistan/Bangladesh border context; CISF protects designated installations and airports; RPF works under the Ministry of Railways on railway security and authorised offences. Ordinary railway crime/law-and-order work involves State GRP/district police. Do not put RPF under the Home Ministry or assign every railway investigation to it."
+        ],
+        "hints": [
+          "The source lists CRPF, BSF, RPF and CISF, but their responsibilities are not interchangeable.",
+          "CRPF assists with internal security/public order; BSF guards the specified Pakistan/Bangladesh border context; CISF protects designated installations and airports; RPF works under the Ministry of Railways on railway security and authorised offences. Ordinary railway crime/law-and-order work involves State GRP/district police. Do not put RPF under the Home Ministry or assign every railway investigation to it."
+        ],
+        "explorer": "public-roles"
+      },
+      {
+        "id": "ss6-state-police",
+        "section": 4,
+        "title": "Separate political, civil and police leadership",
+        "intro": "The source places the State Home Minister above a Home Department Principal Secretary and senior police leadership.",
+        "simple": "The source places the State Home Minister above a Home Department Principal Secretary and senior police leadership.",
+        "example": [
+          "The source places the State Home Minister above a Home Department Principal Secretary and senior police leadership.",
+          "The minister is the political executive; the secretary coordinates civil administration; DG/IGPandother police officers hold professional roles. A textbook hierarchy is not a universal live command chart for every State or commissionerate, and it does not make elected ministers criminal investigators in every case."
+        ],
+        "question": "Why distinguish these roles?",
+        "options": [
+          "Political responsibility, civil administration and police command differ",
+          "Every title means the same post",
+          "All police ranks are recruited by the Home Minister personally"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The minister is the political executive; the secretary coordinates civil administration; DG/IGPandother police officers hold professional roles. A textbook hierarchy is not a universal live command chart for every State or commissionerate, and it does not make elected ministers criminal investigators in every case.",
+          "Reconsider: The minister is the political executive; the secretary coordinates civil administration; DG/IGPandother police officers hold professional roles. A textbook hierarchy is not a universal live command chart for every State or commissionerate, and it does not make elected ministers criminal investigators in every case.",
+          "Reconsider: The minister is the political executive; the secretary coordinates civil administration; DG/IGPandother police officers hold professional roles. A textbook hierarchy is not a universal live command chart for every State or commissionerate, and it does not make elected ministers criminal investigators in every case."
+        ],
+        "hints": [
+          "The source places the State Home Minister above a Home Department Principal Secretary and senior police leadership.",
+          "The minister is the political executive; the secretary coordinates civil administration; DG/IGPandother police officers hold professional roles. A textbook hierarchy is not a universal live command chart for every State or commissionerate, and it does not make elected ministers criminal investigators in every case."
+        ],
+        "explorer": "police-hierarchy"
+      },
+      {
+        "id": "ss6-hierarchy",
+        "section": 4,
+        "title": "Read every level of the source chart",
+        "intro": "The source chart continues through State, zonal, district, subdivision, circle, station and constabulary levels.",
+        "simple": "The source chart continues through State, zonal, district, subdivision, circle, station and constabulary levels.",
+        "example": [
+          "The source chart continues through State, zonal, district, subdivision, circle, station and constabulary levels.",
+          "Expand DG/IGP, DGP, ADGP, IGP, DIG, SP, Additional SP, DySP, CPI, PSI, ASI, HC and PCwith the full political/civil headings. Its ASP means Additional Superintendent here; ASP can mean Assistant Superintendent in other contexts. Rank and posting/jurisdiction are not identical, and not every displayed senior designation is a separate serial office in every State."
+        ],
+        "question": "Which source level is tied to a district?",
+        "options": [
+          "Superintendent of Police",
+          "Every public university",
+          "The Planning function of POSDCoRB"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Expand DG/IGP, DGP, ADGP, IGP, DIG, SP, Additional SP, DySP, CPI, PSI, ASI, HC and PCwith the full political/civil headings. Its ASP means Additional Superintendent here; ASP can mean Assistant Superintendent in other contexts. Rank and posting/jurisdiction are not identical, and not every displayed senior designation is a separate serial office in every State.",
+          "Reconsider: Expand DG/IGP, DGP, ADGP, IGP, DIG, SP, Additional SP, DySP, CPI, PSI, ASI, HC and PCwith the full political/civil headings. Its ASP means Additional Superintendent here; ASP can mean Assistant Superintendent in other contexts. Rank and posting/jurisdiction are not identical, and not every displayed senior designation is a separate serial office in every State.",
+          "Reconsider: Expand DG/IGP, DGP, ADGP, IGP, DIG, SP, Additional SP, DySP, CPI, PSI, ASI, HC and PCwith the full political/civil headings. Its ASP means Additional Superintendent here; ASP can mean Assistant Superintendent in other contexts. Rank and posting/jurisdiction are not identical, and not every displayed senior designation is a separate serial office in every State."
+        ],
+        "hints": [
+          "The source chart continues through State, zonal, district, subdivision, circle, station and constabulary levels.",
+          "Expand DG/IGP, DGP, ADGP, IGP, DIG, SP, Additional SP, DySP, CPI, PSI, ASI, HC and PCwith the full political/civil headings. Its ASP means Additional Superintendent here; ASP can mean Assistant Superintendent in other contexts. Rank and posting/jurisdiction are not identical, and not every displayed senior designation is a separate serial office in every State."
+        ],
+        "explorer": "police-hierarchy"
+      },
+      {
+        "id": "ss6-complaint",
+        "section": 4,
+        "title": "Distinguish a complaint from an FIR",
+        "intro": "A police complaint and a First Information Report are not interchangeable terms for every possible report.",
+        "simple": "A police complaint and a First Information Report are not interchangeable terms for every possible report.",
+        "example": [
+          "A police complaint and a First Information Report are not interchangeable terms for every possible report.",
+          "The sidebar is simplified:information about a cognizable offence is handled under applicable FIR provisions; other complaints can follow different procedures. This is a civics distinction, not case-specific legal advice. Research/visit tasks should use fictional examples and verified official information without inventing an incident or sharing personal case details in a classroom exercise."
+        ],
+        "question": "Must every kind of complaint automatically become an FIR?",
+        "options": [
+          "No, the legal category and procedure matter",
+          "Yes, even every non-police request",
+          "An FIR is a recruitment examination"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The sidebar is simplified:information about a cognizable offence is handled under applicable FIR provisions; other complaints can follow different procedures. This is a civics distinction, not case-specific legal advice. Research/visit tasks should use fictional examples and verified official information without inventing an incident or sharing personal case details in a classroom exercise.",
+          "Reconsider: The sidebar is simplified:information about a cognizable offence is handled under applicable FIR provisions; other complaints can follow different procedures. This is a civics distinction, not case-specific legal advice. Research/visit tasks should use fictional examples and verified official information without inventing an incident or sharing personal case details in a classroom exercise.",
+          "Reconsider: The sidebar is simplified:information about a cognizable offence is handled under applicable FIR provisions; other complaints can follow different procedures. This is a civics distinction, not case-specific legal advice. Research/visit tasks should use fictional examples and verified official information without inventing an incident or sharing personal case details in a classroom exercise."
+        ],
+        "hints": [
+          "A police complaint and a First Information Report are not interchangeable terms for every possible report.",
+          "The sidebar is simplified:information about a cognizable offence is handled under applicable FIR provisions; other complaints can follow different procedures. This is a civics distinction, not case-specific legal advice. Research/visit tasks should use fictional examples and verified official information without inventing an incident or sharing personal case details in a classroom exercise."
+        ],
+        "explorer": "public-roles"
+      },
+      {
+        "id": "ss6-review",
+        "section": 4,
+        "title": "Connect service delivery with accountable institutions",
+        "intro": "Public administration combines organisation, personnel, finance, information and lawful authority.",
+        "simple": "Public administration combines organisation, personnel, finance, information and lawful authority.",
+        "example": [
+          "Public administration combines organisation, personnel, finance, information and lawful authority.",
+          "Explain a public service using POSDCoRB, compare Union/State commissions, and distinguish law-and-order responsibilities and source chart roles. Effectiveness does not remove the need for constitutional checks, fair access or review of official decisions."
+        ],
+        "question": "Which explanation is complete?",
+        "options": [
+          "Delivery method plus responsibility, legal limits and evidence",
+          "Only a list of ranks without functions",
+          "Every official can ignore every rule"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Explain a public service using POSDCoRB, compare Union/State commissions, and distinguish law-and-order responsibilities and source chart roles. Effectiveness does not remove the need for constitutional checks, fair access or review of official decisions.",
+          "Reconsider: Explain a public service using POSDCoRB, compare Union/State commissions, and distinguish law-and-order responsibilities and source chart roles. Effectiveness does not remove the need for constitutional checks, fair access or review of official decisions.",
+          "Reconsider: Explain a public service using POSDCoRB, compare Union/State commissions, and distinguish law-and-order responsibilities and source chart roles. Effectiveness does not remove the need for constitutional checks, fair access or review of official decisions."
+        ],
+        "hints": [
+          "Public administration combines organisation, personnel, finance, information and lawful authority.",
+          "Explain a public service using POSDCoRB, compare Union/State commissions, and distinguish law-and-order responsibilities and source chart roles. Effectiveness does not remove the need for constitutional checks, fair access or review of official decisions."
+        ],
+        "explorer": "public-work"
+      }
+    ],
+    "summary": [
+      [
+        "Public work",
+        "Connect laws and decisions to accountable delivery across a lifetime."
+      ],
+      [
+        "Functions and personnel",
+        "Apply POSDCoRB and distinguish direct recruitment from promotion."
+      ],
+      [
+        "Commissions",
+        "Compare constitutional basis, appointments, tenure and advisory/selection functions."
+      ],
+      [
+        "Law and order",
+        "Distinguish State/Union roles, security agencies, chart levels and the limits of a simplified FIR sidebar."
+      ]
+    ],
+    "challenge": "Use named examples and source evidence to explain the ideas, organisation and consequences. Compare similar terms carefully and distinguish a source statement from a verified current rule."
+  }
+]

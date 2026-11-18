@@ -1,0 +1,1364 @@
+[
+  {
+    "number": 9,
+    "subject": "social-science",
+    "discipline": "Sociology",
+    "part": 1,
+    "slug": "work-and-economic-life",
+    "title": "Work and Economic Life",
+    "sections": [
+      "Work, division and skills · pp83–84",
+      "Payment, care and equality · p84",
+      "Unemployment and responses · pp84–85",
+      "Working conditions and protections · pp85–88"
+    ],
+    "steps": [
+      {
+        "id": "ss9-work",
+        "section": 0,
+        "title": "Recognise effort and useful work",
+        "intro": "Work involves effort directed towards producing goods, services or other useful outcomes.",
+        "simple": "Work involves effort directed towards producing goods, services or other useful outcomes.",
+        "example": [
+          "Work involves effort directed towards producing goods, services or other useful outcomes.",
+          "The book begins with material benefits and basic needs. Economic life includes paid employment, self-employment and unpaid productive work; wages are not the only sign of social contribution. Work changes across societies and periods. Distinguish the book’s narrow wording from broader work concepts."
+        ],
+        "question": "Which activity can be useful work without wages?",
+        "options": [
+          "Caring for a dependent person",
+          "Only an activity with a monthly salary",
+          "Only factory production"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book begins with material benefits and basic needs. Economic life includes paid employment, self-employment and unpaid productive work; wages are not the only sign of social contribution. Work changes across societies and periods. Distinguish the book’s narrow wording from broader work concepts.",
+          "Reconsider: The book begins with material benefits and basic needs. Economic life includes paid employment, self-employment and unpaid productive work; wages are not the only sign of social contribution. Work changes across societies and periods. Distinguish the book’s narrow wording from broader work concepts.",
+          "Reconsider: The book begins with material benefits and basic needs. Economic life includes paid employment, self-employment and unpaid productive work; wages are not the only sign of social contribution. Work changes across societies and periods. Distinguish the book’s narrow wording from broader work concepts."
+        ],
+        "hints": [
+          "Work involves effort directed towards producing goods, services or other useful outcomes.",
+          "The book begins with material benefits and basic needs. Economic life includes paid employment, self-employment and unpaid productive work; wages are not the only sign of social contribution. Work changes across societies and periods. Distinguish the book’s narrow wording from broader work concepts."
+        ],
+        "explorer": "work-cases"
+      },
+      {
+        "id": "ss9-division",
+        "section": 0,
+        "title": "Connect tasks in a shared outcome",
+        "intro": "Division of labour separates a larger process into linked tasks performed by different people.",
+        "simple": "Division of labour separates a larger process into linked tasks performed by different people.",
+        "example": [
+          "Division of labour separates a larger process into linked tasks performed by different people.",
+          "Interest, training, skills, experience and available opportunities can shape roles. The book also describes age and gender as historical bases of allocation; these are not natural rules assigning a gender or caste to an occupation. Interdependence matters: specialised tasks still need coordination."
+        ],
+        "question": "What best describes division of labour?",
+        "options": [
+          "One person must do every task alone",
+          "An inherited category determines human worth",
+          "Different tasks combine to produce a shared result"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Interest, training, skills, experience and available opportunities can shape roles. The book also describes age and gender as historical bases of allocation; these are not natural rules assigning a gender or caste to an occupation. Interdependence matters: specialised tasks still need coordination.",
+          "Reconsider: Interest, training, skills, experience and available opportunities can shape roles. The book also describes age and gender as historical bases of allocation; these are not natural rules assigning a gender or caste to an occupation. Interdependence matters: specialised tasks still need coordination.",
+          "Correct. Interest, training, skills, experience and available opportunities can shape roles. The book also describes age and gender as historical bases of allocation; these are not natural rules assigning a gender or caste to an occupation. Interdependence matters: specialised tasks still need coordination."
+        ],
+        "hints": [
+          "Division of labour separates a larger process into linked tasks performed by different people.",
+          "Interest, training, skills, experience and available opportunities can shape roles. The book also describes age and gender as historical bases of allocation; these are not natural rules assigning a gender or caste to an occupation. Interdependence matters: specialised tasks still need coordination."
+        ],
+        "explorer": "work-chain"
+      },
+      {
+        "id": "ss9-cloth",
+        "section": 0,
+        "title": "Trace the people behind a garment",
+        "intro": "A garment connects cultivation, weaving, dyeing, trade and tailoring.",
+        "simple": "A garment connects cultivation, weaving, dyeing, trade and tailoring.",
+        "example": [
+          "A garment connects cultivation, weaving, dyeing, trade and tailoring.",
+          "The source illustration names agriculturists, weavers, dyers, traders and tailors working in different places. Real supply chains can include spinning, design, transport and other stages; dyeing and trading can occur at different points. The diagram is a learning sequence, not the only possible factory order."
+        ],
+        "question": "What does the garment example reveal?",
+        "options": [
+          "Every garment has one identical production route",
+          "Many linked contributions behind one product",
+          "Only the final seller contributes"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source illustration names agriculturists, weavers, dyers, traders and tailors working in different places. Real supply chains can include spinning, design, transport and other stages; dyeing and trading can occur at different points. The diagram is a learning sequence, not the only possible factory order.",
+          "Correct. The source illustration names agriculturists, weavers, dyers, traders and tailors working in different places. Real supply chains can include spinning, design, transport and other stages; dyeing and trading can occur at different points. The diagram is a learning sequence, not the only possible factory order.",
+          "Reconsider: The source illustration names agriculturists, weavers, dyers, traders and tailors working in different places. Real supply chains can include spinning, design, transport and other stages; dyeing and trading can occur at different points. The diagram is a learning sequence, not the only possible factory order."
+        ],
+        "hints": [
+          "A garment connects cultivation, weaving, dyeing, trade and tailoring.",
+          "The source illustration names agriculturists, weavers, dyers, traders and tailors working in different places. Real supply chains can include spinning, design, transport and other stages; dyeing and trading can occur at different points. The diagram is a learning sequence, not the only possible factory order."
+        ],
+        "explorer": "work-chain"
+      },
+      {
+        "id": "ss9-specialisation",
+        "section": 0,
+        "title": "Separate expertise from social rank",
+        "intro": "Specialisation means developing expertise through training and practice in a particular task or field.",
+        "simple": "Specialisation means developing expertise through training and practice in a particular task or field.",
+        "example": [
+          "Specialisation means developing expertise through training and practice in a particular task or field.",
+          "Division of labour can support skill and productivity, and expansion of industry, trade and commerce. Benefits depend on coordination, working conditions, demand and access to training. The book links industrialisation and class formation; class also depends on ownership, income and power, not only skill. Specialisation does not rank people’s dignity."
+        ],
+        "question": "Which distinction is sound?",
+        "options": [
+          "Expertise in a task is different from a person’s social worth",
+          "Training determines every person’s moral value",
+          "Industry eliminates all economic inequality"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Division of labour can support skill and productivity, and expansion of industry, trade and commerce. Benefits depend on coordination, working conditions, demand and access to training. The book links industrialisation and class formation; class also depends on ownership, income and power, not only skill. Specialisation does not rank people’s dignity.",
+          "Reconsider: Division of labour can support skill and productivity, and expansion of industry, trade and commerce. Benefits depend on coordination, working conditions, demand and access to training. The book links industrialisation and class formation; class also depends on ownership, income and power, not only skill. Specialisation does not rank people’s dignity.",
+          "Reconsider: Division of labour can support skill and productivity, and expansion of industry, trade and commerce. Benefits depend on coordination, working conditions, demand and access to training. The book links industrialisation and class formation; class also depends on ownership, income and power, not only skill. Specialisation does not rank people’s dignity."
+        ],
+        "hints": [
+          "Specialisation means developing expertise through training and practice in a particular task or field.",
+          "Division of labour can support skill and productivity, and expansion of industry, trade and commerce. Benefits depend on coordination, working conditions, demand and access to training. The book links industrialisation and class formation; class also depends on ownership, income and power, not only skill. Specialisation does not rank people’s dignity."
+        ],
+        "explorer": "work-chain"
+      },
+      {
+        "id": "ss9-skills",
+        "section": 0,
+        "title": "Read skilled and unskilled as training labels",
+        "intro": "The exercise uses skilled for work involving special training and expertise, and unskilled for its contrasting textbook category.",
+        "simple": "The exercise uses skilled for work involving special training and expertise, and unskilled for its contrasting textbook category.",
+        "example": [
+          "The exercise uses skilled for work involving special training and expertise, and unskilled for its contrasting textbook category.",
+          "These labels do not mean a worker has no knowledge, effort or value. Domestic, agricultural and manual tasks can require substantial learned skills even when formal credentials are absent. Qualifications, experience and opportunity to train should not be collapsed into a hierarchy of people."
+        ],
+        "question": "What does the exercise term skilled emphasise?",
+        "options": [
+          "Membership of a superior group",
+          "The absence of physical effort",
+          "Special training and expertise"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: These labels do not mean a worker has no knowledge, effort or value. Domestic, agricultural and manual tasks can require substantial learned skills even when formal credentials are absent. Qualifications, experience and opportunity to train should not be collapsed into a hierarchy of people.",
+          "Reconsider: These labels do not mean a worker has no knowledge, effort or value. Domestic, agricultural and manual tasks can require substantial learned skills even when formal credentials are absent. Qualifications, experience and opportunity to train should not be collapsed into a hierarchy of people.",
+          "Correct. These labels do not mean a worker has no knowledge, effort or value. Domestic, agricultural and manual tasks can require substantial learned skills even when formal credentials are absent. Qualifications, experience and opportunity to train should not be collapsed into a hierarchy of people."
+        ],
+        "hints": [
+          "The exercise uses skilled for work involving special training and expertise, and unskilled for its contrasting textbook category.",
+          "These labels do not mean a worker has no knowledge, effort or value. Domestic, agricultural and manual tasks can require substantial learned skills even when formal credentials are absent. Qualifications, experience and opportunity to train should not be collapsed into a hierarchy of people."
+        ],
+        "explorer": "work-cases"
+      },
+      {
+        "id": "ss9-paid",
+        "section": 1,
+        "title": "Recognise payment for work",
+        "intro": "Paid work provides wages, salary, profit or another agreed material return.",
+        "simple": "Paid work provides wages, salary, profit or another agreed material return.",
+        "example": [
+          "Paid work provides wages, salary, profit or another agreed material return.",
+          "The source examples include farming, factories, teaching, construction and vehicle repair. The same kind of activity can be paid or unpaid depending on the arrangement: paid cooking in a restaurant differs from unpaid cooking at home. Occupation alone does not establish payment or employment status."
+        ],
+        "question": "Which fact identifies a paid arrangement?",
+        "options": [
+          "Only whether the task is physically demanding",
+          "An agreed material return for the work",
+          "The worker’s gender"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source examples include farming, factories, teaching, construction and vehicle repair. The same kind of activity can be paid or unpaid depending on the arrangement: paid cooking in a restaurant differs from unpaid cooking at home. Occupation alone does not establish payment or employment status.",
+          "Correct. The source examples include farming, factories, teaching, construction and vehicle repair. The same kind of activity can be paid or unpaid depending on the arrangement: paid cooking in a restaurant differs from unpaid cooking at home. Occupation alone does not establish payment or employment status.",
+          "Reconsider: The source examples include farming, factories, teaching, construction and vehicle repair. The same kind of activity can be paid or unpaid depending on the arrangement: paid cooking in a restaurant differs from unpaid cooking at home. Occupation alone does not establish payment or employment status."
+        ],
+        "hints": [
+          "Paid work provides wages, salary, profit or another agreed material return.",
+          "The source examples include farming, factories, teaching, construction and vehicle repair. The same kind of activity can be paid or unpaid depending on the arrangement: paid cooking in a restaurant differs from unpaid cooking at home. Occupation alone does not establish payment or employment status."
+        ],
+        "explorer": "work-cases"
+      },
+      {
+        "id": "ss9-unpaid",
+        "section": 1,
+        "title": "Give unpaid productive work its proper meaning",
+        "intro": "Unpaid care, household services and volunteering can be purposeful work even without remuneration.",
+        "simple": "Unpaid care, household services and volunteering can be purposeful work even without remuneration.",
+        "example": [
+          "Unpaid care, household services and volunteering can be purposeful work even without remuneration.",
+          "The source describes an artist painting for personal satisfaction and treats unpaid activity as purposeless. That is too narrow: caring, cooking and volunteering can meet real needs. Leisure painting may be recreation rather than productive work under statistical definitions. Distinguish unpaid work, leisure and employment; lack of pay does not imply lack of purpose or value."
+        ],
+        "question": "Which correction is needed?",
+        "options": [
+          "Unpaid work can have a definite purpose and social value",
+          "All unpaid care is purposeless",
+          "Only paid people contribute to society"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source describes an artist painting for personal satisfaction and treats unpaid activity as purposeless. That is too narrow: caring, cooking and volunteering can meet real needs. Leisure painting may be recreation rather than productive work under statistical definitions. Distinguish unpaid work, leisure and employment; lack of pay does not imply lack of purpose or value.",
+          "Reconsider: The source describes an artist painting for personal satisfaction and treats unpaid activity as purposeless. That is too narrow: caring, cooking and volunteering can meet real needs. Leisure painting may be recreation rather than productive work under statistical definitions. Distinguish unpaid work, leisure and employment; lack of pay does not imply lack of purpose or value.",
+          "Reconsider: The source describes an artist painting for personal satisfaction and treats unpaid activity as purposeless. That is too narrow: caring, cooking and volunteering can meet real needs. Leisure painting may be recreation rather than productive work under statistical definitions. Distinguish unpaid work, leisure and employment; lack of pay does not imply lack of purpose or value."
+        ],
+        "hints": [
+          "Unpaid care, household services and volunteering can be purposeful work even without remuneration.",
+          "The source describes an artist painting for personal satisfaction and treats unpaid activity as purposeless. That is too narrow: caring, cooking and volunteering can meet real needs. Leisure painting may be recreation rather than productive work under statistical definitions. Distinguish unpaid work, leisure and employment; lack of pay does not imply lack of purpose or value."
+        ],
+        "explorer": "work-cases"
+      },
+      {
+        "id": "ss9-forced",
+        "section": 1,
+        "title": "Separate voluntary unpaid work from coercion",
+        "intro": "Forced labour and historically coerced unpaid labour must not be confused with voluntary care or recreation.",
+        "simple": "Forced labour and historically coerced unpaid labour must not be confused with voluntary care or recreation.",
+        "example": [
+          "Forced labour and historically coerced unpaid labour must not be confused with voluntary care or recreation.",
+          "The source refers to caste and racial systems compelling people to work without pay. These describe exploitation, not a legitimate natural duty of a group. Consent, freedom and protection from exploitation matter; Article 23 prohibits traffic in human beings, begar and similar forms of forced labour, subject to its constitutional provisions."
+        ],
+        "question": "Which distinction matters?",
+        "options": [
+          "No wages means consent is irrelevant",
+          "Caste makes coercion acceptable",
+          "Coerced labour differs from freely chosen unpaid contribution"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source refers to caste and racial systems compelling people to work without pay. These describe exploitation, not a legitimate natural duty of a group. Consent, freedom and protection from exploitation matter; Article 23 prohibits traffic in human beings, begar and similar forms of forced labour, subject to its constitutional provisions.",
+          "Reconsider: The source refers to caste and racial systems compelling people to work without pay. These describe exploitation, not a legitimate natural duty of a group. Consent, freedom and protection from exploitation matter; Article 23 prohibits traffic in human beings, begar and similar forms of forced labour, subject to its constitutional provisions.",
+          "Correct. The source refers to caste and racial systems compelling people to work without pay. These describe exploitation, not a legitimate natural duty of a group. Consent, freedom and protection from exploitation matter; Article 23 prohibits traffic in human beings, begar and similar forms of forced labour, subject to its constitutional provisions."
+        ],
+        "hints": [
+          "Forced labour and historically coerced unpaid labour must not be confused with voluntary care or recreation.",
+          "The source refers to caste and racial systems compelling people to work without pay. These describe exploitation, not a legitimate natural duty of a group. Consent, freedom and protection from exploitation matter; Article 23 prohibits traffic in human beings, begar and similar forms of forced labour, subject to its constitutional provisions."
+        ],
+        "explorer": "work-cases"
+      },
+      {
+        "id": "ss9-discrimination",
+        "section": 1,
+        "title": "Distinguish a wage gap from the evidence needed to explain it",
+        "intro": "Labour discrimination concerns unjust unequal treatment in access, conditions, responsibility or remuneration.",
+        "simple": "Labour discrimination concerns unjust unequal treatment in access, conditions, responsibility or remuneration.",
+        "example": [
+          "Labour discrimination concerns unjust unequal treatment in access, conditions, responsibility or remuneration.",
+          "The source discusses gender bias in jobs, responsibility and pay, including unequal pay for the same work. A wage comparison needs comparable tasks, hours, skill, responsibility and conditions; a gap is a reason to examine evidence, not a complete legal finding. Do not assume discrimination cannot occur in government or organised workplaces."
+        ],
+        "question": "What makes a comparison more informative?",
+        "options": [
+          "Assume every pay difference has one identical cause",
+          "Compare work and conditions, then investigate unequal treatment",
+          "Infer fairness only from an employer’s label"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source discusses gender bias in jobs, responsibility and pay, including unequal pay for the same work. A wage comparison needs comparable tasks, hours, skill, responsibility and conditions; a gap is a reason to examine evidence, not a complete legal finding. Do not assume discrimination cannot occur in government or organised workplaces.",
+          "Correct. The source discusses gender bias in jobs, responsibility and pay, including unequal pay for the same work. A wage comparison needs comparable tasks, hours, skill, responsibility and conditions; a gap is a reason to examine evidence, not a complete legal finding. Do not assume discrimination cannot occur in government or organised workplaces.",
+          "Reconsider: The source discusses gender bias in jobs, responsibility and pay, including unequal pay for the same work. A wage comparison needs comparable tasks, hours, skill, responsibility and conditions; a gap is a reason to examine evidence, not a complete legal finding. Do not assume discrimination cannot occur in government or organised workplaces."
+        ],
+        "hints": [
+          "Labour discrimination concerns unjust unequal treatment in access, conditions, responsibility or remuneration.",
+          "The source discusses gender bias in jobs, responsibility and pay, including unequal pay for the same work. A wage comparison needs comparable tasks, hours, skill, responsibility and conditions; a gap is a reason to examine evidence, not a complete legal finding. Do not assume discrimination cannot occur in government or organised workplaces."
+        ],
+        "explorer": "worker-protections"
+      },
+      {
+        "id": "ss9-equalpay",
+        "section": 1,
+        "title": "Read the pay-law reference with its date",
+        "intro": "The source’s 1976 reference is the Equal Remuneration Act, 1976, rather than an Act formally titled Equal Wages Act.",
+        "simple": "The source’s 1976 reference is the Equal Remuneration Act, 1976, rather than an Act formally titled Equal Wages Act.",
+        "example": [
+          "The source’s 1976 reference is the Equal Remuneration Act, 1976, rather than an Act formally titled Equal Wages Act.",
+          "This is historical legal context. The Code on Wages, 2019 consolidates wage legislation including the 1976 Act; implementation notifications brought provisions into force from 21 November 2025. Its gender-discrimination provisions concern wages for the same or similar work and related matters. Actual rights and procedures require the applicable current text and rules, not the textbook’s old title alone."
+        ],
+        "question": "Which reading is accurate?",
+        "options": [
+          "Correct the historical title and distinguish the later Code",
+          "The textbook title is the complete current law",
+          "A law’s enactment proves discrimination ended"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This is historical legal context. The Code on Wages, 2019 consolidates wage legislation including the 1976 Act; implementation notifications brought provisions into force from 21 November 2025. Its gender-discrimination provisions concern wages for the same or similar work and related matters. Actual rights and procedures require the applicable current text and rules, not the textbook’s old title alone.",
+          "Reconsider: This is historical legal context. The Code on Wages, 2019 consolidates wage legislation including the 1976 Act; implementation notifications brought provisions into force from 21 November 2025. Its gender-discrimination provisions concern wages for the same or similar work and related matters. Actual rights and procedures require the applicable current text and rules, not the textbook’s old title alone.",
+          "Reconsider: This is historical legal context. The Code on Wages, 2019 consolidates wage legislation including the 1976 Act; implementation notifications brought provisions into force from 21 November 2025. Its gender-discrimination provisions concern wages for the same or similar work and related matters. Actual rights and procedures require the applicable current text and rules, not the textbook’s old title alone."
+        ],
+        "hints": [
+          "The source’s 1976 reference is the Equal Remuneration Act, 1976, rather than an Act formally titled Equal Wages Act.",
+          "This is historical legal context. The Code on Wages, 2019 consolidates wage legislation including the 1976 Act; implementation notifications brought provisions into force from 21 November 2025. Its gender-discrimination provisions concern wages for the same or similar work and related matters. Actual rights and procedures require the applicable current text and rules, not the textbook’s old title alone."
+        ],
+        "explorer": "worker-protections"
+      },
+      {
+        "id": "ss9-unemployment",
+        "section": 2,
+        "title": "Separate unemployment from every absence of a job",
+        "intro": "The textbook describes people willing and able to work who cannot obtain an opportunity.",
+        "simple": "The textbook describes people willing and able to work who cannot obtain an opportunity.",
+        "example": [
+          "The textbook describes people willing and able to work who cannot obtain an opportunity.",
+          "Statistical definitions also specify working age, reference period, employment, availability and job seeking, with national survey rules and exceptions. A full-time student not seeking work, or a person unavailable because of care responsibilities, is not automatically counted as unemployed. This does not mean their needs or unpaid contributions are unimportant."
+        ],
+        "question": "Why does a rate need a definition?",
+        "options": [
+          "Every child is automatically unemployed",
+          "Only the entire population can be its denominator",
+          "Not everyone without paid employment is in the same statistical category"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Statistical definitions also specify working age, reference period, employment, availability and job seeking, with national survey rules and exceptions. A full-time student not seeking work, or a person unavailable because of care responsibilities, is not automatically counted as unemployed. This does not mean their needs or unpaid contributions are unimportant.",
+          "Reconsider: Statistical definitions also specify working age, reference period, employment, availability and job seeking, with national survey rules and exceptions. A full-time student not seeking work, or a person unavailable because of care responsibilities, is not automatically counted as unemployed. This does not mean their needs or unpaid contributions are unimportant.",
+          "Correct. Statistical definitions also specify working age, reference period, employment, availability and job seeking, with national survey rules and exceptions. A full-time student not seeking work, or a person unavailable because of care responsibilities, is not automatically counted as unemployed. This does not mean their needs or unpaid contributions are unimportant."
+        ],
+        "hints": [
+          "The textbook describes people willing and able to work who cannot obtain an opportunity.",
+          "Statistical definitions also specify working age, reference period, employment, availability and job seeking, with national survey rules and exceptions. A full-time student not seeking work, or a person unavailable because of care responsibilities, is not automatically counted as unemployed. This does not mean their needs or unpaid contributions are unimportant."
+        ],
+        "explorer": "employment-model"
+      },
+      {
+        "id": "ss9-causes",
+        "section": 2,
+        "title": "Explain causes as mechanisms, not inevitable outcomes",
+        "intro": "The source names population pressure, mechanisation, excessive task division, inequality, lack of capital and illiteracy.",
+        "simple": "The source names population pressure, mechanisation, excessive task division, inequality, lack of capital and illiteracy.",
+        "example": [
+          "The source names population pressure, mechanisation, excessive task division, inequality, lack of capital and illiteracy.",
+          "These can affect opportunities through demand, skills, investment, access and job design. Technology can displace some tasks while creating others; its net effect is not established by one example. Lack of vacancies and mismatch between locations, skills and available work can coexist. Do not explain all unemployment as unwillingness to work."
+        ],
+        "question": "Which account is careful?",
+        "options": [
+          "Every unemployed person chooses exclusion",
+          "Explain demand, skills and access with evidence",
+          "Every machine necessarily reduces total jobs forever"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: These can affect opportunities through demand, skills, investment, access and job design. Technology can displace some tasks while creating others; its net effect is not established by one example. Lack of vacancies and mismatch between locations, skills and available work can coexist. Do not explain all unemployment as unwillingness to work.",
+          "Correct. These can affect opportunities through demand, skills, investment, access and job design. Technology can displace some tasks while creating others; its net effect is not established by one example. Lack of vacancies and mismatch between locations, skills and available work can coexist. Do not explain all unemployment as unwillingness to work.",
+          "Reconsider: These can affect opportunities through demand, skills, investment, access and job design. Technology can displace some tasks while creating others; its net effect is not established by one example. Lack of vacancies and mismatch between locations, skills and available work can coexist. Do not explain all unemployment as unwillingness to work."
+        ],
+        "hints": [
+          "The source names population pressure, mechanisation, excessive task division, inequality, lack of capital and illiteracy.",
+          "These can affect opportunities through demand, skills, investment, access and job design. Technology can displace some tasks while creating others; its net effect is not established by one example. Lack of vacancies and mismatch between locations, skills and available work can coexist. Do not explain all unemployment as unwillingness to work."
+        ],
+        "explorer": "employment-model"
+      },
+      {
+        "id": "ss9-effects",
+        "section": 2,
+        "title": "Discuss harms without stereotyping unemployed people",
+        "intro": "Loss of employment can reduce income, increase insecurity and strain health or relationships.",
+        "simple": "Loss of employment can reduce income, increase insecurity and strain health or relationships.",
+        "example": [
+          "Loss of employment can reduce income, increase insecurity and strain health or relationships.",
+          "The book lists poverty and harmful social outcomes. These are risks shaped by support and context, not inevitable consequences or character traits. Being unemployed does not imply criminality, corruption or inferior worth. Social protection, access to services and fair opportunities can reduce harms."
+        ],
+        "question": "Which inference is justified?",
+        "options": [
+          "Insecurity can have social effects without determining anyone’s conduct",
+          "Every unemployed person commits a crime",
+          "Employment status measures moral worth"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book lists poverty and harmful social outcomes. These are risks shaped by support and context, not inevitable consequences or character traits. Being unemployed does not imply criminality, corruption or inferior worth. Social protection, access to services and fair opportunities can reduce harms.",
+          "Reconsider: The book lists poverty and harmful social outcomes. These are risks shaped by support and context, not inevitable consequences or character traits. Being unemployed does not imply criminality, corruption or inferior worth. Social protection, access to services and fair opportunities can reduce harms.",
+          "Reconsider: The book lists poverty and harmful social outcomes. These are risks shaped by support and context, not inevitable consequences or character traits. Being unemployed does not imply criminality, corruption or inferior worth. Social protection, access to services and fair opportunities can reduce harms."
+        ],
+        "hints": [
+          "Loss of employment can reduce income, increase insecurity and strain health or relationships.",
+          "The book lists poverty and harmful social outcomes. These are risks shaped by support and context, not inevitable consequences or character traits. Being unemployed does not imply criminality, corruption or inferior worth. Social protection, access to services and fair opportunities can reduce harms."
+        ],
+        "explorer": "employment-model"
+      },
+      {
+        "id": "ss9-remedies",
+        "section": 2,
+        "title": "Match a response to the barrier",
+        "intro": "Responses can include education, vocational training, investment, agriculture, small industry, rural development and employment support.",
+        "simple": "Responses can include education, vocational training, investment, agriculture, small industry, rural development and employment support.",
+        "example": [
+          "Responses can include education, vocational training, investment, agriculture, small industry, rural development and employment support.",
+          "The source also mentions historical Five-Year Plans and service-sector IT opportunities. Identify whether a measure addresses skills, demand, access or security, and assess outcomes rather than only announcements. Training alone cannot create every required vacancy; rural or cottage work needs viable markets and decent conditions. Lists of historical programmes are not current benefit directories.",
+          "The source also lists population-policy measures among its proposed responses. Explain employment through demand, opportunity and access while respecting rights, rather than blaming individual families or assuming one policy guarantees jobs."
+        ],
+        "question": "Which response is best explained?",
+        "options": [
+          "Assume any training course guarantees a job",
+          "Treat one sector as the only possible employer",
+          "Name the barrier, mechanism and evidence of results"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source also mentions historical Five-Year Plans and service-sector IT opportunities. Identify whether a measure addresses skills, demand, access or security, and assess outcomes rather than only announcements. Training alone cannot create every required vacancy; rural or cottage work needs viable markets and decent conditions. Lists of historical programmes are not current benefit directories.",
+          "Reconsider: The source also mentions historical Five-Year Plans and service-sector IT opportunities. Identify whether a measure addresses skills, demand, access or security, and assess outcomes rather than only announcements. Training alone cannot create every required vacancy; rural or cottage work needs viable markets and decent conditions. Lists of historical programmes are not current benefit directories.",
+          "Correct. The source also mentions historical Five-Year Plans and service-sector IT opportunities. Identify whether a measure addresses skills, demand, access or security, and assess outcomes rather than only announcements. Training alone cannot create every required vacancy; rural or cottage work needs viable markets and decent conditions. Lists of historical programmes are not current benefit directories."
+        ],
+        "hints": [
+          "Responses can include education, vocational training, investment, agriculture, small industry, rural development and employment support.",
+          "The source also mentions historical Five-Year Plans and service-sector IT opportunities. Identify whether a measure addresses skills, demand, access or security, and assess outcomes rather than only announcements. Training alone cannot create every required vacancy; rural or cottage work needs viable markets and decent conditions. Lists of historical programmes are not current benefit directories."
+        ],
+        "explorer": "employment-model"
+      },
+      {
+        "id": "ss9-matching",
+        "section": 2,
+        "title": "Examine a shortage and unemployment together",
+        "intro": "Vacancies and joblessness can coexist when skills, location, pay, conditions or access do not match.",
+        "simple": "Vacancies and joblessness can coexist when skills, location, pay, conditions or access do not match.",
+        "example": [
+          "Vacancies and joblessness can coexist when skills, location, pay, conditions or access do not match.",
+          "The sidebar attributes some rural shortages to migration and urban shortages to missing skills. Treat it as a claim to investigate, not a universal current fact or blame assigned to young people. Ask about wages, housing, transport, care responsibilities, training, seasonality and vacancies before accepting the discussion prompt that unemployment is not a problem."
+        ],
+        "question": "What evidence would help?",
+        "options": [
+          "A rule that migration is always irresponsible",
+          "Vacancies and jobseekers’ constraints in a defined place and period",
+          "Only an anecdote that one vacancy exists"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The sidebar attributes some rural shortages to migration and urban shortages to missing skills. Treat it as a claim to investigate, not a universal current fact or blame assigned to young people. Ask about wages, housing, transport, care responsibilities, training, seasonality and vacancies before accepting the discussion prompt that unemployment is not a problem.",
+          "Correct. The sidebar attributes some rural shortages to migration and urban shortages to missing skills. Treat it as a claim to investigate, not a universal current fact or blame assigned to young people. Ask about wages, housing, transport, care responsibilities, training, seasonality and vacancies before accepting the discussion prompt that unemployment is not a problem.",
+          "Reconsider: The sidebar attributes some rural shortages to migration and urban shortages to missing skills. Treat it as a claim to investigate, not a universal current fact or blame assigned to young people. Ask about wages, housing, transport, care responsibilities, training, seasonality and vacancies before accepting the discussion prompt that unemployment is not a problem."
+        ],
+        "hints": [
+          "Vacancies and joblessness can coexist when skills, location, pay, conditions or access do not match.",
+          "The sidebar attributes some rural shortages to migration and urban shortages to missing skills. Treat it as a claim to investigate, not a universal current fact or blame assigned to young people. Ask about wages, housing, transport, care responsibilities, training, seasonality and vacancies before accepting the discussion prompt that unemployment is not a problem."
+        ],
+        "explorer": "employment-model"
+      },
+      {
+        "id": "ss9-types",
+        "section": 2,
+        "title": "Use supplementary types to clarify the mechanism",
+        "intro": "Seasonal, frictional and structural unemployment describe different mechanisms; underemployment is related but distinct.",
+        "simple": "Seasonal, frictional and structural unemployment describe different mechanisms; underemployment is related but distinct.",
+        "example": [
+          "Seasonal, frictional and structural unemployment describe different mechanisms; underemployment is related but distinct.",
+          "This is app-authored extension: the learning goals mention types, but the supplied prose does not develop a full taxonomy. Seasonal work varies with the calendar; frictional gaps occur between jobs; structural mismatch concerns changing demand and skills. Disguised or time-related underemployment can involve people counted as employed. These categories can overlap and do not diagnose a real person without evidence."
+        ],
+        "question": "Which distinction is sound?",
+        "options": [
+          "Someone with insufficient hours may be employed but underemployed",
+          "Seasonal work is always continuous all year",
+          "Every type has one identical remedy"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. This is app-authored extension: the learning goals mention types, but the supplied prose does not develop a full taxonomy. Seasonal work varies with the calendar; frictional gaps occur between jobs; structural mismatch concerns changing demand and skills. Disguised or time-related underemployment can involve people counted as employed. These categories can overlap and do not diagnose a real person without evidence.",
+          "Reconsider: This is app-authored extension: the learning goals mention types, but the supplied prose does not develop a full taxonomy. Seasonal work varies with the calendar; frictional gaps occur between jobs; structural mismatch concerns changing demand and skills. Disguised or time-related underemployment can involve people counted as employed. These categories can overlap and do not diagnose a real person without evidence.",
+          "Reconsider: This is app-authored extension: the learning goals mention types, but the supplied prose does not develop a full taxonomy. Seasonal work varies with the calendar; frictional gaps occur between jobs; structural mismatch concerns changing demand and skills. Disguised or time-related underemployment can involve people counted as employed. These categories can overlap and do not diagnose a real person without evidence."
+        ],
+        "hints": [
+          "Seasonal, frictional and structural unemployment describe different mechanisms; underemployment is related but distinct.",
+          "This is app-authored extension: the learning goals mention types, but the supplied prose does not develop a full taxonomy. Seasonal work varies with the calendar; frictional gaps occur between jobs; structural mismatch concerns changing demand and skills. Disguised or time-related underemployment can involve people counted as employed. These categories can overlap and do not diagnose a real person without evidence."
+        ],
+        "explorer": "employment-model"
+      },
+      {
+        "id": "ss9-organised",
+        "section": 3,
+        "title": "Read organised employment as a set of arrangements",
+        "intro": "The source associates organised work with recorded terms, hierarchy, specified hours and more regular arrangements.",
+        "simple": "The source associates organised work with recorded terms, hierarchy, specified hours and more regular arrangements.",
+        "example": [
+          "The source associates organised work with recorded terms, hierarchy, specified hours and more regular arrangements.",
+          "Its examples include banks, insurance, educational institutions, government, armed forces and private companies. It lists wages, allowances, paid leave, medical benefits and pensions, but actual entitlements depend on the employer, contract, law and eligibility. A job in a company does not automatically guarantee permanence, every benefit or equal treatment."
+        ],
+        "question": "Which evidence is useful?",
+        "options": [
+          "Only the workplace’s name",
+          "An assumption every company job has a pension",
+          "Written terms, records and applicable protections"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Its examples include banks, insurance, educational institutions, government, armed forces and private companies. It lists wages, allowances, paid leave, medical benefits and pensions, but actual entitlements depend on the employer, contract, law and eligibility. A job in a company does not automatically guarantee permanence, every benefit or equal treatment.",
+          "Reconsider: Its examples include banks, insurance, educational institutions, government, armed forces and private companies. It lists wages, allowances, paid leave, medical benefits and pensions, but actual entitlements depend on the employer, contract, law and eligibility. A job in a company does not automatically guarantee permanence, every benefit or equal treatment.",
+          "Correct. Its examples include banks, insurance, educational institutions, government, armed forces and private companies. It lists wages, allowances, paid leave, medical benefits and pensions, but actual entitlements depend on the employer, contract, law and eligibility. A job in a company does not automatically guarantee permanence, every benefit or equal treatment."
+        ],
+        "hints": [
+          "The source associates organised work with recorded terms, hierarchy, specified hours and more regular arrangements.",
+          "Its examples include banks, insurance, educational institutions, government, armed forces and private companies. It lists wages, allowances, paid leave, medical benefits and pensions, but actual entitlements depend on the employer, contract, law and eligibility. A job in a company does not automatically guarantee permanence, every benefit or equal treatment."
+        ],
+        "explorer": "worker-protections"
+      },
+      {
+        "id": "ss9-unorganised",
+        "section": 3,
+        "title": "Recognise insecurity without treating a sector as law-free",
+        "intro": "The source describes domestic workers, construction and agricultural labour, hawkers, repair workers and push-cart vendors.",
+        "simple": "The source describes domestic workers, construction and agricultural labour, hawkers, repair workers and push-cart vendors.",
+        "example": [
+          "The source describes domestic workers, construction and agricultural labour, hawkers, repair workers and push-cart vendors.",
+          "Informal arrangements can involve uncertain wages, missing records, irregular work and weaker access to protection. Workers may be employees or self-employed; not all receive daily wages. The statement that the sector is wholly outside government control is too broad: laws and schemes can apply, although coverage, enforcement and access vary. A union is not the sole test of organised status."
+        ],
+        "question": "Which statement is accurate?",
+        "options": [
+          "Every vendor is someone else’s employee",
+          "Weak access to protection is different from having no rights",
+          "Every informal worker has no legal protection"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Informal arrangements can involve uncertain wages, missing records, irregular work and weaker access to protection. Workers may be employees or self-employed; not all receive daily wages. The statement that the sector is wholly outside government control is too broad: laws and schemes can apply, although coverage, enforcement and access vary. A union is not the sole test of organised status.",
+          "Correct. Informal arrangements can involve uncertain wages, missing records, irregular work and weaker access to protection. Workers may be employees or self-employed; not all receive daily wages. The statement that the sector is wholly outside government control is too broad: laws and schemes can apply, although coverage, enforcement and access vary. A union is not the sole test of organised status.",
+          "Reconsider: Informal arrangements can involve uncertain wages, missing records, irregular work and weaker access to protection. Workers may be employees or self-employed; not all receive daily wages. The statement that the sector is wholly outside government control is too broad: laws and schemes can apply, although coverage, enforcement and access vary. A union is not the sole test of organised status."
+        ],
+        "hints": [
+          "The source describes domestic workers, construction and agricultural labour, hawkers, repair workers and push-cart vendors.",
+          "Informal arrangements can involve uncertain wages, missing records, irregular work and weaker access to protection. Workers may be employees or self-employed; not all receive daily wages. The statement that the sector is wholly outside government control is too broad: laws and schemes can apply, although coverage, enforcement and access vary. A union is not the sole test of organised status."
+        ],
+        "explorer": "worker-protections"
+      },
+      {
+        "id": "ss9-comparison",
+        "section": 3,
+        "title": "Compare conditions rather than rank workers",
+        "intro": "Compare records, predictability, hours, paid leave, safety, social security and access to remedy.",
+        "simple": "Compare records, predictability, hours, paid leave, safety, social security and access to remedy.",
+        "example": [
+          "Compare records, predictability, hours, paid leave, safety, social security and access to remedy.",
+          "Organised and unorganised are broad source categories, not a ranking of dignity or a complete legal classification from an occupation name. Use fictional arrangements or publicly available general information; do not collect identifiable wages, employer allegations or personal histories for this exercise."
+        ],
+        "question": "What should a comparison examine?",
+        "options": [
+          "Actual arrangements and access to protections",
+          "A worker’s intrinsic worth",
+          "Only clothing or appearance"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Organised and unorganised are broad source categories, not a ranking of dignity or a complete legal classification from an occupation name. Use fictional arrangements or publicly available general information; do not collect identifiable wages, employer allegations or personal histories for this exercise.",
+          "Reconsider: Organised and unorganised are broad source categories, not a ranking of dignity or a complete legal classification from an occupation name. Use fictional arrangements or publicly available general information; do not collect identifiable wages, employer allegations or personal histories for this exercise.",
+          "Reconsider: Organised and unorganised are broad source categories, not a ranking of dignity or a complete legal classification from an occupation name. Use fictional arrangements or publicly available general information; do not collect identifiable wages, employer allegations or personal histories for this exercise."
+        ],
+        "hints": [
+          "Compare records, predictability, hours, paid leave, safety, social security and access to remedy.",
+          "Organised and unorganised are broad source categories, not a ranking of dignity or a complete legal classification from an occupation name. Use fictional arrangements or publicly available general information; do not collect identifiable wages, employer allegations or personal histories for this exercise."
+        ],
+        "explorer": "worker-protections"
+      },
+      {
+        "id": "ss9-review",
+        "section": 3,
+        "title": "Connect production, work and fair opportunity",
+        "intro": "A complete explanation links contributions, training, payment, labour-market definitions and working conditions.",
+        "simple": "A complete explanation links contributions, training, payment, labour-market definitions and working conditions.",
+        "example": [
+          "A complete explanation links contributions, training, payment, labour-market definitions and working conditions.",
+          "Keep unpaid care visible, distinguish coercion from consent, and separate historical legal references from current rules. Use evidence to analyse unemployment and discrimination without blaming whole groups. Written responses are self-review, not findings about a real employer or person."
+        ],
+        "question": "Which explanation is strongest?",
+        "options": [
+          "A stereotype about an occupation",
+          "A claim that every law is fully implemented",
+          "Concept, example, evidence and limits"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Keep unpaid care visible, distinguish coercion from consent, and separate historical legal references from current rules. Use evidence to analyse unemployment and discrimination without blaming whole groups. Written responses are self-review, not findings about a real employer or person.",
+          "Reconsider: Keep unpaid care visible, distinguish coercion from consent, and separate historical legal references from current rules. Use evidence to analyse unemployment and discrimination without blaming whole groups. Written responses are self-review, not findings about a real employer or person.",
+          "Correct. Keep unpaid care visible, distinguish coercion from consent, and separate historical legal references from current rules. Use evidence to analyse unemployment and discrimination without blaming whole groups. Written responses are self-review, not findings about a real employer or person."
+        ],
+        "hints": [
+          "A complete explanation links contributions, training, payment, labour-market definitions and working conditions.",
+          "Keep unpaid care visible, distinguish coercion from consent, and separate historical legal references from current rules. Use evidence to analyse unemployment and discrimination without blaming whole groups. Written responses are self-review, not findings about a real employer or person."
+        ],
+        "explorer": "worker-protections"
+      }
+    ],
+    "summary": [
+      [
+        "Production and skills",
+        "Division of tasks builds interdependence; expertise is not a hierarchy of human worth."
+      ],
+      [
+        "Payment and dignity",
+        "Unpaid productive work, leisure and forced labour are different; rights and consent matter."
+      ],
+      [
+        "Employment and opportunity",
+        "Definitions, demand, skills and access all matter; do not blame unemployed people."
+      ],
+      [
+        "Conditions and evidence",
+        "Compare arrangements and protections, with historical law labels and current-rule notes."
+      ]
+    ],
+    "challenge": "Explain the relationships using an example, relevant evidence and clear limits. Distinguish textbook conventions from updated facts and illustrative models."
+  },
+  {
+    "number": 10,
+    "subject": "social-science",
+    "discipline": "Geography",
+    "part": 1,
+    "slug": "india-geographical-position-and-physical-features",
+    "title": "India — Geographical Position and Physical Features",
+    "sections": [
+      "Heritage, position and extent · pp89–91",
+      "Coordinates, neighbours and boundaries · pp90–92",
+      "Northern mountains and plains · pp92–93",
+      "Plateau and Ghats · pp94–95",
+      "Coasts, islands and map practice · pp95–97"
+    ],
+    "steps": [
+      {
+        "id": "ss10-heritage",
+        "section": 0,
+        "title": "Connect diversity and the subcontinent",
+        "intro": "India’s varied relief, climate, vegetation, languages and communities contribute to a diverse heritage.",
+        "simple": "India’s varied relief, climate, vegetation, languages and communities contribute to a diverse heritage.",
+        "example": [
+          "India’s varied relief, climate, vegetation, languages and communities contribute to a diverse heritage.",
+          "Subcontinent describes a large, geographically distinctive region within a continent; it is not a separate continent or a claim that no other country has diversity. The source connects the name India with the Indus and presents the traditional account of Bharat associated with King Bharata. Distinguish a traditional naming account from a complete linguistic history."
+        ],
+        "question": "Which statement is accurate?",
+        "options": [
+          "India forms part of the South Asian subcontinent",
+          "India is a separate continent",
+          "Diversity belongs to only one country"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Subcontinent describes a large, geographically distinctive region within a continent; it is not a separate continent or a claim that no other country has diversity. The source connects the name India with the Indus and presents the traditional account of Bharat associated with King Bharata. Distinguish a traditional naming account from a complete linguistic history.",
+          "Reconsider: Subcontinent describes a large, geographically distinctive region within a continent; it is not a separate continent or a claim that no other country has diversity. The source connects the name India with the Indus and presents the traditional account of Bharat associated with King Bharata. Distinguish a traditional naming account from a complete linguistic history.",
+          "Reconsider: Subcontinent describes a large, geographically distinctive region within a continent; it is not a separate continent or a claim that no other country has diversity. The source connects the name India with the Indus and presents the traditional account of Bharat associated with King Bharata. Distinguish a traditional naming account from a complete linguistic history."
+        ],
+        "hints": [
+          "India’s varied relief, climate, vegetation, languages and communities contribute to a diverse heritage.",
+          "Subcontinent describes a large, geographically distinctive region within a continent; it is not a separate continent or a claim that no other country has diversity. The source connects the name India with the Indus and presents the traditional account of Bharat associated with King Bharata. Distinguish a traditional naming account from a complete linguistic history."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-position",
+        "section": 0,
+        "title": "Locate India in South Asia",
+        "intro": "India is in South Asia, north of the Equator and east of the Greenwich meridian.",
+        "simple": "India is in South Asia, north of the Equator and east of the Greenwich meridian.",
+        "example": [
+          "India is in South Asia, north of the Equator and east of the Greenwich meridian.",
+          "The opening line says South-East Asia, but the same chapter later correctly says South Asia. Its mainland broadens northwards and tapers southwards into a peninsula between the Arabian Sea and Bay of Bengal, with the Indian Ocean to the south. Northern and Eastern hemispheres refer to two different reference lines."
+        ],
+        "question": "Which combination is correct?",
+        "options": [
+          "South-East Asia; Southern hemisphere",
+          "South America; Western hemisphere",
+          "South Asia; Northern and Eastern hemispheres"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The opening line says South-East Asia, but the same chapter later correctly says South Asia. Its mainland broadens northwards and tapers southwards into a peninsula between the Arabian Sea and Bay of Bengal, with the Indian Ocean to the south. Northern and Eastern hemispheres refer to two different reference lines.",
+          "Reconsider: The opening line says South-East Asia, but the same chapter later correctly says South Asia. Its mainland broadens northwards and tapers southwards into a peninsula between the Arabian Sea and Bay of Bengal, with the Indian Ocean to the south. Northern and Eastern hemispheres refer to two different reference lines.",
+          "Correct. The opening line says South-East Asia, but the same chapter later correctly says South Asia. Its mainland broadens northwards and tapers southwards into a peninsula between the Arabian Sea and Bay of Bengal, with the Indian Ocean to the south. Northern and Eastern hemispheres refer to two different reference lines."
+        ],
+        "hints": [
+          "India is in South Asia, north of the Equator and east of the Greenwich meridian.",
+          "The opening line says South-East Asia, but the same chapter later correctly says South Asia. Its mainland broadens northwards and tapers southwards into a peninsula between the Arabian Sea and Bay of Bengal, with the Indian Ocean to the south. Northern and Eastern hemispheres refer to two different reference lines."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-size",
+        "section": 0,
+        "title": "Keep area and population measures separate",
+        "intro": "The book gives India’s area as 3,287,263 km², about 32.87 lakh km², and seventh in world area rank.",
+        "simple": "The book gives India’s area as 3,287,263 km², about 32.87 lakh km², and seventh in world area rank.",
+        "example": [
+          "The book gives India’s area as 3,287,263 km², about 32.87 lakh km², and seventh in world area rank.",
+          "Its approximate 2.4% land share and 121 crore population / 17.5% world-population share use different denominators; population figures refer to Census 2011/source-era context. India’s later position as the most populous country does not make the old census count a present-day total. Areas, shares, counts and ranks need their own labels."
+        ],
+        "question": "What does 3,287,263 km² measure?",
+        "options": [
+          "The number of people",
+          "Area, not a population count or distance",
+          "Only the coastline"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Its approximate 2.4% land share and 121 crore population / 17.5% world-population share use different denominators; population figures refer to Census 2011/source-era context. India’s later position as the most populous country does not make the old census count a present-day total. Areas, shares, counts and ranks need their own labels.",
+          "Correct. Its approximate 2.4% land share and 121 crore population / 17.5% world-population share use different denominators; population figures refer to Census 2011/source-era context. India’s later position as the most populous country does not make the old census count a present-day total. Areas, shares, counts and ranks need their own labels.",
+          "Reconsider: Its approximate 2.4% land share and 121 crore population / 17.5% world-population share use different denominators; population figures refer to Census 2011/source-era context. India’s later position as the most populous country does not make the old census count a present-day total. Areas, shares, counts and ranks need their own labels."
+        ],
+        "hints": [
+          "The book gives India’s area as 3,287,263 km², about 32.87 lakh km², and seventh in world area rank.",
+          "Its approximate 2.4% land share and 121 crore population / 17.5% world-population share use different denominators; population figures refer to Census 2011/source-era context. India’s later position as the most populous country does not make the old census count a present-day total. Areas, shares, counts and ranks need their own labels."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-administration",
+        "section": 0,
+        "title": "Separate a city from a territory",
+        "intro": "The source lists 28 States and 8 Union Territories; administrative facts need a reference date.",
+        "simple": "The source lists 28 States and 8 Union Territories; administrative facts need a reference date.",
+        "example": [
+          "The source lists 28 States and 8 Union Territories; administrative facts need a reference date.",
+          "New Delhi is the national capital city within the National Capital Territory of Delhi, not a synonym for the entire NCT. Jammu and Kashmir is a Union Territory. The sidebar lists Srinagar/Jammu, Bhararisain (Gairsain)/Dehradun and Shimla/Dharamshala as capital arrangements; seasonal or second-capital functions differ and require dated verification."
+        ],
+        "question": "Which distinction is correct?",
+        "options": [
+          "New Delhi is a city within the NCT of Delhi",
+          "New Delhi names every part of India",
+          "A second capital changes a State into a country"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. New Delhi is the national capital city within the National Capital Territory of Delhi, not a synonym for the entire NCT. Jammu and Kashmir is a Union Territory. The sidebar lists Srinagar/Jammu, Bhararisain (Gairsain)/Dehradun and Shimla/Dharamshala as capital arrangements; seasonal or second-capital functions differ and require dated verification.",
+          "Reconsider: New Delhi is the national capital city within the National Capital Territory of Delhi, not a synonym for the entire NCT. Jammu and Kashmir is a Union Territory. The sidebar lists Srinagar/Jammu, Bhararisain (Gairsain)/Dehradun and Shimla/Dharamshala as capital arrangements; seasonal or second-capital functions differ and require dated verification.",
+          "Reconsider: New Delhi is the national capital city within the National Capital Territory of Delhi, not a synonym for the entire NCT. Jammu and Kashmir is a Union Territory. The sidebar lists Srinagar/Jammu, Bhararisain (Gairsain)/Dehradun and Shimla/Dharamshala as capital arrangements; seasonal or second-capital functions differ and require dated verification."
+        ],
+        "hints": [
+          "The source lists 28 States and 8 Union Territories; administrative facts need a reference date.",
+          "New Delhi is the national capital city within the National Capital Territory of Delhi, not a synonym for the entire NCT. Jammu and Kashmir is a Union Territory. The sidebar lists Srinagar/Jammu, Bhararisain (Gairsain)/Dehradun and Shimla/Dharamshala as capital arrangements; seasonal or second-capital functions differ and require dated verification."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-latitude",
+        "section": 1,
+        "title": "Distinguish mainland extent from island extent",
+        "intro": "The source’s mainland latitude range is 8°4′N to 37°6′N.",
+        "simple": "The source’s mainland latitude range is 8°4′N to 37°6′N.",
+        "example": [
+          "The source’s mainland latitude range is 8°4′N to 37°6′N.",
+          "It gives north–south extent about 3,214 km, Kanyakumari as the southern mainland tip, and Indira Point on Great Nicobar at about 6°45′N as the southernmost point including islands. Indira Col is named at the northern extreme. Claimed territorial extent and administration must be distinguished when interpreting maps; use the official atlas rather than treating this locator as a boundary decision."
+        ],
+        "question": "Which is farther south?",
+        "options": [
+          "Kanyakumari is always south of every island",
+          "The Tropic of Cancer",
+          "Indira Point, when islands are included"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: It gives north–south extent about 3,214 km, Kanyakumari as the southern mainland tip, and Indira Point on Great Nicobar at about 6°45′N as the southernmost point including islands. Indira Col is named at the northern extreme. Claimed territorial extent and administration must be distinguished when interpreting maps; use the official atlas rather than treating this locator as a boundary decision.",
+          "Reconsider: It gives north–south extent about 3,214 km, Kanyakumari as the southern mainland tip, and Indira Point on Great Nicobar at about 6°45′N as the southernmost point including islands. Indira Col is named at the northern extreme. Claimed territorial extent and administration must be distinguished when interpreting maps; use the official atlas rather than treating this locator as a boundary decision.",
+          "Correct. It gives north–south extent about 3,214 km, Kanyakumari as the southern mainland tip, and Indira Point on Great Nicobar at about 6°45′N as the southernmost point including islands. Indira Col is named at the northern extreme. Claimed territorial extent and administration must be distinguished when interpreting maps; use the official atlas rather than treating this locator as a boundary decision."
+        ],
+        "hints": [
+          "The source’s mainland latitude range is 8°4′N to 37°6′N.",
+          "It gives north–south extent about 3,214 km, Kanyakumari as the southern mainland tip, and Indira Point on Great Nicobar at about 6°45′N as the southernmost point including islands. Indira Col is named at the northern extreme. Claimed territorial extent and administration must be distinguished when interpreting maps; use the official atlas rather than treating this locator as a boundary decision."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-longitude",
+        "section": 1,
+        "title": "Read degrees and minutes carefully",
+        "intro": "The book gives India’s east–west longitude range as 68°7′E to 97°25′E.",
+        "simple": "The book gives India’s east–west longitude range as 68°7′E to 97°25′E.",
+        "example": [
+          "The book gives India’s east–west longitude range as 68°7′E to 97°25′E.",
+          "The east–west extent is about 2,933 km in the source. Angular coordinates are not kilometres; 60 angular minutes make a degree, so 82°30′E is 82.5°E, not 82.30°E. Latitude describes north/south position and longitude east/west position. The two quoted national extents do not describe a rectangular land area."
+        ],
+        "question": "What is 82°30′ in decimal degrees?",
+        "options": [
+          "82.03°",
+          "82.5°",
+          "82.30°"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The east–west extent is about 2,933 km in the source. Angular coordinates are not kilometres; 60 angular minutes make a degree, so 82°30′E is 82.5°E, not 82.30°E. Latitude describes north/south position and longitude east/west position. The two quoted national extents do not describe a rectangular land area.",
+          "Correct. The east–west extent is about 2,933 km in the source. Angular coordinates are not kilometres; 60 angular minutes make a degree, so 82°30′E is 82.5°E, not 82.30°E. Latitude describes north/south position and longitude east/west position. The two quoted national extents do not describe a rectangular land area.",
+          "Reconsider: The east–west extent is about 2,933 km in the source. Angular coordinates are not kilometres; 60 angular minutes make a degree, so 82°30′E is 82.5°E, not 82.30°E. Latitude describes north/south position and longitude east/west position. The two quoted national extents do not describe a rectangular land area."
+        ],
+        "hints": [
+          "The book gives India’s east–west longitude range as 68°7′E to 97°25′E.",
+          "The east–west extent is about 2,933 km in the source. Angular coordinates are not kilometres; 60 angular minutes make a degree, so 82°30′E is 82.5°E, not 82.30°E. Latitude describes north/south position and longitude east/west position. The two quoted national extents do not describe a rectangular land area."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-time",
+        "section": 1,
+        "title": "Separate one standard clock from local solar time",
+        "intro": "Indian Standard Time uses the 82°30′E reference meridian and is UTC+5:30.",
+        "simple": "Indian Standard Time uses the 82°30′E reference meridian and is UTC+5:30.",
+        "example": [
+          "Indian Standard Time uses the 82°30′E reference meridian and is UTC+5:30.",
+          "The source places the meridian through Prayagraj; the standard geographical reference is near Mirzapur in Uttar Pradesh. East–west longitude affects local solar time by about four minutes per degree. Locations across India use the same IST despite differing solar times. This simplified solar comparison is not a proposal for multiple official time zones."
+        ],
+        "question": "Why can two places share IST but have different solar noon?",
+        "options": [
+          "A shared standard clock differs from longitude-based solar time",
+          "Latitude alone sets every official clock",
+          "Every city officially changes IST with its longitude"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source places the meridian through Prayagraj; the standard geographical reference is near Mirzapur in Uttar Pradesh. East–west longitude affects local solar time by about four minutes per degree. Locations across India use the same IST despite differing solar times. This simplified solar comparison is not a proposal for multiple official time zones.",
+          "Reconsider: The source places the meridian through Prayagraj; the standard geographical reference is near Mirzapur in Uttar Pradesh. East–west longitude affects local solar time by about four minutes per degree. Locations across India use the same IST despite differing solar times. This simplified solar comparison is not a proposal for multiple official time zones.",
+          "Reconsider: The source places the meridian through Prayagraj; the standard geographical reference is near Mirzapur in Uttar Pradesh. East–west longitude affects local solar time by about four minutes per degree. Locations across India use the same IST despite differing solar times. This simplified solar comparison is not a proposal for multiple official time zones."
+        ],
+        "hints": [
+          "Indian Standard Time uses the 82°30′E reference meridian and is UTC+5:30.",
+          "The source places the meridian through Prayagraj; the standard geographical reference is near Mirzapur in Uttar Pradesh. East–west longitude affects local solar time by about four minutes per degree. Locations across India use the same IST despite differing solar times. This simplified solar comparison is not a proposal for multiple official time zones."
+        ],
+        "explorer": "india-time"
+      },
+      {
+        "id": "ss10-frontiers",
+        "section": 1,
+        "title": "Distinguish land neighbours and maritime neighbours",
+        "intro": "The book lists Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar and Bangladesh as land neighbours.",
+        "simple": "The book lists Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar and Bangladesh as land neighbours.",
+        "example": [
+          "The book lists Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar and Bangladesh as land neighbours.",
+          "Sri Lanka lies south across water and Maldives southwest. The source’s land-border total is 15,200 km; MHA lists 15,106.7 km. Individual source lengths also differ from current official listings. Afghanistan’s listed border relates to India’s claimed territorial extent; geographic claims, administration and actual boundary arrangements are not interchangeable. Do not sum figures from different editions as one consistent dataset."
+        ],
+        "question": "Which pair is listed as maritime neighbours?",
+        "options": [
+          "Nepal and Bhutan",
+          "China and Afghanistan",
+          "Sri Lanka and Maldives"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Sri Lanka lies south across water and Maldives southwest. The source’s land-border total is 15,200 km; MHA lists 15,106.7 km. Individual source lengths also differ from current official listings. Afghanistan’s listed border relates to India’s claimed territorial extent; geographic claims, administration and actual boundary arrangements are not interchangeable. Do not sum figures from different editions as one consistent dataset.",
+          "Reconsider: Sri Lanka lies south across water and Maldives southwest. The source’s land-border total is 15,200 km; MHA lists 15,106.7 km. Individual source lengths also differ from current official listings. Afghanistan’s listed border relates to India’s claimed territorial extent; geographic claims, administration and actual boundary arrangements are not interchangeable. Do not sum figures from different editions as one consistent dataset.",
+          "Correct. Sri Lanka lies south across water and Maldives southwest. The source’s land-border total is 15,200 km; MHA lists 15,106.7 km. Individual source lengths also differ from current official listings. Afghanistan’s listed border relates to India’s claimed territorial extent; geographic claims, administration and actual boundary arrangements are not interchangeable. Do not sum figures from different editions as one consistent dataset."
+        ],
+        "hints": [
+          "The book lists Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar and Bangladesh as land neighbours.",
+          "Sri Lanka lies south across water and Maldives southwest. The source’s land-border total is 15,200 km; MHA lists 15,106.7 km. Individual source lengths also differ from current official listings. Afghanistan’s listed border relates to India’s claimed territorial extent; geographic claims, administration and actual boundary arrangements are not interchangeable. Do not sum figures from different editions as one consistent dataset."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-lines",
+        "section": 1,
+        "title": "Read named lines with historical and regional scope",
+        "intro": "Radcliffe, McMahon and Durand are names connected with different historical boundary arrangements.",
+        "simple": "Radcliffe, McMahon and Durand are names connected with different historical boundary arrangements.",
+        "example": [
+          "Radcliffe, McMahon and Durand are names connected with different historical boundary arrangements.",
+          "Radcliffe concerns the 1947 partition boundary, including areas now adjoining Bangladesh. McMahon concerns the eastern India–China sector and is disputed by China, not the name of a settled line along the whole border. Durand concerns Afghanistan and what is now Pakistan, not a simple label for the entire present India–Afghanistan frontier. The sidebar compresses these distinctions."
+        ],
+        "question": "Which correction matters?",
+        "options": [
+          "Durand is the name of the Tropic of Cancer",
+          "A named historical line does not settle every present boundary sector",
+          "McMahon names every coastline"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Radcliffe concerns the 1947 partition boundary, including areas now adjoining Bangladesh. McMahon concerns the eastern India–China sector and is disputed by China, not the name of a settled line along the whole border. Durand concerns Afghanistan and what is now Pakistan, not a simple label for the entire present India–Afghanistan frontier. The sidebar compresses these distinctions.",
+          "Correct. Radcliffe concerns the 1947 partition boundary, including areas now adjoining Bangladesh. McMahon concerns the eastern India–China sector and is disputed by China, not the name of a settled line along the whole border. Durand concerns Afghanistan and what is now Pakistan, not a simple label for the entire present India–Afghanistan frontier. The sidebar compresses these distinctions.",
+          "Reconsider: Radcliffe concerns the 1947 partition boundary, including areas now adjoining Bangladesh. McMahon concerns the eastern India–China sector and is disputed by China, not the name of a settled line along the whole border. Durand concerns Afghanistan and what is now Pakistan, not a simple label for the entire present India–Afghanistan frontier. The sidebar compresses these distinctions."
+        ],
+        "hints": [
+          "Radcliffe, McMahon and Durand are names connected with different historical boundary arrangements.",
+          "Radcliffe concerns the 1947 partition boundary, including areas now adjoining Bangladesh. McMahon concerns the eastern India–China sector and is disputed by China, not the name of a settled line along the whole border. Durand concerns Afghanistan and what is now Pakistan, not a simple label for the entire present India–Afghanistan frontier. The sidebar compresses these distinctions."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-divisions",
+        "section": 2,
+        "title": "Use the book’s four-part relief classification",
+        "intro": "The chapter groups relief into Northern Mountains, Northern Great Plains, Peninsular Plateau and Coastal Plains.",
+        "simple": "The chapter groups relief into Northern Mountains, Northern Great Plains, Peninsular Plateau and Coastal Plains.",
+        "example": [
+          "The chapter groups relief into Northern Mountains, Northern Great Plains, Peninsular Plateau and Coastal Plains.",
+          "Islands are discussed separately. Other textbooks use six major physiographic divisions, distinguishing the desert and islands; the exercise here expects four under this book’s grouping. Relief concerns elevation and landform, not the same thing as State boundaries or a map’s political colours.",
+          "The source describes a roughly 2,500 km Himalayan belt from the Pamir Knot region in the west towards Arunachal Pradesh in the east, with high peaks, deep valleys and glaciers. This is a broad textbook extent, not one straight ridge or an exact boundary for every mountain system."
+        ],
+        "question": "How many divisions does this book’s exercise expect?",
+        "options": [
+          "Four, under its stated grouping",
+          "Every textbook must use exactly the same grouping",
+          "The number of Union Territories"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Islands are discussed separately. Other textbooks use six major physiographic divisions, distinguishing the desert and islands; the exercise here expects four under this book’s grouping. Relief concerns elevation and landform, not the same thing as State boundaries or a map’s political colours.",
+          "Reconsider: Islands are discussed separately. Other textbooks use six major physiographic divisions, distinguishing the desert and islands; the exercise here expects four under this book’s grouping. Relief concerns elevation and landform, not the same thing as State boundaries or a map’s political colours.",
+          "Reconsider: Islands are discussed separately. Other textbooks use six major physiographic divisions, distinguishing the desert and islands; the exercise here expects four under this book’s grouping. Relief concerns elevation and landform, not the same thing as State boundaries or a map’s political colours."
+        ],
+        "hints": [
+          "The chapter groups relief into Northern Mountains, Northern Great Plains, Peninsular Plateau and Coastal Plains.",
+          "Islands are discussed separately. Other textbooks use six major physiographic divisions, distinguishing the desert and islands; the exercise here expects four under this book’s grouping. Relief concerns elevation and landform, not the same thing as State boundaries or a map’s political colours."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-shiwalik",
+        "section": 2,
+        "title": "Locate the outer Himalayan foothills",
+        "intro": "Shiwalik or Siwalik is the relatively young outer foothill range south of the higher Himalayan ranges.",
+        "simple": "Shiwalik or Siwalik is the relatively young outer foothill range south of the higher Himalayan ranges.",
+        "example": [
+          "Shiwalik or Siwalik is the relatively young outer foothill range south of the higher Himalayan ranges.",
+          "The source gives roughly 600–1,500 m and describes longitudinal valleys or duns, with Dehradun a clear example. Its full example list mixes names that need checking; Chaukhamba is a mountain massif, not a standard dun example. The ranges and heights are broad teaching descriptions, not a uniform wall of identical elevation."
+        ],
+        "question": "Which is a foothill range?",
+        "options": [
+          "Himadri only",
+          "The Eastern Ghats",
+          "Shiwalik"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source gives roughly 600–1,500 m and describes longitudinal valleys or duns, with Dehradun a clear example. Its full example list mixes names that need checking; Chaukhamba is a mountain massif, not a standard dun example. The ranges and heights are broad teaching descriptions, not a uniform wall of identical elevation.",
+          "Reconsider: The source gives roughly 600–1,500 m and describes longitudinal valleys or duns, with Dehradun a clear example. Its full example list mixes names that need checking; Chaukhamba is a mountain massif, not a standard dun example. The ranges and heights are broad teaching descriptions, not a uniform wall of identical elevation.",
+          "Correct. The source gives roughly 600–1,500 m and describes longitudinal valleys or duns, with Dehradun a clear example. Its full example list mixes names that need checking; Chaukhamba is a mountain massif, not a standard dun example. The ranges and heights are broad teaching descriptions, not a uniform wall of identical elevation."
+        ],
+        "hints": [
+          "Shiwalik or Siwalik is the relatively young outer foothill range south of the higher Himalayan ranges.",
+          "The source gives roughly 600–1,500 m and describes longitudinal valleys or duns, with Dehradun a clear example. Its full example list mixes names that need checking; Chaukhamba is a mountain massif, not a standard dun example. The ranges and heights are broad teaching descriptions, not a uniform wall of identical elevation."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-himachal",
+        "section": 2,
+        "title": "Distinguish the Lesser Himalaya",
+        "intro": "Himachal or Middle/Lesser Himalaya lies between Shiwalik and the Greater Himalaya.",
+        "simple": "Himachal or Middle/Lesser Himalaya lies between Shiwalik and the Greater Himalaya.",
+        "example": [
+          "Himachal or Middle/Lesser Himalaya lies between Shiwalik and the Greater Himalaya.",
+          "The book gives approximate heights 3,600–4,500 m and width 60–80 km. It names Pir Panjal, Mahabharat, Nag Tibba and Mussoorie ranges; Kangra and Kullu valleys; and Shimla, Mussoorie, Nainital, Ranikhet, Chakrata and Darjeeling hill stations. A range, a valley and a town are different types of feature."
+        ],
+        "question": "Which distinction is useful?",
+        "options": [
+          "All Himalayan ranges are coastal plains",
+          "A valley, hill station and range are not identical features",
+          "Every named hill station is a mountain peak"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The book gives approximate heights 3,600–4,500 m and width 60–80 km. It names Pir Panjal, Mahabharat, Nag Tibba and Mussoorie ranges; Kangra and Kullu valleys; and Shimla, Mussoorie, Nainital, Ranikhet, Chakrata and Darjeeling hill stations. A range, a valley and a town are different types of feature.",
+          "Correct. The book gives approximate heights 3,600–4,500 m and width 60–80 km. It names Pir Panjal, Mahabharat, Nag Tibba and Mussoorie ranges; Kangra and Kullu valleys; and Shimla, Mussoorie, Nainital, Ranikhet, Chakrata and Darjeeling hill stations. A range, a valley and a town are different types of feature.",
+          "Reconsider: The book gives approximate heights 3,600–4,500 m and width 60–80 km. It names Pir Panjal, Mahabharat, Nag Tibba and Mussoorie ranges; Kangra and Kullu valleys; and Shimla, Mussoorie, Nainital, Ranikhet, Chakrata and Darjeeling hill stations. A range, a valley and a town are different types of feature."
+        ],
+        "hints": [
+          "Himachal or Middle/Lesser Himalaya lies between Shiwalik and the Greater Himalaya.",
+          "The book gives approximate heights 3,600–4,500 m and width 60–80 km. It names Pir Panjal, Mahabharat, Nag Tibba and Mussoorie ranges; Kangra and Kullu valleys; and Shimla, Mussoorie, Nainital, Ranikhet, Chakrata and Darjeeling hill stations. A range, a valley and a town are different types of feature."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-himadri",
+        "section": 2,
+        "title": "Read peaks, snow and river origins precisely",
+        "intro": "Greater Himalaya is also called Himadri; its high parts include major snow and glacier regions.",
+        "simple": "Greater Himalaya is also called Himadri; its high parts include major snow and glacier regions.",
+        "example": [
+          "Greater Himalaya is also called Himadri; its high parts include major snow and glacier regions.",
+          "The book uses a broad 6,000–8,000 m description and lists Everest, Kangchenjunga, Dhaulagiri, Nanda Devi and Gaurishankar. Everest lies on the Nepal–China border; the book’s 8,848 m is older than the 2020 joint height of 8,848.86 m. Gangotri Glacier feeds the Bhagirathi; the name Ganga applies downstream of its confluence with the Alaknanda at Devprayag. Not every part of the range is permanently snow-covered."
+        ],
+        "question": "Which statement is accurate?",
+        "options": [
+          "Himadri is the Greater Himalaya",
+          "Everest is a peak in the Western Ghats",
+          "The whole Ganga begins as one undifferentiated river at every glacier"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book uses a broad 6,000–8,000 m description and lists Everest, Kangchenjunga, Dhaulagiri, Nanda Devi and Gaurishankar. Everest lies on the Nepal–China border; the book’s 8,848 m is older than the 2020 joint height of 8,848.86 m. Gangotri Glacier feeds the Bhagirathi; the name Ganga applies downstream of its confluence with the Alaknanda at Devprayag. Not every part of the range is permanently snow-covered.",
+          "Reconsider: The book uses a broad 6,000–8,000 m description and lists Everest, Kangchenjunga, Dhaulagiri, Nanda Devi and Gaurishankar. Everest lies on the Nepal–China border; the book’s 8,848 m is older than the 2020 joint height of 8,848.86 m. Gangotri Glacier feeds the Bhagirathi; the name Ganga applies downstream of its confluence with the Alaknanda at Devprayag. Not every part of the range is permanently snow-covered.",
+          "Reconsider: The book uses a broad 6,000–8,000 m description and lists Everest, Kangchenjunga, Dhaulagiri, Nanda Devi and Gaurishankar. Everest lies on the Nepal–China border; the book’s 8,848 m is older than the 2020 joint height of 8,848.86 m. Gangotri Glacier feeds the Bhagirathi; the name Ganga applies downstream of its confluence with the Alaknanda at Devprayag. Not every part of the range is permanently snow-covered."
+        ],
+        "hints": [
+          "Greater Himalaya is also called Himadri; its high parts include major snow and glacier regions.",
+          "The book uses a broad 6,000–8,000 m description and lists Everest, Kangchenjunga, Dhaulagiri, Nanda Devi and Gaurishankar. Everest lies on the Nepal–China border; the book’s 8,848 m is older than the 2020 joint height of 8,848.86 m. Gangotri Glacier feeds the Bhagirathi; the name Ganga applies downstream of its confluence with the Alaknanda at Devprayag. Not every part of the range is permanently snow-covered."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-trans",
+        "section": 2,
+        "title": "Separate Trans-Himalaya and territorial claims",
+        "intro": "The source discusses Karakoram, Kailash and Ladakh beyond the Greater Himalaya.",
+        "simple": "The source discusses Karakoram, Kailash and Ladakh beyond the Greater Himalaya.",
+        "example": [
+          "The source discusses Karakoram, Kailash and Ladakh beyond the Greater Himalaya.",
+          "It lists K2/Godwin Austen at 8,611 m as the highest peak in India under a claimed-territory account. K2 is in Pakistan-administered territory claimed by India; Kangchenjunga, on the Sikkim–Nepal border, is the highest peak associated with Indian-administered territory. Do not confuse Everest’s world rank, K2’s location and a map’s territorial convention. Burzil, Zoji La and Baralacha La are passes, not peaks."
+        ],
+        "question": "What must a peak comparison specify?",
+        "options": [
+          "Only which name is shortest",
+          "That every peak lies in one State",
+          "World rank, location and territorial convention"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: It lists K2/Godwin Austen at 8,611 m as the highest peak in India under a claimed-territory account. K2 is in Pakistan-administered territory claimed by India; Kangchenjunga, on the Sikkim–Nepal border, is the highest peak associated with Indian-administered territory. Do not confuse Everest’s world rank, K2’s location and a map’s territorial convention. Burzil, Zoji La and Baralacha La are passes, not peaks.",
+          "Reconsider: It lists K2/Godwin Austen at 8,611 m as the highest peak in India under a claimed-territory account. K2 is in Pakistan-administered territory claimed by India; Kangchenjunga, on the Sikkim–Nepal border, is the highest peak associated with Indian-administered territory. Do not confuse Everest’s world rank, K2’s location and a map’s territorial convention. Burzil, Zoji La and Baralacha La are passes, not peaks.",
+          "Correct. It lists K2/Godwin Austen at 8,611 m as the highest peak in India under a claimed-territory account. K2 is in Pakistan-administered territory claimed by India; Kangchenjunga, on the Sikkim–Nepal border, is the highest peak associated with Indian-administered territory. Do not confuse Everest’s world rank, K2’s location and a map’s territorial convention. Burzil, Zoji La and Baralacha La are passes, not peaks."
+        ],
+        "hints": [
+          "The source discusses Karakoram, Kailash and Ladakh beyond the Greater Himalaya.",
+          "It lists K2/Godwin Austen at 8,611 m as the highest peak in India under a claimed-territory account. K2 is in Pakistan-administered territory claimed by India; Kangchenjunga, on the Sikkim–Nepal border, is the highest peak associated with Indian-administered territory. Do not confuse Everest’s world rank, K2’s location and a map’s territorial convention. Burzil, Zoji La and Baralacha La are passes, not peaks."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-importance",
+        "section": 2,
+        "title": "Connect mountain processes to human life",
+        "intro": "The Himalayas influence climate, river systems, water supply, habitats, tourism and cultural life.",
+        "simple": "The Himalayas influence climate, river systems, water supply, habitats, tourism and cultural life.",
+        "example": [
+          "The Himalayas influence climate, river systems, water supply, habitats, tourism and cultural life.",
+          "The source highlights obstruction of cold continental winds, river sources, alluvial plains, hydropower and resources. Explain these as processes with benefits and constraints: terrain, hazards, ecosystems and communities matter when planning dams, roads or tourism. The mountains do not make every location or project equally suitable."
+        ],
+        "question": "Which explanation connects a process and an effect?",
+        "options": [
+          "Snow removes every seasonal water problem",
+          "Rivers transport sediment that contributes to plains",
+          "All mountains guarantee safe dams everywhere"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source highlights obstruction of cold continental winds, river sources, alluvial plains, hydropower and resources. Explain these as processes with benefits and constraints: terrain, hazards, ecosystems and communities matter when planning dams, roads or tourism. The mountains do not make every location or project equally suitable.",
+          "Correct. The source highlights obstruction of cold continental winds, river sources, alluvial plains, hydropower and resources. Explain these as processes with benefits and constraints: terrain, hazards, ecosystems and communities matter when planning dams, roads or tourism. The mountains do not make every location or project equally suitable.",
+          "Reconsider: The source highlights obstruction of cold continental winds, river sources, alluvial plains, hydropower and resources. Explain these as processes with benefits and constraints: terrain, hazards, ecosystems and communities matter when planning dams, roads or tourism. The mountains do not make every location or project equally suitable."
+        ],
+        "hints": [
+          "The Himalayas influence climate, river systems, water supply, habitats, tourism and cultural life.",
+          "The source highlights obstruction of cold continental winds, river sources, alluvial plains, hydropower and resources. Explain these as processes with benefits and constraints: terrain, hazards, ecosystems and communities matter when planning dams, roads or tourism. The mountains do not make every location or project equally suitable."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-plains",
+        "section": 2,
+        "title": "Explain a depositional plain",
+        "intro": "The Northern Great Plains lie broadly between the Himalayas and Peninsular Plateau.",
+        "simple": "The Northern Great Plains lie broadly between the Himalayas and Peninsular Plateau.",
+        "example": [
+          "The Northern Great Plains lie broadly between the Himalayas and Peninsular Plateau.",
+          "The source extends them from the Indus system to the Brahmaputra valley, with Sutlej–Ganga as another name in its account. River-borne alluvium builds extensive low-relief plains. About 2,400 km is the stated west–east length, not the cross-plain width; the book separately gives roughly 70–500 km width. They are not perfectly flat or geologically identical at every point."
+        ],
+        "question": "Why are they called depositional plains?",
+        "options": [
+          "Rivers deposit transported sediment",
+          "They were made only by modern buildings",
+          "They are a single solid sheet of volcanic lava"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source extends them from the Indus system to the Brahmaputra valley, with Sutlej–Ganga as another name in its account. River-borne alluvium builds extensive low-relief plains. About 2,400 km is the stated west–east length, not the cross-plain width; the book separately gives roughly 70–500 km width. They are not perfectly flat or geologically identical at every point.",
+          "Reconsider: The source extends them from the Indus system to the Brahmaputra valley, with Sutlej–Ganga as another name in its account. River-borne alluvium builds extensive low-relief plains. About 2,400 km is the stated west–east length, not the cross-plain width; the book separately gives roughly 70–500 km width. They are not perfectly flat or geologically identical at every point.",
+          "Reconsider: The source extends them from the Indus system to the Brahmaputra valley, with Sutlej–Ganga as another name in its account. River-borne alluvium builds extensive low-relief plains. About 2,400 km is the stated west–east length, not the cross-plain width; the book separately gives roughly 70–500 km width. They are not perfectly flat or geologically identical at every point."
+        ],
+        "hints": [
+          "The Northern Great Plains lie broadly between the Himalayas and Peninsular Plateau.",
+          "The source extends them from the Indus system to the Brahmaputra valley, with Sutlej–Ganga as another name in its account. River-borne alluvium builds extensive low-relief plains. About 2,400 km is the stated west–east length, not the cross-plain width; the book separately gives roughly 70–500 km width. They are not perfectly flat or geologically identical at every point."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-alluvium",
+        "section": 2,
+        "title": "Distinguish Bhabar, Bhangar and Khadar",
+        "intro": "Bhabar is a coarse piedmont deposit belt; Bhangar is older alluvium and Khadar newer floodplain alluvium.",
+        "simple": "Bhabar is a coarse piedmont deposit belt; Bhangar is older alluvium and Khadar newer floodplain alluvium.",
+        "example": [
+          "Bhabar is a coarse piedmont deposit belt; Bhangar is older alluvium and Khadar newer floodplain alluvium.",
+          "The sidebar spells Bhabar as Babar and simplifies the sediments. Use the setting and relative age: coarse material near the foothills differs from older terraces and more recently deposited floodplain material. This is a process comparison, not a claim that every floodplain deposit has identical fertility, depth or flood risk."
+        ],
+        "question": "Which term identifies newer alluvium?",
+        "options": [
+          "Bhangar",
+          "Every Himalayan peak",
+          "Khadar"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The sidebar spells Bhabar as Babar and simplifies the sediments. Use the setting and relative age: coarse material near the foothills differs from older terraces and more recently deposited floodplain material. This is a process comparison, not a claim that every floodplain deposit has identical fertility, depth or flood risk.",
+          "Reconsider: The sidebar spells Bhabar as Babar and simplifies the sediments. Use the setting and relative age: coarse material near the foothills differs from older terraces and more recently deposited floodplain material. This is a process comparison, not a claim that every floodplain deposit has identical fertility, depth or flood risk.",
+          "Correct. The sidebar spells Bhabar as Babar and simplifies the sediments. Use the setting and relative age: coarse material near the foothills differs from older terraces and more recently deposited floodplain material. This is a process comparison, not a claim that every floodplain deposit has identical fertility, depth or flood risk."
+        ],
+        "hints": [
+          "Bhabar is a coarse piedmont deposit belt; Bhangar is older alluvium and Khadar newer floodplain alluvium.",
+          "The sidebar spells Bhabar as Babar and simplifies the sediments. Use the setting and relative age: coarse material near the foothills differs from older terraces and more recently deposited floodplain material. This is a process comparison, not a claim that every floodplain deposit has identical fertility, depth or flood risk."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-plateau",
+        "section": 3,
+        "title": "Trace the broad Peninsular Plateau",
+        "intro": "The Peninsular Plateau is a large ancient landmass associated with Gondwana history.",
+        "simple": "The Peninsular Plateau is a large ancient landmass associated with Gondwana history.",
+        "example": [
+          "The Peninsular Plateau is a large ancient landmass associated with Gondwana history.",
+          "The source gives about 16 lakh km², a broad northern side and taper southwards, from the Aravalli region towards Kanyakumari, with an approximate 1,400 km west–east extent. These broad limits are a physiographic description rather than a precise polygon for every State. Its rocks and landscape evolved through long geological processes, not one unchanged surface from Earth’s beginning."
+        ],
+        "question": "Which statement fits a plateau?",
+        "options": [
+          "A political capital city",
+          "A broad elevated region with varied relief",
+          "Only a narrow beach"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source gives about 16 lakh km², a broad northern side and taper southwards, from the Aravalli region towards Kanyakumari, with an approximate 1,400 km west–east extent. These broad limits are a physiographic description rather than a precise polygon for every State. Its rocks and landscape evolved through long geological processes, not one unchanged surface from Earth’s beginning.",
+          "Correct. The source gives about 16 lakh km², a broad northern side and taper southwards, from the Aravalli region towards Kanyakumari, with an approximate 1,400 km west–east extent. These broad limits are a physiographic description rather than a precise polygon for every State. Its rocks and landscape evolved through long geological processes, not one unchanged surface from Earth’s beginning.",
+          "Reconsider: The source gives about 16 lakh km², a broad northern side and taper southwards, from the Aravalli region towards Kanyakumari, with an approximate 1,400 km west–east extent. These broad limits are a physiographic description rather than a precise polygon for every State. Its rocks and landscape evolved through long geological processes, not one unchanged surface from Earth’s beginning."
+        ],
+        "hints": [
+          "The Peninsular Plateau is a large ancient landmass associated with Gondwana history.",
+          "The source gives about 16 lakh km², a broad northern side and taper southwards, from the Aravalli region towards Kanyakumari, with an approximate 1,400 km west–east extent. These broad limits are a physiographic description rather than a precise polygon for every State. Its rocks and landscape evolved through long geological processes, not one unchanged surface from Earth’s beginning."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-central-deccan",
+        "section": 3,
+        "title": "Locate central highlands and Deccan",
+        "intro": "The source distinguishes central highlands broadly north of the Narmada from the Deccan to the south.",
+        "simple": "The source distinguishes central highlands broadly north of the Narmada from the Deccan to the south.",
+        "example": [
+          "The source distinguishes central highlands broadly north of the Narmada from the Deccan to the south.",
+          "It names Aravalli, Vindhya, Satpura, Malwa and Chota Nagpur, and the Narmada, Tapi and Damodar river systems in the wider region. Mahadev, Maikal, Amarkantak and Rajmahal also appear in the account. These are varied ranges, plateaus and river regions; do not infer all named rivers are north of the Narmada or flow in the same direction."
+        ],
+        "question": "What should a feature comparison preserve?",
+        "options": [
+          "Whether it is a range, plateau, river or regional grouping",
+          "That every named feature is a river",
+          "That north and south are interchangeable"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. It names Aravalli, Vindhya, Satpura, Malwa and Chota Nagpur, and the Narmada, Tapi and Damodar river systems in the wider region. Mahadev, Maikal, Amarkantak and Rajmahal also appear in the account. These are varied ranges, plateaus and river regions; do not infer all named rivers are north of the Narmada or flow in the same direction.",
+          "Reconsider: It names Aravalli, Vindhya, Satpura, Malwa and Chota Nagpur, and the Narmada, Tapi and Damodar river systems in the wider region. Mahadev, Maikal, Amarkantak and Rajmahal also appear in the account. These are varied ranges, plateaus and river regions; do not infer all named rivers are north of the Narmada or flow in the same direction.",
+          "Reconsider: It names Aravalli, Vindhya, Satpura, Malwa and Chota Nagpur, and the Narmada, Tapi and Damodar river systems in the wider region. Mahadev, Maikal, Amarkantak and Rajmahal also appear in the account. These are varied ranges, plateaus and river regions; do not infer all named rivers are north of the Narmada or flow in the same direction."
+        ],
+        "hints": [
+          "The source distinguishes central highlands broadly north of the Narmada from the Deccan to the south.",
+          "It names Aravalli, Vindhya, Satpura, Malwa and Chota Nagpur, and the Narmada, Tapi and Damodar river systems in the wider region. Mahadev, Maikal, Amarkantak and Rajmahal also appear in the account. These are varied ranges, plateaus and river regions; do not infer all named rivers are north of the Narmada or flow in the same direction."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-ghats",
+        "section": 3,
+        "title": "Compare the Western and Eastern Ghats",
+        "intro": "Western Ghats broadly form the western edge of the Deccan; Eastern Ghats lie along its eastern side.",
+        "simple": "Western Ghats broadly form the western edge of the Deccan; Eastern Ghats lie along its eastern side.",
+        "example": [
+          "Western Ghats broadly form the western edge of the Deccan; Eastern Ghats lie along its eastern side.",
+          "The Western Ghats are generally higher and more continuous and are called Sahyadri in Maharashtra and Karnataka; the Eastern Ghats are more discontinuous across river valleys. They converge in the Nilgiri region. Anamudi (about 2,695 m) is the highest peak in South India; the source also names Arma Konda and Mahendragiri in the Eastern Ghats. Neither chain has identical height throughout."
+        ],
+        "question": "Which is the useful broad comparison?",
+        "options": [
+          "Both are one perfectly level ridge",
+          "Eastern Ghats are the Himalayas",
+          "Western: more continuous; Eastern: more interrupted by river valleys"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The Western Ghats are generally higher and more continuous and are called Sahyadri in Maharashtra and Karnataka; the Eastern Ghats are more discontinuous across river valleys. They converge in the Nilgiri region. Anamudi (about 2,695 m) is the highest peak in South India; the source also names Arma Konda and Mahendragiri in the Eastern Ghats. Neither chain has identical height throughout.",
+          "Reconsider: The Western Ghats are generally higher and more continuous and are called Sahyadri in Maharashtra and Karnataka; the Eastern Ghats are more discontinuous across river valleys. They converge in the Nilgiri region. Anamudi (about 2,695 m) is the highest peak in South India; the source also names Arma Konda and Mahendragiri in the Eastern Ghats. Neither chain has identical height throughout.",
+          "Correct. The Western Ghats are generally higher and more continuous and are called Sahyadri in Maharashtra and Karnataka; the Eastern Ghats are more discontinuous across river valleys. They converge in the Nilgiri region. Anamudi (about 2,695 m) is the highest peak in South India; the source also names Arma Konda and Mahendragiri in the Eastern Ghats. Neither chain has identical height throughout."
+        ],
+        "hints": [
+          "Western Ghats broadly form the western edge of the Deccan; Eastern Ghats lie along its eastern side.",
+          "The Western Ghats are generally higher and more continuous and are called Sahyadri in Maharashtra and Karnataka; the Eastern Ghats are more discontinuous across river valleys. They converge in the Nilgiri region. Anamudi (about 2,695 m) is the highest peak in South India; the source also names Arma Konda and Mahendragiri in the Eastern Ghats. Neither chain has identical height throughout."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-plateau-value",
+        "section": 3,
+        "title": "Explain resources and constraints",
+        "intro": "Minerals, rivers, waterfalls, soils and varied habitats contribute to the plateau’s economic significance.",
+        "simple": "Minerals, rivers, waterfalls, soils and varied habitats contribute to the plateau’s economic significance.",
+        "example": [
+          "Minerals, rivers, waterfalls, soils and varied habitats contribute to the plateau’s economic significance.",
+          "The book emphasises mineral deposits and hydropower opportunities. A waterfall does not automatically establish that a hydropower scheme is viable or appropriate: flow, geology, ecology, affected communities and costs need assessment. Conservation and livelihoods belong in the explanation as well as resource use."
+        ],
+        "question": "What makes an assessment stronger?",
+        "options": [
+          "A high waterfall guarantees unlimited electricity",
+          "Benefits together with environmental and social evidence",
+          "Mineral presence alone proves every project is suitable"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The book emphasises mineral deposits and hydropower opportunities. A waterfall does not automatically establish that a hydropower scheme is viable or appropriate: flow, geology, ecology, affected communities and costs need assessment. Conservation and livelihoods belong in the explanation as well as resource use.",
+          "Correct. The book emphasises mineral deposits and hydropower opportunities. A waterfall does not automatically establish that a hydropower scheme is viable or appropriate: flow, geology, ecology, affected communities and costs need assessment. Conservation and livelihoods belong in the explanation as well as resource use.",
+          "Reconsider: The book emphasises mineral deposits and hydropower opportunities. A waterfall does not automatically establish that a hydropower scheme is viable or appropriate: flow, geology, ecology, affected communities and costs need assessment. Conservation and livelihoods belong in the explanation as well as resource use."
+        ],
+        "hints": [
+          "Minerals, rivers, waterfalls, soils and varied habitats contribute to the plateau’s economic significance.",
+          "The book emphasises mineral deposits and hydropower opportunities. A waterfall does not automatically establish that a hydropower scheme is viable or appropriate: flow, geology, ecology, affected communities and costs need assessment. Conservation and livelihoods belong in the explanation as well as resource use."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-west-coast",
+        "section": 4,
+        "title": "Follow the narrow western coastal plain",
+        "intro": "The western coastal plain lies between the Arabian Sea and Western Ghats, from Gujarat towards Kanyakumari.",
+        "simple": "The western coastal plain lies between the Arabian Sea and Western Ghats, from Gujarat towards Kanyakumari.",
+        "example": [
+          "The western coastal plain lies between the Arabian Sea and Western Ghats, from Gujarat towards Kanyakumari.",
+          "The source gives an approximate west-coast length of 1,500 km and names Gujarat, Konkan (Maharashtra/Goa), Canara (Karnataka) and Malabar (Kerala). Ports include Kandla, Mumbai, Mormugao, Karwar, New Mangalore and Kochi. Regional coast names, port names and State names are different labels; the nine coastal States do not include all coastal Union Territories."
+        ],
+        "question": "Which water body lies west of the peninsula?",
+        "options": [
+          "Arabian Sea",
+          "Bay of Bengal",
+          "Arctic Ocean"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source gives an approximate west-coast length of 1,500 km and names Gujarat, Konkan (Maharashtra/Goa), Canara (Karnataka) and Malabar (Kerala). Ports include Kandla, Mumbai, Mormugao, Karwar, New Mangalore and Kochi. Regional coast names, port names and State names are different labels; the nine coastal States do not include all coastal Union Territories.",
+          "Reconsider: The source gives an approximate west-coast length of 1,500 km and names Gujarat, Konkan (Maharashtra/Goa), Canara (Karnataka) and Malabar (Kerala). Ports include Kandla, Mumbai, Mormugao, Karwar, New Mangalore and Kochi. Regional coast names, port names and State names are different labels; the nine coastal States do not include all coastal Union Territories.",
+          "Reconsider: The source gives an approximate west-coast length of 1,500 km and names Gujarat, Konkan (Maharashtra/Goa), Canara (Karnataka) and Malabar (Kerala). Ports include Kandla, Mumbai, Mormugao, Karwar, New Mangalore and Kochi. Regional coast names, port names and State names are different labels; the nine coastal States do not include all coastal Union Territories."
+        ],
+        "hints": [
+          "The western coastal plain lies between the Arabian Sea and Western Ghats, from Gujarat towards Kanyakumari.",
+          "The source gives an approximate west-coast length of 1,500 km and names Gujarat, Konkan (Maharashtra/Goa), Canara (Karnataka) and Malabar (Kerala). Ports include Kandla, Mumbai, Mormugao, Karwar, New Mangalore and Kochi. Regional coast names, port names and State names are different labels; the nine coastal States do not include all coastal Union Territories."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-east-coast",
+        "section": 4,
+        "title": "Connect eastern deltas and lagoons",
+        "intro": "The eastern coastal plain lies between the Eastern Ghats and Bay of Bengal and is generally broader in the source comparison.",
+        "simple": "The eastern coastal plain lies between the Eastern Ghats and Bay of Bengal and is generally broader in the source comparison.",
+        "example": [
+          "The eastern coastal plain lies between the Eastern Ghats and Bay of Bengal and is generally broader in the source comparison.",
+          "It includes major Mahanadi, Godavari, Krishna and Kaveri deltas. The book groups Utkal in the north and Coromandel in the south; this is simplified, and Northern Circars is another important regional label. Chilika and Pulicat are brackish lagoons; Pulicat spans Andhra Pradesh and Tamil Nadu, not only one State. A delta and a lagoon are different landforms.",
+          "In the source account the eastern coast runs from Kanyakumari towards the Gangetic delta. Both coastal plains connect rivers, ports, settlements and habitats; regional divisions are geographical conventions rather than State boundaries."
+        ],
+        "question": "Which pair names coastal lagoons?",
+        "options": [
+          "K2 and Everest",
+          "Aravalli and Vindhya",
+          "Chilika and Pulicat"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: It includes major Mahanadi, Godavari, Krishna and Kaveri deltas. The book groups Utkal in the north and Coromandel in the south; this is simplified, and Northern Circars is another important regional label. Chilika and Pulicat are brackish lagoons; Pulicat spans Andhra Pradesh and Tamil Nadu, not only one State. A delta and a lagoon are different landforms.",
+          "Reconsider: It includes major Mahanadi, Godavari, Krishna and Kaveri deltas. The book groups Utkal in the north and Coromandel in the south; this is simplified, and Northern Circars is another important regional label. Chilika and Pulicat are brackish lagoons; Pulicat spans Andhra Pradesh and Tamil Nadu, not only one State. A delta and a lagoon are different landforms.",
+          "Correct. It includes major Mahanadi, Godavari, Krishna and Kaveri deltas. The book groups Utkal in the north and Coromandel in the south; this is simplified, and Northern Circars is another important regional label. Chilika and Pulicat are brackish lagoons; Pulicat spans Andhra Pradesh and Tamil Nadu, not only one State. A delta and a lagoon are different landforms."
+        ],
+        "hints": [
+          "The eastern coastal plain lies between the Eastern Ghats and Bay of Bengal and is generally broader in the source comparison.",
+          "It includes major Mahanadi, Godavari, Krishna and Kaveri deltas. The book groups Utkal in the north and Coromandel in the south; this is simplified, and Northern Circars is another important regional label. Chilika and Pulicat are brackish lagoons; Pulicat spans Andhra Pradesh and Tamil Nadu, not only one State. A delta and a lagoon are different landforms."
+        ],
+        "explorer": "india-relief"
+      },
+      {
+        "id": "ss10-islands",
+        "section": 4,
+        "title": "Distinguish island groups and geological origins",
+        "intro": "Andaman and Nicobar lie in the Bay of Bengal; Lakshadweep lies in the Arabian Sea and is associated with coral formations.",
+        "simple": "Andaman and Nicobar lie in the Bay of Bengal; Lakshadweep lies in the Arabian Sea and is associated with coral formations.",
+        "example": [
+          "Andaman and Nicobar lie in the Bay of Bengal; Lakshadweep lies in the Arabian Sea and is associated with coral formations.",
+          "Indira Point is on Great Nicobar. Andaman–Nicobar belongs to a tectonic island-arc setting with volcanic features such as Barren Island; saying every island is simply hardened volcanic rock is too broad. Gulf of Mannar has coral-associated islands too. The book’s 247 = 204 + 43 is a source count, not a verified current national island inventory; inventories vary by date and criteria."
+        ],
+        "question": "Which statement is careful?",
+        "options": [
+          "An old count is automatically the present total",
+          "Group location and formation need specific evidence",
+          "Every Indian island is a coral atoll"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Indira Point is on Great Nicobar. Andaman–Nicobar belongs to a tectonic island-arc setting with volcanic features such as Barren Island; saying every island is simply hardened volcanic rock is too broad. Gulf of Mannar has coral-associated islands too. The book’s 247 = 204 + 43 is a source count, not a verified current national island inventory; inventories vary by date and criteria.",
+          "Correct. Indira Point is on Great Nicobar. Andaman–Nicobar belongs to a tectonic island-arc setting with volcanic features such as Barren Island; saying every island is simply hardened volcanic rock is too broad. Gulf of Mannar has coral-associated islands too. The book’s 247 = 204 + 43 is a source count, not a verified current national island inventory; inventories vary by date and criteria.",
+          "Reconsider: Indira Point is on Great Nicobar. Andaman–Nicobar belongs to a tectonic island-arc setting with volcanic features such as Barren Island; saying every island is simply hardened volcanic rock is too broad. Gulf of Mannar has coral-associated islands too. The book’s 247 = 204 + 43 is a source count, not a verified current national island inventory; inventories vary by date and criteria."
+        ],
+        "hints": [
+          "Andaman and Nicobar lie in the Bay of Bengal; Lakshadweep lies in the Arabian Sea and is associated with coral formations.",
+          "Indira Point is on Great Nicobar. Andaman–Nicobar belongs to a tectonic island-arc setting with volcanic features such as Barren Island; saying every island is simply hardened volcanic rock is too broad. Gulf of Mannar has coral-associated islands too. The book’s 247 = 204 + 43 is a source count, not a verified current national island inventory; inventories vary by date and criteria."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-coastline",
+        "section": 4,
+        "title": "Read coastline lengths as measured datasets",
+        "intro": "The exercise expects 6,100 km for the mainland coastline under the book’s convention.",
+        "simple": "The exercise expects 6,100 km for the mainland coastline under the book’s convention.",
+        "example": [
+          "The exercise expects 6,100 km for the mainland coastline under the book’s convention.",
+          "The book gives 7,516.6 km including islands. A 2025 official reassessment gives 11,098.81 km with changed measurement methodology; this is not equivalent to physically adding that much new coast. Keep mainland, total, date, scale and method distinct rather than substituting a new total into a mainland-answer blank."
+        ],
+        "question": "Why can coastline estimates change?",
+        "options": [
+          "Measurement method, scale and scope can change",
+          "The unit kilometre has disappeared",
+          "A revised total automatically equals mainland length"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book gives 7,516.6 km including islands. A 2025 official reassessment gives 11,098.81 km with changed measurement methodology; this is not equivalent to physically adding that much new coast. Keep mainland, total, date, scale and method distinct rather than substituting a new total into a mainland-answer blank.",
+          "Reconsider: The book gives 7,516.6 km including islands. A 2025 official reassessment gives 11,098.81 km with changed measurement methodology; this is not equivalent to physically adding that much new coast. Keep mainland, total, date, scale and method distinct rather than substituting a new total into a mainland-answer blank.",
+          "Reconsider: The book gives 7,516.6 km including islands. A 2025 official reassessment gives 11,098.81 km with changed measurement methodology; this is not equivalent to physically adding that much new coast. Keep mainland, total, date, scale and method distinct rather than substituting a new total into a mainland-answer blank."
+        ],
+        "hints": [
+          "The exercise expects 6,100 km for the mainland coastline under the book’s convention.",
+          "The book gives 7,516.6 km including islands. A 2025 official reassessment gives 11,098.81 km with changed measurement methodology; this is not equivalent to physically adding that much new coast. Keep mainland, total, date, scale and method distinct rather than substituting a new total into a mainland-answer blank."
+        ],
+        "explorer": "india-locator"
+      },
+      {
+        "id": "ss10-review",
+        "section": 4,
+        "title": "Connect location, landforms and source evidence",
+        "intro": "Read coordinates, directions, regions and processes together, with a legend and source date.",
+        "simple": "Read coordinates, directions, regions and processes together, with a legend and source date.",
+        "example": [
+          "Read coordinates, directions, regions and processes together, with a legend and source date.",
+          "Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
+        ],
+        "question": "Which map response is strongest?",
+        "options": [
+          "Omit the legend and invent State boundaries",
+          "Treat every source-era statistic as current",
+          "Label directions, coordinates, legend and sources accurately"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps.",
+          "Reconsider: Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps.",
+          "Correct. Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
+        ],
+        "hints": [
+          "Read coordinates, directions, regions and processes together, with a legend and source date.",
+          "Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
+        ],
+        "explorer": "india-locator"
+      }
+    ],
+    "summary": [
+      [
+        "Position and extent",
+        "India is in South Asia and the Northern/Eastern hemispheres; mainland and island extents differ."
+      ],
+      [
+        "Coordinates and time",
+        "Read degrees/minutes precisely and distinguish IST from local solar time."
+      ],
+      [
+        "Landform processes",
+        "Compare the book’s four divisions, river deposition, ranges, plateau, coasts and island groups."
+      ],
+      [
+        "Source literacy",
+        "Use dated measurements, official map references and clear geographical scope."
+      ]
+    ],
+    "challenge": "Explain the relationships using an example, relevant evidence and clear limits. Distinguish textbook conventions from updated facts and illustrative models."
+  }
+]

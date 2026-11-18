@@ -1,0 +1,491 @@
+[
+  {
+    "number": 16,
+    "title": "Bank Transactions",
+    "slug": "bank-transactions",
+    "part": 1,
+    "discipline": "Business Studies",
+    "subject": "social-science",
+    "sections": [
+      "Banks and customers · pp130–133",
+      "Institutions and accounts · pp133–135",
+      "Opening and using an account · pp135–139"
+    ],
+    "steps": [
+      {
+        "id": "ss16-step-1",
+        "section": 0,
+        "title": "A word from the exchange table",
+        "intro": "The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form.",
+        "simple": "Banque.",
+        "example": [
+          "Banque.",
+          "The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form."
+        ],
+        "question": "Which French word does the chapter connect to bank?",
+        "options": [
+          "Banque",
+          "Banco",
+          "Bureau"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form.",
+          "Look again. The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form.",
+          "Look again. The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form."
+        ],
+        "hints": [
+          "The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form.",
+          "Banque."
+        ]
+      },
+      {
+        "id": "ss16-step-2",
+        "section": 0,
+        "title": "The bankers’ bank",
+        "intro": "The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution.",
+        "simple": "Reserve Bank of India.",
+        "example": [
+          "Reserve Bank of India.",
+          "The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution."
+        ],
+        "question": "Which institution acts as the central bank of India?",
+        "options": [
+          "A local cooperative society",
+          "A post office counter",
+          "Reserve Bank of India"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution.",
+          "Look again. The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution.",
+          "Correct. The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution."
+        ],
+        "hints": [
+          "The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution.",
+          "Reserve Bank of India."
+        ]
+      },
+      {
+        "id": "ss16-step-3",
+        "section": 1,
+        "title": "Recognise a nationalised bank",
+        "intro": "Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks.",
+        "simple": "Canara Bank.",
+        "example": [
+          "Canara Bank.",
+          "Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks."
+        ],
+        "question": "Which institution is an example of a nationalised bank?",
+        "options": [
+          "A private moneylender",
+          "Canara Bank",
+          "Reserve Bank of India"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks.",
+          "Correct. Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks.",
+          "Look again. Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks."
+        ],
+        "hints": [
+          "Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks.",
+          "Canara Bank."
+        ]
+      },
+      {
+        "id": "ss16-step-4",
+        "section": 1,
+        "title": "Postal financial services",
+        "intro": "The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account.",
+        "simple": "Post offices.",
+        "example": [
+          "Post offices.",
+          "The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account."
+        ],
+        "question": "Where does the chapter say National Savings Certificates are issued?",
+        "options": [
+          "Post offices",
+          "A stock exchange",
+          "An ATM alone"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account.",
+          "Look again. The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account.",
+          "Look again. The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account."
+        ],
+        "hints": [
+          "The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account.",
+          "Post offices."
+        ]
+      },
+      {
+        "id": "ss16-step-5",
+        "section": 1,
+        "title": "A busy shop account",
+        "intro": "A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms.",
+        "simple": "Current account.",
+        "example": [
+          "Current account.",
+          "A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms."
+        ],
+        "question": "Which account is designed for frequent business receipts and payments?",
+        "options": [
+          "Recurring deposit",
+          "Fixed deposit",
+          "Current account"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms.",
+          "Look again. A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms.",
+          "Correct. A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms."
+        ],
+        "hints": [
+          "A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms.",
+          "Current account."
+        ]
+      },
+      {
+        "id": "ss16-step-6",
+        "section": 1,
+        "title": "A single sum for a term",
+        "intro": "A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty.",
+        "simple": "Term or fixed deposit account.",
+        "example": [
+          "Term or fixed deposit account.",
+          "A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty."
+        ],
+        "question": "Where could a customer place one lump sum for an agreed period?",
+        "options": [
+          "Only a recurring deposit",
+          "Term or fixed deposit account",
+          "Only a current account"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty.",
+          "Correct. A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty.",
+          "Look again. A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty."
+        ],
+        "hints": [
+          "A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty.",
+          "Term or fixed deposit account."
+        ]
+      },
+      {
+        "id": "ss16-step-7",
+        "section": 0,
+        "title": "From savings to lending",
+        "intro": "A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance.",
+        "simple": "Accepting public deposits and lending or investing funds.",
+        "example": [
+          "Accepting public deposits and lending or investing funds.",
+          "A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance."
+        ],
+        "question": "What is a bank’s core intermediation role?",
+        "options": [
+          "Accepting public deposits and lending or investing funds",
+          "Only renting storage boxes",
+          "Only printing banknotes"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance.",
+          "Look again. A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance.",
+          "Look again. A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance."
+        ],
+        "hints": [
+          "A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance.",
+          "Accepting public deposits and lending or investing funds."
+        ]
+      },
+      {
+        "id": "ss16-step-8",
+        "section": 0,
+        "title": "Identify banking characteristics",
+        "intro": "The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name.",
+        "simple": "Deposit-taking, lending, payments and customer services.",
+        "example": [
+          "Deposit-taking, lending, payments and customer services.",
+          "The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name."
+        ],
+        "question": "Which combination describes ordinary banking business?",
+        "options": [
+          "Only charitable transfers",
+          "Only selling goods for cash",
+          "Deposit-taking, lending, payments and customer services"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name.",
+          "Look again. The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name.",
+          "Correct. The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name."
+        ],
+        "hints": [
+          "The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name.",
+          "Deposit-taking, lending, payments and customer services."
+        ]
+      },
+      {
+        "id": "ss16-step-9",
+        "section": 0,
+        "title": "Functions and services",
+        "intro": "Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit.",
+        "simple": "Providing collection and remittance services.",
+        "example": [
+          "Providing collection and remittance services.",
+          "Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit."
+        ],
+        "question": "What is the bank doing when it collects a customer’s cheque or transfers funds?",
+        "options": [
+          "Paying interest on every product",
+          "Providing collection and remittance services",
+          "Setting the national school budget"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit.",
+          "Correct. Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit.",
+          "Look again. Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit."
+        ],
+        "hints": [
+          "Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit.",
+          "Providing collection and remittance services."
+        ]
+      },
+      {
+        "id": "ss16-step-10",
+        "section": 0,
+        "title": "Who owes whom?",
+        "intro": "The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures.",
+        "simple": "The bank owes the depositor.",
+        "example": [
+          "The bank owes the depositor.",
+          "The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures."
+        ],
+        "question": "When a bank takes an ordinary deposit, who owes the money?",
+        "options": [
+          "The bank owes the depositor",
+          "The depositor automatically owes a loan",
+          "A locker holder owns the bank"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures.",
+          "Look again. The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures.",
+          "Look again. The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures."
+        ],
+        "hints": [
+          "The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures.",
+          "The bank owes the depositor."
+        ]
+      },
+      {
+        "id": "ss16-step-11",
+        "section": 1,
+        "title": "Reasons to save through a bank",
+        "intro": "Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts.",
+        "simple": "It combines saving with access to payments and withdrawals.",
+        "example": [
+          "It combines saving with access to payments and withdrawals.",
+          "Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts."
+        ],
+        "question": "Why might a student or pensioner choose a savings account?",
+        "options": [
+          "Every account holder automatically receives a loan",
+          "Savings can never be withdrawn",
+          "It combines saving with access to payments and withdrawals"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts.",
+          "Look again. Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts.",
+          "Correct. Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts."
+        ],
+        "hints": [
+          "Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts.",
+          "It combines saving with access to payments and withdrawals."
+        ]
+      },
+      {
+        "id": "ss16-step-12",
+        "section": 2,
+        "title": "Benefits of an account",
+        "intro": "Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval.",
+        "simple": "A record of transactions that can be checked against payments due.",
+        "example": [
+          "A record of transactions that can be checked against payments due.",
+          "Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval."
+        ],
+        "question": "Which benefit follows directly from receiving and paying through an account?",
+        "options": [
+          "Automatic ownership of a locker",
+          "A record of transactions that can be checked against payments due",
+          "Guaranteed credit without assessment"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval.",
+          "Correct. Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval.",
+          "Look again. Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval."
+        ],
+        "hints": [
+          "Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval.",
+          "A record of transactions that can be checked against payments due."
+        ]
+      },
+      {
+        "id": "ss16-step-13",
+        "section": 1,
+        "title": "Match institutions to needs",
+        "intro": "The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period.",
+        "simple": "Cooperative bank.",
+        "example": [
+          "Cooperative bank.",
+          "The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period."
+        ],
+        "question": "Which type does the textbook associate with member-based banking?",
+        "options": [
+          "Cooperative bank",
+          "Central bank only",
+          "Any retailer with a cash register"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period.",
+          "Look again. The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period.",
+          "Look again. The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period."
+        ],
+        "hints": [
+          "The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period.",
+          "Cooperative bank."
+        ]
+      },
+      {
+        "id": "ss16-step-14",
+        "section": 1,
+        "title": "Build a deposit in instalments",
+        "intro": "In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum.",
+        "simple": "Recurring deposit.",
+        "example": [
+          "Recurring deposit.",
+          "In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum."
+        ],
+        "question": "Which account fits a monthly contribution towards a future purchase?",
+        "options": [
+          "A one-off term deposit by definition",
+          "A credit card balance",
+          "Recurring deposit"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum.",
+          "Look again. In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum.",
+          "Correct. In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum."
+        ],
+        "hints": [
+          "In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum.",
+          "Recurring deposit."
+        ]
+      },
+      {
+        "id": "ss16-step-15",
+        "section": 2,
+        "title": "From choice to application",
+        "intro": "The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process.",
+        "simple": "The account purpose and the product that suits it.",
+        "example": [
+          "The account purpose and the product that suits it.",
+          "The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process."
+        ],
+        "question": "What should a prospective customer decide before completing the bank’s application?",
+        "options": [
+          "The amount of a guaranteed loan",
+          "The account purpose and the product that suits it",
+          "An invented signature for every use"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process.",
+          "Correct. The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process.",
+          "Look again. The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process."
+        ],
+        "hints": [
+          "The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process.",
+          "The account purpose and the product that suits it."
+        ]
+      },
+      {
+        "id": "ss16-step-16",
+        "section": 2,
+        "title": "Verification and activation",
+        "intro": "The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book.",
+        "simple": "The bank verifies the application and applicable KYC information.",
+        "example": [
+          "The bank verifies the application and applicable KYC information.",
+          "The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book."
+        ],
+        "question": "What follows submission of the requested account-opening information?",
+        "options": [
+          "The bank verifies the application and applicable KYC information",
+          "Immediate approval without checks",
+          "Every listed document and an introducer in every case"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book.",
+          "Look again. The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book.",
+          "Look again. The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book."
+        ],
+        "hints": [
+          "The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book.",
+          "The bank verifies the application and applicable KYC information."
+        ]
+      },
+      {
+        "id": "ss16-step-17",
+        "section": 2,
+        "title": "Everyday operations",
+        "intro": "Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments.",
+        "simple": "Give a standing instruction under the bank’s terms.",
+        "example": [
+          "Give a standing instruction under the bank’s terms.",
+          "Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments."
+        ],
+        "question": "How can an account holder arrange a regular insurance payment?",
+        "options": [
+          "Send a fresh loan application each month",
+          "Use a fixed deposit receipt as cash",
+          "Give a standing instruction under the bank’s terms"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments.",
+          "Look again. Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments.",
+          "Correct. Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments."
+        ],
+        "hints": [
+          "Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments.",
+          "Give a standing instruction under the bank’s terms."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Banks and customers · pp130–133",
+        "The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form."
+      ],
+      [
+        "Institutions and accounts · pp133–135",
+        "Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks."
+      ],
+      [
+        "Opening and using an account · pp135–139",
+        "Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  }
+]

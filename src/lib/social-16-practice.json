@@ -1,0 +1,496 @@
+{
+  "chapters": {
+    "16": [
+      {
+        "id": "ss16-task-001",
+        "title": "A word from the exchange table",
+        "reference": "Exercise I Q1 · p138",
+        "prompt": "Which French word does the chapter connect to bank? Explain your reasoning with a chapter example.",
+        "sample": "Banque. The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form.",
+        "solution": [
+          "Banque.",
+          "The opening passage links French banque and Italian banco with the bench or table used by money changers. The exercise specifically asks for the French form."
+        ],
+        "hints": [
+          "Banque."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-002",
+        "title": "The bankers’ bank",
+        "reference": "Exercise I Q2 · p138",
+        "prompt": "Which institution acts as the central bank of India? Explain your reasoning with a chapter example.",
+        "sample": "Reserve Bank of India. The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution.",
+        "solution": [
+          "Reserve Bank of India.",
+          "The RBI conducts monetary policy and serves as banker to banks. A household normally opens its savings account with a retail banking institution."
+        ],
+        "hints": [
+          "Reserve Bank of India."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-003",
+        "title": "Recognise a nationalised bank",
+        "reference": "Exercise I Q3 · p138",
+        "prompt": "Which institution is an example of a nationalised bank? Explain your reasoning with a chapter example.",
+        "sample": "Canara Bank. Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks.",
+        "solution": [
+          "Canara Bank.",
+          "Canara Bank is an example students can use in the blank. The chapter also mentions Union Bank of India. Ownership, function and the date of a classification matter when reading lists of banks."
+        ],
+        "hints": [
+          "Canara Bank."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-004",
+        "title": "Postal financial services",
+        "reference": "Exercise I Q4 · p138",
+        "prompt": "Where does the chapter say National Savings Certificates are issued? Explain your reasoning with a chapter example.",
+        "sample": "Post offices. The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account.",
+        "solution": [
+          "Post offices.",
+          "The expected textbook answer is the post office. National Savings Certificates are a government small-savings product. India Post also provides access to postal savings, recurring deposits, Kisan Vikas Patra, insurance and payment services. India Post Payments Bank launched nationwide in 2018, updating the book’s proposal-era account."
+        ],
+        "hints": [
+          "Post offices."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-005",
+        "title": "A busy shop account",
+        "reference": "Exercise I Q5 · p138",
+        "prompt": "Which account is designed for frequent business receipts and payments? Explain your reasoning with a chapter example.",
+        "sample": "Current account. A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms.",
+        "solution": [
+          "Current account.",
+          "A shop might receive sales income, deposit cash and pay suppliers on the same day. Current accounts generally earn no interest and may carry charges. Transaction limits and fees depend on the bank, channel and account terms."
+        ],
+        "hints": [
+          "Current account."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-006",
+        "title": "A single sum for a term",
+        "reference": "Exercise I Q6 · p138",
+        "prompt": "Where could a customer place one lump sum for an agreed period? Explain your reasoning with a chapter example.",
+        "sample": "Term or fixed deposit account. A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty.",
+        "solution": [
+          "Term or fixed deposit account.",
+          "A term deposit has a maturity date and an agreed rate. Read its payout and early-withdrawal terms. Some deposits allow premature closure with an interest adjustment or penalty."
+        ],
+        "hints": [
+          "Term or fixed deposit account."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-007",
+        "title": "From savings to lending",
+        "reference": "Exercise II Q7 · p138",
+        "prompt": "What is a bank’s core intermediation role? Explain your reasoning with a chapter example.",
+        "sample": "Accepting public deposits and lending or investing funds. A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance.",
+        "solution": [
+          "Accepting public deposits and lending or investing funds.",
+          "A saver deposits money under agreed repayment terms. The bank can extend a loan for farming, industry, education or housing. The borrower owes the bank repayment. These services connect savers with people who need finance."
+        ],
+        "hints": [
+          "Accepting public deposits and lending or investing funds."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-008",
+        "title": "Identify banking characteristics",
+        "reference": "Exercise II Q8 · p138",
+        "prompt": "Which combination describes ordinary banking business? Explain your reasoning with a chapter example.",
+        "sample": "Deposit-taking, lending, payments and customer services. The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name.",
+        "solution": [
+          "Deposit-taking, lending, payments and customer services.",
+          "The chapter groups eleven features around dealing in money, institutional form, deposits, loans, withdrawals, agency and utility services, service and earnings, expanding activities, connecting savers and borrowers, banking as the main business and name identity. In practice, permission to conduct banking depends on regulation as well as a name."
+        ],
+        "hints": [
+          "Deposit-taking, lending, payments and customer services."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-009",
+        "title": "Functions and services",
+        "reference": "Exercise II Q9 · p138",
+        "prompt": "What is the bank doing when it collects a customer’s cheque or transfers funds? Explain your reasoning with a chapter example.",
+        "sample": "Providing collection and remittance services. Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit.",
+        "solution": [
+          "Providing collection and remittance services.",
+          "Other functions include deposits, lending, bill discounting, lockers and safe custody, foreign exchange, letters of credit, guarantees and government transactions. Services listed include personal, business, home and vehicle loans, debit and credit cards, trust and signature services, and distribution of mutual funds. A mutual fund carries investment risk distinct from a deposit."
+        ],
+        "hints": [
+          "Providing collection and remittance services."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-010",
+        "title": "Who owes whom?",
+        "reference": "Exercise II Q10 · p138",
+        "prompt": "When a bank takes an ordinary deposit, who owes the money? Explain your reasoning with a chapter example.",
+        "sample": "The bank owes the depositor. The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures.",
+        "solution": [
+          "The bank owes the depositor.",
+          "The bank is debtor and the depositor creditor. On a loan the borrower owes the bank. When collecting a bill the bank acts as agent for its customer, the principal. A trustee–beneficiary relationship arises in a trust arrangement. Special duties include honouring properly payable cheques and protecting confidentiality subject to lawful disclosures."
+        ],
+        "hints": [
+          "The bank owes the depositor."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-011",
+        "title": "Reasons to save through a bank",
+        "reference": "Exercise II Q11 · p138",
+        "prompt": "Why might a student or pensioner choose a savings account? Explain your reasoning with a chapter example.",
+        "sample": "It combines saving with access to payments and withdrawals. Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts.",
+        "solution": [
+          "It combines saving with access to payments and withdrawals.",
+          "Regular deposits can build savings. Account records, interest and convenient access for salary or pension payments can encourage uptake. These are reasons to investigate. An actual increase in account holders requires comparable dated counts."
+        ],
+        "hints": [
+          "It combines saving with access to payments and withdrawals."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-012",
+        "title": "Benefits of an account",
+        "reference": "Exercise II Q12 · p138",
+        "prompt": "Which benefit follows directly from receiving and paying through an account? Explain your reasoning with a chapter example.",
+        "sample": "A record of transactions that can be checked against payments due. Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval.",
+        "solution": [
+          "A record of transactions that can be checked against payments due.",
+          "Accounts support safekeeping, collections, transfers and recurring payments. Customers can apply for credit or lockers subject to eligibility, availability and terms. An account alone does not establish loan approval."
+        ],
+        "hints": [
+          "A record of transactions that can be checked against payments due."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-013",
+        "title": "Match institutions to needs",
+        "reference": "Foundation · pp133–134",
+        "prompt": "Which type does the textbook associate with member-based banking? Explain your reasoning with a chapter example.",
+        "sample": "Cooperative bank. The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period.",
+        "solution": [
+          "Cooperative bank.",
+          "The six textbook categories are central, commercial, industrial development, land or agricultural development, indigenous and cooperative. The historical indigenous category includes sahukars. A moneylender’s activity alone does not establish licensed bank status. The book’s branch and bank counts describe its source period."
+        ],
+        "hints": [
+          "Cooperative bank."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-014",
+        "title": "Build a deposit in instalments",
+        "reference": "Foundation · p135",
+        "prompt": "Which account fits a monthly contribution towards a future purchase? Explain your reasoning with a chapter example.",
+        "sample": "Recurring deposit. In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum.",
+        "solution": [
+          "Recurring deposit.",
+          "In the textbook example a saver deposits a set amount each month for a specified term and receives the accumulated deposit plus applicable interest. Each instalment earns interest for its own time on deposit. A fixed deposit typically starts with a lump sum."
+        ],
+        "hints": [
+          "Recurring deposit."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-015",
+        "title": "From choice to application",
+        "reference": "Procedure and joint-account sidebar · pp135–136",
+        "prompt": "What should a prospective customer decide before completing the bank’s application? Explain your reasoning with a chapter example.",
+        "sample": "The account purpose and the product that suits it. The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process.",
+        "solution": [
+          "The account purpose and the product that suits it.",
+          "The chapter’s first three stages are choosing the type, approaching a bank and completing its application. For a joint account two or more holders agree how it will operate. Signature, photograph and identification procedures depend on the bank’s approved process."
+        ],
+        "hints": [
+          "The account purpose and the product that suits it."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-016",
+        "title": "Verification and activation",
+        "reference": "Procedure · p136",
+        "prompt": "What follows submission of the requested account-opening information? Explain your reasoning with a chapter example.",
+        "sample": "The bank verifies the application and applicable KYC information. The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book.",
+        "solution": [
+          "The bank verifies the application and applicable KYC information.",
+          "The book’s remaining stages cover introduction, submission of documents, verification and an initial deposit. Its introduction and document list describe older branch practice. Check current official KYC options, account conditions and minimum-balance requirements. Product terms determine initial funding and whether the bank issues a passbook, receipt or cheque book."
+        ],
+        "hints": [
+          "The bank verifies the application and applicable KYC information."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-017",
+        "title": "Everyday operations",
+        "reference": "Operations · pp137–138",
+        "prompt": "How can an account holder arrange a regular insurance payment? Explain your reasoning with a chapter example.",
+        "sample": "Give a standing instruction under the bank’s terms. Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments.",
+        "solution": [
+          "Give a standing instruction under the bank’s terms.",
+          "Customers can deposit funds, collect eligible instruments and withdraw through authorised channels such as an ATM debit card. Interest calculation and crediting are different events. Indian savings interest is generally calculated on daily closing balances. Check current procedures for statements, branch transfer, closure and surrender of unused instruments."
+        ],
+        "hints": [
+          "Give a standing instruction under the bank’s terms."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-018",
+        "title": "Education loan enquiry",
+        "reference": "Inline activity · p132",
+        "prompt": "Prepare questions about financing higher education.",
+        "sample": "Ask about eligible courses, expenses, repayment timing, interest and documentation using a public product sheet or a supervised enquiry. Record the source and date and distinguish example terms from an individual approval.",
+        "solution": [
+          "Ask about eligible courses, expenses, repayment timing, interest and documentation using a public product sheet or a supervised enquiry.",
+          "Record the source and date and distinguish example terms from an individual approval."
+        ],
+        "hints": [
+          "Ask about eligible courses, expenses, repayment timing, interest and documentation using a public product sheet or a supervised enquiry."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-019",
+        "title": "Post office enquiry",
+        "reference": "Inline activity · p133",
+        "prompt": "Prepare a comparison of postal savings and payments-bank services.",
+        "sample": "Choose one postal savings scheme and one payments service. Record the provider, purpose, access channel and eligibility from official information. A post office can be an access point for distinct products. Identify which institution operates each.",
+        "solution": [
+          "Choose one postal savings scheme and one payments service. Record the provider, purpose, access channel and eligibility from official information.",
+          "A post office can be an access point for distinct products. Identify which institution operates each."
+        ],
+        "hints": [
+          "Choose one postal savings scheme and one payments service. Record the provider, purpose, access channel and eligibility from official information."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-020",
+        "title": "Compare interest quotations",
+        "reference": "Inline activity · p134",
+        "prompt": "How would you compare rates on savings, current and recurring accounts?",
+        "sample": "Record account type, rate per annum, date, tenure, payout frequency and relevant conditions using the same bank’s published schedule. Current accounts generally pay no interest. A quoted annual rate and an amount actually earned are different measures.",
+        "solution": [
+          "Record account type, rate per annum, date, tenure, payout frequency and relevant conditions using the same bank’s published schedule.",
+          "Current accounts generally pay no interest. A quoted annual rate and an amount actually earned are different measures."
+        ],
+        "hints": [
+          "Record account type, rate per annum, date, tenure, payout frequency and relevant conditions using the same bank’s published schedule."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-021",
+        "title": "How a branch works",
+        "reference": "Inline activity · p135",
+        "prompt": "Trace one fictional deposit through a branch.",
+        "sample": "Identify the customer request, relevant form or authorised channel, verification, credit to the account and acknowledgement. Use a hypothetical transaction and public information. If a visit takes place, record observations separately.",
+        "solution": [
+          "Identify the customer request, relevant form or authorised channel, verification, credit to the account and acknowledgement.",
+          "Use a hypothetical transaction and public information. If a visit takes place, record observations separately."
+        ],
+        "hints": [
+          "Identify the customer request, relevant form or authorised channel, verification, credit to the account and acknowledgement."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-022",
+        "title": "Calculate the fixed-deposit example",
+        "reference": "Inline activity · p135",
+        "prompt": "What is one year’s interest on ₹50,000 at 8% per annum under simple interest?",
+        "sample": "Multiply ₹50,000 by 0.08 and by one year to obtain ₹4,000. Principal plus interest is ₹54,000. A different term, compounding convention or payout schedule changes the result. The 8% is the textbook assumption.",
+        "solution": [
+          "Multiply ₹50,000 by 0.08 and by one year to obtain ₹4,000. Principal plus interest is ₹54,000.",
+          "A different term, compounding convention or payout schedule changes the result. The 8% is the textbook assumption."
+        ],
+        "hints": [
+          "Multiply ₹50,000 by 0.08 and by one year to obtain ₹4,000. Principal plus interest is ₹54,000."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-023",
+        "title": "A list of banks",
+        "reference": "Activity III Q1 · p139",
+        "prompt": "Make a short list of familiar banks and identify what each example illustrates.",
+        "sample": "Canara Bank and Union Bank of India illustrate nationalised banks. The RBI illustrates a central bank with a different role. Add a local example after verifying its official name and category.",
+        "solution": [
+          "Canara Bank and Union Bank of India illustrate nationalised banks. The RBI illustrates a central bank with a different role.",
+          "Add a local example after verifying its official name and category."
+        ],
+        "hints": [
+          "Canara Bank and Union Bank of India illustrate nationalised banks. The RBI illustrates a central bank with a different role."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-024",
+        "title": "Term-deposit enquiry",
+        "reference": "Activity III Q2 · p139",
+        "prompt": "Prepare a dated comparison of periodic interest offered on a term deposit.",
+        "sample": "Ask for the principal, term, rate, payout interval and whether interest is paid out or reinvested. Use a public rate sheet or a voluntary enquiry and note the observation date. Explain how two offers could quote the same rate yet pay on different schedules.",
+        "solution": [
+          "Ask for the principal, term, rate, payout interval and whether interest is paid out or reinvested.",
+          "Use a public rate sheet or a voluntary enquiry and note the observation date. Explain how two offers could quote the same rate yet pay on different schedules."
+        ],
+        "hints": [
+          "Ask for the principal, term, rate, payout interval and whether interest is paid out or reinvested."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-task-025",
+        "title": "Account-opening report",
+        "reference": "Project IV Q1 · p139",
+        "prompt": "Prepare a report describing how to open a suitable account.",
+        "sample": "Use the seven textbook stages as headings. Compare them with an official bank checklist and note updated requirements, channels, fees and account conditions. Use fictional customer details in the report. Record a visit only if it happened. The optional real account opening is separate from the learning task.",
+        "solution": [
+          "Use the seven textbook stages as headings. Compare them with an official bank checklist and note updated requirements, channels, fees and account conditions.",
+          "Use fictional customer details in the report. Record a visit only if it happened. The optional real account opening is separate from the learning task."
+        ],
+        "hints": [
+          "Use the seven textbook stages as headings. Compare them with an official bank checklist and note updated requirements, channels, fees and account conditions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "16": [
+      {
+        "id": "ss16-check-001",
+        "title": "Choose an account",
+        "reference": "Independent check",
+        "prompt": "One saver has ₹12,000 now. Another can save ₹1,000 each month. Which products would you compare for a one-year goal?",
+        "sample": "A lump-sum term deposit fits the first pattern and a recurring deposit fits the second. Compare maturity, rates and access conditions. The principals eventually contributed can match while the interest differs because instalments are deposited later.",
+        "solution": [
+          "A lump-sum term deposit fits the first pattern and a recurring deposit fits the second. Compare maturity, rates and access conditions.",
+          "The principals eventually contributed can match while the interest differs because instalments are deposited later."
+        ],
+        "hints": [
+          "A lump-sum term deposit fits the first pattern and a recurring deposit fits the second. Compare maturity, rates and access conditions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss16-check-002",
+        "title": "Identify the relationship",
+        "reference": "Independent check",
+        "prompt": "A customer deposits money, asks a bank to collect a bill and later borrows for education. Explain each relationship.",
+        "sample": "On deposit the bank owes the customer. On bill collection the bank acts as the customer’s agent. On the education loan the customer owes the bank. Identify each transaction before assigning debtor and creditor roles.",
+        "solution": [
+          "On deposit the bank owes the customer. On bill collection the bank acts as the customer’s agent.",
+          "On the education loan the customer owes the bank. Identify each transaction before assigning debtor and creditor roles."
+        ],
+        "hints": [
+          "On deposit the bank owes the customer. On bill collection the bank acts as the customer’s agent."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  }
+}

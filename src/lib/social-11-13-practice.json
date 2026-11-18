@@ -1,0 +1,1026 @@
+{
+  "chapters": {
+    "11": [
+      {
+        "id": "ss11-task-001",
+        "title": "Summer inland",
+        "reference": "Exercise I Q1 · p101",
+        "prompt": "Which place does the chapter use to illustrate extreme summer heat? Explain your reasoning with a chapter example.",
+        "sample": "Ganganagar in Rajasthan. The chapter contrasts the hot northern interior in March–May with coastal areas where water moderates temperature. Its temperature example is a textbook observation. A national record needs a station and date.",
+        "solution": [
+          "Ganganagar in Rajasthan.",
+          "The chapter contrasts the hot northern interior in March–May with coastal areas where water moderates temperature. Its temperature example is a textbook observation. A national record needs a station and date."
+        ],
+        "hints": [
+          "Ganganagar in Rajasthan."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-002",
+        "title": "A rising parcel of air",
+        "reference": "Exercise I Q2 · p101",
+        "prompt": "What kind of rain can follow intense local surface heating? Explain your reasoning with a chapter example.",
+        "sample": "Convectional rainfall. Warm moist air rises, expands and cools. Condensation can form clouds and local showers in April or May. The exercise’s “conventional currents” refers to convection.",
+        "solution": [
+          "Convectional rainfall.",
+          "Warm moist air rises, expands and cools. Condensation can form clouds and local showers in April or May. The exercise’s “conventional currents” refers to convection."
+        ],
+        "hints": [
+          "Convectional rainfall."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-003",
+        "title": "A dry station",
+        "reference": "Exercise I Q3 · p101",
+        "prompt": "Which dry locality is named in the text? Explain your reasoning with a chapter example.",
+        "sample": "Ruyli in Jaisalmer district. The book gives 8.3 cm annually for its Rajasthan example. A single dry year and a long-term average answer different questions.",
+        "solution": [
+          "Ruyli in Jaisalmer district.",
+          "The book gives 8.3 cm annually for its Rajasthan example. A single dry year and a long-term average answer different questions."
+        ],
+        "hints": [
+          "Ruyli in Jaisalmer district."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-004",
+        "title": "A wet station",
+        "reference": "Exercise I Q4 · p101",
+        "prompt": "Which place illustrates very high average rainfall? Explain your reasoning with a chapter example.",
+        "sample": "Mawsynram in Meghalaya. Moist air rises over the Meghalaya hills. The comparison concerns a long-term rainfall average. An individual storm or year can have a different ranking.",
+        "solution": [
+          "Mawsynram in Meghalaya.",
+          "Moist air rises over the Meghalaya hills. The comparison concerns a long-term rainfall average. An individual storm or year can have a different ranking."
+        ],
+        "hints": [
+          "Mawsynram in Meghalaya."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-005",
+        "title": "India’s climate",
+        "reference": "Exercise II Q5 · p101",
+        "prompt": "What broad climate type does the chapter describe? Explain your reasoning with a chapter example.",
+        "sample": "Tropical monsoon climate. Seasonal changes in wind direction and moisture supply shape much of India’s rainfall. Latitude, altitude and relief produce substantial regional variation within that broad description.",
+        "solution": [
+          "Tropical monsoon climate.",
+          "Seasonal changes in wind direction and moisture supply shape much of India’s rainfall. Latitude, altitude and relief produce substantial regional variation within that broad description."
+        ],
+        "hints": [
+          "Tropical monsoon climate."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-006",
+        "title": "Withdrawal and cyclones",
+        "reference": "Exercise II Q6 · p101",
+        "prompt": "What helps tropical depressions develop during withdrawal? Explain your reasoning with a chapter example.",
+        "sample": "Warm Bay of Bengal waters and favourable atmospheric conditions. In October–November the summer circulation retreats. Warm water supplies moisture and heat to low-pressure systems. Some intensify into cyclones and bring heavy coastal rain, especially along the east coast.",
+        "solution": [
+          "Warm Bay of Bengal waters and favourable atmospheric conditions.",
+          "In October–November the summer circulation retreats. Warm water supplies moisture and heat to low-pressure systems. Some intensify into cyclones and bring heavy coastal rain, especially along the east coast."
+        ],
+        "hints": [
+          "Warm Bay of Bengal waters and favourable atmospheric conditions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-007",
+        "title": "What controls climate?",
+        "reference": "Exercise II Q7 · p101",
+        "prompt": "Why can two Indian places at similar latitude have different climates? Explain your reasoning with a chapter example.",
+        "sample": "Altitude, relief and distance from the sea differ. Compare an inland plain, a hill station and a coastal town. Elevation affects temperature, the sea moderates variation and mountains redirect moisture-bearing winds. Latitude and seasonal winds matter too.",
+        "solution": [
+          "Altitude, relief and distance from the sea differ.",
+          "Compare an inland plain, a hill station and a coastal town. Elevation affects temperature, the sea moderates variation and mountains redirect moisture-bearing winds. Latitude and seasonal winds matter too."
+        ],
+        "hints": [
+          "Altitude, relief and distance from the sea differ."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-008",
+        "title": "Rain and livelihoods",
+        "reference": "Exercise II Q8 · p101",
+        "prompt": "Why does the chapter compare farming to a gamble with the monsoon? Explain your reasoning with a chapter example.",
+        "sample": "Uncertain timing and distribution affect rain-fed crops. Delayed onset can postpone sowing. A long dry spell during growth can reduce yields even in a year with a normal total. Excess rain can flood fields. Irrigation, drainage and crop choice change exposure.",
+        "solution": [
+          "Uncertain timing and distribution affect rain-fed crops.",
+          "Delayed onset can postpone sowing. A long dry spell during growth can reduce yields even in a year with a normal total. Excess rain can flood fields. Irrigation, drainage and crop choice change exposure."
+        ],
+        "hints": [
+          "Uncertain timing and distribution affect rain-fed crops."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-009",
+        "title": "Two summer monsoon branches",
+        "reference": "Source map · pp99–100",
+        "prompt": "Which pair carries moisture towards India in June–September? Explain your reasoning with a chapter example.",
+        "sample": "Arabian Sea and Bay of Bengal branches. The Arabian Sea branch rises on the western slopes of the Ghats, leaving a drier rain shadow to the east. The Bay branch supplies the northeast and moves along the northern plains. Rain generally decreases towards the northwest.",
+        "solution": [
+          "Arabian Sea and Bay of Bengal branches.",
+          "The Arabian Sea branch rises on the western slopes of the Ghats, leaving a drier rain shadow to the east. The Bay branch supplies the northeast and moves along the northern plains. Rain generally decreases towards the northwest."
+        ],
+        "hints": [
+          "Arabian Sea and Bay of Bengal branches."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-010",
+        "title": "Winter and seasonal shares",
+        "reference": "Season comparison · pp98–100",
+        "prompt": "Which season has the smallest share in the book’s national illustration? Explain your reasoning with a chapter example.",
+        "sample": "Winter from December to February. The book assigns summer 10%, southwest monsoon 75%, retreat 13% and winter 2%. Winter can still bring northern rain or mountain snow. These national shares cannot predict one town’s annual cycle.",
+        "solution": [
+          "Winter from December to February.",
+          "The book assigns summer 10%, southwest monsoon 75%, retreat 13% and winter 2%. Winter can still bring northern rain or mountain snow. These national shares cannot predict one town’s annual cycle."
+        ],
+        "hints": [
+          "Winter from December to February."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-011",
+        "title": "Read the rainfall map",
+        "reference": "Rainfall map key · p100",
+        "prompt": "Where does exactly 250 cm belong in this book’s key? Explain your reasoning with a chapter example.",
+        "sample": "Moderate band. Low is below 50 cm, moderate spans 50–250 cm and heavy exceeds 250 cm. Compare the Thar and Ladakh with the west-facing Ghats and Meghalaya. The book gives a national mean of 118 cm, which hides those contrasts.",
+        "solution": [
+          "Moderate band.",
+          "Low is below 50 cm, moderate spans 50–250 cm and heavy exceeds 250 cm. Compare the Thar and Ladakh with the west-facing Ghats and Meghalaya. The book gives a national mean of 118 cm, which hides those contrasts."
+        ],
+        "hints": [
+          "Moderate band."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-012",
+        "title": "Regional shower names",
+        "reference": "Exercise III · p101",
+        "prompt": "Match each of the four pre-monsoon names with its textbook region.",
+        "sample": "Kalabaisakhi belongs with West Bengal and Andhis with Uttar Pradesh. Coffee blossom showers belong with Karnataka and mango showers with Kerala. Andhis often involve dust storms. Blossom and mango showers take their names from their agricultural associations.",
+        "solution": [
+          "Kalabaisakhi belongs with West Bengal and Andhis with Uttar Pradesh. Coffee blossom showers belong with Karnataka and mango showers with Kerala.",
+          "Andhis often involve dust storms. Blossom and mango showers take their names from their agricultural associations."
+        ],
+        "hints": [
+          "Kalabaisakhi belongs with West Bengal and Andhis with Uttar Pradesh. Coffee blossom showers belong with Karnataka and mango showers with Kerala."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-013",
+        "title": "Compare city temperatures",
+        "reference": "Inline activity · p99",
+        "prompt": "Plan a fair comparison of newspaper temperatures for two cities.",
+        "sample": "Record city, date, unit and whether each figure is a maximum or minimum. Compare like with like. Consider altitude and coastal influence. One day supplies weather observations, while climate requires a longer record.",
+        "solution": [
+          "Record city, date, unit and whether each figure is a maximum or minimum. Compare like with like.",
+          "Consider altitude and coastal influence. One day supplies weather observations, while climate requires a longer record."
+        ],
+        "hints": [
+          "Record city, date, unit and whether each figure is a maximum or minimum. Compare like with like."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-014",
+        "title": "Read taluk rainfall",
+        "reference": "Inline activity · p101",
+        "prompt": "How would you describe rainfall in your taluk this year?",
+        "sample": "Find the dated local gauge or district report and state the period and unit. Compare with a normal for the same months. Record a missing measurement as missing. Explain how monthly variation could affect farming.",
+        "solution": [
+          "Find the dated local gauge or district report and state the period and unit. Compare with a normal for the same months.",
+          "Record a missing measurement as missing. Explain how monthly variation could affect farming."
+        ],
+        "hints": [
+          "Find the dated local gauge or district report and state the period and unit. Compare with a normal for the same months."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-015",
+        "title": "Draw rainfall regions",
+        "reference": "Activity IV Q1 · p101",
+        "prompt": "Prepare a rainfall distribution map of India.",
+        "sample": "Use an outline, north arrow and three labelled rainfall bands. Mark representative heavy rainfall on the western Ghats and Meghalaya, and low rainfall in western Rajasthan. Use the book’s map to trace regional extent. Include a legend and have the drawing checked.",
+        "solution": [
+          "Use an outline, north arrow and three labelled rainfall bands. Mark representative heavy rainfall on the western Ghats and Meghalaya, and low rainfall in western Rajasthan.",
+          "Use the book’s map to trace regional extent. Include a legend and have the drawing checked."
+        ],
+        "hints": [
+          "Use an outline, north arrow and three labelled rainfall bands. Mark representative heavy rainfall on the western Ghats and Meghalaya, and low rainfall in western Rajasthan."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-task-016",
+        "title": "Local seasonal calendar",
+        "reference": "Project V Q1 · p101",
+        "prompt": "Prepare a calendar to discuss with a teacher.",
+        "sample": "Make four rows for summer, southwest monsoon, withdrawal and winter. Record local temperature, rain and farming observations with dates. Distinguish observations you made from information supplied by a teacher or weather station.",
+        "solution": [
+          "Make four rows for summer, southwest monsoon, withdrawal and winter. Record local temperature, rain and farming observations with dates.",
+          "Distinguish observations you made from information supplied by a teacher or weather station."
+        ],
+        "hints": [
+          "Make four rows for summer, southwest monsoon, withdrawal and winter. Record local temperature, rain and farming observations with dates."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "ss12-task-001",
+        "title": "Sediment becomes soil",
+        "reference": "Exercise I Q1 · p105",
+        "prompt": "Which soil develops from river deposits? Explain your reasoning with a chapter example.",
+        "sample": "Alluvial soil. Rivers carry sand, silt and clay into plains, valleys and deltas. The Ganga and Brahmaputra plains support crops such as paddy, wheat, sugarcane and jute under suitable conditions.",
+        "solution": [
+          "Alluvial soil.",
+          "Rivers carry sand, silt and clay into plains, valleys and deltas. The Ganga and Brahmaputra plains support crops such as paddy, wheat, sugarcane and jute under suitable conditions."
+        ],
+        "hints": [
+          "Alluvial soil."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-002",
+        "title": "Regur and its parent rock",
+        "reference": "Exercise I Q2 · p105",
+        "prompt": "Which region does the book associate with black soil? Explain your reasoning with a chapter example.",
+        "sample": "Deccan Trap region. Regur or black cotton soil often develops from basalt and has abundant clay. Deccan Trap names a volcanic rock province. The soil retains moisture and can support cotton and jowar.",
+        "solution": [
+          "Deccan Trap region.",
+          "Regur or black cotton soil often develops from basalt and has abundant clay. Deccan Trap names a volcanic rock province. The soil retains moisture and can support cotton and jowar."
+        ],
+        "hints": [
+          "Deccan Trap region."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-003",
+        "title": "Dry-region soils",
+        "reference": "Exercise I Q3 · p105",
+        "prompt": "Which soil is prominent in western Rajasthan? Explain your reasoning with a chapter example.",
+        "sample": "Desert soil. Low rainfall, sparse vegetation and wind deposition favour sandy soils with little organic matter. Irrigation can change cropping possibilities, though drainage and salinity matter.",
+        "solution": [
+          "Desert soil.",
+          "Low rainfall, sparse vegetation and wind deposition favour sandy soils with little organic matter. Irrigation can change cropping possibilities, though drainage and salinity matter."
+        ],
+        "hints": [
+          "Desert soil."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-004",
+        "title": "National and peninsular extent",
+        "reference": "Exercise I Q4 · p105",
+        "prompt": "Which soil group does the book describe as most extensive across India? Explain your reasoning with a chapter example.",
+        "sample": "Alluvial soil. Alluvial deposits cover the northern plains and many coastal or river lowlands. Red soils are extensive across the peninsula. Read the geographical scope before comparing extent.",
+        "solution": [
+          "Alluvial soil.",
+          "Alluvial deposits cover the northern plains and many coastal or river lowlands. Red soils are extensive across the peninsula. Read the geographical scope before comparing extent."
+        ],
+        "hints": [
+          "Alluvial soil."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-005",
+        "title": "Red soils",
+        "reference": "Exercise I Q5 · p105",
+        "prompt": "Which soil does the source associate with ragi and oilseeds? Explain your reasoning with a chapter example.",
+        "sample": "Red soil. Iron compounds give these weathered soils a reddish colour. Across parts of the peninsula, ragi and oilseeds are examples. Irrigation and local fertility can support other crops.",
+        "solution": [
+          "Red soil.",
+          "Iron compounds give these weathered soils a reddish colour. Across parts of the peninsula, ragi and oilseeds are examples. Irrigation and local fertility can support other crops."
+        ],
+        "hints": [
+          "Red soil."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-006",
+        "title": "Six groups",
+        "reference": "Exercise II Q6 · p105",
+        "prompt": "Which list gives the six groups in this chapter? Explain your reasoning with a chapter example.",
+        "sample": "Alluvial, black, red, laterite, desert and mountain. Weathering of parent rock, climate, relief, organisms and time influence soil formation. Rivers and wind can transport material. A soil map shows broad regions with local variation.",
+        "solution": [
+          "Alluvial, black, red, laterite, desert and mountain.",
+          "Weathering of parent rock, climate, relief, organisms and time influence soil formation. Rivers and wind can transport material. A soil map shows broad regions with local variation."
+        ],
+        "hints": [
+          "Alluvial, black, red, laterite, desert and mountain."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-007",
+        "title": "Keep soil in place",
+        "reference": "Exercise II Q7 · p105",
+        "prompt": "What is soil conservation? Explain your reasoning with a chapter example.",
+        "sample": "Protecting soil from loss and maintaining its capacity to support growth. Vegetation covers the surface and roots bind soil. Contour cultivation, terraces and bunds slow runoff on slopes. Shelterbelts reduce wind speed and managed grazing protects ground cover.",
+        "solution": [
+          "Protecting soil from loss and maintaining its capacity to support growth.",
+          "Vegetation covers the surface and roots bind soil. Contour cultivation, terraces and bunds slow runoff on slopes. Shelterbelts reduce wind speed and managed grazing protects ground cover."
+        ],
+        "hints": [
+          "Protecting soil from loss and maintaining its capacity to support growth."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-008",
+        "title": "How erosion starts",
+        "reference": "Exercise II Q8 · p105",
+        "prompt": "What happens during erosion? Explain your reasoning with a chapter example.",
+        "sample": "Water or wind removes and transports soil. Heavy runoff, steep slopes, exposed ground, deforestation, unsuitable cultivation and overgrazing can accelerate topsoil loss. Weathering first breaks rock down in place.",
+        "solution": [
+          "Water or wind removes and transports soil.",
+          "Heavy runoff, steep slopes, exposed ground, deforestation, unsuitable cultivation and overgrazing can accelerate topsoil loss. Weathering first breaks rock down in place."
+        ],
+        "hints": [
+          "Water or wind removes and transports soil."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-009",
+        "title": "Follow the sediment",
+        "reference": "Exercise II Q9 · p105",
+        "prompt": "What can happen after topsoil washes off a field? Explain your reasoning with a chapter example.",
+        "sample": "Productive topsoil is lost and sediment accumulates downstream. Loss of nutrients and organic matter can lower yields. Deposition in channels, tanks and reservoirs reduces capacity and can aggravate flooding. Effects connect an upstream field to downstream users.",
+        "solution": [
+          "Productive topsoil is lost and sediment accumulates downstream.",
+          "Loss of nutrients and organic matter can lower yields. Deposition in channels, tanks and reservoirs reduces capacity and can aggravate flooding. Effects connect an upstream field to downstream users."
+        ],
+        "hints": [
+          "Productive topsoil is lost and sediment accumulates downstream."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-010",
+        "title": "Himalayan soils",
+        "reference": "Exercise II Q10 · p105",
+        "prompt": "Which broad soil group is associated with the Himalayas? Explain your reasoning with a chapter example.",
+        "sample": "Mountain or forest soils. Slope, elevation, vegetation and drainage produce variation. Forest litter supplies organic matter, while steep exposed slopes often carry thin soils. Valley soils differ from high ridges.",
+        "solution": [
+          "Mountain or forest soils.",
+          "Slope, elevation, vegetation and drainage produce variation. Forest litter supplies organic matter, while steep exposed slopes often carry thin soils. Valley soils differ from high ridges."
+        ],
+        "hints": [
+          "Mountain or forest soils."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-011",
+        "title": "Leaching and laterite",
+        "reference": "Soil map · p103",
+        "prompt": "Which process helps explain laterite in wet uplands? Explain your reasoning with a chapter example.",
+        "sample": "Intense leaching under heavy rainfall. Water moving through soil carries soluble materials away and leaves relatively more iron and aluminium compounds. The book associates laterite with wet areas including parts of the Ghats. Management affects plantation suitability.",
+        "solution": [
+          "Intense leaching under heavy rainfall.",
+          "Water moving through soil carries soluble materials away and leaves relatively more iron and aluminium compounds. The book associates laterite with wet areas including parts of the Ghats. Management affects plantation suitability."
+        ],
+        "hints": [
+          "Intense leaching under heavy rainfall."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-012",
+        "title": "Local soil inventory",
+        "reference": "Activity III Q1 · p105",
+        "prompt": "Plan an enquiry about soils and uses in your taluk.",
+        "sample": "Ask the agriculture office for a dated soil map or public information sheet. Record location, soil category, crops and water conditions. Mark unverified entries for follow-up and use only information actually obtained.",
+        "solution": [
+          "Ask the agriculture office for a dated soil map or public information sheet. Record location, soil category, crops and water conditions.",
+          "Mark unverified entries for follow-up and use only information actually obtained."
+        ],
+        "hints": [
+          "Ask the agriculture office for a dated soil map or public information sheet. Record location, soil category, crops and water conditions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-013",
+        "title": "Grazing and erosion",
+        "reference": "Activity III Q2 · p105",
+        "prompt": "Does keeping livestock always cause erosion?",
+        "sample": "Intensity and timing matter. Repeated grazing beyond recovery removes protective cover and trampling can increase runoff. Compare a bare slope with one where vegetation has recovered under managed grazing.",
+        "solution": [
+          "Intensity and timing matter. Repeated grazing beyond recovery removes protective cover and trampling can increase runoff.",
+          "Compare a bare slope with one where vegetation has recovered under managed grazing."
+        ],
+        "hints": [
+          "Intensity and timing matter. Repeated grazing beyond recovery removes protective cover and trampling can increase runoff."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-task-014",
+        "title": "Soil testing",
+        "reference": "Project IV Q1 · p105",
+        "prompt": "Prepare a teacher-guided soil-testing report.",
+        "sample": "Record sampling location, depth and field history according to the testing centre’s instructions. Ask for measured pH, nutrients and the centre’s crop guidance. Enter results after the test. Colour alone cannot determine a fertiliser dose or establish crop suitability.",
+        "solution": [
+          "Record sampling location, depth and field history according to the testing centre’s instructions. Ask for measured pH, nutrients and the centre’s crop guidance.",
+          "Enter results after the test. Colour alone cannot determine a fertiliser dose or establish crop suitability."
+        ],
+        "hints": [
+          "Record sampling location, depth and field history according to the testing centre’s instructions. Ask for measured pH, nutrients and the centre’s crop guidance."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "ss13-task-001",
+        "title": "Wet northeastern forests",
+        "reference": "Exercise I Q1 · p110",
+        "prompt": "Which forest type does the book associate with wet parts of Assam and Meghalaya? Explain your reasoning with a chapter example.",
+        "sample": "Tropical evergreen forest. High rainfall and humidity support dense, layered vegetation. Trees renew leaves at different times, keeping a green canopy through the year. Wet western slopes and some islands offer other examples.",
+        "solution": [
+          "Tropical evergreen forest.",
+          "High rainfall and humidity support dense, layered vegetation. Trees renew leaves at different times, keeping a green canopy through the year. Wet western slopes and some islands offer other examples."
+        ],
+        "hints": [
+          "Tropical evergreen forest."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-002",
+        "title": "Altitude changes vegetation",
+        "reference": "Exercise I Q2 · p110",
+        "prompt": "Which type completes the book’s Himalayan forest blank? Explain your reasoning with a chapter example.",
+        "sample": "Alpine forests. The chapter uses alpine as a broad heading. With increasing elevation, broadleaf forests can give way to conifer belts and then alpine shrubs or meadows above the tree line.",
+        "solution": [
+          "Alpine forests.",
+          "The chapter uses alpine as a broad heading. With increasing elevation, broadleaf forests can give way to conifer belts and then alpine shrubs or meadows above the tree line."
+        ],
+        "hints": [
+          "Alpine forests."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-003",
+        "title": "Forests shaped by tides",
+        "reference": "Exercise I Q3 · p110",
+        "prompt": "What is the mangrove region of the lower Ganga–Brahmaputra delta called? Explain your reasoning with a chapter example.",
+        "sample": "The Sundarbans. Salt-tolerant vegetation grows on tidal mudflats and estuaries. The book links the name to sundari trees. Mangroves also occur in parts of the Mahanadi, Godavari and Krishna deltas.",
+        "solution": [
+          "The Sundarbans.",
+          "Salt-tolerant vegetation grows on tidal mudflats and estuaries. The book links the name to sundari trees. Mangroves also occur in parts of the Mahanadi, Godavari and Krishna deltas."
+        ],
+        "hints": [
+          "The Sundarbans."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-004",
+        "title": "Locate Corbett",
+        "reference": "Exercise I Q4 · p110",
+        "prompt": "Which State contains Jim Corbett National Park? Explain your reasoning with a chapter example.",
+        "sample": "Uttarakhand. Corbett is associated with India’s first national park, established in 1936 under an earlier name. Compare Gir in Gujarat, Kaziranga in Assam and Kanha in Madhya Pradesh.",
+        "solution": [
+          "Uttarakhand.",
+          "Corbett is associated with India’s first national park, established in 1936 under an earlier name. Compare Gir in Gujarat, Kaziranga in Assam and Kanha in Madhya Pradesh."
+        ],
+        "hints": [
+          "Uttarakhand."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-005",
+        "title": "Read a policy target",
+        "reference": "Exercise I Q5 · p110",
+        "prompt": "What share does the textbook give as the national forest-policy goal? Explain your reasoning with a chapter example.",
+        "sample": "About one-third or 33%. A policy goal for forest or tree cover is different from a survey measurement. A target, actual cover and legally recorded forest area each answer a different question.",
+        "solution": [
+          "About one-third or 33%.",
+          "A policy goal for forest or tree cover is different from a survey measurement. A target, actual cover and legally recorded forest area each answer a different question."
+        ],
+        "hints": [
+          "About one-third or 33%."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-006",
+        "title": "Natural vegetation",
+        "reference": "Exercise II Q6 · p110",
+        "prompt": "What does natural vegetation mean here? Explain your reasoning with a chapter example.",
+        "sample": "Plant communities growing under local environmental conditions without deliberate cultivation. Rainfall, temperature, soils, altitude and drainage influence the mix of trees, shrubs and grasses. A planted crop field illustrates managed cultivation.",
+        "solution": [
+          "Plant communities growing under local environmental conditions without deliberate cultivation.",
+          "Rainfall, temperature, soils, altitude and drainage influence the mix of trees, shrubs and grasses. A planted crop field illustrates managed cultivation."
+        ],
+        "hints": [
+          "Plant communities growing under local environmental conditions without deliberate cultivation."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-007",
+        "title": "Read the forest-area figure",
+        "reference": "Exercise II Q7 · p110",
+        "prompt": "Which forest-cover figure does the uploaded chapter cite? Explain your reasoning with a chapter example.",
+        "sample": "713,789 square kilometres. This is the India State of Forest Report 2021 figure used by the book. State the report year and unit. Forest cover, tree cover and recorded forest area have different definitions.",
+        "solution": [
+          "713,789 square kilometres.",
+          "This is the India State of Forest Report 2021 figure used by the book. State the report year and unit. Forest cover, tree cover and recorded forest area have different definitions."
+        ],
+        "hints": [
+          "713,789 square kilometres."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-008",
+        "title": "Six vegetation groups",
+        "reference": "Exercise II Q8 · p110",
+        "prompt": "Which list follows the book’s classification? Explain your reasoning with a chapter example.",
+        "sample": "Evergreen, deciduous monsoon, tropical grassland, mangrove, desert and Himalayan alpine. Grassland is a vegetation type in this grouping. Seasonal moisture, tides and altitude each help explain the distribution. Boundaries on a vegetation map are generalised.",
+        "solution": [
+          "Evergreen, deciduous monsoon, tropical grassland, mangrove, desert and Himalayan alpine.",
+          "Grassland is a vegetation type in this grouping. Seasonal moisture, tides and altitude each help explain the distribution. Boundaries on a vegetation map are generalised."
+        ],
+        "hints": [
+          "Evergreen, deciduous monsoon, tropical grassland, mangrove, desert and Himalayan alpine."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-009",
+        "title": "A dry-season strategy",
+        "reference": "Exercise II Q9 · p110",
+        "prompt": "Why do deciduous monsoon trees shed leaves? Explain your reasoning with a chapter example.",
+        "sample": "Seasonal leaf loss limits water loss during the dry period. The text associates this widespread type with roughly 75–250 cm of rainfall and cites 65.5% as its source share. Teak and sal illustrate monsoon forests in suitable parts of central and peninsular India.",
+        "solution": [
+          "Seasonal leaf loss limits water loss during the dry period.",
+          "The text associates this widespread type with roughly 75–250 cm of rainfall and cites 65.5% as its source share. Teak and sal illustrate monsoon forests in suitable parts of central and peninsular India."
+        ],
+        "hints": [
+          "Seasonal leaf loss limits water loss during the dry period."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-010",
+        "title": "Forests and livelihoods",
+        "reference": "Exercise II Q10 · p110",
+        "prompt": "How do forests benefit people and ecosystems? Explain your reasoning with a chapter example.",
+        "sample": "They support biodiversity, livelihoods and soil and water regulation. Roots stabilise soil, canopies intercept rain and vegetation stores carbon. Forests provide timber and non-timber products and habitat. Management affects how benefits are shared over time.",
+        "solution": [
+          "They support biodiversity, livelihoods and soil and water regulation.",
+          "Roots stabilise soil, canopies intercept rain and vegetation stores carbon. Forests provide timber and non-timber products and habitat. Management affects how benefits are shared over time."
+        ],
+        "hints": [
+          "They support biodiversity, livelihoods and soil and water regulation."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-011",
+        "title": "How forest loss happens",
+        "reference": "Exercise II Q11 · p110",
+        "prompt": "Which pressures can reduce forest cover or condition? Explain your reasoning with a chapter example.",
+        "sample": "Clearing, excessive extraction, fires and infrastructure expansion. Agricultural expansion, mining, roads, dams and unsustainable grazing can fragment habitats. Examine the particular place, scale and use before explaining a local change.",
+        "solution": [
+          "Clearing, excessive extraction, fires and infrastructure expansion.",
+          "Agricultural expansion, mining, roads, dams and unsustainable grazing can fragment habitats. Examine the particular place, scale and use before explaining a local change."
+        ],
+        "hints": [
+          "Clearing, excessive extraction, fires and infrastructure expansion."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-012",
+        "title": "Conservation",
+        "reference": "Exercise II Q12 · p110",
+        "prompt": "What does forest conservation involve? Explain your reasoning with a chapter example.",
+        "sample": "Protecting forest ecosystems and managing their use and regeneration. Conservation includes preventing avoidable damage, restoring native vegetation and maintaining habitats and livelihoods. Tree numbers alone do not measure the health of a forest.",
+        "solution": [
+          "Protecting forest ecosystems and managing their use and regeneration.",
+          "Conservation includes preventing avoidable damage, restoring native vegetation and maintaining habitats and livelihoods. Tree numbers alone do not measure the health of a forest."
+        ],
+        "hints": [
+          "Protecting forest ecosystems and managing their use and regeneration."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-013",
+        "title": "Match measures to pressures",
+        "reference": "Exercise II Q13 · p110",
+        "prompt": "Which action could help a degraded forest regenerate? Explain your reasoning with a chapter example.",
+        "sample": "Protect native regeneration and involve local communities. Match action to cause. Manage fire and grazing pressure, support social forestry in suitable places and monitor survival, canopy and habitat quality over time.",
+        "solution": [
+          "Protect native regeneration and involve local communities.",
+          "Match action to cause. Manage fire and grazing pressure, support social forestry in suitable places and monitor survival, canopy and habitat quality over time."
+        ],
+        "hints": [
+          "Protect native regeneration and involve local communities."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-014",
+        "title": "Grassland and thorn vegetation",
+        "reference": "Regional comparison · pp106–107",
+        "prompt": "How does vegetation change across drier regions? Explain your reasoning with a chapter example.",
+        "sample": "Grasses and scattered trees can give way to drought-adapted thorn scrub. The book links tropical grassland with roughly 60–75 cm of rain and describes sparse desert vegetation in drier western areas. Small leaves, thorns and deep roots can reduce water stress.",
+        "solution": [
+          "Grasses and scattered trees can give way to drought-adapted thorn scrub.",
+          "The book links tropical grassland with roughly 60–75 cm of rain and describes sparse desert vegetation in drier western areas. Small leaves, thorns and deep roots can reduce water stress."
+        ],
+        "hints": [
+          "Grasses and scattered trees can give way to drought-adapted thorn scrub."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-015",
+        "title": "Protection at different scales",
+        "reference": "Protected areas and fact box · pp109–110",
+        "prompt": "Which category combines conservation, learning and sustainable use across a landscape? Explain your reasoning with a chapter example.",
+        "sample": "Biosphere reserve. Core, buffer and transition areas serve different purposes. Nilgiri was India’s first biosphere reserve. National parks and wildlife sanctuaries have distinct legal arrangements. The chapter’s counts are dated inventory figures.",
+        "solution": [
+          "Biosphere reserve.",
+          "Core, buffer and transition areas serve different purposes. Nilgiri was India’s first biosphere reserve. National parks and wildlife sanctuaries have distinct legal arrangements. The chapter’s counts are dated inventory figures."
+        ],
+        "hints": [
+          "Biosphere reserve."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-016",
+        "title": "Local grove history",
+        "reference": "Inline activity · p108",
+        "prompt": "Plan a conversation about change in a local grove.",
+        "sample": "With consent, ask what changes a resident remembers and roughly when. Compare memories with dated maps or photographs. Record uncertainties and distinguish a remembered event from a verified change in cover.",
+        "solution": [
+          "With consent, ask what changes a resident remembers and roughly when. Compare memories with dated maps or photographs.",
+          "Record uncertainties and distinguish a remembered event from a verified change in cover."
+        ],
+        "hints": [
+          "With consent, ask what changes a resident remembers and roughly when. Compare memories with dated maps or photographs."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-017",
+        "title": "Local vegetation",
+        "reference": "Activity III Q1 · p110",
+        "prompt": "Identify natural vegetation near your locality.",
+        "sample": "Describe habitat, rainfall, season and the growth forms you actually observe. Compare with a regional vegetation reference. Distinguish planted roadside trees from naturally occurring vegetation.",
+        "solution": [
+          "Describe habitat, rainfall, season and the growth forms you actually observe. Compare with a regional vegetation reference.",
+          "Distinguish planted roadside trees from naturally occurring vegetation."
+        ],
+        "hints": [
+          "Describe habitat, rainfall, season and the growth forms you actually observe. Compare with a regional vegetation reference."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-018",
+        "title": "Tree list",
+        "reference": "Activity III Q2 · p110",
+        "prompt": "Compile a list of trees you recognise.",
+        "sample": "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a teacher. Use an uncertain label where identification is incomplete.",
+        "solution": [
+          "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a teacher.",
+          "Use an uncertain label where identification is incomplete."
+        ],
+        "hints": [
+          "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a teacher."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-019",
+        "title": "Wildlife album",
+        "reference": "Project IV Q1 · p110",
+        "prompt": "Prepare a wildlife photograph album for protected areas.",
+        "sample": "For each permitted image record the animal, protected area, State, source and photographer credit. Verify each species–place association. A caption might link the greater one-horned rhinoceros with Kaziranga in Assam. Use images you have permission to reproduce.",
+        "solution": [
+          "For each permitted image record the animal, protected area, State, source and photographer credit. Verify each species–place association.",
+          "A caption might link the greater one-horned rhinoceros with Kaziranga in Assam. Use images you have permission to reproduce."
+        ],
+        "hints": [
+          "For each permitted image record the animal, protected area, State, source and photographer credit. Verify each species–place association."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-task-020",
+        "title": "Reserve map",
+        "reference": "Project IV Q2 · p110",
+        "prompt": "Plan and label a biosphere-reserve map.",
+        "sample": "Use a dated national inventory, an India outline and a numbered legend. Locate Nilgiri, Nanda Devi, Nokrek, Gulf of Mannar and Great Nicobar as starting examples. Check the remaining national entries against the same inventory. National designation and UNESCO recognition are separate counts.",
+        "solution": [
+          "Use a dated national inventory, an India outline and a numbered legend. Locate Nilgiri, Nanda Devi, Nokrek, Gulf of Mannar and Great Nicobar as starting examples.",
+          "Check the remaining national entries against the same inventory. National designation and UNESCO recognition are separate counts."
+        ],
+        "hints": [
+          "Use a dated national inventory, an India outline and a numbered legend. Locate Nilgiri, Nanda Devi, Nokrek, Gulf of Mannar and Great Nicobar as starting examples."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "11": [
+      {
+        "id": "ss11-check-001",
+        "title": "Rain shadow",
+        "reference": "Independent check",
+        "prompt": "Two nearby towns lie on opposite slopes of the Western Ghats. Why might their rainfall differ?",
+        "sample": "Moist air rising on the windward side cools and loses moisture as rain. Air descending to the east is typically drier, producing a rain shadow.",
+        "solution": [
+          "Moist air rising on the windward side cools and loses moisture as rain.",
+          "Air descending to the east is typically drier, producing a rain shadow."
+        ],
+        "hints": [
+          "Moist air rising on the windward side cools and loses moisture as rain."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss11-check-002",
+        "title": "The same annual total",
+        "reference": "Independent check",
+        "prompt": "Two farms receive the same annual rainfall. Why might one crop fail?",
+        "sample": "Sowing, flowering and ripening depend on water at different times. A dry spell during flowering or flooding at harvest can matter even when annual totals match.",
+        "solution": [
+          "Sowing, flowering and ripening depend on water at different times.",
+          "A dry spell during flowering or flooding at harvest can matter even when annual totals match."
+        ],
+        "hints": [
+          "Sowing, flowering and ripening depend on water at different times."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "ss12-check-001",
+        "title": "Two slopes",
+        "reference": "Independent check",
+        "prompt": "Two hillsides receive the same rain. Why does the bare one lose more topsoil?",
+        "sample": "Plant cover intercepts rain and roots bind soil on the vegetated slope. Runoff on exposed soil can detach and transport more particles.",
+        "solution": [
+          "Plant cover intercepts rain and roots bind soil on the vegetated slope.",
+          "Runoff on exposed soil can detach and transport more particles."
+        ],
+        "hints": [
+          "Plant cover intercepts rain and roots bind soil on the vegetated slope."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss12-check-002",
+        "title": "A crop recommendation",
+        "reference": "Independent check",
+        "prompt": "A grower knows only that a soil is red. What else would inform a crop choice?",
+        "sample": "Test soil properties and consider rainfall, irrigation and drainage. Local conditions, nutrient status and the crop’s needs determine suitability.",
+        "solution": [
+          "Test soil properties and consider rainfall, irrigation and drainage.",
+          "Local conditions, nutrient status and the crop’s needs determine suitability."
+        ],
+        "hints": [
+          "Test soil properties and consider rainfall, irrigation and drainage."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": "ss13-check-001",
+        "title": "A tidal delta",
+        "reference": "Independent check",
+        "prompt": "A warm delta and an inland forest receive similar rain. Why do their trees differ?",
+        "sample": "Tidal flooding, salinity and waterlogged mud select for different adaptations in mangroves. Rainfall alone does not describe root-zone conditions.",
+        "solution": [
+          "Tidal flooding, salinity and waterlogged mud select for different adaptations in mangroves.",
+          "Rainfall alone does not describe root-zone conditions."
+        ],
+        "hints": [
+          "Tidal flooding, salinity and waterlogged mud select for different adaptations in mangroves."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-check-002",
+        "title": "A percentage and an area",
+        "reference": "Independent check",
+        "prompt": "A report gives 713,789 km² and a policy gives 33%. Can the two be compared directly?",
+        "sample": "One is an observed area for a stated year and the other is a national target share. Use comparable definitions and divide the area by the relevant land area before comparing percentages.",
+        "solution": [
+          "One is an observed area for a stated year and the other is a national target share.",
+          "Use comparable definitions and divide the area by the relevant land area before comparing percentages."
+        ],
+        "hints": [
+          "One is an observed area for a stated year and the other is a national target share."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  }
+}

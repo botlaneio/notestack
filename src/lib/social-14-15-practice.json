@@ -1,0 +1,1040 @@
+{
+  "chapters": {
+    "14": [
+      {
+        "id": "ss14-task-001",
+        "title": "Water through the year",
+        "reference": "Foundation · p112",
+        "prompt": "Why irrigate a field in a district with heavy annual rain? Explain your reasoning with a chapter example.",
+        "sample": "The crop may need water during a dry growing period. Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied.",
+        "solution": [
+          "The crop may need water during a dry growing period.",
+          "Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied."
+        ],
+        "hints": [
+          "The crop may need water during a dry growing period."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-002",
+        "title": "Supplying the field",
+        "reference": "Exercise II Q6 · p119",
+        "prompt": "Which three sources organise the book’s irrigation classification? Explain your reasoning with a chapter example.",
+        "sample": "Wells, canals and tanks. Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release.",
+        "solution": [
+          "Wells, canals and tanks.",
+          "Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release."
+        ],
+        "hints": [
+          "Wells, canals and tanks."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-003",
+        "title": "Open wells and tube wells",
+        "reference": "Source comparison · p113",
+        "prompt": "Why can two irrigation percentages for tube wells differ? Explain your reasoning with a chapter example.",
+        "sample": "One uses well-irrigated area and the other uses all irrigated area. Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing.",
+        "solution": [
+          "One uses well-irrigated area and the other uses all irrigated area.",
+          "Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing."
+        ],
+        "hints": [
+          "One uses well-irrigated area and the other uses all irrigated area."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-004",
+        "title": "Flood and perennial canals",
+        "reference": "Foundation · pp113–114",
+        "prompt": "Which system can release stored water after a river’s high-flow season? Explain your reasoning with a chapter example.",
+        "sample": "A perennial canal supplied by regulated water. A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset.",
+        "solution": [
+          "A perennial canal supplied by regulated water.",
+          "A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset."
+        ],
+        "hints": [
+          "A perennial canal supplied by regulated water."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-005",
+        "title": "Tank irrigation",
+        "reference": "Foundation · p114",
+        "prompt": "How does a tank serve nearby fields? Explain your reasoning with a chapter example.",
+        "sample": "A bund holds runoff and water reaches fields through channels or pipes. Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels.",
+        "solution": [
+          "A bund holds runoff and water reaches fields through channels or pipes.",
+          "Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels."
+        ],
+        "hints": [
+          "A bund holds runoff and water reaches fields through channels or pipes."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-006",
+        "title": "Why combine purposes?",
+        "reference": "Exercise II Q7 · p119",
+        "prompt": "What makes a river valley project multipurpose? Explain your reasoning with a chapter example.",
+        "sample": "One system serves several planned water uses. Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation.",
+        "solution": [
+          "One system serves several planned water uses.",
+          "Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation."
+        ],
+        "hints": [
+          "One system serves several planned water uses."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-007",
+        "title": "Damodar basin",
+        "reference": "Exercise I Q1 · p118",
+        "prompt": "Which river earned the historical name Sorrow of Bengal? Explain your reasoning with a chapter example.",
+        "sample": "Damodar. Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal.",
+        "solution": [
+          "Damodar.",
+          "Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal."
+        ],
+        "hints": [
+          "Damodar."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-008",
+        "title": "Kosi basin",
+        "reference": "Exercise I Q2 · p118",
+        "prompt": "Which river is called the Sorrow of Bihar in the chapter? Explain your reasoning with a chapter example.",
+        "sample": "Kosi. Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management.",
+        "solution": [
+          "Kosi.",
+          "Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management."
+        ],
+        "hints": [
+          "Kosi."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-009",
+        "title": "Upper Krishna",
+        "reference": "Exercise I Q3 · p118",
+        "prompt": "Which Karnataka project links Almatti and Narayanapura? Explain your reasoning with a chapter example.",
+        "sample": "Upper Krishna Project. Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka.",
+        "solution": [
+          "Upper Krishna Project.",
+          "Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka."
+        ],
+        "hints": [
+          "Upper Krishna Project."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-010",
+        "title": "Pampa Sagara",
+        "reference": "Exercise I Q4 · p118",
+        "prompt": "Which Karnataka district contains the Tungabhadra dam near Hosapete? Explain your reasoning with a chapter example.",
+        "sample": "Vijayanagara. The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period.",
+        "solution": [
+          "Vijayanagara.",
+          "The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period."
+        ],
+        "hints": [
+          "Vijayanagara."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-011",
+        "title": "Hirakud",
+        "reference": "Exercise I Q5 · p118",
+        "prompt": "Which river is impounded at Hirakud near Sambalpur? Explain your reasoning with a chapter example.",
+        "sample": "Mahanadi. The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included.",
+        "solution": [
+          "Mahanadi.",
+          "The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included."
+        ],
+        "hints": [
+          "Mahanadi."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-012",
+        "title": "Bhakra and Nangal",
+        "reference": "Project map · pp115–116",
+        "prompt": "Which river feeds Gobind Sagar behind Bhakra Dam? Explain your reasoning with a chapter example.",
+        "sample": "Sutlej. Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network.",
+        "solution": [
+          "Sutlej.",
+          "Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network."
+        ],
+        "hints": [
+          "Sutlej."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-013",
+        "title": "Two more river systems",
+        "reference": "Project map · pp115–116",
+        "prompt": "Which pairing correctly places Nagarjuna Sagar and Sardar Sarovar? Explain your reasoning with a chapter example.",
+        "sample": "Krishna and Narmada respectively. Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams.",
+        "solution": [
+          "Krishna and Narmada respectively.",
+          "Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams."
+        ],
+        "hints": [
+          "Krishna and Narmada respectively."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-014",
+        "title": "Karnataka hydropower",
+        "reference": "Exercise II Q8 · p119",
+        "prompt": "Which group includes Karnataka hydroelectric centres? Explain your reasoning with a chapter example.",
+        "sample": "Shivanasamudra, Jog and Almatti. The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011.",
+        "solution": [
+          "Shivanasamudra, Jog and Almatti.",
+          "The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011."
+        ],
+        "hints": [
+          "Shivanasamudra, Jog and Almatti."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-015",
+        "title": "Store rain for later",
+        "reference": "Exercise II Q9 · p119",
+        "prompt": "Why can rainwater harvesting help even in a high-rainfall town? Explain your reasoning with a chapter example.",
+        "sample": "Stored rainfall or recharge can support water availability through a dry season. Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results.",
+        "solution": [
+          "Stored rainfall or recharge can support water availability through a dry season.",
+          "Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results."
+        ],
+        "hints": [
+          "Stored rainfall or recharge can support water availability through a dry season."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-016",
+        "title": "Share electricity",
+        "reference": "Exercise II Q10 · p119",
+        "prompt": "What does the National Power Grid connect? Explain your reasoning with a chapter example.",
+        "sample": "Electricity generation and demand through an interconnected transmission system. A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators.",
+        "solution": [
+          "Electricity generation and demand through an interconnected transmission system.",
+          "A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators."
+        ],
+        "hints": [
+          "Electricity generation and demand through an interconnected transmission system."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-017",
+        "title": "Read the resource table",
+        "reference": "Source table · p112",
+        "prompt": "Check the total utilizable water resource shown in the book.",
+        "sample": "690 billion cubic metres of surface water plus 433 billion cubic metres of groundwater gives 1,123 BCM in the source table. Per-capita availability uses cubic metres per person. The 141 million hectare potential and 73 million hectare net irrigated area are area measures from the source.",
+        "solution": [
+          "690 billion cubic metres of surface water plus 433 billion cubic metres of groundwater gives 1,123 BCM in the source table.",
+          "Per-capita availability uses cubic metres per person. The 141 million hectare potential and 73 million hectare net irrigated area are area measures from the source."
+        ],
+        "hints": [
+          "690 billion cubic metres of surface water plus 433 billion cubic metres of groundwater gives 1,123 BCM in the source table."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-018",
+        "title": "Flow or volume?",
+        "reference": "Source sidebar · p113",
+        "prompt": "Explain what a cusec measures.",
+        "sample": "One cusec is one cubic foot of flow per second. At a constant two cusecs, ten seconds delivers twenty cubic feet. A reservoir volume requires a volume unit. A power rating uses kW, while electricity generated over time can be measured in kWh.",
+        "solution": [
+          "One cusec is one cubic foot of flow per second. At a constant two cusecs, ten seconds delivers twenty cubic feet.",
+          "A reservoir volume requires a volume unit. A power rating uses kW, while electricity generated over time can be measured in kWh."
+        ],
+        "hints": [
+          "One cusec is one cubic foot of flow per second. At a constant two cusecs, ten seconds delivers twenty cubic feet."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-019",
+        "title": "Hydropower atlas",
+        "reference": "Source list · p117",
+        "prompt": "Locate a project outside Karnataka and explain how its output reaches users.",
+        "sample": "Examples include Srisailam on the Krishna, Nagarjuna Sagar, Mettur in Tamil Nadu, Gandhi Sagar in Madhya Pradesh and Koyna in Maharashtra. Other source examples are Hirakud in Odisha, Kosi in Bihar, Ukai in Gujarat and Subarnarekha in Jharkhand. Locate the river and station before tracing transmission.",
+        "solution": [
+          "Examples include Srisailam on the Krishna, Nagarjuna Sagar, Mettur in Tamil Nadu, Gandhi Sagar in Madhya Pradesh and Koyna in Maharashtra.",
+          "Other source examples are Hirakud in Odisha, Kosi in Bihar, Ukai in Gujarat and Subarnarekha in Jharkhand. Locate the river and station before tracing transmission."
+        ],
+        "hints": [
+          "Examples include Srisailam on the Krishna, Nagarjuna Sagar, Mettur in Tamil Nadu, Gandhi Sagar in Madhya Pradesh and Koyna in Maharashtra."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-020",
+        "title": "Local tanks",
+        "reference": "Inline activity · p114",
+        "prompt": "Prepare an inventory and conservation suggestions for local tanks.",
+        "sample": "Record verified names, inflows, current uses and visible maintenance needs using a public map or supervised observations. Connect each suggestion to an observed issue such as obstructed inflow, litter or loss of catchment vegetation.",
+        "solution": [
+          "Record verified names, inflows, current uses and visible maintenance needs using a public map or supervised observations.",
+          "Connect each suggestion to an observed issue such as obstructed inflow, litter or loss of catchment vegetation."
+        ],
+        "hints": [
+          "Record verified names, inflows, current uses and visible maintenance needs using a public map or supervised observations."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-021",
+        "title": "Match dams to reservoirs",
+        "reference": "Exercise III · p119",
+        "prompt": "Pair Bhakra, Tungabhadra, Almatti and Narayanapura with their reservoirs.",
+        "sample": "Bhakra pairs with Gobind Sagar, called Govinda Sagar in the choices. Tungabhadra pairs with Pampa Sagar. Almatti pairs with Lal Bahadur Shastri Sagar and Narayanapura with Basava Sagar. The second column contains reservoir names despite the exercise heading referring to States.",
+        "solution": [
+          "Bhakra pairs with Gobind Sagar, called Govinda Sagar in the choices. Tungabhadra pairs with Pampa Sagar.",
+          "Almatti pairs with Lal Bahadur Shastri Sagar and Narayanapura with Basava Sagar. The second column contains reservoir names despite the exercise heading referring to States."
+        ],
+        "hints": [
+          "Bhakra pairs with Gobind Sagar, called Govinda Sagar in the choices. Tungabhadra pairs with Pampa Sagar."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-022",
+        "title": "Uses and trade-offs",
+        "reference": "Activity IV Q1 · p119",
+        "prompt": "List project uses with a concrete example.",
+        "sample": "Tungabhadra stores irrigation water and can generate power during releases. Fisheries and household supply can also benefit from stored water. Explain how seasonal demand, downstream needs and reservoir operation affect the benefits.",
+        "solution": [
+          "Tungabhadra stores irrigation water and can generate power during releases. Fisheries and household supply can also benefit from stored water.",
+          "Explain how seasonal demand, downstream needs and reservoir operation affect the benefits."
+        ],
+        "hints": [
+          "Tungabhadra stores irrigation water and can generate power during releases. Fisheries and household supply can also benefit from stored water."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-023",
+        "title": "Harvesting visit plan",
+        "reference": "Activity IV Q2 · p119",
+        "prompt": "Prepare observations for a rainwater harvesting site.",
+        "sample": "Identify the catchment, route, storage or recharge point and intended use. Ask how the system is maintained. Record findings after a supervised visit or label them as information from a published example.",
+        "solution": [
+          "Identify the catchment, route, storage or recharge point and intended use. Ask how the system is maintained.",
+          "Record findings after a supervised visit or label them as information from a published example."
+        ],
+        "hints": [
+          "Identify the catchment, route, storage or recharge point and intended use. Ask how the system is maintained."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-024",
+        "title": "Irrigation near you",
+        "reference": "Project V Q1 · p119",
+        "prompt": "Compare irrigation methods used locally.",
+        "sample": "For each observed method record its source, delivery route, seasonal reliability and crops served. A tank feeding a channel and a pump drawing from a well differ in both source and timing.",
+        "solution": [
+          "For each observed method record its source, delivery route, seasonal reliability and crops served.",
+          "A tank feeding a channel and a pump drawing from a well differ in both source and timing."
+        ],
+        "hints": [
+          "For each observed method record its source, delivery route, seasonal reliability and crops served."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-task-025",
+        "title": "Describe one project",
+        "reference": "Project V Q2 · p119",
+        "prompt": "Prepare an account of an irrigation project you have seen or studied.",
+        "sample": "Record the location, river or catchment, storage, delivery system and beneficiary area. Identify the source of each fact. Separate personal observations from map or textbook evidence. Include a labelled sketch and one question about seasonal operation.",
+        "solution": [
+          "Record the location, river or catchment, storage, delivery system and beneficiary area. Identify the source of each fact.",
+          "Separate personal observations from map or textbook evidence. Include a labelled sketch and one question about seasonal operation."
+        ],
+        "hints": [
+          "Record the location, river or catchment, storage, delivery system and beneficiary area. Identify the source of each fact."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "ss15-task-001",
+        "title": "Choosing priorities",
+        "reference": "Exercise I Q1 · p128",
+        "prompt": "Which approach did many twentieth-century governments adopt to coordinate development? Explain your reasoning with a chapter example.",
+        "sample": "Economic planning. With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits.",
+        "solution": [
+          "Economic planning.",
+          "With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits."
+        ],
+        "hints": [
+          "Economic planning."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-002",
+        "title": "Who drafted plans?",
+        "reference": "Exercise I Q2 · p128",
+        "prompt": "Which institution formulated India’s historical Five-Year Plans? Explain your reasoning with a chapter example.",
+        "sample": "Planning Commission. Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015.",
+        "solution": [
+          "Planning Commission.",
+          "Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015."
+        ],
+        "hints": [
+          "Planning Commission."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-003",
+        "title": "Who shares in growth?",
+        "reference": "Exercise I Q3 · p128",
+        "prompt": "Which goal did the Eleventh Plan emphasise? Explain your reasoning with a chapter example.",
+        "sample": "Inclusive growth. National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan.",
+        "solution": [
+          "Inclusive growth.",
+          "National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan."
+        ],
+        "hints": [
+          "Inclusive growth."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-004",
+        "title": "Two scientific contributions",
+        "reference": "Exercise I Q4 · p128",
+        "prompt": "Who pioneered the high-yielding wheat research behind the Green Revolution internationally? Explain your reasoning with a chapter example.",
+        "sample": "Norman Borlaug. Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about.",
+        "solution": [
+          "Norman Borlaug.",
+          "Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about."
+        ],
+        "hints": [
+          "Norman Borlaug."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-005",
+        "title": "Sustainable cultivation",
+        "reference": "Exercise I Q5 · p128",
+        "prompt": "Which farming approaches does the chapter associate with long-term environmental goals? Explain your reasoning with a chapter example.",
+        "sample": "Organic and natural farming. The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally.",
+        "solution": [
+          "Organic and natural farming.",
+          "The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally."
+        ],
+        "hints": [
+          "Organic and natural farming."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-006",
+        "title": "A change of institution",
+        "reference": "Exercise I Q6 · p128",
+        "prompt": "When was NITI Aayog established? Explain your reasoning with a chapter example.",
+        "sample": "1 January 2015. The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation.",
+        "solution": [
+          "1 January 2015.",
+          "The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation."
+        ],
+        "hints": [
+          "1 January 2015."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-007",
+        "title": "Define a plan",
+        "reference": "Exercise II Q7 · p128",
+        "prompt": "What is economic planning? Explain your reasoning with a chapter example.",
+        "sample": "Deliberate use of available resources to pursue specified goals within a period. A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress.",
+        "solution": [
+          "Deliberate use of available resources to pursue specified goals within a period.",
+          "A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress."
+        ],
+        "hints": [
+          "Deliberate use of available resources to pursue specified goals within a period."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-008",
+        "title": "The planning pioneer",
+        "reference": "Exercise II Q8 · p128",
+        "prompt": "Whose 1934 book advocated a planned Indian economy? Explain your reasoning with a chapter example.",
+        "sample": "Sir M. Visvesvaraya. His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning.",
+        "solution": [
+          "Sir M. Visvesvaraya.",
+          "His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning."
+        ],
+        "hints": [
+          "Sir M. Visvesvaraya."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-009",
+        "title": "From draft to approval",
+        "reference": "Exercise II Q9 · p128",
+        "prompt": "Which body approved draft Five-Year Plans in the historical framework? Explain your reasoning with a chapter example.",
+        "sample": "National Development Council. Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development.",
+        "solution": [
+          "National Development Council.",
+          "Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development."
+        ],
+        "hints": [
+          "National Development Council."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-010",
+        "title": "Rapid growth in foodgrains",
+        "reference": "Exercise II Q10 · p128",
+        "prompt": "What development does the term Green Revolution describe in this chapter? Explain your reasoning with a chapter example.",
+        "sample": "Rapid growth of foodgrain production through improved varieties and supporting inputs. The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results.",
+        "solution": [
+          "Rapid growth of foodgrain production through improved varieties and supporting inputs.",
+          "The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results."
+        ],
+        "hints": [
+          "Rapid growth of foodgrain production through improved varieties and supporting inputs."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-011",
+        "title": "After the harvest",
+        "reference": "Exercise II Q11 · p128",
+        "prompt": "What does post-harvest technology cover? Explain your reasoning with a chapter example.",
+        "sample": "Handling, procurement, storage, processing and marketing after harvest. Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest.",
+        "solution": [
+          "Handling, procurement, storage, processing and marketing after harvest.",
+          "Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest."
+        ],
+        "hints": [
+          "Handling, procurement, storage, processing and marketing after harvest."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-012",
+        "title": "Who chairs NITI Aayog?",
+        "reference": "Exercise II Q12 · p128",
+        "prompt": "Which office holds the chair? Explain your reasoning with a chapter example.",
+        "sample": "Prime Minister of India. The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive.",
+        "solution": [
+          "Prime Minister of India.",
+          "The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive."
+        ],
+        "hints": [
+          "Prime Minister of India."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-013",
+        "title": "The welfare state",
+        "reference": "Exercise III Q13 · p128",
+        "prompt": "How did the scope of government expand in the chapter’s historical account? Explain your reasoning with a chapter example.",
+        "sample": "Public responsibilities expanded into services, infrastructure and welfare. Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution.",
+        "solution": [
+          "Public responsibilities expanded into services, infrastructure and welfare.",
+          "Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution."
+        ],
+        "hints": [
+          "Public responsibilities expanded into services, infrastructure and welfare."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-014",
+        "title": "Five-Year Plan objectives",
+        "reference": "Exercise III Q14 · p129",
+        "prompt": "Which combination reflects the plans’ objectives? Explain your reasoning with a chapter example.",
+        "sample": "Production, jobs, reduced disparities, stability and modernisation. These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains.",
+        "solution": [
+          "Production, jobs, reduced disparities, stability and modernisation.",
+          "These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains."
+        ],
+        "hints": [
+          "Production, jobs, reduced disparities, stability and modernisation."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-015",
+        "title": "Assessing achievements",
+        "reference": "Exercise III Q15 · p129",
+        "prompt": "What evidence would help assess the planning period? Explain your reasoning with a chapter example.",
+        "sample": "Income, food production, employment, health, literacy and distribution. The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect.",
+        "solution": [
+          "Income, food production, employment, health, literacy and distribution.",
+          "The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect."
+        ],
+        "hints": [
+          "Income, food production, employment, health, literacy and distribution."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-016",
+        "title": "Why yields rose",
+        "reference": "Exercise III Q16 · p129",
+        "prompt": "What supported adoption of high-yielding varieties after the 1965–66 drought? Explain your reasoning with a chapter example.",
+        "sample": "Irrigation, suitable nutrients, crop protection, research and institutional support. Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024.",
+        "solution": [
+          "Irrigation, suitable nutrients, crop protection, research and institutional support.",
+          "Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024."
+        ],
+        "hints": [
+          "Irrigation, suitable nutrients, crop protection, research and institutional support."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-017",
+        "title": "Removing farm bottlenecks",
+        "reference": "Exercise III Q17 · p129",
+        "prompt": "Which measures address both input costs and losses after harvest? Explain your reasoning with a chapter example.",
+        "sample": "Credit, subsidies, improved marketing, storage and processing. Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places.",
+        "solution": [
+          "Credit, subsidies, improved marketing, storage and processing.",
+          "Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places."
+        ],
+        "hints": [
+          "Credit, subsidies, improved marketing, storage and processing."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-018",
+        "title": "States in economic policy",
+        "reference": "Exercise III Q18 · p129",
+        "prompt": "Which objectives guide NITI Aayog? Explain your reasoning with a chapter example.",
+        "sample": "Shared national priorities and cooperative federalism. Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies.",
+        "solution": [
+          "Shared national priorities and cooperative federalism.",
+          "Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies."
+        ],
+        "hints": [
+          "Shared national priorities and cooperative federalism."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-019",
+        "title": "Read the plan timeline",
+        "reference": "Plan table · p122",
+        "prompt": "Did every year from 1951 to 2017 fall in a numbered Five-Year Plan? Explain your reasoning with a chapter example.",
+        "sample": "Annual and rolling-plan periods interrupted the sequence. The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017.",
+        "solution": [
+          "Annual and rolling-plan periods interrupted the sequence.",
+          "The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017."
+        ],
+        "hints": [
+          "Annual and rolling-plan periods interrupted the sequence."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-020",
+        "title": "Plan costs",
+        "reference": "Table reading · p122",
+        "prompt": "Compare the first and last public cost entries and explain a limitation.",
+        "sample": "The table gives ₹1,960 crore for the First Plan and ₹76,69,807 crore for the Twelfth. Record the unit and period with each entry. Prices and the size of the economy changed over decades. Nominal outlays alone cannot establish real growth or effectiveness.",
+        "solution": [
+          "The table gives ₹1,960 crore for the First Plan and ₹76,69,807 crore for the Twelfth. Record the unit and period with each entry.",
+          "Prices and the size of the economy changed over decades. Nominal outlays alone cannot establish real growth or effectiveness."
+        ],
+        "hints": [
+          "The table gives ₹1,960 crore for the First Plan and ₹76,69,807 crore for the Twelfth. Record the unit and period with each entry."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-021",
+        "title": "Read the sector graph",
+        "reference": "Inline activity Q1–4 · p123",
+        "prompt": "Identify the largest and smallest sectors in 1950–51, the largest in 2011–12 and agriculture’s later share.",
+        "sample": "In 1950–51 agriculture led at 59%, services accounted for 28% and industry was smallest at 13%. In 2011–12 services led at 59%, industry accounted for 27% and agriculture for 14%. The prose’s 18.3% belongs to 2022–23.",
+        "solution": [
+          "In 1950–51 agriculture led at 59%, services accounted for 28% and industry was smallest at 13%.",
+          "In 2011–12 services led at 59%, industry accounted for 27% and agriculture for 14%. The prose’s 18.3% belongs to 2022–23."
+        ],
+        "hints": [
+          "In 1950–51 agriculture led at 59%, services accounted for 28% and industry was smallest at 13%."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-022",
+        "title": "Growth rates over time",
+        "reference": "Data reading · pp123–124",
+        "prompt": "Interpret the book’s national-income growth comparisons.",
+        "sample": "It gives approximately 3.5% annual growth in the first twenty years, 5% in the next twenty, 5.6% in 1991–2000 and 7.3% in 2001–2010. Per-capita income adjusts for population. Its cited 5.6% annual growth for 2001–2010 measures something different from total income growth.",
+        "solution": [
+          "It gives approximately 3.5% annual growth in the first twenty years, 5% in the next twenty, 5.6% in 1991–2000 and 7.3% in 2001–2010.",
+          "Per-capita income adjusts for population. Its cited 5.6% annual growth for 2001–2010 measures something different from total income growth."
+        ],
+        "hints": [
+          "It gives approximately 3.5% annual growth in the first twenty years, 5% in the next twenty, 5.6% in 1991–2000 and 7.3% in 2001–2010."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-023",
+        "title": "Support prices",
+        "reference": "Inline activity · p126",
+        "prompt": "Prepare questions for a discussion about support prices.",
+        "sample": "Ask how the announced price, local market price and actual procurement price differ for a specified crop, place and season. Compare eligibility, access to a procurement centre, storage and transport costs. Record actual answers only after the discussion.",
+        "solution": [
+          "Ask how the announced price, local market price and actual procurement price differ for a specified crop, place and season.",
+          "Compare eligibility, access to a procurement centre, storage and transport costs. Record actual answers only after the discussion."
+        ],
+        "hints": [
+          "Ask how the announced price, local market price and actual procurement price differ for a specified crop, place and season."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-024",
+        "title": "Rainbow Revolution",
+        "reference": "Source sidebar · p126",
+        "prompt": "Match the seven textbook colours to their products.",
+        "sample": "Green refers to foodgrains, blue to fish, yellow to oilseeds and white to milk. Silver refers to eggs, golden to fruits and flowers, and red to meat in this book. Rainbow groups growth in farming and allied activities.",
+        "solution": [
+          "Green refers to foodgrains, blue to fish, yellow to oilseeds and white to milk.",
+          "Silver refers to eggs, golden to fruits and flowers, and red to meat in this book. Rainbow groups growth in farming and allied activities."
+        ],
+        "hints": [
+          "Green refers to foodgrains, blue to fish, yellow to oilseeds and white to milk."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-025",
+        "title": "Goods in your surroundings",
+        "reference": "Activity IV Q1 · p129",
+        "prompt": "Prepare an evidence-based list of imported goods.",
+        "sample": "Check the country-of-origin label on items you can access. Record product, origin and how you verified it. A brand’s home country can differ from the country where the product was manufactured.",
+        "solution": [
+          "Check the country-of-origin label on items you can access. Record product, origin and how you verified it.",
+          "A brand’s home country can differ from the country where the product was manufactured."
+        ],
+        "hints": [
+          "Check the country-of-origin label on items you can access. Record product, origin and how you verified it."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-026",
+        "title": "Twelfth Plan research",
+        "reference": "Activity IV Q2 · p129",
+        "prompt": "Prepare a sourced list of Twelfth Plan goals.",
+        "sample": "Look up the 2012–17 plan document and its theme of faster, more inclusive and sustainable growth. Choose goals relating to jobs, services, inequality and environmental sustainability. Record the document and page. Distinguish planned targets from measured outcomes.",
+        "solution": [
+          "Look up the 2012–17 plan document and its theme of faster, more inclusive and sustainable growth. Choose goals relating to jobs, services, inequality and environmental sustainability.",
+          "Record the document and page. Distinguish planned targets from measured outcomes."
+        ],
+        "hints": [
+          "Look up the 2012–17 plan document and its theme of faster, more inclusive and sustainable growth. Choose goals relating to jobs, services, inequality and environmental sustainability."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-027",
+        "title": "NITI functions",
+        "reference": "Activity IV Q3 · p129",
+        "prompt": "Prepare a discussion of how a policy think tank helps States.",
+        "sample": "Use the four textbook functions to organise examples of advice, intergovernmental coordination, monitoring and knowledge sharing. Record a dated example from an official publication and identify who implemented the programme and who evaluated it.",
+        "solution": [
+          "Use the four textbook functions to organise examples of advice, intergovernmental coordination, monitoring and knowledge sharing.",
+          "Record a dated example from an official publication and identify who implemented the programme and who evaluated it."
+        ],
+        "hints": [
+          "Use the four textbook functions to organise examples of advice, intergovernmental coordination, monitoring and knowledge sharing."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-task-028",
+        "title": "Farm report",
+        "reference": "Project V Q1 · p129",
+        "prompt": "Plan a report on a farmer’s pre-harvest and post-harvest practices.",
+        "sample": "With consent, ask about seed choice, irrigation and soil management before harvest, then drying, storage, processing and sale afterwards. Use two columns and record a practical constraint in each stage. Attribute observations only after the visit or identify the report as a source-based case study.",
+        "solution": [
+          "With consent, ask about seed choice, irrigation and soil management before harvest, then drying, storage, processing and sale afterwards.",
+          "Use two columns and record a practical constraint in each stage. Attribute observations only after the visit or identify the report as a source-based case study."
+        ],
+        "hints": [
+          "With consent, ask about seed choice, irrigation and soil management before harvest, then drying, storage, processing and sale afterwards."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "14": [
+      {
+        "id": "ss14-check-001",
+        "title": "Seasonal shortage",
+        "reference": "Independent check",
+        "prompt": "Why might a large reservoir and a household rooftop system both matter during a dry spell?",
+        "sample": "They capture water at different scales and serve different users. Compare available storage, seasonal demand and reliability before predicting the benefit.",
+        "solution": [
+          "They capture water at different scales and serve different users.",
+          "Compare available storage, seasonal demand and reliability before predicting the benefit."
+        ],
+        "hints": [
+          "They capture water at different scales and serve different users."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss14-check-002",
+        "title": "Follow a release",
+        "reference": "Independent check",
+        "prompt": "Trace two possible uses of water released from a multipurpose dam.",
+        "sample": "Flow through turbines may generate electricity and downstream canals may deliver irrigation water. Electricity travels through transmission lines while water follows a hydraulic route.",
+        "solution": [
+          "Flow through turbines may generate electricity and downstream canals may deliver irrigation water.",
+          "Electricity travels through transmission lines while water follows a hydraulic route."
+        ],
+        "hints": [
+          "Flow through turbines may generate electricity and downstream canals may deliver irrigation water."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "ss15-check-001",
+        "title": "Shares and output",
+        "reference": "Independent check",
+        "prompt": "Agriculture’s share falls while foodgrain tonnage rises. Can both be true?",
+        "sample": "Sector share measures agriculture relative to the whole economy. Tonnage measures physical production. If industry and services grow faster, agriculture can grow in absolute terms while its share falls.",
+        "solution": [
+          "Sector share measures agriculture relative to the whole economy. Tonnage measures physical production.",
+          "If industry and services grow faster, agriculture can grow in absolute terms while its share falls."
+        ],
+        "hints": [
+          "Sector share measures agriculture relative to the whole economy. Tonnage measures physical production."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss15-check-002",
+        "title": "A storage decision",
+        "reference": "Independent check",
+        "prompt": "A district increases grain yields but loses part of each crop after harvest. Where would you investigate first?",
+        "sample": "Examine drying, handling, storage, transport and marketing capacity. Compare losses before and after an improvement while tracking weather and harvest size.",
+        "solution": [
+          "Examine drying, handling, storage, transport and marketing capacity.",
+          "Compare losses before and after an improvement while tracking weather and harvest size."
+        ],
+        "hints": [
+          "Examine drying, handling, storage, transport and marketing capacity."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  }
+}

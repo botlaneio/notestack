@@ -1,0 +1,1012 @@
+[
+  {
+    "number": 14,
+    "title": "India – Water Resources",
+    "slug": "india-water-resources",
+    "part": 1,
+    "discipline": "Geography",
+    "subject": "social-science",
+    "sections": [
+      "Water supply and irrigation · pp112–114",
+      "River valley projects · pp114–116",
+      "Power and harvesting · pp117–119"
+    ],
+    "steps": [
+      {
+        "id": "ss14-step-1",
+        "section": 0,
+        "title": "Water through the year",
+        "intro": "Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied.",
+        "simple": "The crop may need water during a dry growing period.",
+        "example": [
+          "The crop may need water during a dry growing period.",
+          "Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied."
+        ],
+        "question": "Why irrigate a field in a district with heavy annual rain?",
+        "options": [
+          "The crop may need water during a dry growing period",
+          "Every crop needs identical watering",
+          "Annual rain falls evenly each week"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied.",
+          "Look again. Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied.",
+          "Look again. Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied."
+        ],
+        "hints": [
+          "Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied.",
+          "The crop may need water during a dry growing period."
+        ]
+      },
+      {
+        "id": "ss14-step-2",
+        "section": 0,
+        "title": "Supplying the field",
+        "intro": "Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release.",
+        "simple": "Wells, canals and tanks.",
+        "example": [
+          "Wells, canals and tanks.",
+          "Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release."
+        ],
+        "question": "Which three sources organise the book’s irrigation classification?",
+        "options": [
+          "Wind, sunlight and soil",
+          "Power lines, turbines and substations",
+          "Wells, canals and tanks"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release.",
+          "Look again. Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release.",
+          "Correct. Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release."
+        ],
+        "hints": [
+          "Irrigation supplies water to crops in addition to rainfall. A well taps groundwater, a canal carries diverted river or reservoir water, and a tank stores runoff for later release.",
+          "Wells, canals and tanks."
+        ]
+      },
+      {
+        "id": "ss14-step-3",
+        "section": 0,
+        "title": "Open wells and tube wells",
+        "intro": "Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing.",
+        "simple": "One uses well-irrigated area and the other uses all irrigated area.",
+        "example": [
+          "One uses well-irrigated area and the other uses all irrigated area.",
+          "Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing."
+        ],
+        "question": "Why can two irrigation percentages for tube wells differ?",
+        "options": [
+          "Tube wells collect only rainfall from roofs",
+          "One uses well-irrigated area and the other uses all irrigated area",
+          "Both percentages measure well depth"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing.",
+          "Correct. Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing.",
+          "Look again. Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing."
+        ],
+        "hints": [
+          "Open wells are excavated and tube wells are drilled. Both depend on local aquifers. The source gives tube wells 59.7% of well-irrigated area and 33.7% of total irrigated area. Check the denominator before comparing.",
+          "One uses well-irrigated area and the other uses all irrigated area."
+        ]
+      },
+      {
+        "id": "ss14-step-4",
+        "section": 0,
+        "title": "Flood and perennial canals",
+        "intro": "A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset.",
+        "simple": "A perennial canal supplied by regulated water.",
+        "example": [
+          "A perennial canal supplied by regulated water.",
+          "A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset."
+        ],
+        "question": "Which system can release stored water after a river’s high-flow season?",
+        "options": [
+          "A perennial canal supplied by regulated water",
+          "A flood canal relying solely on a seasonal rise",
+          "A rooftop storage barrel"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset.",
+          "Look again. A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset.",
+          "Look again. A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset."
+        ],
+        "hints": [
+          "A flood canal takes water when a river rises. Storage or a dependable regulated supply makes deliveries possible at other times. The chapter cites 16.5 million hectares under canals in its dataset.",
+          "A perennial canal supplied by regulated water."
+        ]
+      },
+      {
+        "id": "ss14-step-5",
+        "section": 0,
+        "title": "Tank irrigation",
+        "intro": "Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels.",
+        "simple": "A bund holds runoff and water reaches fields through channels or pipes.",
+        "example": [
+          "A bund holds runoff and water reaches fields through channels or pipes.",
+          "Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels."
+        ],
+        "question": "How does a tank serve nearby fields?",
+        "options": [
+          "It generates rain over the field",
+          "It always draws from a deep aquifer",
+          "A bund holds runoff and water reaches fields through channels or pipes"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels.",
+          "Look again. Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels.",
+          "Correct. Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels."
+        ],
+        "hints": [
+          "Tanks have a long history in Karnataka, Tamil Nadu, Andhra Pradesh and Odisha. Storage depends on inflow, catchment condition and maintenance of outlets and channels.",
+          "A bund holds runoff and water reaches fields through channels or pipes."
+        ]
+      },
+      {
+        "id": "ss14-step-6",
+        "section": 1,
+        "title": "Why combine purposes?",
+        "intro": "Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation.",
+        "simple": "One system serves several planned water uses.",
+        "example": [
+          "One system serves several planned water uses.",
+          "Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation."
+        ],
+        "question": "What makes a river valley project multipurpose?",
+        "options": [
+          "All dams meet every objective equally",
+          "One system serves several planned water uses",
+          "Its name contains two States"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation.",
+          "Correct. Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation.",
+          "Look again. Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation."
+        ],
+        "hints": [
+          "Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation.",
+          "One system serves several planned water uses."
+        ]
+      },
+      {
+        "id": "ss14-step-7",
+        "section": 1,
+        "title": "Damodar basin",
+        "intro": "Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal.",
+        "simple": "Damodar.",
+        "example": [
+          "Damodar.",
+          "Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal."
+        ],
+        "question": "Which river earned the historical name Sorrow of Bengal?",
+        "options": [
+          "Damodar",
+          "Krishna",
+          "Sutlej"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal.",
+          "Look again. Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal.",
+          "Look again. Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal."
+        ],
+        "hints": [
+          "Flood damage helped motivate independent India’s early multipurpose Damodar Valley project. Tilaiya, Konar, Maithon and Panchet impound water across the basin. The book describes benefits in Jharkhand and West Bengal.",
+          "Damodar."
+        ]
+      },
+      {
+        "id": "ss14-step-8",
+        "section": 1,
+        "title": "Kosi basin",
+        "intro": "Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management.",
+        "simple": "Kosi.",
+        "example": [
+          "Kosi.",
+          "Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management."
+        ],
+        "question": "Which river is called the Sorrow of Bihar in the chapter?",
+        "options": [
+          "Narmada",
+          "Mahanadi",
+          "Kosi"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management.",
+          "Look again. Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management.",
+          "Correct. Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management."
+        ],
+        "hints": [
+          "Flood moderation motivated the India–Nepal Kosi project. The barrage near the border also supports irrigation. Flood-control works reduce particular risks and require continuing management.",
+          "Kosi."
+        ]
+      },
+      {
+        "id": "ss14-step-9",
+        "section": 1,
+        "title": "Upper Krishna",
+        "intro": "Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka.",
+        "simple": "Upper Krishna Project.",
+        "example": [
+          "Upper Krishna Project.",
+          "Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka."
+        ],
+        "question": "Which Karnataka project links Almatti and Narayanapura?",
+        "options": [
+          "Bhakra–Nangal Project",
+          "Upper Krishna Project",
+          "Hirakud Project"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka.",
+          "Correct. Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka.",
+          "Look again. Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka."
+        ],
+        "hints": [
+          "Almatti impounds Lal Bahadur Shastri Sagar. Narayanapura impounds Basava Sagar. The chapter describes irrigation, drinking water and power benefits in northern Karnataka.",
+          "Upper Krishna Project."
+        ]
+      },
+      {
+        "id": "ss14-step-10",
+        "section": 1,
+        "title": "Pampa Sagara",
+        "intro": "The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period.",
+        "simple": "Vijayanagara.",
+        "example": [
+          "Vijayanagara.",
+          "The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period."
+        ],
+        "question": "Which Karnataka district contains the Tungabhadra dam near Hosapete?",
+        "options": [
+          "Vijayanagara",
+          "Vijayapura",
+          "Mysuru"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period.",
+          "Look again. The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period.",
+          "Look again. The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period."
+        ],
+        "hints": [
+          "The Tungabhadra project’s reservoir is Pampa Sagara. The dam near Mallapur supports irrigation and electricity generation. Older references may use the district boundaries of their own period.",
+          "Vijayanagara."
+        ]
+      },
+      {
+        "id": "ss14-step-11",
+        "section": 1,
+        "title": "Hirakud",
+        "intro": "The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included.",
+        "simple": "Mahanadi.",
+        "example": [
+          "Mahanadi.",
+          "The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included."
+        ],
+        "question": "Which river is impounded at Hirakud near Sambalpur?",
+        "options": [
+          "Sutlej",
+          "Kosi",
+          "Mahanadi"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included.",
+          "Look again. The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included.",
+          "Correct. The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included."
+        ],
+        "hints": [
+          "The Odisha project tackles flood risk and supplies irrigation and hydropower. The book’s 4,801 m refers to the main dam. Length comparisons should specify whether associated dykes are included.",
+          "Mahanadi."
+        ]
+      },
+      {
+        "id": "ss14-step-12",
+        "section": 1,
+        "title": "Bhakra and Nangal",
+        "intro": "Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network.",
+        "simple": "Sutlej.",
+        "example": [
+          "Sutlej.",
+          "Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network."
+        ],
+        "question": "Which river feeds Gobind Sagar behind Bhakra Dam?",
+        "options": [
+          "Tungabhadra",
+          "Sutlej",
+          "Damodar"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network.",
+          "Correct. Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network.",
+          "Look again. Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network."
+        ],
+        "hints": [
+          "Bhakra is in Himachal Pradesh and Nangal is downstream in Punjab. The integrated project supplies water and power to several States. Distinguish the reservoir, the diversion works and the wider canal network.",
+          "Sutlej."
+        ]
+      },
+      {
+        "id": "ss14-step-13",
+        "section": 1,
+        "title": "Two more river systems",
+        "intro": "Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams.",
+        "simple": "Krishna and Narmada respectively.",
+        "example": [
+          "Krishna and Narmada respectively.",
+          "Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams."
+        ],
+        "question": "Which pairing correctly places Nagarjuna Sagar and Sardar Sarovar?",
+        "options": [
+          "Krishna and Narmada respectively",
+          "Both are on the Sutlej",
+          "Both are on the Kosi"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams.",
+          "Look again. Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams.",
+          "Look again. Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams."
+        ],
+        "hints": [
+          "Nagarjuna Sagar serves irrigation and power near Nandikonda. The Narmada basin includes Sardar Sarovar and Indira Sagar. The Narmada Water Disputes Tribunal addressed interstate allocation. A basin project can involve several dams.",
+          "Krishna and Narmada respectively."
+        ]
+      },
+      {
+        "id": "ss14-step-14",
+        "section": 2,
+        "title": "Karnataka hydropower",
+        "intro": "The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011.",
+        "simple": "Shivanasamudra, Jog and Almatti.",
+        "example": [
+          "Shivanasamudra, Jog and Almatti.",
+          "The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011."
+        ],
+        "question": "Which group includes Karnataka hydroelectric centres?",
+        "options": [
+          "Hirakud, Kosi and Ukai",
+          "Mettur, Kundah and Moyar",
+          "Shivanasamudra, Jog and Almatti"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011.",
+          "Look again. The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011.",
+          "Correct. The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011."
+        ],
+        "hints": [
+          "The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011.",
+          "Shivanasamudra, Jog and Almatti."
+        ]
+      },
+      {
+        "id": "ss14-step-15",
+        "section": 2,
+        "title": "Store rain for later",
+        "intro": "Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results.",
+        "simple": "Stored rainfall or recharge can support water availability through a dry season.",
+        "example": [
+          "Stored rainfall or recharge can support water availability through a dry season.",
+          "Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results."
+        ],
+        "question": "Why can rainwater harvesting help even in a high-rainfall town?",
+        "options": [
+          "Recharge is instantaneous everywhere",
+          "Stored rainfall or recharge can support water availability through a dry season",
+          "A tank makes rainfall constant"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results.",
+          "Correct. Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results.",
+          "Look again. Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results."
+        ],
+        "hints": [
+          "Collect rain where it lands, for example from a roof, or collect runoff in ponds and tanks. Suitable recharge structures allow infiltration. Rainfall timing, storage capacity, water quality and local geology affect results.",
+          "Stored rainfall or recharge can support water availability through a dry season."
+        ]
+      },
+      {
+        "id": "ss14-step-16",
+        "section": 2,
+        "title": "Share electricity",
+        "intro": "A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators.",
+        "simple": "Electricity generation and demand through an interconnected transmission system.",
+        "example": [
+          "Electricity generation and demand through an interconnected transmission system.",
+          "A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators."
+        ],
+        "question": "What does the National Power Grid connect?",
+        "options": [
+          "Electricity generation and demand through an interconnected transmission system",
+          "Only irrigation canals",
+          "Only two reservoirs in one district"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators.",
+          "Look again. A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators.",
+          "Look again. A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators."
+        ],
+        "hints": [
+          "A region with available generation can supply another through transmission links, subject to capacity and system conditions. Hydroelectric stations contribute alongside other generators.",
+          "Electricity generation and demand through an interconnected transmission system."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Water supply and irrigation · pp112–114",
+        "Rivers and lakes supply surface water. Wells tap groundwater and springs discharge it naturally. Water also supports homes, industry, transport, fisheries and recreation. Timing and location determine which uses can be supplied."
+      ],
+      [
+        "River valley projects · pp114–116",
+        "Irrigation, hydropower, flood moderation, navigation, household and industrial supplies, erosion management, fisheries and catchment forestry are textbook objectives. Keeping storage available for floodwater can compete with retaining it for dry-season irrigation."
+      ],
+      [
+        "Power and harvesting · pp117–119",
+        "The book also lists Tungabhadra, Bhadra and the Kali system including Supa, Kadra and Kodasalli. Water descending through turbines drives generators. The chapter’s 13.90% generation share refers to 2011."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  },
+  {
+    "number": 15,
+    "title": "Economy and Government",
+    "slug": "economy-and-government",
+    "part": 1,
+    "discipline": "Economics",
+    "subject": "social-science",
+    "sections": [
+      "Welfare and planning · pp120–122",
+      "Plans and outcomes · pp122–124",
+      "Agricultural change · pp124–127",
+      "NITI Aayog · pp127–129"
+    ],
+    "steps": [
+      {
+        "id": "ss15-step-1",
+        "section": 0,
+        "title": "Choosing priorities",
+        "intro": "With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits.",
+        "simple": "Economic planning.",
+        "example": [
+          "Economic planning.",
+          "With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits."
+        ],
+        "question": "Which approach did many twentieth-century governments adopt to coordinate development?",
+        "options": [
+          "Economic planning",
+          "Random allocation",
+          "A permanent freeze on production"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits.",
+          "Look again. With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits.",
+          "Look again. With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits."
+        ],
+        "hints": [
+          "With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits.",
+          "Economic planning."
+        ]
+      },
+      {
+        "id": "ss15-step-2",
+        "section": 0,
+        "title": "Who drafted plans?",
+        "intro": "Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015.",
+        "simple": "Planning Commission.",
+        "example": [
+          "Planning Commission.",
+          "Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015."
+        ],
+        "question": "Which institution formulated India’s historical Five-Year Plans?",
+        "options": [
+          "National Power Grid",
+          "National Development Council alone",
+          "Planning Commission"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015.",
+          "Look again. Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015.",
+          "Correct. Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015."
+        ],
+        "hints": [
+          "Created in 1950 and chaired by the Prime Minister, it assessed natural resources, people and capital and prepared national plans. NITI Aayog succeeded it in 2015.",
+          "Planning Commission."
+        ]
+      },
+      {
+        "id": "ss15-step-3",
+        "section": 1,
+        "title": "Who shares in growth?",
+        "intro": "National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan.",
+        "simple": "Inclusive growth.",
+        "example": [
+          "Inclusive growth.",
+          "National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan."
+        ],
+        "question": "Which goal did the Eleventh Plan emphasise?",
+        "options": [
+          "Ending all public investment",
+          "Inclusive growth",
+          "Expansion of one sector alone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan.",
+          "Correct. National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan.",
+          "Look again. National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan."
+        ],
+        "hints": [
+          "National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan.",
+          "Inclusive growth."
+        ]
+      },
+      {
+        "id": "ss15-step-4",
+        "section": 2,
+        "title": "Two scientific contributions",
+        "intro": "Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about.",
+        "simple": "Norman Borlaug.",
+        "example": [
+          "Norman Borlaug.",
+          "Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about."
+        ],
+        "question": "Who pioneered the high-yielding wheat research behind the Green Revolution internationally?",
+        "options": [
+          "Norman Borlaug",
+          "M. Visvesvaraya",
+          "The National Development Council"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about.",
+          "Look again. Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about.",
+          "Look again. Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about."
+        ],
+        "hints": [
+          "Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about.",
+          "Norman Borlaug."
+        ]
+      },
+      {
+        "id": "ss15-step-5",
+        "section": 2,
+        "title": "Sustainable cultivation",
+        "intro": "The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally.",
+        "simple": "Organic and natural farming.",
+        "example": [
+          "Organic and natural farming.",
+          "The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally."
+        ],
+        "question": "Which farming approaches does the chapter associate with long-term environmental goals?",
+        "options": [
+          "Unlimited extraction of groundwater",
+          "Discarding soil measurements",
+          "Organic and natural farming"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally.",
+          "Look again. The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally.",
+          "Correct. The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally."
+        ],
+        "hints": [
+          "The chapter calls the drive for sustained production a second or perpetual Green Revolution. Soil health, water use, yields, input costs and livelihoods provide ways to assess a practice locally.",
+          "Organic and natural farming."
+        ]
+      },
+      {
+        "id": "ss15-step-6",
+        "section": 3,
+        "title": "A change of institution",
+        "intro": "The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation.",
+        "simple": "1 January 2015.",
+        "example": [
+          "1 January 2015.",
+          "The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation."
+        ],
+        "question": "When was NITI Aayog established?",
+        "options": [
+          "1 January 1934",
+          "1 January 2015",
+          "1 April 1951"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation.",
+          "Correct. The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation.",
+          "Look again. The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation."
+        ],
+        "hints": [
+          "The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation.",
+          "1 January 2015."
+        ]
+      },
+      {
+        "id": "ss15-step-7",
+        "section": 0,
+        "title": "Define a plan",
+        "intro": "A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress.",
+        "simple": "Deliberate use of available resources to pursue specified goals within a period.",
+        "example": [
+          "Deliberate use of available resources to pursue specified goals within a period.",
+          "A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress."
+        ],
+        "question": "What is economic planning?",
+        "options": [
+          "Deliberate use of available resources to pursue specified goals within a period",
+          "Any unrecorded market transaction",
+          "Only predicting tomorrow’s prices"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress.",
+          "Look again. A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress.",
+          "Look again. A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress."
+        ],
+        "hints": [
+          "A district might prioritise irrigation and schools, choose investments within a budget and later assess access and outcomes. The objective determines what counts as progress.",
+          "Deliberate use of available resources to pursue specified goals within a period."
+        ]
+      },
+      {
+        "id": "ss15-step-8",
+        "section": 0,
+        "title": "The planning pioneer",
+        "intro": "His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning.",
+        "simple": "Sir M. Visvesvaraya.",
+        "example": [
+          "Sir M. Visvesvaraya.",
+          "His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning."
+        ],
+        "question": "Whose 1934 book advocated a planned Indian economy?",
+        "options": [
+          "Norman Borlaug",
+          "M. S. Swaminathan",
+          "Sir M. Visvesvaraya"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning.",
+          "Look again. His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning.",
+          "Correct. His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning."
+        ],
+        "hints": [
+          "His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning.",
+          "Sir M. Visvesvaraya."
+        ]
+      },
+      {
+        "id": "ss15-step-9",
+        "section": 0,
+        "title": "From draft to approval",
+        "intro": "Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development.",
+        "simple": "National Development Council.",
+        "example": [
+          "National Development Council.",
+          "Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development."
+        ],
+        "question": "Which body approved draft Five-Year Plans in the historical framework?",
+        "options": [
+          "A district cooperative bank",
+          "National Development Council",
+          "The first crop research station"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development.",
+          "Correct. Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development.",
+          "Look again. Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development."
+        ],
+        "hints": [
+          "Established in 1952, the Council included State chief ministers. This gave States a role in discussing national priorities and balanced regional development.",
+          "National Development Council."
+        ]
+      },
+      {
+        "id": "ss15-step-10",
+        "section": 2,
+        "title": "Rapid growth in foodgrains",
+        "intro": "The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results.",
+        "simple": "Rapid growth of foodgrain production through improved varieties and supporting inputs.",
+        "example": [
+          "Rapid growth of foodgrain production through improved varieties and supporting inputs.",
+          "The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results."
+        ],
+        "question": "What development does the term Green Revolution describe in this chapter?",
+        "options": [
+          "Rapid growth of foodgrain production through improved varieties and supporting inputs",
+          "A change in the colour of crops",
+          "Growth of fisheries alone"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results.",
+          "Look again. The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results.",
+          "Look again. The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results."
+        ],
+        "hints": [
+          "The book illustrates the late 1960s with a rise from 74 to 108 million tonnes. Wheat led early gains in irrigated areas. Water supply, nutrients, extension and farmers’ decisions shaped results.",
+          "Rapid growth of foodgrain production through improved varieties and supporting inputs."
+        ]
+      },
+      {
+        "id": "ss15-step-11",
+        "section": 2,
+        "title": "After the harvest",
+        "intro": "Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest.",
+        "simple": "Handling, procurement, storage, processing and marketing after harvest.",
+        "example": [
+          "Handling, procurement, storage, processing and marketing after harvest.",
+          "Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest."
+        ],
+        "question": "What does post-harvest technology cover?",
+        "options": [
+          "Only seed breeding before sowing",
+          "Only rainfall forecasting",
+          "Handling, procurement, storage, processing and marketing after harvest"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest.",
+          "Look again. Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest.",
+          "Correct. Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest."
+        ],
+        "hints": [
+          "Drying grain, storing it in granaries and keeping perishable produce in cold storage can reduce losses. Seed selection and irrigation occur before harvest.",
+          "Handling, procurement, storage, processing and marketing after harvest."
+        ]
+      },
+      {
+        "id": "ss15-step-12",
+        "section": 3,
+        "title": "Who chairs NITI Aayog?",
+        "intro": "The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive.",
+        "simple": "Prime Minister of India.",
+        "example": [
+          "Prime Minister of India.",
+          "The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive."
+        ],
+        "question": "Which office holds the chair?",
+        "options": [
+          "Governor of the Reserve Bank",
+          "Prime Minister of India",
+          "Chief Minister of a single State"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive.",
+          "Correct. The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive.",
+          "Look again. The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive."
+        ],
+        "hints": [
+          "The officeholder is Narendra Modi. The vice-chairperson and CEO have roles in leadership and administration. A question about the chair asks for a different role from the chief executive.",
+          "Prime Minister of India."
+        ]
+      },
+      {
+        "id": "ss15-step-13",
+        "section": 0,
+        "title": "The welfare state",
+        "intro": "Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution.",
+        "simple": "Public responsibilities expanded into services, infrastructure and welfare.",
+        "example": [
+          "Public responsibilities expanded into services, infrastructure and welfare.",
+          "Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution."
+        ],
+        "question": "How did the scope of government expand in the chapter’s historical account?",
+        "options": [
+          "Public responsibilities expanded into services, infrastructure and welfare",
+          "Every public role became purely military",
+          "Economic stability means prices can never change"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution.",
+          "Look again. Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution.",
+          "Look again. Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution."
+        ],
+        "hints": [
+          "Security, justice and law and order remain responsibilities. Education, health, sanitation, food security, transport and communication can improve welfare. Stability concerns fluctuations in employment, prices and production. Social justice concerns fair access and distribution.",
+          "Public responsibilities expanded into services, infrastructure and welfare."
+        ]
+      },
+      {
+        "id": "ss15-step-14",
+        "section": 1,
+        "title": "Five-Year Plan objectives",
+        "intro": "These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains.",
+        "simple": "Production, jobs, reduced disparities, stability and modernisation.",
+        "example": [
+          "Production, jobs, reduced disparities, stability and modernisation.",
+          "These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains."
+        ],
+        "question": "Which combination reflects the plans’ objectives?",
+        "options": [
+          "Only the amount spent",
+          "Only the number of documents published",
+          "Production, jobs, reduced disparities, stability and modernisation"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains.",
+          "Look again. These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains.",
+          "Correct. These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains."
+        ],
+        "hints": [
+          "These intermediate goals supported poverty reduction and higher living standards. Assess progress through several indicators because a rise in output can coexist with unequal gains.",
+          "Production, jobs, reduced disparities, stability and modernisation."
+        ]
+      },
+      {
+        "id": "ss15-step-15",
+        "section": 1,
+        "title": "Assessing achievements",
+        "intro": "The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect.",
+        "simple": "Income, food production, employment, health, literacy and distribution.",
+        "example": [
+          "Income, food production, employment, health, literacy and distribution.",
+          "The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect."
+        ],
+        "question": "What evidence would help assess the planning period?",
+        "options": [
+          "A single budget figure treated as proof of success",
+          "Income, food production, employment, health, literacy and distribution",
+          "A plan’s title alone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect.",
+          "Correct. The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect.",
+          "Look again. The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect."
+        ],
+        "hints": [
+          "The chapter describes higher national income growth, expansion of industry and services, advances in technology and greater foodgrain production. Life expectancy and literacy improved. Inadequate jobs, poverty, unequal gains and gaps in basic services remained. Trends alone cannot isolate a plan’s causal effect.",
+          "Income, food production, employment, health, literacy and distribution."
+        ]
+      },
+      {
+        "id": "ss15-step-16",
+        "section": 2,
+        "title": "Why yields rose",
+        "intro": "Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024.",
+        "simple": "Irrigation, suitable nutrients, crop protection, research and institutional support.",
+        "example": [
+          "Irrigation, suitable nutrients, crop protection, research and institutional support.",
+          "Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024."
+        ],
+        "question": "What supported adoption of high-yielding varieties after the 1965–66 drought?",
+        "options": [
+          "Irrigation, suitable nutrients, crop protection, research and institutional support",
+          "Seeds producing identical yields in every field",
+          "Storage alone before sowing"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024.",
+          "Look again. Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024.",
+          "Look again. Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024."
+        ],
+        "hints": [
+          "Early wheat adoption focused on Punjab, Haryana, Delhi, Rajasthan and parts of Uttar Pradesh. Swaminathan contributed to Indian research and implementation, received the first World Food Prize in 1987 and a posthumous Bharat Ratna in 2024.",
+          "Irrigation, suitable nutrients, crop protection, research and institutional support."
+        ]
+      },
+      {
+        "id": "ss15-step-17",
+        "section": 2,
+        "title": "Removing farm bottlenecks",
+        "intro": "Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places.",
+        "simple": "Credit, subsidies, improved marketing, storage and processing.",
+        "example": [
+          "Credit, subsidies, improved marketing, storage and processing.",
+          "Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places."
+        ],
+        "question": "Which measures address both input costs and losses after harvest?",
+        "options": [
+          "Assume all farmers can finance any input",
+          "Build storage without checking local needs",
+          "Credit, subsidies, improved marketing, storage and processing"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places.",
+          "Look again. Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places.",
+          "Correct. Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places."
+        ],
+        "hints": [
+          "Smallholders can face barriers to irrigation, equipment and seed. Affordable credit and extension can widen access. Procurement, price support and suitable storage can help farmers realise returns. Actual access varies across crops and places.",
+          "Credit, subsidies, improved marketing, storage and processing."
+        ]
+      },
+      {
+        "id": "ss15-step-18",
+        "section": 3,
+        "title": "States in economic policy",
+        "intro": "Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies.",
+        "simple": "Shared national priorities and cooperative federalism.",
+        "example": [
+          "Shared national priorities and cooperative federalism.",
+          "Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies."
+        ],
+        "question": "Which objectives guide NITI Aayog?",
+        "options": [
+          "Operating irrigation gates in each village",
+          "Shared national priorities and cooperative federalism",
+          "Drafting the colonial land settlement"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies.",
+          "Correct. Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies.",
+          "Look again. Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies."
+        ],
+        "hints": [
+          "Its bottom-up approach draws on State priorities. Its four fields include policy and programme design, cooperative federalism, monitoring and evaluation, and knowledge and innovation. The chapter names Atal Innovation Mission, DMEO and NILERD as related bodies.",
+          "Shared national priorities and cooperative federalism."
+        ]
+      },
+      {
+        "id": "ss15-step-19",
+        "section": 1,
+        "title": "Read the plan timeline",
+        "intro": "The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017.",
+        "simple": "Annual and rolling-plan periods interrupted the sequence.",
+        "example": [
+          "Annual and rolling-plan periods interrupted the sequence.",
+          "The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017."
+        ],
+        "question": "Did every year from 1951 to 2017 fall in a numbered Five-Year Plan?",
+        "options": [
+          "Annual and rolling-plan periods interrupted the sequence",
+          "Every plan lasted exactly five completed years",
+          "The first plan began in 2015"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017.",
+          "Look again. The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017.",
+          "Look again. The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017."
+        ],
+        "hints": [
+          "The first plan began on 1 April 1951. Annual plans covered 1966–69 and 1990–92. The Fifth Plan ended early in 1978 and rolling plans followed until 1980. The Twelfth Plan ran from 2012 to 2017.",
+          "Annual and rolling-plan periods interrupted the sequence."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Welfare and planning · pp120–122",
+        "With limited resources, a government sets objectives, chooses priorities and schedules investment. Decisions concern what to produce, how much and who receives the benefits."
+      ],
+      [
+        "Plans and outcomes · pp122–124",
+        "National output can rise while some regions or households see few gains. Inclusive growth looks at participation, jobs, services and distribution. It continued as a priority in the Twelfth Plan."
+      ],
+      [
+        "Agricultural change · pp124–127",
+        "Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about."
+      ],
+      [
+        "NITI Aayog · pp127–129",
+        "The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  }
+]

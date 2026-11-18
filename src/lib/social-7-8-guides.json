@@ -1,0 +1,1168 @@
+[
+  {
+    "number": 7,
+    "subject": "social-science",
+    "discipline": "Civics",
+    "part": 1,
+    "slug": "challenges-of-india-and-their-remedies",
+    "title": "Challenges of India and Their Remedies",
+    "sections": [
+      "Harmony, regions and literacy · pp 68–71",
+      "Corruption and public accountability · pp 71–72",
+      "Gender equality and inclusion · pp 72–75",
+      "Inequality, population and poverty · pp 75–77",
+      "Markets, trade and civic responsibility · pp 77–78"
+    ],
+    "steps": [
+      {
+        "id": "ss7-context",
+        "section": 0,
+        "title": "Link a challenge to a mechanism and a remedy",
+        "intro": "Public challenges need evidence, lawful institutions and cooperation rather than blame assigned to an entire community.",
+        "simple": "Public challenges need evidence, lawful institutions and cooperation rather than blame assigned to an entire community.",
+        "example": [
+          "Public challenges need evidence, lawful institutions and cooperation rather than blame assigned to an entire community.",
+          "The source lists social, economic and administrative issues after 1947. A cause may have several effects, and a proposed measure is not proof the problem has been eliminated. Compare prevention, access, accountability and implementation while respecting rights and diversity."
+        ],
+        "question": "Which explanation is strongest?",
+        "options": [
+          "Evidence → mechanism → proportionate response → review",
+          "Blame an entire religion or region",
+          "Assume a policy announcement proves success"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source lists social, economic and administrative issues after 1947. A cause may have several effects, and a proposed measure is not proof the problem has been eliminated. Compare prevention, access, accountability and implementation while respecting rights and diversity.",
+          "Reconsider: The source lists social, economic and administrative issues after 1947. A cause may have several effects, and a proposed measure is not proof the problem has been eliminated. Compare prevention, access, accountability and implementation while respecting rights and diversity.",
+          "Reconsider: The source lists social, economic and administrative issues after 1947. A cause may have several effects, and a proposed measure is not proof the problem has been eliminated. Compare prevention, access, accountability and implementation while respecting rights and diversity."
+        ],
+        "hints": [
+          "Public challenges need evidence, lawful institutions and cooperation rather than blame assigned to an entire community.",
+          "The source lists social, economic and administrative issues after 1947. A cause may have several effects, and a proposed measure is not proof the problem has been eliminated. Compare prevention, access, accountability and implementation while respecting rights and diversity."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-communalism",
+        "section": 0,
+        "title": "Distinguish religious diversity from hostility",
+        "intro": "Communalism in this chapter means antagonism that treats religious communities’ interests as inherently opposed.",
+        "simple": "Communalism in this chapter means antagonism that treats religious communities’ interests as inherently opposed.",
+        "example": [
+          "Communalism in this chapter means antagonism that treats religious communities’ interests as inherently opposed.",
+          "Religious belief, community identity and diversity are not themselves communalism. The source links hostility to distrust, division, violence and political rivalry and discusses colonial divide-and-rule as historical context. Avoid implying that every member of any faith shares a hostile agenda."
+        ],
+        "question": "Which example fits the concept?",
+        "options": [
+          "Respectful observance of a festival",
+          "Learning about several religions",
+          "Claiming people of another faith must be enemies"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Religious belief, community identity and diversity are not themselves communalism. The source links hostility to distrust, division, violence and political rivalry and discusses colonial divide-and-rule as historical context. Avoid implying that every member of any faith shares a hostile agenda.",
+          "Reconsider: Religious belief, community identity and diversity are not themselves communalism. The source links hostility to distrust, division, violence and political rivalry and discusses colonial divide-and-rule as historical context. Avoid implying that every member of any faith shares a hostile agenda.",
+          "Correct. Religious belief, community identity and diversity are not themselves communalism. The source links hostility to distrust, division, violence and political rivalry and discusses colonial divide-and-rule as historical context. Avoid implying that every member of any faith shares a hostile agenda."
+        ],
+        "hints": [
+          "Communalism in this chapter means antagonism that treats religious communities’ interests as inherently opposed.",
+          "Religious belief, community identity and diversity are not themselves communalism. The source links hostility to distrust, division, violence and political rivalry and discusses colonial divide-and-rule as historical context. Avoid implying that every member of any faith shares a hostile agenda."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-harmony",
+        "section": 0,
+        "title": "Evaluate measures for communal harmony",
+        "intro": "Equal citizenship, secular public institutions, education, lawful protection and interfaith dialogue can counter hostility.",
+        "simple": "Equal citizenship, secular public institutions, education, lawful protection and interfaith dialogue can counter hostility.",
+        "example": [
+          "Equal citizenship, secular public institutions, education, lawful protection and interfaith dialogue can counter hostility.",
+          "The source also lists national solidarity and a uniform civil code. The latter is a constitutional policy/debate associated with Article 44, not a proven automatic remedy or a claim that one nationwide uniform code already operates everywhere. Evaluate proposals with rights, evidence and implementation; unity does not require erasing religious diversity."
+        ],
+        "question": "What makes a response appropriate?",
+        "options": [
+          "Banning every difference in belief",
+          "Equal treatment and rights-respecting action against hostility",
+          "Collective punishment of a faith"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source also lists national solidarity and a uniform civil code. The latter is a constitutional policy/debate associated with Article 44, not a proven automatic remedy or a claim that one nationwide uniform code already operates everywhere. Evaluate proposals with rights, evidence and implementation; unity does not require erasing religious diversity.",
+          "Correct. The source also lists national solidarity and a uniform civil code. The latter is a constitutional policy/debate associated with Article 44, not a proven automatic remedy or a claim that one nationwide uniform code already operates everywhere. Evaluate proposals with rights, evidence and implementation; unity does not require erasing religious diversity.",
+          "Reconsider: The source also lists national solidarity and a uniform civil code. The latter is a constitutional policy/debate associated with Article 44, not a proven automatic remedy or a claim that one nationwide uniform code already operates everywhere. Evaluate proposals with rights, evidence and implementation; unity does not require erasing religious diversity."
+        ],
+        "hints": [
+          "Equal citizenship, secular public institutions, education, lawful protection and interfaith dialogue can counter hostility.",
+          "The source also lists national solidarity and a uniform civil code. The latter is a constitutional policy/debate associated with Article 44, not a proven automatic remedy or a claim that one nationwide uniform code already operates everywhere. Evaluate proposals with rights, evidence and implementation; unity does not require erasing religious diversity."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-regionalism",
+        "section": 0,
+        "title": "Separate local attachment from exclusion",
+        "intro": "Regional attachment can support local development; extreme exclusion or hostility can damage cooperation.",
+        "simple": "Regional attachment can support local development; extreme exclusion or hostility can damage cooperation.",
+        "example": [
+          "Regional attachment can support local development; extreme exclusion or hostility can damage cooperation.",
+          "The source names border and river-sharing disputes. A disagreement over allocation is not by itself proof every participant is disloyal. Single citizenship, federal institutions, State autonomy and intergovernmental coordination can support both regional needs and national cooperation. It calls the system quasi-federal as a textbook description, not a licence to ignore constitutional powers."
+        ],
+        "question": "Which distinction matters?",
+        "options": [
+          "Local pride differs from hostility towards other regions",
+          "All regional culture is harmful",
+          "Every water dispute proves personal hatred"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names border and river-sharing disputes. A disagreement over allocation is not by itself proof every participant is disloyal. Single citizenship, federal institutions, State autonomy and intergovernmental coordination can support both regional needs and national cooperation. It calls the system quasi-federal as a textbook description, not a licence to ignore constitutional powers.",
+          "Reconsider: The source names border and river-sharing disputes. A disagreement over allocation is not by itself proof every participant is disloyal. Single citizenship, federal institutions, State autonomy and intergovernmental coordination can support both regional needs and national cooperation. It calls the system quasi-federal as a textbook description, not a licence to ignore constitutional powers.",
+          "Reconsider: The source names border and river-sharing disputes. A disagreement over allocation is not by itself proof every participant is disloyal. Single citizenship, federal institutions, State autonomy and intergovernmental coordination can support both regional needs and national cooperation. It calls the system quasi-federal as a textbook description, not a licence to ignore constitutional powers."
+        ],
+        "hints": [
+          "Regional attachment can support local development; extreme exclusion or hostility can damage cooperation.",
+          "The source names border and river-sharing disputes. A disagreement over allocation is not by itself proof every participant is disloyal. Single citizenship, federal institutions, State autonomy and intergovernmental coordination can support both regional needs and national cooperation. It calls the system quasi-federal as a textbook description, not a licence to ignore constitutional powers."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-subregional",
+        "section": 0,
+        "title": "Connect imbalance to targeted development",
+        "intro": "Sub-regionalism concerns regional interests within a State, often linked to uneven development.",
+        "simple": "Sub-regionalism concerns regional interests within a State, often linked to uneven development.",
+        "example": [
+          "Sub-regionalism concerns regional interests within a State, often linked to uneven development.",
+          "The source names the Nanjundappa Committee, Malenadu, Bayaluseeme, Kalyana Karnataka, border-area and coastal-development institutions, and Article 371J arrangements. The seven-district description reflects current district reorganisation; older legal/source lists may refer to six before Vijayanagara’s creation. Institutional names and entitlements need dated verification; no programme alone proves the imbalance has vanished."
+        ],
+        "question": "What should a comparison of district counts check?",
+        "options": [
+          "Only the largest number",
+          "That every source uses today’s boundaries",
+          "Date, territorial reorganisation and relevant provision"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source names the Nanjundappa Committee, Malenadu, Bayaluseeme, Kalyana Karnataka, border-area and coastal-development institutions, and Article 371J arrangements. The seven-district description reflects current district reorganisation; older legal/source lists may refer to six before Vijayanagara’s creation. Institutional names and entitlements need dated verification; no programme alone proves the imbalance has vanished.",
+          "Reconsider: The source names the Nanjundappa Committee, Malenadu, Bayaluseeme, Kalyana Karnataka, border-area and coastal-development institutions, and Article 371J arrangements. The seven-district description reflects current district reorganisation; older legal/source lists may refer to six before Vijayanagara’s creation. Institutional names and entitlements need dated verification; no programme alone proves the imbalance has vanished.",
+          "Correct. The source names the Nanjundappa Committee, Malenadu, Bayaluseeme, Kalyana Karnataka, border-area and coastal-development institutions, and Article 371J arrangements. The seven-district description reflects current district reorganisation; older legal/source lists may refer to six before Vijayanagara’s creation. Institutional names and entitlements need dated verification; no programme alone proves the imbalance has vanished."
+        ],
+        "hints": [
+          "Sub-regionalism concerns regional interests within a State, often linked to uneven development.",
+          "The source names the Nanjundappa Committee, Malenadu, Bayaluseeme, Kalyana Karnataka, border-area and coastal-development institutions, and Article 371J arrangements. The seven-district description reflects current district reorganisation; older legal/source lists may refer to six before Vijayanagara’s creation. Institutional names and entitlements need dated verification; no programme alone proves the imbalance has vanished."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-literacy",
+        "section": 0,
+        "title": "Read a literacy figure with its date and denominator",
+        "intro": "Literacy statistics need a reference year, population definition and data release.",
+        "simple": "Literacy statistics need a reference year, population definition and data release.",
+        "example": [
+          "Literacy statistics need a reference year, population definition and data release.",
+          "The exercise expects 74.04% from the 2011 provisional Census figure for people aged 7 and above. Later final tabulations commonly give 72.98%; the source’s 2001 figure 66% also differs from 64.83/64.84 in official tables. Do not call these current rates or compare ages 5+ and 7+as identical series. The source’s 12% at independence is an approximate historical claim, not a directly equivalent modern Census observation."
+        ],
+        "question": "Why can two 2011 figures differ?",
+        "options": [
+          "Both must be current 2026 surveys",
+          "Provisional and final releases can differ",
+          "Percentages never need sources"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The exercise expects 74.04% from the 2011 provisional Census figure for people aged 7 and above. Later final tabulations commonly give 72.98%; the source’s 2001 figure 66% also differs from 64.83/64.84 in official tables. Do not call these current rates or compare ages 5+ and 7+as identical series. The source’s 12% at independence is an approximate historical claim, not a directly equivalent modern Census observation.",
+          "Correct. The exercise expects 74.04% from the 2011 provisional Census figure for people aged 7 and above. Later final tabulations commonly give 72.98%; the source’s 2001 figure 66% also differs from 64.83/64.84 in official tables. Do not call these current rates or compare ages 5+ and 7+as identical series. The source’s 12% at independence is an approximate historical claim, not a directly equivalent modern Census observation.",
+          "Reconsider: The exercise expects 74.04% from the 2011 provisional Census figure for people aged 7 and above. Later final tabulations commonly give 72.98%; the source’s 2001 figure 66% also differs from 64.83/64.84 in official tables. Do not call these current rates or compare ages 5+ and 7+as identical series. The source’s 12% at independence is an approximate historical claim, not a directly equivalent modern Census observation."
+        ],
+        "hints": [
+          "Literacy statistics need a reference year, population definition and data release.",
+          "The exercise expects 74.04% from the 2011 provisional Census figure for people aged 7 and above. Later final tabulations commonly give 72.98%; the source’s 2001 figure 66% also differs from 64.83/64.84 in official tables. Do not call these current rates or compare ages 5+ and 7+as identical series. The source’s 12% at independence is an approximate historical claim, not a directly equivalent modern Census observation."
+        ],
+        "explorer": "literacy-data"
+      },
+      {
+        "id": "ss7-literacy-barriers",
+        "section": 0,
+        "title": "Explain barriers without blaming learners",
+        "intro": "Poverty, child labour, migration, care responsibilities, early marriage and inaccessible schooling can restrict learning.",
+        "simple": "Poverty, child labour, migration, care responsibilities, early marriage and inaccessible schooling can restrict learning.",
+        "example": [
+          "Poverty, child labour, migration, care responsibilities, early marriage and inaccessible schooling can restrict learning.",
+          "Illiteracy does not imply lack of intelligence or human worth. The source links literacy with democratic participation and responsibilities; inclusive schooling, adult learning, language/disability access and support for attendance address different barriers. A programme must be assessed for actual reach and results."
+        ],
+        "question": "Which response addresses an access barrier?",
+        "options": [
+          "Accessible learning with support for attendance",
+          "Calling learners inherently incapable",
+          "Assuming one poster solves every barrier"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Illiteracy does not imply lack of intelligence or human worth. The source links literacy with democratic participation and responsibilities; inclusive schooling, adult learning, language/disability access and support for attendance address different barriers. A programme must be assessed for actual reach and results.",
+          "Reconsider: Illiteracy does not imply lack of intelligence or human worth. The source links literacy with democratic participation and responsibilities; inclusive schooling, adult learning, language/disability access and support for attendance address different barriers. A programme must be assessed for actual reach and results.",
+          "Reconsider: Illiteracy does not imply lack of intelligence or human worth. The source links literacy with democratic participation and responsibilities; inclusive schooling, adult learning, language/disability access and support for attendance address different barriers. A programme must be assessed for actual reach and results."
+        ],
+        "hints": [
+          "Poverty, child labour, migration, care responsibilities, early marriage and inaccessible schooling can restrict learning.",
+          "Illiteracy does not imply lack of intelligence or human worth. The source links literacy with democratic participation and responsibilities; inclusive schooling, adult learning, language/disability access and support for attendance address different barriers. A programme must be assessed for actual reach and results."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-education-measures",
+        "section": 0,
+        "title": "Separate a right from a programme",
+        "intro": "Article 21A and the RTE Act 2009 provide a framework for free compulsory education for children aged 6–14.",
+        "simple": "Article 21A and the RTE Act 2009 provide a framework for free compulsory education for children aged 6–14.",
+        "example": [
+          "Article 21A and the RTE Act 2009 provide a framework for free compulsory education for children aged 6–14.",
+          "The book lists National Literacy Mission 1988, Sarva Shiksha Abhiyan 2001, Saakshar Bharat 2009, Samagra Shiksha 2018 and a 2022–2027 adult-literacy programme, alongside SDG 4 quality education. Different programmes have different age groups and periods; some were restructured. This is a source chronology, not a current eligibility determination or proof every programme continues unchanged.",
+          "The adult-learning programme is Nav Bharath Saksharata Karyakram (2022–23 to 2026–27). The source highlights girls’ education, learners with disabilities and women’s awareness; enrolment alone does not measure learning."
+        ],
+        "question": "Which statement is accurate?",
+        "options": [
+          "Every listed programme applies identically to every age",
+          "Literacy means only enrolment",
+          "School-age rights and adult-literacy programmes have different scopes"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The book lists National Literacy Mission 1988, Sarva Shiksha Abhiyan 2001, Saakshar Bharat 2009, Samagra Shiksha 2018 and a 2022–2027 adult-literacy programme, alongside SDG 4 quality education. Different programmes have different age groups and periods; some were restructured. This is a source chronology, not a current eligibility determination or proof every programme continues unchanged.",
+          "Reconsider: The book lists National Literacy Mission 1988, Sarva Shiksha Abhiyan 2001, Saakshar Bharat 2009, Samagra Shiksha 2018 and a 2022–2027 adult-literacy programme, alongside SDG 4 quality education. Different programmes have different age groups and periods; some were restructured. This is a source chronology, not a current eligibility determination or proof every programme continues unchanged.",
+          "Correct. The book lists National Literacy Mission 1988, Sarva Shiksha Abhiyan 2001, Saakshar Bharat 2009, Samagra Shiksha 2018 and a 2022–2027 adult-literacy programme, alongside SDG 4 quality education. Different programmes have different age groups and periods; some were restructured. This is a source chronology, not a current eligibility determination or proof every programme continues unchanged."
+        ],
+        "hints": [
+          "Article 21A and the RTE Act 2009 provide a framework for free compulsory education for children aged 6–14.",
+          "The book lists National Literacy Mission 1988, Sarva Shiksha Abhiyan 2001, Saakshar Bharat 2009, Samagra Shiksha 2018 and a 2022–2027 adult-literacy programme, alongside SDG 4 quality education. Different programmes have different age groups and periods; some were restructured. This is a source chronology, not a current eligibility determination or proof every programme continues unchanged."
+        ],
+        "explorer": "literacy-data"
+      },
+      {
+        "id": "ss7-corruption",
+        "section": 1,
+        "title": "Connect misuse of authority to accountability",
+        "intro": "Corruption involves abuse of entrusted power or unlawful inducement for private benefit.",
+        "simple": "Corruption involves abuse of entrusted power or unlawful inducement for private benefit.",
+        "example": [
+          "Corruption involves abuse of entrusted power or unlawful inducement for private benefit.",
+          "The source mentions bribery, favouritism, nepotism, weak supervision and opaque procedures. It also lists tax evasion, financial fraud, hoarding and smuggling in a wider web of wrongdoing; not every delay, profit or administrative error proves corruption. Specific allegations need evidence and lawful investigation, not rumours or inherited blame."
+        ],
+        "question": "Which evidence is needed before judging a real allegation?",
+        "options": [
+          "A high price alone",
+          "Specific facts and a lawful process",
+          "Only a stereotype about a group"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source mentions bribery, favouritism, nepotism, weak supervision and opaque procedures. It also lists tax evasion, financial fraud, hoarding and smuggling in a wider web of wrongdoing; not every delay, profit or administrative error proves corruption. Specific allegations need evidence and lawful investigation, not rumours or inherited blame.",
+          "Correct. The source mentions bribery, favouritism, nepotism, weak supervision and opaque procedures. It also lists tax evasion, financial fraud, hoarding and smuggling in a wider web of wrongdoing; not every delay, profit or administrative error proves corruption. Specific allegations need evidence and lawful investigation, not rumours or inherited blame.",
+          "Reconsider: The source mentions bribery, favouritism, nepotism, weak supervision and opaque procedures. It also lists tax evasion, financial fraud, hoarding and smuggling in a wider web of wrongdoing; not every delay, profit or administrative error proves corruption. Specific allegations need evidence and lawful investigation, not rumours or inherited blame."
+        ],
+        "hints": [
+          "Corruption involves abuse of entrusted power or unlawful inducement for private benefit.",
+          "The source mentions bribery, favouritism, nepotism, weak supervision and opaque procedures. It also lists tax evasion, financial fraud, hoarding and smuggling in a wider web of wrongdoing; not every delay, profit or administrative error proves corruption. Specific allegations need evidence and lawful investigation, not rumours or inherited blame."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-anticorruption",
+        "section": 1,
+        "title": "Match institutions with scope and procedures",
+        "intro": "The source lists Lokpal, Lokayukta, CVC, anti-corruption law, RTI and service-delivery reforms.",
+        "simple": "The source lists Lokpal, Lokayukta, CVC, anti-corruption law, RTI and service-delivery reforms.",
+        "example": [
+          "The source lists Lokpal, Lokayukta, CVC, anti-corruption law, RTI and service-delivery reforms.",
+          "The Karnataka Lokayukta Act is titled 1984, published as a 1985 Act, and came into force in 1986; the book compresses these dates. Lokpal, Lokayukta and CVC do not have identical jurisdiction. The Prevention of Corruption Act 1988 and RTI Act 2005 have different functions; RTI does not declare someone guilty. Sakala, Janaspandana, Janasevaka, e-office, grievance mechanisms and monitoring require accountable implementation, not surveillance alone.",
+          "The source also proposes ethical conduct, public awareness and cooperation, transparent administration and impartial enforcement. These complement institutional checks; criticism alone or a pledge is not evidence that corruption has stopped."
+        ],
+        "question": "Which distinction is important?",
+        "options": [
+          "Access to records differs from a finding of corruption",
+          "Every institution hears every case",
+          "A camera proves all corruption has ended"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The Karnataka Lokayukta Act is titled 1984, published as a 1985 Act, and came into force in 1986; the book compresses these dates. Lokpal, Lokayukta and CVC do not have identical jurisdiction. The Prevention of Corruption Act 1988 and RTI Act 2005 have different functions; RTI does not declare someone guilty. Sakala, Janaspandana, Janasevaka, e-office, grievance mechanisms and monitoring require accountable implementation, not surveillance alone.",
+          "Reconsider: The Karnataka Lokayukta Act is titled 1984, published as a 1985 Act, and came into force in 1986; the book compresses these dates. Lokpal, Lokayukta and CVC do not have identical jurisdiction. The Prevention of Corruption Act 1988 and RTI Act 2005 have different functions; RTI does not declare someone guilty. Sakala, Janaspandana, Janasevaka, e-office, grievance mechanisms and monitoring require accountable implementation, not surveillance alone.",
+          "Reconsider: The Karnataka Lokayukta Act is titled 1984, published as a 1985 Act, and came into force in 1986; the book compresses these dates. Lokpal, Lokayukta and CVC do not have identical jurisdiction. The Prevention of Corruption Act 1988 and RTI Act 2005 have different functions; RTI does not declare someone guilty. Sakala, Janaspandana, Janasevaka, e-office, grievance mechanisms and monitoring require accountable implementation, not surveillance alone."
+        ],
+        "hints": [
+          "The source lists Lokpal, Lokayukta, CVC, anti-corruption law, RTI and service-delivery reforms.",
+          "The Karnataka Lokayukta Act is titled 1984, published as a 1985 Act, and came into force in 1986; the book compresses these dates. Lokpal, Lokayukta and CVC do not have identical jurisdiction. The Prevention of Corruption Act 1988 and RTI Act 2005 have different functions; RTI does not declare someone guilty. Sakala, Janaspandana, Janasevaka, e-office, grievance mechanisms and monitoring require accountable implementation, not surveillance alone."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-women-achievements",
+        "section": 2,
+        "title": "Distinguish milestones from universal equality",
+        "intro": "Women’s public achievements demonstrate participation, but first appointments do not prove every barrier has disappeared.",
+        "simple": "Women’s public achievements demonstrate participation, but first appointments do not prove every barrier has disappeared.",
+        "example": [
+          "Women’s public achievements demonstrate participation, but first appointments do not prove every barrier has disappeared.",
+          "The source names Indira Gandhi, Pratibha Patil, Sarojini Naidu, Sucheta Kripalani, Meira Kumar, Fathima Beevi and V.S.Ramadevi. Ramadevi was the first woman Chief Election Commissioner, not the first CEC overall. The source also recalls Lakshmibai, Chennamma, Besant, Kasturba Gandhi, Savitribai Phule and Fatima Sheikh. Explain institutional access and agency without reducing women’s worth to high office or family roles."
+        ],
+        "question": "What can a first-woman milestone establish?",
+        "options": [
+          "That every woman has identical opportunities",
+          "A reason to ignore other contributors",
+          "A dated institutional achievement, not the end of all inequality"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source names Indira Gandhi, Pratibha Patil, Sarojini Naidu, Sucheta Kripalani, Meira Kumar, Fathima Beevi and V.S.Ramadevi. Ramadevi was the first woman Chief Election Commissioner, not the first CEC overall. The source also recalls Lakshmibai, Chennamma, Besant, Kasturba Gandhi, Savitribai Phule and Fatima Sheikh. Explain institutional access and agency without reducing women’s worth to high office or family roles.",
+          "Reconsider: The source names Indira Gandhi, Pratibha Patil, Sarojini Naidu, Sucheta Kripalani, Meira Kumar, Fathima Beevi and V.S.Ramadevi. Ramadevi was the first woman Chief Election Commissioner, not the first CEC overall. The source also recalls Lakshmibai, Chennamma, Besant, Kasturba Gandhi, Savitribai Phule and Fatima Sheikh. Explain institutional access and agency without reducing women’s worth to high office or family roles.",
+          "Correct. The source names Indira Gandhi, Pratibha Patil, Sarojini Naidu, Sucheta Kripalani, Meira Kumar, Fathima Beevi and V.S.Ramadevi. Ramadevi was the first woman Chief Election Commissioner, not the first CEC overall. The source also recalls Lakshmibai, Chennamma, Besant, Kasturba Gandhi, Savitribai Phule and Fatima Sheikh. Explain institutional access and agency without reducing women’s worth to high office or family roles."
+        ],
+        "hints": [
+          "Women’s public achievements demonstrate participation, but first appointments do not prove every barrier has disappeared.",
+          "The source names Indira Gandhi, Pratibha Patil, Sarojini Naidu, Sucheta Kripalani, Meira Kumar, Fathima Beevi and V.S.Ramadevi. Ramadevi was the first woman Chief Election Commissioner, not the first CEC overall. The source also recalls Lakshmibai, Chennamma, Besant, Kasturba Gandhi, Savitribai Phule and Fatima Sheikh. Explain institutional access and agency without reducing women’s worth to high office or family roles."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-women-measures",
+        "section": 2,
+        "title": "Separate legal protection, services and representation",
+        "intro": "Equality measures can include education, accessible services, legal protection and representation.",
+        "simple": "Equality measures can include education, accessible services, legal protection and representation.",
+        "example": [
+          "Equality measures can include education, accessible services, legal protection and representation.",
+          "The source lists women’s commissions, development corporations, Sakhi centres, the Domestic Violence Act 2005, the workplace sexual-harassment law 2013, Karnataka local-body reservation and helpline support. It overgeneralises job reservation across all Union/State employment:rules differ. Its 106thAmendment 2023 women’s-seat provision has constitutional implementation conditions; enactment is not automatic proof every legislature already has one-third reserved seats. Verify current law and services rather than using an old number as a live directory."
+        ],
+        "question": "Which distinction matters?",
+        "options": [
+          "All government posts use one universal quota",
+          "A law’s enactment differs from its operation and actual access",
+          "Every legal promise is fully implemented immediately"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source lists women’s commissions, development corporations, Sakhi centres, the Domestic Violence Act 2005, the workplace sexual-harassment law 2013, Karnataka local-body reservation and helpline support. It overgeneralises job reservation across all Union/State employment:rules differ. Its 106thAmendment 2023 women’s-seat provision has constitutional implementation conditions; enactment is not automatic proof every legislature already has one-third reserved seats. Verify current law and services rather than using an old number as a live directory.",
+          "Correct. The source lists women’s commissions, development corporations, Sakhi centres, the Domestic Violence Act 2005, the workplace sexual-harassment law 2013, Karnataka local-body reservation and helpline support. It overgeneralises job reservation across all Union/State employment:rules differ. Its 106thAmendment 2023 women’s-seat provision has constitutional implementation conditions; enactment is not automatic proof every legislature already has one-third reserved seats. Verify current law and services rather than using an old number as a live directory.",
+          "Reconsider: The source lists women’s commissions, development corporations, Sakhi centres, the Domestic Violence Act 2005, the workplace sexual-harassment law 2013, Karnataka local-body reservation and helpline support. It overgeneralises job reservation across all Union/State employment:rules differ. Its 106thAmendment 2023 women’s-seat provision has constitutional implementation conditions; enactment is not automatic proof every legislature already has one-third reserved seats. Verify current law and services rather than using an old number as a live directory."
+        ],
+        "hints": [
+          "Equality measures can include education, accessible services, legal protection and representation.",
+          "The source lists women’s commissions, development corporations, Sakhi centres, the Domestic Violence Act 2005, the workplace sexual-harassment law 2013, Karnataka local-body reservation and helpline support. It overgeneralises job reservation across all Union/State employment:rules differ. Its 106thAmendment 2023 women’s-seat provision has constitutional implementation conditions; enactment is not automatic proof every legislature already has one-third reserved seats. Verify current law and services rather than using an old number as a live directory."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss7-gender-meaning",
+        "section": 2,
+        "title": "Distinguish identity from physical traits",
+        "intro": "Gender identity, sex characteristics and sexual orientation are distinct concepts.",
+        "simple": "Gender identity, sex characteristics and sexual orientation are distinct concepts.",
+        "example": [
+          "Gender identity, sex characteristics and sexual orientation are distinct concepts.",
+          "Transgender commonly describes a gender identity differing from the sex assigned at birth; intersex concerns variations in sex characteristics and is not a synonym. Neither being transgender nor being intersex means confusion or lesser human worth. The book’s conflation and “ordinary” versus other-person framing need correction. No student needs to disclose identity, body information or family circumstances to study equal rights."
+        ],
+        "question": "Which statement is accurate?",
+        "options": [
+          "Transgender and intersex are not interchangeable terms",
+          "Every transgender person has the same physical traits",
+          "Dignity depends on being in a majority"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Transgender commonly describes a gender identity differing from the sex assigned at birth; intersex concerns variations in sex characteristics and is not a synonym. Neither being transgender nor being intersex means confusion or lesser human worth. The book’s conflation and “ordinary” versus other-person framing need correction. No student needs to disclose identity, body information or family circumstances to study equal rights.",
+          "Reconsider: Transgender commonly describes a gender identity differing from the sex assigned at birth; intersex concerns variations in sex characteristics and is not a synonym. Neither being transgender nor being intersex means confusion or lesser human worth. The book’s conflation and “ordinary” versus other-person framing need correction. No student needs to disclose identity, body information or family circumstances to study equal rights.",
+          "Reconsider: Transgender commonly describes a gender identity differing from the sex assigned at birth; intersex concerns variations in sex characteristics and is not a synonym. Neither being transgender nor being intersex means confusion or lesser human worth. The book’s conflation and “ordinary” versus other-person framing need correction. No student needs to disclose identity, body information or family circumstances to study equal rights."
+        ],
+        "hints": [
+          "Gender identity, sex characteristics and sexual orientation are distinct concepts.",
+          "Transgender commonly describes a gender identity differing from the sex assigned at birth; intersex concerns variations in sex characteristics and is not a synonym. Neither being transgender nor being intersex means confusion or lesser human worth. The book’s conflation and “ordinary” versus other-person framing need correction. No student needs to disclose identity, body information or family circumstances to study equal rights."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss7-gender-rights",
+        "section": 2,
+        "title": "Read the legal account as a dated account",
+        "intro": "The book discusses the 2014 NALSA judgment, the 2019 Act and welfare initiatives.",
+        "simple": "The book discusses the 2014 NALSA judgment, the 2019 Act and welfare initiatives.",
+        "example": [
+          "The book discusses the 2014 NALSA judgment, the 2019 Act and welfare initiatives.",
+          "It lists SMILE, the National Council/Portal, Garima Greh, Tamil Nadu’s 2008 board, Karnataka’s 2017 policy and a 1% recruitment measure. The latter is linked to 2021 recruitment rules, not automatically every effect of the 2017 policy. Later legislation includes a 2026 amendment to the 2019 Act, so the textbook is not complete current certification/eligibility guidance. General human dignity and descriptive identity concepts should not be confused with a particular statute’s changing definition."
+        ],
+        "question": "What must a real legal comparison check?",
+        "options": [
+          "Only the textbook’s oldest summary",
+          "Someone’s appearance",
+          "The version, date, amendments and commencement rules"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: It lists SMILE, the National Council/Portal, Garima Greh, Tamil Nadu’s 2008 board, Karnataka’s 2017 policy and a 1% recruitment measure. The latter is linked to 2021 recruitment rules, not automatically every effect of the 2017 policy. Later legislation includes a 2026 amendment to the 2019 Act, so the textbook is not complete current certification/eligibility guidance. General human dignity and descriptive identity concepts should not be confused with a particular statute’s changing definition.",
+          "Reconsider: It lists SMILE, the National Council/Portal, Garima Greh, Tamil Nadu’s 2008 board, Karnataka’s 2017 policy and a 1% recruitment measure. The latter is linked to 2021 recruitment rules, not automatically every effect of the 2017 policy. Later legislation includes a 2026 amendment to the 2019 Act, so the textbook is not complete current certification/eligibility guidance. General human dignity and descriptive identity concepts should not be confused with a particular statute’s changing definition.",
+          "Correct. It lists SMILE, the National Council/Portal, Garima Greh, Tamil Nadu’s 2008 board, Karnataka’s 2017 policy and a 1% recruitment measure. The latter is linked to 2021 recruitment rules, not automatically every effect of the 2017 policy. Later legislation includes a 2026 amendment to the 2019 Act, so the textbook is not complete current certification/eligibility guidance. General human dignity and descriptive identity concepts should not be confused with a particular statute’s changing definition."
+        ],
+        "hints": [
+          "The book discusses the 2014 NALSA judgment, the 2019 Act and welfare initiatives.",
+          "It lists SMILE, the National Council/Portal, Garima Greh, Tamil Nadu’s 2008 board, Karnataka’s 2017 policy and a 1% recruitment measure. The latter is linked to 2021 recruitment rules, not automatically every effect of the 2017 policy. Later legislation includes a 2026 amendment to the 2019 Act, so the textbook is not complete current certification/eligibility guidance. General human dignity and descriptive identity concepts should not be confused with a particular statute’s changing definition."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss7-gender-participation",
+        "section": 2,
+        "title": "Use examples without assuming one life story",
+        "intro": "The source names Akkai Padmashali, Manjamma Jogati and Shabnam Mausi in dignity and participation discussions.",
+        "simple": "The source names Akkai Padmashali, Manjamma Jogati and Shabnam Mausi in dignity and participation discussions.",
+        "example": [
+          "The source names Akkai Padmashali, Manjamma Jogati and Shabnam Mausi in dignity and participation discussions.",
+          "It credits Manjamma’s Karnataka Janapada Academy leadership and Shabnam Mausi’s elected legislative role. These are particular achievements, not a claim every gender-minority person shares one body, occupation, belief or experience. Study barriers in family, education, health and employment without asking classmates to represent a community."
+        ],
+        "question": "How should these examples be used?",
+        "options": [
+          "As a way to infer a stranger’s identity",
+          "As named evidence of participation and agency",
+          "As a stereotype for every person in a group"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: It credits Manjamma’s Karnataka Janapada Academy leadership and Shabnam Mausi’s elected legislative role. These are particular achievements, not a claim every gender-minority person shares one body, occupation, belief or experience. Study barriers in family, education, health and employment without asking classmates to represent a community.",
+          "Correct. It credits Manjamma’s Karnataka Janapada Academy leadership and Shabnam Mausi’s elected legislative role. These are particular achievements, not a claim every gender-minority person shares one body, occupation, belief or experience. Study barriers in family, education, health and employment without asking classmates to represent a community.",
+          "Reconsider: It credits Manjamma’s Karnataka Janapada Academy leadership and Shabnam Mausi’s elected legislative role. These are particular achievements, not a claim every gender-minority person shares one body, occupation, belief or experience. Study barriers in family, education, health and employment without asking classmates to represent a community."
+        ],
+        "hints": [
+          "The source names Akkai Padmashali, Manjamma Jogati and Shabnam Mausi in dignity and participation discussions.",
+          "It credits Manjamma’s Karnataka Janapada Academy leadership and Shabnam Mausi’s elected legislative role. These are particular achievements, not a claim every gender-minority person shares one body, occupation, belief or experience. Study barriers in family, education, health and employment without asking classmates to represent a community."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss7-inequality",
+        "section": 3,
+        "title": "Separate inequality from poverty",
+        "intro": "Economic inequality concerns differences in resources and opportunities; poverty concerns deprivation of basic needs.",
+        "simple": "Economic inequality concerns differences in resources and opportunities; poverty concerns deprivation of basic needs.",
+        "example": [
+          "Economic inequality concerns differences in resources and opportunities; poverty concerns deprivation of basic needs.",
+          "They can coexist but are not identical. Equal low incomes can leave everyone deprived; higher average income can coexist with a large gap. The source discusses uneven gains, labour conditions, corruption, monopoly and access. A high salary or multinational company is not by itself proof of wrongdoing; explain institutions, distribution and evidence rather than labelling every person or firm."
+        ],
+        "question": "Which example separates the concepts?",
+        "options": [
+          "Equal incomes can still be too low for basic needs",
+          "Equal incomes always mean no poverty",
+          "Every income difference proves corruption"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. They can coexist but are not identical. Equal low incomes can leave everyone deprived; higher average income can coexist with a large gap. The source discusses uneven gains, labour conditions, corruption, monopoly and access. A high salary or multinational company is not by itself proof of wrongdoing; explain institutions, distribution and evidence rather than labelling every person or firm.",
+          "Reconsider: They can coexist but are not identical. Equal low incomes can leave everyone deprived; higher average income can coexist with a large gap. The source discusses uneven gains, labour conditions, corruption, monopoly and access. A high salary or multinational company is not by itself proof of wrongdoing; explain institutions, distribution and evidence rather than labelling every person or firm.",
+          "Reconsider: They can coexist but are not identical. Equal low incomes can leave everyone deprived; higher average income can coexist with a large gap. The source discusses uneven gains, labour conditions, corruption, monopoly and access. A high salary or multinational company is not by itself proof of wrongdoing; explain institutions, distribution and evidence rather than labelling every person or firm."
+        ],
+        "hints": [
+          "Economic inequality concerns differences in resources and opportunities; poverty concerns deprivation of basic needs.",
+          "They can coexist but are not identical. Equal low incomes can leave everyone deprived; higher average income can coexist with a large gap. The source discusses uneven gains, labour conditions, corruption, monopoly and access. A high salary or multinational company is not by itself proof of wrongdoing; explain institutions, distribution and evidence rather than labelling every person or firm."
+        ],
+        "explorer": "inequality-model"
+      },
+      {
+        "id": "ss7-inequality-measures",
+        "section": 3,
+        "title": "Connect development with distribution and rehabilitation",
+        "intro": "The source proposes progressive taxation, land/labour reforms, social security and broader economic opportunities.",
+        "simple": "The source proposes progressive taxation, land/labour reforms, social security and broader economic opportunities.",
+        "example": [
+          "The source proposes progressive taxation, land/labour reforms, social security and broader economic opportunities.",
+          "It also names small/cottage industries, regulation of monopoly and sound financial management. When projects displace people, compensation, rehabilitation and livelihoods must be assessed under relevant rules. These are mechanisms and policy choices, not a guarantee every project benefits every household or that every income difference disappears."
+        ],
+        "question": "What should a development assessment include?",
+        "options": [
+          "Only total spending",
+          "No attention to displaced people",
+          "Who gains, who loses and whether rights/livelihoods are protected"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: It also names small/cottage industries, regulation of monopoly and sound financial management. When projects displace people, compensation, rehabilitation and livelihoods must be assessed under relevant rules. These are mechanisms and policy choices, not a guarantee every project benefits every household or that every income difference disappears.",
+          "Reconsider: It also names small/cottage industries, regulation of monopoly and sound financial management. When projects displace people, compensation, rehabilitation and livelihoods must be assessed under relevant rules. These are mechanisms and policy choices, not a guarantee every project benefits every household or that every income difference disappears.",
+          "Correct. It also names small/cottage industries, regulation of monopoly and sound financial management. When projects displace people, compensation, rehabilitation and livelihoods must be assessed under relevant rules. These are mechanisms and policy choices, not a guarantee every project benefits every household or that every income difference disappears."
+        ],
+        "hints": [
+          "The source proposes progressive taxation, land/labour reforms, social security and broader economic opportunities.",
+          "It also names small/cottage industries, regulation of monopoly and sound financial management. When projects displace people, compensation, rehabilitation and livelihoods must be assessed under relevant rules. These are mechanisms and policy choices, not a guarantee every project benefits every household or that every income difference disappears."
+        ],
+        "explorer": "inequality-model"
+      },
+      {
+        "id": "ss7-population-data",
+        "section": 3,
+        "title": "Keep historical population data separate from current estimates",
+        "intro": "The chapter’s 1991–2001 and 2011 population numbers are dated historical values.",
+        "simple": "The chapter’s 1991–2001 and 2011 population numbers are dated historical values.",
+        "example": [
+          "The chapter’s 1991–2001 and 2011 population numbers are dated historical values.",
+          "It gives roughly 84 crore to 102.7 crore and 121 crore in 2011, with about 17.7% decadal growth. Its 2.4% land/17.5% population shares are source-era context, not a current count. Growth rates, fertility, mortality, life expectancy and age structure differ; do not infer a continuously rising birth rate or blame a community from a national total."
+        ],
+        "question": "Which claim is justified?",
+        "options": [
+          "A national total reveals every group’s behaviour",
+          "These numbers need dates and definitions",
+          "They are automatically today’s exact counts"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: It gives roughly 84 crore to 102.7 crore and 121 crore in 2011, with about 17.7% decadal growth. Its 2.4% land/17.5% population shares are source-era context, not a current count. Growth rates, fertility, mortality, life expectancy and age structure differ; do not infer a continuously rising birth rate or blame a community from a national total.",
+          "Correct. It gives roughly 84 crore to 102.7 crore and 121 crore in 2011, with about 17.7% decadal growth. Its 2.4% land/17.5% population shares are source-era context, not a current count. Growth rates, fertility, mortality, life expectancy and age structure differ; do not infer a continuously rising birth rate or blame a community from a national total.",
+          "Reconsider: It gives roughly 84 crore to 102.7 crore and 121 crore in 2011, with about 17.7% decadal growth. Its 2.4% land/17.5% population shares are source-era context, not a current count. Growth rates, fertility, mortality, life expectancy and age structure differ; do not infer a continuously rising birth rate or blame a community from a national total."
+        ],
+        "hints": [
+          "The chapter’s 1991–2001 and 2011 population numbers are dated historical values.",
+          "It gives roughly 84 crore to 102.7 crore and 121 crore in 2011, with about 17.7% decadal growth. Its 2.4% land/17.5% population shares are source-era context, not a current count. Growth rates, fertility, mortality, life expectancy and age structure differ; do not infer a continuously rising birth rate or blame a community from a national total."
+        ],
+        "explorer": "population-dividend"
+      },
+      {
+        "id": "ss7-population-services",
+        "section": 3,
+        "title": "Connect population and services without devaluing people",
+        "intro": "Population change can affect demand for housing, schools, health, water and employment.",
+        "simple": "Population change can affect demand for housing, schools, health, water and employment.",
+        "example": [
+          "Population change can affect demand for housing, schools, health, water and employment.",
+          "The source names literacy, technical education, agriculture, industry, exports, small enterprises and jobs as responses. Outcomes also depend on distribution, infrastructure and governance. People are not inherently a burden; children, older people and unpaid carers have dignity and contributions beyond a simplified age-share calculation."
+        ],
+        "question": "Which explanation is balanced?",
+        "options": [
+          "Service capacity and opportunities mediate population effects",
+          "Every large family causes every national problem",
+          "A total count alone predicts wellbeing"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source names literacy, technical education, agriculture, industry, exports, small enterprises and jobs as responses. Outcomes also depend on distribution, infrastructure and governance. People are not inherently a burden; children, older people and unpaid carers have dignity and contributions beyond a simplified age-share calculation.",
+          "Reconsider: The source names literacy, technical education, agriculture, industry, exports, small enterprises and jobs as responses. Outcomes also depend on distribution, infrastructure and governance. People are not inherently a burden; children, older people and unpaid carers have dignity and contributions beyond a simplified age-share calculation.",
+          "Reconsider: The source names literacy, technical education, agriculture, industry, exports, small enterprises and jobs as responses. Outcomes also depend on distribution, infrastructure and governance. People are not inherently a burden; children, older people and unpaid carers have dignity and contributions beyond a simplified age-share calculation."
+        ],
+        "hints": [
+          "Population change can affect demand for housing, schools, health, water and employment.",
+          "The source names literacy, technical education, agriculture, industry, exports, small enterprises and jobs as responses. Outcomes also depend on distribution, infrastructure and governance. People are not inherently a burden; children, older people and unpaid carers have dignity and contributions beyond a simplified age-share calculation."
+        ],
+        "explorer": "population-dividend"
+      },
+      {
+        "id": "ss7-dividend",
+        "section": 3,
+        "title": "Distinguish working age from actual employment",
+        "intro": "A demographic dividend is a potential opportunity associated with age structure, not automatic economic growth.",
+        "simple": "A demographic dividend is a potential opportunity associated with age structure, not automatic economic growth.",
+        "example": [
+          "A demographic dividend is a potential opportunity associated with age structure, not automatic economic growth.",
+          "The source’s 62% working-population figure is a dated, simplified statement and should not be read as the measured share in jobs. Health, education, skills, labour participation, job availability and fair access affect whether opportunities are realised. Age-based dependency ratios are not measures of human worth or the actual number of non-contributors."
+        ],
+        "question": "Does a large working-age share guarantee a dividend?",
+        "options": [
+          "Yes, employment is automatic",
+          "It proves other age groups contribute nothing",
+          "No, opportunities and institutions matter"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source’s 62% working-population figure is a dated, simplified statement and should not be read as the measured share in jobs. Health, education, skills, labour participation, job availability and fair access affect whether opportunities are realised. Age-based dependency ratios are not measures of human worth or the actual number of non-contributors.",
+          "Reconsider: The source’s 62% working-population figure is a dated, simplified statement and should not be read as the measured share in jobs. Health, education, skills, labour participation, job availability and fair access affect whether opportunities are realised. Age-based dependency ratios are not measures of human worth or the actual number of non-contributors.",
+          "Correct. The source’s 62% working-population figure is a dated, simplified statement and should not be read as the measured share in jobs. Health, education, skills, labour participation, job availability and fair access affect whether opportunities are realised. Age-based dependency ratios are not measures of human worth or the actual number of non-contributors."
+        ],
+        "hints": [
+          "A demographic dividend is a potential opportunity associated with age structure, not automatic economic growth.",
+          "The source’s 62% working-population figure is a dated, simplified statement and should not be read as the measured share in jobs. Health, education, skills, labour participation, job availability and fair access affect whether opportunities are realised. Age-based dependency ratios are not measures of human worth or the actual number of non-contributors."
+        ],
+        "explorer": "population-dividend"
+      },
+      {
+        "id": "ss7-poverty",
+        "section": 3,
+        "title": "Identify needs and barriers, not personal blame",
+        "intro": "Poverty involves inadequate access to necessities such as food, clothing, housing and other basic services.",
+        "simple": "Poverty involves inadequate access to necessities such as food, clothing, housing and other basic services.",
+        "example": [
+          "Poverty involves inadequate access to necessities such as food, clothing, housing and other basic services.",
+          "It occurs in rural and urban settings. The source names planning, employment programmes, rural/urban livelihoods, food support and productive use/distribution of resources. Distinguish income, wealth, consumption, services and multidimensional deprivation; one classroom threshold is not an official poverty determination."
+        ],
+        "question": "Which approach is appropriate?",
+        "options": [
+          "Infer poverty from appearance alone",
+          "Assess needs, access and constraints using defined evidence",
+          "Treat deprivation as proof of inferior ability"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: It occurs in rural and urban settings. The source names planning, employment programmes, rural/urban livelihoods, food support and productive use/distribution of resources. Distinguish income, wealth, consumption, services and multidimensional deprivation; one classroom threshold is not an official poverty determination.",
+          "Correct. It occurs in rural and urban settings. The source names planning, employment programmes, rural/urban livelihoods, food support and productive use/distribution of resources. Distinguish income, wealth, consumption, services and multidimensional deprivation; one classroom threshold is not an official poverty determination.",
+          "Reconsider: It occurs in rural and urban settings. The source names planning, employment programmes, rural/urban livelihoods, food support and productive use/distribution of resources. Distinguish income, wealth, consumption, services and multidimensional deprivation; one classroom threshold is not an official poverty determination."
+        ],
+        "hints": [
+          "Poverty involves inadequate access to necessities such as food, clothing, housing and other basic services.",
+          "It occurs in rural and urban settings. The source names planning, employment programmes, rural/urban livelihoods, food support and productive use/distribution of resources. Distinguish income, wealth, consumption, services and multidimensional deprivation; one classroom threshold is not an official poverty determination."
+        ],
+        "explorer": "inequality-model"
+      },
+      {
+        "id": "ss7-poverty-programmes",
+        "section": 3,
+        "title": "Separate an Act, a scheme and a current entitlement",
+        "intro": "The source lists Jawahar Rozgar Yojana, MGNREGA 2005, PMGY, NRLM, NULM, NFSAandPMGKAY.",
+        "simple": "The source lists Jawahar Rozgar Yojana, MGNREGA 2005, PMGY, NRLM, NULM, NFSAandPMGKAY.",
+        "example": [
+          "The source lists Jawahar Rozgar Yojana, MGNREGA 2005, PMGY, NRLM, NULM, NFSAandPMGKAY.",
+          "These have different dates, functions, target groups and later changes. Some are historical or restructured; MGNREGA and NFSA are statutory frameworks, not identical to every scheme name. Current eligibility, benefits and implementation need dated official sources. A school list does not establish anyone’s entitlement or prove poverty has ended.",
+          "Jawahar Rozgar Yojana is a historical rural-employment programme. MGNREGA concerns a statutory rural wage-employment framework; NRLM and NULM concern rural and urban livelihoods. PMGY (Pradhan Mantri Gramodaya Yojana) concerns basic village services; NFSA concerns food-security entitlements and PMGKAY concerns food support. Check each programme’s period and later changes before discussing present benefits."
+        ],
+        "question": "Which comparison is accurate?",
+        "options": [
+          "Different programmes need different scope and date checks",
+          "All names mean the same universal payment",
+          "Every listed programme is unchanged forever"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. These have different dates, functions, target groups and later changes. Some are historical or restructured; MGNREGA and NFSA are statutory frameworks, not identical to every scheme name. Current eligibility, benefits and implementation need dated official sources. A school list does not establish anyone’s entitlement or prove poverty has ended.",
+          "Reconsider: These have different dates, functions, target groups and later changes. Some are historical or restructured; MGNREGA and NFSA are statutory frameworks, not identical to every scheme name. Current eligibility, benefits and implementation need dated official sources. A school list does not establish anyone’s entitlement or prove poverty has ended.",
+          "Reconsider: These have different dates, functions, target groups and later changes. Some are historical or restructured; MGNREGA and NFSA are statutory frameworks, not identical to every scheme name. Current eligibility, benefits and implementation need dated official sources. A school list does not establish anyone’s entitlement or prove poverty has ended."
+        ],
+        "hints": [
+          "The source lists Jawahar Rozgar Yojana, MGNREGA 2005, PMGY, NRLM, NULM, NFSAandPMGKAY.",
+          "These have different dates, functions, target groups and later changes. Some are historical or restructured; MGNREGA and NFSA are statutory frameworks, not identical to every scheme name. Current eligibility, benefits and implementation need dated official sources. A school list does not establish anyone’s entitlement or prove poverty has ended."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-profiteering",
+        "section": 4,
+        "title": "Distinguish profit from unethical market conduct",
+        "intro": "The chapter criticises profiteering through unfair or unlawful extraction, not every legitimate business profit.",
+        "simple": "The chapter criticises profiteering through unfair or unlawful extraction, not every legitimate business profit.",
+        "example": [
+          "The chapter criticises profiteering through unfair or unlawful extraction, not every legitimate business profit.",
+          "It discusses monopoly, hoarding, black marketing and weak monitoring and links them to inequality, prices and exploitation. A rise from₹20 to₹80 does not alone prove profit, hoarding or a crime; seasonality, supply, costs, quality and demand can also matter. Regulation, cooperatives, competition, supply and transparent monitoring need evidence and context."
+        ],
+        "question": "Can two prices alone prove profiteering?",
+        "options": [
+          "Yes, any price increase proves a crime",
+          "A price tells us every trader’s motives",
+          "No, costs, conditions and conduct need evidence"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: It discusses monopoly, hoarding, black marketing and weak monitoring and links them to inequality, prices and exploitation. A rise from₹20 to₹80 does not alone prove profit, hoarding or a crime; seasonality, supply, costs, quality and demand can also matter. Regulation, cooperatives, competition, supply and transparent monitoring need evidence and context.",
+          "Reconsider: It discusses monopoly, hoarding, black marketing and weak monitoring and links them to inequality, prices and exploitation. A rise from₹20 to₹80 does not alone prove profit, hoarding or a crime; seasonality, supply, costs, quality and demand can also matter. Regulation, cooperatives, competition, supply and transparent monitoring need evidence and context.",
+          "Correct. It discusses monopoly, hoarding, black marketing and weak monitoring and links them to inequality, prices and exploitation. A rise from₹20 to₹80 does not alone prove profit, hoarding or a crime; seasonality, supply, costs, quality and demand can also matter. Regulation, cooperatives, competition, supply and transparent monitoring need evidence and context."
+        ],
+        "hints": [
+          "The chapter criticises profiteering through unfair or unlawful extraction, not every legitimate business profit.",
+          "It discusses monopoly, hoarding, black marketing and weak monitoring and links them to inequality, prices and exploitation. A rise from₹20 to₹80 does not alone prove profit, hoarding or a crime; seasonality, supply, costs, quality and demand can also matter. Regulation, cooperatives, competition, supply and transparent monitoring need evidence and context."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-smuggling",
+        "section": 4,
+        "title": "Explain a trade offence at a civic level",
+        "intro": "Smuggling involves goods crossing borders in breach of customs/prohibition requirements, including concealment or duty evasion.",
+        "simple": "Smuggling involves goods crossing borders in breach of customs/prohibition requirements, including concealment or duty evasion.",
+        "example": [
+          "Smuggling involves goods crossing borders in breach of customs/prohibition requirements, including concealment or duty evasion.",
+          "Not every import or foreign product is smuggled. The source proposes lawful trade policy, customs enforcement, cooperation, awareness and alternatives; it also suggests import substitution and avoiding illicit goods as policy responses, not universal economic laws. Discuss institutional prevention without describing evasion techniques, accusing a trader without evidence or encouraging personal confrontation."
+        ],
+        "question": "Which distinction is correct?",
+        "options": [
+          "Price alone proves customs evasion",
+          "Lawful imports differ from unlawful border trade",
+          "Every foreign-made good is illegal"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Not every import or foreign product is smuggled. The source proposes lawful trade policy, customs enforcement, cooperation, awareness and alternatives; it also suggests import substitution and avoiding illicit goods as policy responses, not universal economic laws. Discuss institutional prevention without describing evasion techniques, accusing a trader without evidence or encouraging personal confrontation.",
+          "Correct. Not every import or foreign product is smuggled. The source proposes lawful trade policy, customs enforcement, cooperation, awareness and alternatives; it also suggests import substitution and avoiding illicit goods as policy responses, not universal economic laws. Discuss institutional prevention without describing evasion techniques, accusing a trader without evidence or encouraging personal confrontation.",
+          "Reconsider: Not every import or foreign product is smuggled. The source proposes lawful trade policy, customs enforcement, cooperation, awareness and alternatives; it also suggests import substitution and avoiding illicit goods as policy responses, not universal economic laws. Discuss institutional prevention without describing evasion techniques, accusing a trader without evidence or encouraging personal confrontation."
+        ],
+        "hints": [
+          "Smuggling involves goods crossing borders in breach of customs/prohibition requirements, including concealment or duty evasion.",
+          "Not every import or foreign product is smuggled. The source proposes lawful trade policy, customs enforcement, cooperation, awareness and alternatives; it also suggests import substitution and avoiding illicit goods as policy responses, not universal economic laws. Discuss institutional prevention without describing evasion techniques, accusing a trader without evidence or encouraging personal confrontation."
+        ],
+        "explorer": "challenge-remedy"
+      },
+      {
+        "id": "ss7-review",
+        "section": 4,
+        "title": "Evaluate remedies with evidence and rights",
+        "intro": "Different challenges can reinforce each other, but no single measure automatically resolves every one.",
+        "simple": "Different challenges can reinforce each other, but no single measure automatically resolves every one.",
+        "example": [
+          "Different challenges can reinforce each other, but no single measure automatically resolves every one.",
+          "Compare a problem’s mechanism, an institution’s scope, a proposed response and evidence of results. Use dated statistics, constitutional distinctions and respectful language; public responsibility includes government action and informed, lawful civic participation, not vigilantism or stereotypes."
+        ],
+        "question": "Which review question is strongest?",
+        "options": [
+          "What changed, for whom, and what evidence supports the claim?",
+          "Which community can be blamed for everything?",
+          "Did an announcement remove the need for evaluation?"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Compare a problem’s mechanism, an institution’s scope, a proposed response and evidence of results. Use dated statistics, constitutional distinctions and respectful language; public responsibility includes government action and informed, lawful civic participation, not vigilantism or stereotypes.",
+          "Reconsider: Compare a problem’s mechanism, an institution’s scope, a proposed response and evidence of results. Use dated statistics, constitutional distinctions and respectful language; public responsibility includes government action and informed, lawful civic participation, not vigilantism or stereotypes.",
+          "Reconsider: Compare a problem’s mechanism, an institution’s scope, a proposed response and evidence of results. Use dated statistics, constitutional distinctions and respectful language; public responsibility includes government action and informed, lawful civic participation, not vigilantism or stereotypes."
+        ],
+        "hints": [
+          "Different challenges can reinforce each other, but no single measure automatically resolves every one.",
+          "Compare a problem’s mechanism, an institution’s scope, a proposed response and evidence of results. Use dated statistics, constitutional distinctions and respectful language; public responsibility includes government action and informed, lawful civic participation, not vigilantism or stereotypes."
+        ],
+        "explorer": "challenge-remedy"
+      }
+    ],
+    "summary": [
+      [
+        "Challenges and responses",
+        "Explain mechanisms and evaluate proposed remedies rather than blaming a community."
+      ],
+      [
+        "Evidence and dates",
+        "Read literacy, population and programme claims with definitions, release dates and scope."
+      ],
+      [
+        "Equality and dignity",
+        "Distinguish identity, rights, access and institutional achievement without stereotypes."
+      ],
+      [
+        "Economic distinctions",
+        "Separate poverty, inequality, age structure, profit and illegal conduct."
+      ]
+    ],
+    "challenge": "Explain an issue through evidence, mechanism and a proportionate response. Distinguish constitutional principles, dated source data and proposals from demonstrated outcomes."
+  },
+  {
+    "number": 8,
+    "subject": "social-science",
+    "discipline": "Sociology",
+    "part": 1,
+    "slug": "social-stratification",
+    "title": "Social Stratification",
+    "sections": [
+      "Stratification, opportunity and inequality · pp 79–80",
+      "Prejudice and discrimination · p 80",
+      "Untouchability and equal dignity · pp 80–81",
+      "Constitutional/legal measures and action · pp 81–82"
+    ],
+    "steps": [
+      {
+        "id": "ss8-meaning",
+        "section": 0,
+        "title": "Separate social classification from human worth",
+        "intro": "Social stratification describes socially patterned ranking and unequal access to resources, status or power.",
+        "simple": "Social stratification describes socially patterned ranking and unequal access to resources, status or power.",
+        "example": [
+          "Social stratification describes socially patterned ranking and unequal access to resources, status or power.",
+          "The source lists class, caste, gender, occupation, education and other attributed differences. These are studied as social arrangements, not proof of a natural ranking of people’s intelligence or dignity. Different societies and periods have different forms; the pattern is not identical everywhere or unchangeable."
+        ],
+        "question": "What is being described?",
+        "options": [
+          "Socially organised inequality, not an intrinsic hierarchy of human worth",
+          "A biological rule assigning worth",
+          "Only a personal preference with no institutional effects"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source lists class, caste, gender, occupation, education and other attributed differences. These are studied as social arrangements, not proof of a natural ranking of people’s intelligence or dignity. Different societies and periods have different forms; the pattern is not identical everywhere or unchangeable.",
+          "Reconsider: The source lists class, caste, gender, occupation, education and other attributed differences. These are studied as social arrangements, not proof of a natural ranking of people’s intelligence or dignity. Different societies and periods have different forms; the pattern is not identical everywhere or unchangeable.",
+          "Reconsider: The source lists class, caste, gender, occupation, education and other attributed differences. These are studied as social arrangements, not proof of a natural ranking of people’s intelligence or dignity. Different societies and periods have different forms; the pattern is not identical everywhere or unchangeable."
+        ],
+        "hints": [
+          "Social stratification describes socially patterned ranking and unequal access to resources, status or power.",
+          "The source lists class, caste, gender, occupation, education and other attributed differences. These are studied as social arrangements, not proof of a natural ranking of people’s intelligence or dignity. Different societies and periods have different forms; the pattern is not identical everywhere or unchangeable."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-opportunity",
+        "section": 0,
+        "title": "Connect starting conditions to opportunities",
+        "intro": "Access to nutrition, schooling, security and employment can be shaped by inherited resources and institutions.",
+        "simple": "Access to nutrition, schooling, security and employment can be shaped by inherited resources and institutions.",
+        "example": [
+          "Access to nutrition, schooling, security and employment can be shaped by inherited resources and institutions.",
+          "The book contrasts children from richer and poorer families. Children do not choose all their starting conditions; unequal outcomes cannot simply be attributed to effort or ability. These are patterned possibilities, not a prediction that every child from one background has the same future."
+        ],
+        "question": "Which inference is careful?",
+        "options": [
+          "Family income proves a child’s intelligence",
+          "Every person in a category has one inevitable outcome",
+          "Resources and barriers can shape opportunity"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The book contrasts children from richer and poorer families. Children do not choose all their starting conditions; unequal outcomes cannot simply be attributed to effort or ability. These are patterned possibilities, not a prediction that every child from one background has the same future.",
+          "Reconsider: The book contrasts children from richer and poorer families. Children do not choose all their starting conditions; unequal outcomes cannot simply be attributed to effort or ability. These are patterned possibilities, not a prediction that every child from one background has the same future.",
+          "Correct. The book contrasts children from richer and poorer families. Children do not choose all their starting conditions; unequal outcomes cannot simply be attributed to effort or ability. These are patterned possibilities, not a prediction that every child from one background has the same future."
+        ],
+        "hints": [
+          "Access to nutrition, schooling, security and employment can be shaped by inherited resources and institutions.",
+          "The book contrasts children from richer and poorer families. Children do not choose all their starting conditions; unequal outcomes cannot simply be attributed to effort or ability. These are patterned possibilities, not a prediction that every child from one background has the same future."
+        ],
+        "explorer": "inequality-model"
+      },
+      {
+        "id": "ss8-difference",
+        "section": 0,
+        "title": "Distinguish difference from unequal treatment",
+        "intro": "People and groups can differ without one being entitled to fewer rights.",
+        "simple": "People and groups can differ without one being entitled to fewer rights.",
+        "example": [
+          "People and groups can differ without one being entitled to fewer rights.",
+          "Stratification involves social ranking and unequal opportunities, not the mere existence of cultural diversity or different interests. The source uses caste exclusion and racial enslavement/segregation as historical examples; these institutions are not justified by the categories they imposed."
+        ],
+        "question": "Which example illustrates inequality rather than mere difference?",
+        "options": [
+          "Speaking different languages with equal access",
+          "Denying access to a public facility because of caste",
+          "Choosing different favourite books"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Stratification involves social ranking and unequal opportunities, not the mere existence of cultural diversity or different interests. The source uses caste exclusion and racial enslavement/segregation as historical examples; these institutions are not justified by the categories they imposed.",
+          "Correct. Stratification involves social ranking and unequal opportunities, not the mere existence of cultural diversity or different interests. The source uses caste exclusion and racial enslavement/segregation as historical examples; these institutions are not justified by the categories they imposed.",
+          "Reconsider: Stratification involves social ranking and unequal opportunities, not the mere existence of cultural diversity or different interests. The source uses caste exclusion and racial enslavement/segregation as historical examples; these institutions are not justified by the categories they imposed."
+        ],
+        "hints": [
+          "People and groups can differ without one being entitled to fewer rights.",
+          "Stratification involves social ranking and unequal opportunities, not the mere existence of cultural diversity or different interests. The source uses caste exclusion and racial enslavement/segregation as historical examples; these institutions are not justified by the categories they imposed."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-inequality",
+        "section": 0,
+        "title": "Explain an institutional barrier",
+        "intro": "A rule or repeated practice can disadvantage people even when one observer does not express open hostility.",
+        "simple": "A rule or repeated practice can disadvantage people even when one observer does not express open hostility.",
+        "example": [
+          "A rule or repeated practice can disadvantage people even when one observer does not express open hostility.",
+          "The source gives segregated schooling and exclusion from public wells as examples. Compare access, resources and authority rather than inferring motives from a single outcome. Historical examples do not prove every institution or every individual in a society behaves identically today."
+        ],
+        "question": "What makes a barrier institutional?",
+        "options": [
+          "It is embedded in a rule or repeated organisational practice",
+          "It exists only in one person’s favourite colour",
+          "It requires every person to state hatred openly"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The source gives segregated schooling and exclusion from public wells as examples. Compare access, resources and authority rather than inferring motives from a single outcome. Historical examples do not prove every institution or every individual in a society behaves identically today.",
+          "Reconsider: The source gives segregated schooling and exclusion from public wells as examples. Compare access, resources and authority rather than inferring motives from a single outcome. Historical examples do not prove every institution or every individual in a society behaves identically today.",
+          "Reconsider: The source gives segregated schooling and exclusion from public wells as examples. Compare access, resources and authority rather than inferring motives from a single outcome. Historical examples do not prove every institution or every individual in a society behaves identically today."
+        ],
+        "hints": [
+          "A rule or repeated practice can disadvantage people even when one observer does not express open hostility.",
+          "The source gives segregated schooling and exclusion from public wells as examples. Compare access, resources and authority rather than inferring motives from a single outcome. Historical examples do not prove every institution or every individual in a society behaves identically today."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-prejudice",
+        "section": 1,
+        "title": "Separate a prior judgement from evidence",
+        "intro": "Prejudice is a pre-judgement about a person or group made without adequate individual evidence.",
+        "simple": "Prejudice is a pre-judgement about a person or group made without adequate individual evidence.",
+        "example": [
+          "Prejudice is a pre-judgement about a person or group made without adequate individual evidence.",
+          "The source links discriminatory categories with contempt, disrespect and conflict. Generalisations can appear favourable as well as hostile; neither establishes an individual’s abilities or character. A stereotype, a prejudiced attitude and a discriminatory action are related but different concepts."
+        ],
+        "question": "Which is a prejudgement?",
+        "options": [
+          "Evaluating relevant work using the same fair criteria",
+          "Asking for evidence before a conclusion",
+          "Assuming someone is incapable solely from a group label"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: The source links discriminatory categories with contempt, disrespect and conflict. Generalisations can appear favourable as well as hostile; neither establishes an individual’s abilities or character. A stereotype, a prejudiced attitude and a discriminatory action are related but different concepts.",
+          "Reconsider: The source links discriminatory categories with contempt, disrespect and conflict. Generalisations can appear favourable as well as hostile; neither establishes an individual’s abilities or character. A stereotype, a prejudiced attitude and a discriminatory action are related but different concepts.",
+          "Correct. The source links discriminatory categories with contempt, disrespect and conflict. Generalisations can appear favourable as well as hostile; neither establishes an individual’s abilities or character. A stereotype, a prejudiced attitude and a discriminatory action are related but different concepts."
+        ],
+        "hints": [
+          "Prejudice is a pre-judgement about a person or group made without adequate individual evidence.",
+          "The source links discriminatory categories with contempt, disrespect and conflict. Generalisations can appear favourable as well as hostile; neither establishes an individual’s abilities or character. A stereotype, a prejudiced attitude and a discriminatory action are related but different concepts."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-ingroup",
+        "section": 1,
+        "title": "Distinguish belonging from unfair preference",
+        "intro": "Affection for family or community is not automatically discrimination, but uncritical in-group preference can produce exclusion.",
+        "simple": "Affection for family or community is not automatically discrimination, but uncritical in-group preference can produce exclusion.",
+        "example": [
+          "Affection for family or community is not automatically discrimination, but uncritical in-group preference can produce exclusion.",
+          "The sidebar calls favourable in-group judgement positive prejudice and warns about intensity. Do not treat a flattering stereotype as reliable evidence or use belonging to deny others equal consideration. Explain consequences rather than automatically diagnosing a person from one association."
+        ],
+        "question": "Which principle protects fairness?",
+        "options": [
+          "Assume every outsider is less trustworthy",
+          "Use relevant evidence and equal standards rather than group assumptions",
+          "Give every opportunity only to one’s own group"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The sidebar calls favourable in-group judgement positive prejudice and warns about intensity. Do not treat a flattering stereotype as reliable evidence or use belonging to deny others equal consideration. Explain consequences rather than automatically diagnosing a person from one association.",
+          "Correct. The sidebar calls favourable in-group judgement positive prejudice and warns about intensity. Do not treat a flattering stereotype as reliable evidence or use belonging to deny others equal consideration. Explain consequences rather than automatically diagnosing a person from one association.",
+          "Reconsider: The sidebar calls favourable in-group judgement positive prejudice and warns about intensity. Do not treat a flattering stereotype as reliable evidence or use belonging to deny others equal consideration. Explain consequences rather than automatically diagnosing a person from one association."
+        ],
+        "hints": [
+          "Affection for family or community is not automatically discrimination, but uncritical in-group preference can produce exclusion.",
+          "The sidebar calls favourable in-group judgement positive prejudice and warns about intensity. Do not treat a flattering stereotype as reliable evidence or use belonging to deny others equal consideration. Explain consequences rather than automatically diagnosing a person from one association."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-dignity",
+        "section": 2,
+        "title": "Read Pampa’s quotation as an equality claim",
+        "intro": "The chapter attributes “Truly, the whole mankind is one” to the Kannada poet Pampa.",
+        "simple": "The chapter attributes “Truly, the whole mankind is one” to the Kannada poet Pampa.",
+        "example": [
+          "The chapter attributes “Truly, the whole mankind is one” to the Kannada poet Pampa.",
+          "It expresses shared humanity, not identical bodies, beliefs, needs or experiences. Equal dignity is compatible with diversity and with targeted measures that address unequal barriers. Do not turn an equality slogan into a reason to ignore discrimination."
+        ],
+        "question": "What does the quotation support here?",
+        "options": [
+          "Shared humanity and dignity",
+          "Erasing every difference",
+          "Denying all evidence of unequal treatment"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. It expresses shared humanity, not identical bodies, beliefs, needs or experiences. Equal dignity is compatible with diversity and with targeted measures that address unequal barriers. Do not turn an equality slogan into a reason to ignore discrimination.",
+          "Reconsider: It expresses shared humanity, not identical bodies, beliefs, needs or experiences. Equal dignity is compatible with diversity and with targeted measures that address unequal barriers. Do not turn an equality slogan into a reason to ignore discrimination.",
+          "Reconsider: It expresses shared humanity, not identical bodies, beliefs, needs or experiences. Equal dignity is compatible with diversity and with targeted measures that address unequal barriers. Do not turn an equality slogan into a reason to ignore discrimination."
+        ],
+        "hints": [
+          "The chapter attributes “Truly, the whole mankind is one” to the Kannada poet Pampa.",
+          "It expresses shared humanity, not identical bodies, beliefs, needs or experiences. Equal dignity is compatible with diversity and with targeted measures that address unequal barriers. Do not turn an equality slogan into a reason to ignore discrimination."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss8-untouchability",
+        "section": 2,
+        "title": "Name the practice without endorsing its ranking",
+        "intro": "Untouchability is a caste-based practice of exclusion and degradation, prohibited by the Constitution.",
+        "simple": "Untouchability is a caste-based practice of exclusion and degradation, prohibited by the Constitution.",
+        "example": [
+          "Untouchability is a caste-based practice of exclusion and degradation, prohibited by the Constitution.",
+          "Historical labels treating some people as inherently high or low describe discrimination, not valid human ranks. The source discusses denial of social, cultural, religious, educational and political access and Gandhi’s description of it as a stigma. Refer to people affected by the practice respectfully, not as if the degrading label were their essence."
+        ],
+        "question": "Which wording is accurate?",
+        "options": [
+          "A natural rule that society must keep",
+          "A harmless difference in food preference",
+          "A prohibited discriminatory practice, not a measure of a person’s worth"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Historical labels treating some people as inherently high or low describe discrimination, not valid human ranks. The source discusses denial of social, cultural, religious, educational and political access and Gandhi’s description of it as a stigma. Refer to people affected by the practice respectfully, not as if the degrading label were their essence.",
+          "Reconsider: Historical labels treating some people as inherently high or low describe discrimination, not valid human ranks. The source discusses denial of social, cultural, religious, educational and political access and Gandhi’s description of it as a stigma. Refer to people affected by the practice respectfully, not as if the degrading label were their essence.",
+          "Correct. Historical labels treating some people as inherently high or low describe discrimination, not valid human ranks. The source discusses denial of social, cultural, religious, educational and political access and Gandhi’s description of it as a stigma. Refer to people affected by the practice respectfully, not as if the degrading label were their essence."
+        ],
+        "hints": [
+          "Untouchability is a caste-based practice of exclusion and degradation, prohibited by the Constitution.",
+          "Historical labels treating some people as inherently high or low describe discrimination, not valid human ranks. The source discusses denial of social, cultural, religious, educational and political access and Gandhi’s description of it as a stigma. Refer to people affected by the practice respectfully, not as if the degrading label were their essence."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-persistence",
+        "section": 2,
+        "title": "Separate legal prohibition from complete eradication",
+        "intro": "Legal equality does not prove discrimination has disappeared in practice.",
+        "simple": "Legal equality does not prove discrimination has disappeared in practice.",
+        "example": [
+          "Legal equality does not prove discrimination has disappeared in practice.",
+          "The source first gives an optimistic account of improvement but also states untouchability has not been eradicated. Education, awareness, rights enforcement, access and accountability can help; claims about decline need dated evidence. People affected have agency and rights, not merely a role as passive recipients of assistance."
+        ],
+        "question": "Which conclusion follows from a prohibition?",
+        "options": [
+          "No further action can be needed",
+          "The practice is unlawful; actual compliance still needs evidence",
+          "Every violation has automatically stopped"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: The source first gives an optimistic account of improvement but also states untouchability has not been eradicated. Education, awareness, rights enforcement, access and accountability can help; claims about decline need dated evidence. People affected have agency and rights, not merely a role as passive recipients of assistance.",
+          "Correct. The source first gives an optimistic account of improvement but also states untouchability has not been eradicated. Education, awareness, rights enforcement, access and accountability can help; claims about decline need dated evidence. People affected have agency and rights, not merely a role as passive recipients of assistance.",
+          "Reconsider: The source first gives an optimistic account of improvement but also states untouchability has not been eradicated. Education, awareness, rights enforcement, access and accountability can help; claims about decline need dated evidence. People affected have agency and rights, not merely a role as passive recipients of assistance."
+        ],
+        "hints": [
+          "Legal equality does not prove discrimination has disappeared in practice.",
+          "The source first gives an optimistic account of improvement but also states untouchability has not been eradicated. Education, awareness, rights enforcement, access and accountability can help; claims about decline need dated evidence. People affected have agency and rights, not merely a role as passive recipients of assistance."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss8-laws",
+        "section": 3,
+        "title": "Distinguish Article 17 from the implementing laws",
+        "intro": "Article 17 abolishes untouchability and forbids its practice; enforcement of resulting disabilities is punishable according to law.",
+        "simple": "Article 17 abolishes untouchability and forbids its practice; enforcement of resulting disabilities is punishable according to law.",
+        "example": [
+          "Article 17 abolishes untouchability and forbids its practice; enforcement of resulting disabilities is punishable according to law.",
+          "The 1955 Untouchability (Offences) Act was renamed and strengthened in 1976 as the Protection of Civil Rights Act 1955. The SC/ST (Prevention of Atrocities)Act 1989 is a further statute, not merely an unnamed regulation. Do not present 1976 as the first date of the 1955 Act or assume every harmful act has identical statutory elements."
+        ],
+        "question": "Which sequence is correct?",
+        "options": [
+          "1955 Act →1976 amendment/renaming; 1989 additional statute",
+          "1976 was the first Constitution",
+          "Article 17 is a school admission form"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The 1955 Untouchability (Offences) Act was renamed and strengthened in 1976 as the Protection of Civil Rights Act 1955. The SC/ST (Prevention of Atrocities)Act 1989 is a further statute, not merely an unnamed regulation. Do not present 1976 as the first date of the 1955 Act or assume every harmful act has identical statutory elements.",
+          "Reconsider: The 1955 Untouchability (Offences) Act was renamed and strengthened in 1976 as the Protection of Civil Rights Act 1955. The SC/ST (Prevention of Atrocities)Act 1989 is a further statute, not merely an unnamed regulation. Do not present 1976 as the first date of the 1955 Act or assume every harmful act has identical statutory elements.",
+          "Reconsider: The 1955 Untouchability (Offences) Act was renamed and strengthened in 1976 as the Protection of Civil Rights Act 1955. The SC/ST (Prevention of Atrocities)Act 1989 is a further statute, not merely an unnamed regulation. Do not present 1976 as the first date of the 1955 Act or assume every harmful act has identical statutory elements."
+        ],
+        "hints": [
+          "Article 17 abolishes untouchability and forbids its practice; enforcement of resulting disabilities is punishable according to law.",
+          "The 1955 Untouchability (Offences) Act was renamed and strengthened in 1976 as the Protection of Civil Rights Act 1955. The SC/ST (Prevention of Atrocities)Act 1989 is a further statute, not merely an unnamed regulation. Do not present 1976 as the first date of the 1955 Act or assume every harmful act has identical statutory elements."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss8-articles",
+        "section": 3,
+        "title": "Separate rights, principles and enabling provisions",
+        "intro": "Articles 15, 16 and 17 address different equality questions; Articles 38 and 46 are Directive Principles.",
+        "simple": "Articles 15, 16 and 17 address different equality questions; Articles 38 and 46 are Directive Principles.",
+        "example": [
+          "Articles 15, 16 and 17 address different equality questions; Articles 38 and 46 are Directive Principles.",
+          "Article 15 prohibits specified discrimination; 16 concerns public-employment opportunity; 17 abolishes untouchability. Articles 38/46 guide social justice and protection/advancement but are not enforced identically to Fundamental Rights. Article 16(4)is enabling reservation language subject to constitutional conditions; Article 320(4)is about Public Service Commission consultation, not a separate guarantee of employment reservation as the sidebar claims."
+        ],
+        "question": "Which correction is necessary?",
+        "options": [
+          "Every cited Article has identical words and effect",
+          "Directive Principles and offences are synonyms",
+          "Article 320(4)does not itself guarantee reservation"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Article 15 prohibits specified discrimination; 16 concerns public-employment opportunity; 17 abolishes untouchability. Articles 38/46 guide social justice and protection/advancement but are not enforced identically to Fundamental Rights. Article 16(4)is enabling reservation language subject to constitutional conditions; Article 320(4)is about Public Service Commission consultation, not a separate guarantee of employment reservation as the sidebar claims.",
+          "Reconsider: Article 15 prohibits specified discrimination; 16 concerns public-employment opportunity; 17 abolishes untouchability. Articles 38/46 guide social justice and protection/advancement but are not enforced identically to Fundamental Rights. Article 16(4)is enabling reservation language subject to constitutional conditions; Article 320(4)is about Public Service Commission consultation, not a separate guarantee of employment reservation as the sidebar claims.",
+          "Correct. Article 15 prohibits specified discrimination; 16 concerns public-employment opportunity; 17 abolishes untouchability. Articles 38/46 guide social justice and protection/advancement but are not enforced identically to Fundamental Rights. Article 16(4)is enabling reservation language subject to constitutional conditions; Article 320(4)is about Public Service Commission consultation, not a separate guarantee of employment reservation as the sidebar claims."
+        ],
+        "hints": [
+          "Articles 15, 16 and 17 address different equality questions; Articles 38 and 46 are Directive Principles.",
+          "Article 15 prohibits specified discrimination; 16 concerns public-employment opportunity; 17 abolishes untouchability. Articles 38/46 guide social justice and protection/advancement but are not enforced identically to Fundamental Rights. Article 16(4)is enabling reservation language subject to constitutional conditions; Article 320(4)is about Public Service Commission consultation, not a separate guarantee of employment reservation as the sidebar claims."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss8-representation",
+        "section": 3,
+        "title": "Read representation and minority rights precisely",
+        "intro": "Articles 330 and 332 provide specified SC/ST seat reservations; Article 334 concerns duration and later extensions.",
+        "simple": "Articles 330 and 332 provide specified SC/ST seat reservations; Article 334 concerns duration and later extensions.",
+        "example": [
+          "Articles 330 and 332 provide specified SC/ST seat reservations; Article 334 concerns duration and later extensions.",
+          "Article 30 protects religious/linguistic minorities’ educational-institution rights. Article 25 protects religious freedom subject to limits, and 25(2)(b)permits opening public-character Hindu religious institutions to classes/sections; it is not an unrestricted right to every private or religious space for everyone. Different provisions should not be collapsed into one unlimited guarantee."
+        ],
+        "question": "What should a source-map of Articles show?",
+        "options": [
+          "No difference between elections and school governance",
+          "Each provision’s subject, scope and limits",
+          "That every Article grants every person every benefit"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Reconsider: Article 30 protects religious/linguistic minorities’ educational-institution rights. Article 25 protects religious freedom subject to limits, and 25(2)(b)permits opening public-character Hindu religious institutions to classes/sections; it is not an unrestricted right to every private or religious space for everyone. Different provisions should not be collapsed into one unlimited guarantee.",
+          "Correct. Article 30 protects religious/linguistic minorities’ educational-institution rights. Article 25 protects religious freedom subject to limits, and 25(2)(b)permits opening public-character Hindu religious institutions to classes/sections; it is not an unrestricted right to every private or religious space for everyone. Different provisions should not be collapsed into one unlimited guarantee.",
+          "Reconsider: Article 30 protects religious/linguistic minorities’ educational-institution rights. Article 25 protects religious freedom subject to limits, and 25(2)(b)permits opening public-character Hindu religious institutions to classes/sections; it is not an unrestricted right to every private or religious space for everyone. Different provisions should not be collapsed into one unlimited guarantee."
+        ],
+        "hints": [
+          "Articles 330 and 332 provide specified SC/ST seat reservations; Article 334 concerns duration and later extensions.",
+          "Article 30 protects religious/linguistic minorities’ educational-institution rights. Article 25 protects religious freedom subject to limits, and 25(2)(b)permits opening public-character Hindu religious institutions to classes/sections; it is not an unrestricted right to every private or religious space for everyone. Different provisions should not be collapsed into one unlimited guarantee."
+        ],
+        "explorer": "equality-rights"
+      },
+      {
+        "id": "ss8-action",
+        "section": 3,
+        "title": "Combine social change with rights and accountability",
+        "intro": "Phule, Vivekananda, Ambedkar and many others challenged exclusion through different ideas and forms of action.",
+        "simple": "Phule, Vivekananda, Ambedkar and many others challenged exclusion through different ideas and forms of action.",
+        "example": [
+          "Phule, Vivekananda, Ambedkar and many others challenged exclusion through different ideas and forms of action.",
+          "The chapter proposes education, equal access, constitutional/legal measures and reform. Use fictional examples to analyse barriers, listen respectfully and assess implementation. Do not ask classmates to disclose caste or recount personal harm to complete a lesson, and do not claim an actual complaint, interview or campaign took place."
+        ],
+        "question": "Which study activity is appropriate?",
+        "options": [
+          "Analyse a fictional exclusion and a rights-respecting response",
+          "Rank classmates by caste",
+          "Assume one speech proves all practices ended"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter proposes education, equal access, constitutional/legal measures and reform. Use fictional examples to analyse barriers, listen respectfully and assess implementation. Do not ask classmates to disclose caste or recount personal harm to complete a lesson, and do not claim an actual complaint, interview or campaign took place.",
+          "Reconsider: The chapter proposes education, equal access, constitutional/legal measures and reform. Use fictional examples to analyse barriers, listen respectfully and assess implementation. Do not ask classmates to disclose caste or recount personal harm to complete a lesson, and do not claim an actual complaint, interview or campaign took place.",
+          "Reconsider: The chapter proposes education, equal access, constitutional/legal measures and reform. Use fictional examples to analyse barriers, listen respectfully and assess implementation. Do not ask classmates to disclose caste or recount personal harm to complete a lesson, and do not claim an actual complaint, interview or campaign took place."
+        ],
+        "hints": [
+          "Phule, Vivekananda, Ambedkar and many others challenged exclusion through different ideas and forms of action.",
+          "The chapter proposes education, equal access, constitutional/legal measures and reform. Use fictional examples to analyse barriers, listen respectfully and assess implementation. Do not ask classmates to disclose caste or recount personal harm to complete a lesson, and do not claim an actual complaint, interview or campaign took place."
+        ],
+        "explorer": "bias-cases"
+      },
+      {
+        "id": "ss8-review",
+        "section": 3,
+        "title": "Connect categories, barriers and remedies",
+        "intro": "A sound explanation distinguishes prejudice, discrimination, structural inequality and legal/social responses.",
+        "simple": "A sound explanation distinguishes prejudice, discrimination, structural inequality and legal/social responses.",
+        "example": [
+          "A sound explanation distinguishes prejudice, discrimination, structural inequality and legal/social responses.",
+          "Use a clear example and evidence without stereotyping a community. Equality of dignity does not require identical experiences; targeted support can address barriers while statutory eligibility and procedures remain specific. Written self-review is not a finding about a real person or case."
+        ],
+        "question": "Which explanation is strongest?",
+        "options": [
+          "Infer worth from a category",
+          "Treat every inequality as an identical legal offence",
+          "Name the barrier, mechanism, relevant principle and limit of the evidence"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Reconsider: Use a clear example and evidence without stereotyping a community. Equality of dignity does not require identical experiences; targeted support can address barriers while statutory eligibility and procedures remain specific. Written self-review is not a finding about a real person or case.",
+          "Reconsider: Use a clear example and evidence without stereotyping a community. Equality of dignity does not require identical experiences; targeted support can address barriers while statutory eligibility and procedures remain specific. Written self-review is not a finding about a real person or case.",
+          "Correct. Use a clear example and evidence without stereotyping a community. Equality of dignity does not require identical experiences; targeted support can address barriers while statutory eligibility and procedures remain specific. Written self-review is not a finding about a real person or case."
+        ],
+        "hints": [
+          "A sound explanation distinguishes prejudice, discrimination, structural inequality and legal/social responses.",
+          "Use a clear example and evidence without stereotyping a community. Equality of dignity does not require identical experiences; targeted support can address barriers while statutory eligibility and procedures remain specific. Written self-review is not a finding about a real person or case."
+        ],
+        "explorer": "equality-rights"
+      }
+    ],
+    "summary": [
+      [
+        "Social patterns",
+        "Explain unequal access without treating categories as natural ranks of worth."
+      ],
+      [
+        "Belief and action",
+        "Distinguish prejudice, stereotypes, discrimination and institutional barriers."
+      ],
+      [
+        "Law and implementation",
+        "Map Articles and statutes precisely; prohibition is not proof of eradication."
+      ],
+      [
+        "Social action",
+        "Combine access, education, agency and accountability using evidence and respectful examples."
+      ]
+    ],
+    "challenge": "Explain an issue through evidence, mechanism and a proportionate response. Distinguish constitutional principles, dated source data and proposals from demonstrated outcomes."
+  }
+]

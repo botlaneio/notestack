@@ -229,3 +229,29 @@ html .toast { background: var(--accent); border-radius: 12px; font-size: 14px; }
   html .launch-page h1 { font-size: 30px; }
   html .modal-inner { padding: 28px 20px; }
 }
+
+/* Sign-in pages on tablet and desktop: the form and the navy panel both fit in one screen. */
+@media (min-width: 601px) {
+  html .auth-shell { height: 100dvh; min-height: 0; overflow: hidden; }
+  html .auth-main { height: 100dvh; min-height: 0; overflow-y: auto; }
+  html .auth-header { padding-block: 16px; }
+  html .auth-content { padding-block: 4px 12px; }
+  html .auth-form-container { padding: clamp(20px, 3.6vh, 36px) 36px; }
+  html .auth-form-container h1 { font-size: clamp(24px, 4vh, 32px); margin-top: 6px; }
+  html .auth-intro { margin-top: 6px; }
+  html .auth-form { gap: clamp(12px, 2vh, 20px); margin-top: clamp(14px, 2.6vh, 28px); }
+  html .auth-switch { margin-top: clamp(12px, 2vh, 24px); }
+  html .auth-availability { margin-top: clamp(10px, 2vh, 24px); }
+  html .auth-footer { padding-block: 12px; }
+  html .auth-aside { height: calc(100dvh - 32px); min-height: 0; padding: clamp(24px, 5vh, 56px) clamp(24px, 3vw, 48px) clamp(16px, 3vh, 28px); }
+  html .auth-aside h2 { font-size: clamp(26px, 5vh, 44px); margin-top: clamp(8px, 1.5vh, 16px); }
+  html .auth-aside-heading p { margin-top: clamp(6px, 1.2vh, 14px); }
+  html .auth-book-scene { flex: 1 1 0; min-height: 0; margin-top: clamp(8px, 2vh, 24px); }
+  html .auth-book { height: 78%; top: 11%; }
+  html .auth-book-1 { height: 90%; top: 0; }
+  html .auth-aside-card { margin-top: clamp(8px, 1.5vh, 16px); flex: none; }
+  html .auth-aside-bottom { margin-top: clamp(10px, 2vh, 20px); flex: none; }
+}
+@media (min-width: 601px) and (max-height: 640px) {
+  html .auth-aside-heading p, html .auth-aside-bottom { display: none; }
+}

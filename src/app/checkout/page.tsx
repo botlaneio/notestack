@@ -13,8 +13,8 @@ export default function CheckoutPage() {
     <p>We’re getting the Mathematics, Science and Social Science packs ready for Karnataka SSLC Class 10. Orders will open once the material, delivery details and payment service are ready.</p>
     <p>Your bag stays saved on this browser. In the meantime, explore the sample notes and find the subjects you need.</p>
     <nav aria-label="Continue browsing">
-      <Link className="text-action" href="/shop/"><ArrowLeft size={16}/>Back to the store</Link>
-      <Link className="text-action" href="/shop/#sample">Read sample notes<ArrowRight size={16}/></Link>
+      <Link className="text-action" href="/"><ArrowLeft size={16}/>Back to the store</Link>
+      <Link className="text-action" href="/#sample">Read sample notes<ArrowRight size={16}/></Link>
     </nav>
   </main>;
 }

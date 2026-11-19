@@ -34,8 +34,6 @@ npm run build
 - `tests/`: cart validation and bundle-pricing tests
 
 ## Current scope
-The study desk at `/` supports custom flashcard decks, practice quizzes, and study history saved in the current browser. Open `/shop/` for the study-pack storefront.
-
 This is the actual prelaunch storefront frontend. Search, subject filters, saved packs, product details, interactive sample notes, downloads and a persistent bag are implemented. Browser state loads after hydration to avoid server/client markup mismatches.
 
 Orders are not yet open. The simulated checkout, fake order success and demo library have been removed. `/checkout` is an ordering-information page until real checkout is connected. No payment, login, purchase history or paid-file access backend has been implemented. Pricing, final pack contents and delivery format are still business decisions. Sample content is pending teacher/syllabus review.

@@ -42,7 +42,7 @@ export function UnlockView() {
         : <p className="unlock-note">Already own {name}? Sign in to open it.</p>}
       <div className="unlock-actions">
         {session.status !== 'signed-in' && <Link className="unlock-primary" href={`/sign-in/?next=${encodeURIComponent(next)}`}>Sign in <ArrowRight size={16}/></Link>}
-        <Link className={session.status === 'signed-in' ? 'unlock-primary' : 'unlock-secondary'} href="/shop/#subjects">See subject packs <ArrowRight size={16}/></Link>
+        <Link className={session.status === 'signed-in' ? 'unlock-primary' : 'unlock-secondary'} href="/#subjects">See subject packs <ArrowRight size={16}/></Link>
       </div>
       {pack && freeChapter[pack.id] && <Link className="unlock-free" href={freeChapter[pack.id]}><BookOpen size={16}/>Try the first {name} chapter free</Link>}
     </>}

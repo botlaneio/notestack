@@ -255,3 +255,12 @@ html .toast { background: var(--accent); border-radius: 12px; font-size: 14px; }
 @media (min-width: 601px) and (max-height: 640px) {
   html .auth-aside-heading p, html .auth-aside-bottom { display: none; }
 }
+
+/* Navy panel sits inset in the right ~57% of the screen, clear of the edges. */
+@media (min-width: 801px) {
+  html .auth-shell { grid-template-columns: minmax(0, 3fr) minmax(0, 4fr); }
+  html .auth-aside { height: calc(100dvh - 120px); margin: 64px 64px 56px 0; }
+}
+@media (min-width: 601px) and (max-width: 800px) {
+  html .auth-aside { height: calc(100dvh - 48px); margin: 24px 24px 24px 0; }
+}

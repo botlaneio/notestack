@@ -2191,14 +2191,14 @@
         "title": "Iodised salt",
         "prompt": "Why is the use of iodised salt advisable?",
         "solution": [
-          "Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency.",
-          "Why does the source recommend iodised salt?"
+          "Iodine is needed by the thyroid gland to produce thyroxin. Adequate iodine intake helps prevent iodine-deficiency goitre.",
+          "Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency."
         ],
         "hints": [
           "Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency.",
           "Name the stimulus, communication route and response, then justify the connection."
         ],
-        "sample": "Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency. Why does the source recommend iodised salt?",
+        "sample": "Iodine is needed by the thyroid gland to produce thyroxin. Adequate iodine intake helps prevent iodine-deficiency goitre. Iodised salt supplies dietary iodine in normal use; more salt is not the aim. Not all goitre or thyroid illness is caused by iodine deficiency.",
         "checklist": [
           "I explained why the thyroid needs dietary iodine and how iodised salt supplies it."
         ]
@@ -2209,14 +2209,14 @@
         "title": "Adrenaline response",
         "prompt": "How does the body respond when adrenaline enters the blood?",
         "solution": [
-          "The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test.",
-          "Which pairing is correct?"
+          "Adrenaline increases heart rate and breathing rate and redirects blood towards skeletal muscles. The increased oxygen supply supports rapid action.",
+          "The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test."
         ],
         "hints": [
           "The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test.",
           "Name the stimulus, communication route and response, then justify the connection."
         ],
-        "sample": "The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test. Which pairing is correct?",
+        "sample": "Adrenaline increases heart rate and breathing rate and redirects blood towards skeletal muscles. The increased oxygen supply supports rapid action. The endocrine signal coordinates several target tissues alongside nervous control. This is a conceptual response, not a measured personal stress test.",
         "checklist": [
           "I linked adrenaline to changes in circulation and breathing that support rapid action."
         ]
@@ -2521,14 +2521,14 @@
         "title": "Flask and one-sided light",
         "prompt": "Sketch the bean-flask, mesh, water and one-sided box opening. Predict new growth after turning it.",
         "solution": [
-          "Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app.",
-          "Which region chiefly produces a new growth bend?"
+          "Show water in the conical flask, seedlings supported on mesh at the neck and light entering the box from one side. After turning the flask, the new part of the shoot curves towards the window; the source describes new root growth away from it.",
+          "Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app."
         ],
         "hints": [
           "Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app.",
           "Name the stimulus, communication route and response, then justify the connection."
         ],
-        "sample": "Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app. Which region chiefly produces a new growth bend?",
+        "sample": "Show water in the conical flask, seedlings supported on mesh at the neck and light entering the box from one side. After turning the flask, the new part of the shoot curves towards the window; the source describes new root growth away from it. Compare the same plants over days, record old and new regions, and control water, temperature and light exposure. Predictions are not observations performed by this app.",
         "checklist": [
           "I labelled the flask setup and light opening.",
           "I predicted the direction of new growth after turning the flask."

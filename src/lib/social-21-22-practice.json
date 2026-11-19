@@ -1,0 +1,914 @@
+{
+  "chapters": {
+    "21": [
+      {
+        "id": "ss21-task-001",
+        "title": "Foreign policy’s architect",
+        "reference": "Exercise I Q1 · p52",
+        "prompt": "Whom does the chapter call the architect of independent India’s foreign policy? Explain your reasoning with a chapter example.",
+        "sample": "Jawaharlal Nehru. Nehru helped establish early priorities such as peaceful coexistence, anti-colonialism and independent judgement in international affairs. Institutions and later governments also shaped policy.",
+        "solution": [
+          "Jawaharlal Nehru.",
+          "Nehru helped establish early priorities such as peaceful coexistence, anti-colonialism and independent judgement in international affairs. Institutions and later governments also shaped policy."
+        ],
+        "hints": [
+          "Jawaharlal Nehru."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-002",
+        "title": "A date for rights",
+        "reference": "Exercise I Q2 · p52",
+        "prompt": "When is Human Rights Day observed? Explain your reasoning with a chapter example.",
+        "sample": "10 December. The UN General Assembly adopted the Universal Declaration of Human Rights on 10 December 1948. The declaration provides a common standard for dignity, equality and rights.",
+        "solution": [
+          "10 December.",
+          "The UN General Assembly adopted the Universal Declaration of Human Rights on 10 December 1948. The declaration provides a common standard for dignity, equality and rights."
+        ],
+        "hints": [
+          "10 December."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-003",
+        "title": "Reducing weapons",
+        "reference": "Exercise I Q3 · p52",
+        "prompt": "Which goal does the chapter associate with India’s peace policy? Explain your reasoning with a chapter example.",
+        "sample": "Disarmament. Disarmament involves reducing or eliminating weapons. Arms control regulates specified weapons or practices. Verification and agreements help make commitments credible.",
+        "solution": [
+          "Disarmament.",
+          "Disarmament involves reducing or eliminating weapons. Arms control regulates specified weapons or practices. Verification and agreements help make commitments credible."
+        ],
+        "hints": [
+          "Disarmament."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-004",
+        "title": "Relations between nations",
+        "reference": "Exercise II Q4 · p52",
+        "prompt": "What is foreign policy? Explain your reasoning with a chapter example.",
+        "sample": "A country’s approach to relations with other countries. National interests and objectives guide diplomacy, cooperation and international positions. Geography, history, culture, population, economic capacity, military considerations and international conditions influence choices.",
+        "solution": [
+          "A country’s approach to relations with other countries.",
+          "National interests and objectives guide diplomacy, cooperation and international positions. Geography, history, culture, population, economic capacity, military considerations and international conditions influence choices."
+        ],
+        "hints": [
+          "A country’s approach to relations with other countries."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-005",
+        "title": "Seven policy principles",
+        "reference": "Exercise II Q5 · p52",
+        "prompt": "Which combination reflects the chapter’s principles? Explain your reasoning with a chapter example.",
+        "sample": "Anti-colonialism, opposition to apartheid, non-alignment and support for peace. The full list includes opposition to imperialism, support for Asian and African development, disarmament and cooperation through the UN. Non-alignment involved independent judgement beyond Cold War military blocs. It allowed active diplomacy.",
+        "solution": [
+          "Anti-colonialism, opposition to apartheid, non-alignment and support for peace.",
+          "The full list includes opposition to imperialism, support for Asian and African development, disarmament and cooperation through the UN. Non-alignment involved independent judgement beyond Cold War military blocs. It allowed active diplomacy."
+        ],
+        "hints": [
+          "Anti-colonialism, opposition to apartheid, non-alignment and support for peace."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-006",
+        "title": "Shared challenges",
+        "reference": "Exercise II Q6 · p52",
+        "prompt": "Which problems does the chapter identify after World War II? Explain your reasoning with a chapter example.",
+        "sample": "Human-rights violations, arms competition, inequality and terrorism. These problems cross borders. Diplomacy, development cooperation, international institutions and accountable domestic action can contribute to responses. The effects and remedies differ across places.",
+        "solution": [
+          "Human-rights violations, arms competition, inequality and terrorism.",
+          "These problems cross borders. Diplomacy, development cooperation, international institutions and accountable domestic action can contribute to responses. The effects and remedies differ across places."
+        ],
+        "hints": [
+          "Human-rights violations, arms competition, inequality and terrorism."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-007",
+        "title": "Human rights in practice",
+        "reference": "Exercise II Q7 · p52",
+        "prompt": "Which institutions form part of India’s human-rights framework? Explain your reasoning with a chapter example.",
+        "sample": "Constitutional protections and national and State human-rights commissions. India participates in UN rights discussions and has the NHRC and State commissions. Education, legal remedies, investigations and implementation support protection. A formal promise and observed access require separate evidence.",
+        "solution": [
+          "Constitutional protections and national and State human-rights commissions.",
+          "India participates in UN rights discussions and has the NHRC and State commissions. Education, legal remedies, investigations and implementation support protection. A formal promise and observed access require separate evidence."
+        ],
+        "hints": [
+          "Constitutional protections and national and State human-rights commissions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-008",
+        "title": "The cost of an arms race",
+        "reference": "Exercise II Q8 · p52",
+        "prompt": "How can arms competition affect society? Explain your reasoning with a chapter example.",
+        "sample": "It can increase insecurity and divert resources from other needs. Stockpiling raises costs and risks of escalation. Compare spending on weapons with potential health, education or development uses. Negotiation and verification can help reduce risks.",
+        "solution": [
+          "It can increase insecurity and divert resources from other needs.",
+          "Stockpiling raises costs and risks of escalation. Compare spending on weapons with potential health, education or development uses. Negotiation and verification can help reduce risks."
+        ],
+        "hints": [
+          "It can increase insecurity and divert resources from other needs."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-009",
+        "title": "Unequal development",
+        "reference": "Exercise II Q9 · p52",
+        "prompt": "Which conditions can constrain economic development? Explain your reasoning with a chapter example.",
+        "sample": "Limited capital, infrastructure, technology, health and education alongside unequal opportunity. Colonial extraction contributed to historical inequalities. Contemporary institutions, conflict, global markets and domestic policy also affect outcomes. Country-wide labels conceal differences within populations.",
+        "solution": [
+          "Limited capital, infrastructure, technology, health and education alongside unequal opportunity.",
+          "Colonial extraction contributed to historical inequalities. Contemporary institutions, conflict, global markets and domestic policy also affect outcomes. Country-wide labels conceal differences within populations."
+        ],
+        "hints": [
+          "Limited capital, infrastructure, technology, health and education alongside unequal opportunity."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-010",
+        "title": "Development cooperation",
+        "reference": "Exercise II Q10 · p52",
+        "prompt": "Which approach does the textbook associate with reducing international inequality? Explain your reasoning with a chapter example.",
+        "sample": "Assistance and investment that respect national priorities. India supported cooperation among developing countries and advocated fairer economic relations. Evaluate finance by its conditions, accessibility and effects on livelihoods and productive capacity.",
+        "solution": [
+          "Assistance and investment that respect national priorities.",
+          "India supported cooperation among developing countries and advocated fairer economic relations. Evaluate finance by its conditions, accessibility and effects on livelihoods and productive capacity."
+        ],
+        "hints": [
+          "Assistance and investment that respect national priorities."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-011",
+        "title": "Effects of terrorism",
+        "reference": "Exercise II Q11 · p52",
+        "prompt": "How does terrorism harm communities? Explain your reasoning with a chapter example.",
+        "sample": "Loss of life, injury, fear, displacement and disruption of public life. Political violence can damage livelihoods, services and trust. The chapter gives examples including the 2001 Parliament attack and Mumbai attacks in 2008. Assess conduct and evidence rather than assigning blame to a whole religion or region.",
+        "solution": [
+          "Loss of life, injury, fear, displacement and disruption of public life.",
+          "Political violence can damage livelihoods, services and trust. The chapter gives examples including the 2001 Parliament attack and Mumbai attacks in 2008. Assess conduct and evidence rather than assigning blame to a whole religion or region."
+        ],
+        "hints": [
+          "Loss of life, injury, fear, displacement and disruption of public life."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-012",
+        "title": "Institutional responses",
+        "reference": "Exercise II Q12 · p52",
+        "prompt": "Which bodies does the chapter associate with counter-terrorism? Explain your reasoning with a chapter example.",
+        "sample": "NIA, State ATS units, intelligence bodies and financial-intelligence institutions. Investigation, coordination, prevention of terrorist finance and international cooperation have different functions. Accountability and lawful procedures matter when evaluating responses. An accusation requires evidence.",
+        "solution": [
+          "NIA, State ATS units, intelligence bodies and financial-intelligence institutions.",
+          "Investigation, coordination, prevention of terrorist finance and international cooperation have different functions. Accountability and lawful procedures matter when evaluating responses. An accusation requires evidence."
+        ],
+        "hints": [
+          "NIA, State ATS units, intelligence bodies and financial-intelligence institutions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-013",
+        "title": "Policy evolves",
+        "reference": "Foundation · pp44–46",
+        "prompt": "Which phases organise the textbook’s account? Explain your reasoning with a chapter example.",
+        "sample": "Early idealism, strategic realism and greater economic engagement after 1991. The source groups 1947–59, 1959–91 and the period after 1991. Panchsheel in 1954, the 1962 war, the 1971 conflict and liberalisation illustrate changing circumstances. These phases are a teaching framework with overlapping aims.",
+        "solution": [
+          "Early idealism, strategic realism and greater economic engagement after 1991.",
+          "The source groups 1947–59, 1959–91 and the period after 1991. Panchsheel in 1954, the 1962 war, the 1971 conflict and liberalisation illustrate changing circumstances. These phases are a teaching framework with overlapping aims."
+        ],
+        "hints": [
+          "Early idealism, strategic realism and greater economic engagement after 1991."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-014",
+        "title": "Treaty names and participation",
+        "reference": "Source abbreviations · pp49–51",
+        "prompt": "Does support for disarmament imply joining every treaty? Explain your reasoning with a chapter example.",
+        "sample": "Each agreement has its own participants and obligations. The source lists SALT, NPT, CTBT and BWC. India is outside the NPT and has not signed the CTBT, while it is a party to the BWC. SALT concerned US–Soviet strategic arms talks and agreements. Check the actual instrument behind an abbreviation.",
+        "solution": [
+          "Each agreement has its own participants and obligations.",
+          "The source lists SALT, NPT, CTBT and BWC. India is outside the NPT and has not signed the CTBT, while it is a party to the BWC. SALT concerned US–Soviet strategic arms talks and agreements. Check the actual instrument behind an abbreviation."
+        ],
+        "hints": [
+          "Each agreement has its own participants and obligations."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-015",
+        "title": "Human Rights Commission research",
+        "reference": "Activity III Q1 · p52",
+        "prompt": "Prepare an account of how a human-rights commission works.",
+        "sample": "Use an official report to identify its mandate, complaint procedures, investigation and recommendations. State the date and distinguish a recommendation from its implementation.",
+        "solution": [
+          "Use an official report to identify its mandate, complaint procedures, investigation and recommendations.",
+          "State the date and distinguish a recommendation from its implementation."
+        ],
+        "hints": [
+          "Use an official report to identify its mandate, complaint procedures, investigation and recommendations."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-016",
+        "title": "Kailash Satyarthi",
+        "reference": "Activity III Q2 · p52",
+        "prompt": "Research the child-rights campaigner’s work.",
+        "sample": "Explain his campaigning against child labour and for access to education. Record the joint 2014 Nobel Peace Prize with Malala Yousafzai. Use named sources and connect a documented campaign to the right it seeks to protect.",
+        "solution": [
+          "Explain his campaigning against child labour and for access to education. Record the joint 2014 Nobel Peace Prize with Malala Yousafzai.",
+          "Use named sources and connect a documented campaign to the right it seeks to protect."
+        ],
+        "hints": [
+          "Explain his campaigning against child labour and for access to education. Record the joint 2014 Nobel Peace Prize with Malala Yousafzai."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-task-017",
+        "title": "Rights defenders",
+        "reference": "Project IV Q1 · p52",
+        "prompt": "Compare two people who opposed violations of human rights.",
+        "sample": "For each person identify the context, right at issue, method and a documented outcome. Compare their contributions without assuming that one campaign ended every violation.",
+        "solution": [
+          "For each person identify the context, right at issue, method and a documented outcome.",
+          "Compare their contributions without assuming that one campaign ended every violation."
+        ],
+        "hints": [
+          "For each person identify the context, right at issue, method and a documented outcome."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "ss22-task-001",
+        "title": "A new organisation",
+        "reference": "Exercise I Q1 · p62",
+        "prompt": "When did the United Nations come into existence? Explain your reasoning with a chapter example.",
+        "sample": "24 October 1945. The Charter entered into force after the Second World War. The 1942 Declaration by United Nations and the 1945 San Francisco conference were earlier stages.",
+        "solution": [
+          "24 October 1945.",
+          "The Charter entered into force after the Second World War. The 1942 Declaration by United Nations and the 1945 San Francisco conference were earlier stages."
+        ],
+        "hints": [
+          "24 October 1945."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-002",
+        "title": "Headquarters",
+        "reference": "Exercise I Q2 · p62",
+        "prompt": "Where is the main UN headquarters? Explain your reasoning with a chapter example.",
+        "sample": "New York City. The Secretariat has major offices elsewhere too, including Geneva, Vienna and Nairobi. Headquarters location differs from the location of a particular agency or court.",
+        "solution": [
+          "New York City.",
+          "The Secretariat has major offices elsewhere too, including Geneva, Vienna and Nairobi. Headquarters location differs from the location of a particular agency or court."
+        ],
+        "hints": [
+          "New York City."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-003",
+        "title": "Peace and security",
+        "reference": "Exercise I Q3 · p62",
+        "prompt": "Which UN organ does the textbook compare to a cabinet? Explain your reasoning with a chapter example.",
+        "sample": "Security Council. It has primary responsibility for international peace and security. Its powers and voting rules differ from those of the General Assembly.",
+        "solution": [
+          "Security Council.",
+          "It has primary responsibility for international peace and security. Its powers and voting rules differ from those of the General Assembly."
+        ],
+        "hints": [
+          "Security Council."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-004",
+        "title": "Judicial terms",
+        "reference": "Exercise I Q4 · p62",
+        "prompt": "How long is an ICJ judge’s term? Explain your reasoning with a chapter example.",
+        "sample": "Nine years. Fifteen judges are elected by the General Assembly and Security Council voting separately. Judges may be re-elected. The Court’s President and Vice-President have separate three-year terms.",
+        "solution": [
+          "Nine years.",
+          "Fifteen judges are elected by the General Assembly and Security Council voting separately. Judges may be re-elected. The Court’s President and Vice-President have separate three-year terms."
+        ],
+        "hints": [
+          "Nine years."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-005",
+        "title": "Food and agriculture",
+        "reference": "Exercise I Q5 · p62",
+        "prompt": "Where is FAO headquartered? Explain your reasoning with a chapter example.",
+        "sample": "Rome. The Food and Agriculture Organization was founded in 1945. It works on food security, nutrition, agriculture and rural livelihoods.",
+        "solution": [
+          "Rome.",
+          "The Food and Agriculture Organization was founded in 1945. It works on food security, nutrition, agriculture and rural livelihoods."
+        ],
+        "hints": [
+          "Rome."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-006",
+        "title": "The world court",
+        "reference": "Exercise I Q6 · p62",
+        "prompt": "Where does the International Court of Justice sit? Explain your reasoning with a chapter example.",
+        "sample": "The Hague in the Netherlands. The ICJ hears disputes between States within its jurisdiction and issues advisory opinions when authorised bodies request them. Jurisdiction depends on legal grounds including State consent.",
+        "solution": [
+          "The Hague in the Netherlands.",
+          "The ICJ hears disputes between States within its jurisdiction and issues advisory opinions when authorised bodies request them. Jurisdiction depends on legal grounds including State consent."
+        ],
+        "hints": [
+          "The Hague in the Netherlands."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-007",
+        "title": "Secretary-General",
+        "reference": "Exercise I Q7 · p62",
+        "prompt": "Who is the UN Secretary-General in the textbook’s current period? Explain your reasoning with a chapter example.",
+        "sample": "António Guterres. Guterres of Portugal took office in 2017. His second term runs through 2026. The General Assembly appoints the Secretary-General on the Security Council’s recommendation.",
+        "solution": [
+          "António Guterres.",
+          "Guterres of Portugal took office in 2017. His second term runs through 2026. The General Assembly appoints the Secretary-General on the Security Council’s recommendation."
+        ],
+        "hints": [
+          "António Guterres."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-008",
+        "title": "World health",
+        "reference": "Exercise I Q8 · p62",
+        "prompt": "When was WHO established? Explain your reasoning with a chapter example.",
+        "sample": "1948. Its Constitution entered into force on 7 April 1948. WHO coordinates health cooperation, standards, disease surveillance and public-health support. Smallpox eradication was certified in 1980.",
+        "solution": [
+          "1948.",
+          "Its Constitution entered into force on 7 April 1948. WHO coordinates health cooperation, standards, disease surveillance and public-health support. Smallpox eradication was certified in 1980."
+        ],
+        "hints": [
+          "1948."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-009",
+        "title": "South Asian cooperation",
+        "reference": "Exercise I Q9 · p62",
+        "prompt": "When was SAARC established? Explain your reasoning with a chapter example.",
+        "sample": "1985. The South Asian Association for Regional Cooperation links Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. Its Secretariat is in Kathmandu.",
+        "solution": [
+          "1985.",
+          "The South Asian Association for Regional Cooperation links Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. Its Secretariat is in Kathmandu."
+        ],
+        "hints": [
+          "1985."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-010",
+        "title": "Founding the UN",
+        "reference": "Exercise II Q10 · p63",
+        "prompt": "Which wartime leaders appear in the chapter’s account of its origins? Explain your reasoning with a chapter example.",
+        "sample": "Franklin Roosevelt, Winston Churchill and Joseph Stalin. Many governments and delegations shaped the Charter. The 1942 declaration involved 26 States. Fifty States signed at San Francisco and Poland later joined the original signatories, making 51 founding members.",
+        "solution": [
+          "Franklin Roosevelt, Winston Churchill and Joseph Stalin.",
+          "Many governments and delegations shaped the Charter. The 1942 declaration involved 26 States. Fifty States signed at San Francisco and Poland later joined the original signatories, making 51 founding members."
+        ],
+        "hints": [
+          "Franklin Roosevelt, Winston Churchill and Joseph Stalin."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-011",
+        "title": "Six principal organs",
+        "reference": "Exercise II Q11 · p63",
+        "prompt": "Which list contains the UN’s principal organs? Explain your reasoning with a chapter example.",
+        "sample": "General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat. The Charter defines different roles for each. The Trusteeship Council suspended regular operations in 1994 after Palau, the last trust territory, became independent.",
+        "solution": [
+          "General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat.",
+          "The Charter defines different roles for each. The Trusteeship Council suspended regular operations in 1994 after Palau, the last trust territory, became independent."
+        ],
+        "hints": [
+          "General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-012",
+        "title": "Permanent membership",
+        "reference": "Exercise II Q12 · p63",
+        "prompt": "Which countries are the five permanent Security Council members? Explain your reasoning with a chapter example.",
+        "sample": "China, France, Russia, the United Kingdom and the United States. Ten other members are elected for two-year terms. A permanent member’s negative vote can block a substantive resolution. Voting on procedural matters follows a different rule.",
+        "solution": [
+          "China, France, Russia, the United Kingdom and the United States.",
+          "Ten other members are elected for two-year terms. A permanent member’s negative vote can block a substantive resolution. Voting on procedural matters follows a different rule."
+        ],
+        "hints": [
+          "China, France, Russia, the United Kingdom and the United States."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-013",
+        "title": "WHO’s work",
+        "reference": "Exercise II Q13 · p63",
+        "prompt": "Which activities fit WHO’s objectives? Explain your reasoning with a chapter example.",
+        "sample": "Improving health and coordinating prevention and response to disease. WHO supports technical standards, surveillance, research and health systems. Its Geneva headquarters and public-health mandate distinguish it from a development bank.",
+        "solution": [
+          "Improving health and coordinating prevention and response to disease.",
+          "WHO supports technical standards, surveillance, research and health systems. Its Geneva headquarters and public-health mandate distinguish it from a development bank."
+        ],
+        "hints": [
+          "Improving health and coordinating prevention and response to disease."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-014",
+        "title": "Labour standards",
+        "reference": "Exercise II Q14 · p63",
+        "prompt": "What is distinctive about the ILO? Explain your reasoning with a chapter example.",
+        "sample": "Governments, employers and workers participate together. The ILO promotes decent work, labour standards, social protection and workers’ rights. The International Labour Conference uses two government delegates, one employer and one worker per member State. Conventions create obligations for ratifying States.",
+        "solution": [
+          "Governments, employers and workers participate together.",
+          "The ILO promotes decent work, labour standards, social protection and workers’ rights. The International Labour Conference uses two government delegates, one employer and one worker per member State. Conventions create obligations for ratifying States."
+        ],
+        "hints": [
+          "Governments, employers and workers participate together."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-015",
+        "title": "Expand SAARC",
+        "reference": "Exercise II Q15 · p63",
+        "prompt": "What does SAARC stand for? Explain your reasoning with a chapter example.",
+        "sample": "South Asian Association for Regional Cooperation. Its aims include economic growth, welfare, social progress and cultural cooperation. Unanimity and political disputes influence what members can achieve together.",
+        "solution": [
+          "South Asian Association for Regional Cooperation.",
+          "Its aims include economic growth, welfare, social progress and cultural cooperation. Unanimity and political disputes influence what members can achieve together."
+        ],
+        "hints": [
+          "South Asian Association for Regional Cooperation."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-016",
+        "title": "UN objectives",
+        "reference": "Exercise III Q16 · p63",
+        "prompt": "Which aims are central to the Charter? Explain your reasoning with a chapter example.",
+        "sample": "Peace, friendly relations, cooperation and respect for human rights. The UN provides a forum for coordinating responses to economic, social, cultural and humanitarian problems. Justice and international obligations are part of the framework.",
+        "solution": [
+          "Peace, friendly relations, cooperation and respect for human rights.",
+          "The UN provides a forum for coordinating responses to economic, social, cultural and humanitarian problems. Justice and international obligations are part of the framework."
+        ],
+        "hints": [
+          "Peace, friendly relations, cooperation and respect for human rights."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-017",
+        "title": "General Assembly",
+        "reference": "Exercise III Q17 · p63",
+        "prompt": "How are member States represented in the Assembly? Explain your reasoning with a chapter example.",
+        "sample": "All member States participate and each has one vote. The Assembly discusses issues, approves the budget and elects members of several bodies. Important questions require a two-thirds majority of members present and voting. It elects a President each session and works through six main committees.",
+        "solution": [
+          "All member States participate and each has one vote.",
+          "The Assembly discusses issues, approves the budget and elects members of several bodies. Important questions require a two-thirds majority of members present and voting. It elects a President each session and works through six main committees."
+        ],
+        "hints": [
+          "All member States participate and each has one vote."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-018",
+        "title": "Economic and Social Council",
+        "reference": "Exercise III Q18 · p63",
+        "prompt": "What does ECOSOC coordinate? Explain your reasoning with a chapter example.",
+        "sample": "Economic, social and related international cooperation. Its 54 members serve three-year terms, with 18 elected each year. It conducts studies, convenes discussions and coordinates specialised agencies. Human rights, development, education and health connect its work.",
+        "solution": [
+          "Economic, social and related international cooperation.",
+          "Its 54 members serve three-year terms, with 18 elected each year. It conducts studies, convenes discussions and coordinates specialised agencies. Human rights, development, education and health connect its work."
+        ],
+        "hints": [
+          "Economic, social and related international cooperation."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-019",
+        "title": "Assess peace efforts",
+        "reference": "Exercise III Q19 · p63",
+        "prompt": "How can UN peace work be evaluated? Explain your reasoning with a chapter example.",
+        "sample": "Through mediation, peacekeeping, humanitarian support and evidence of outcomes. The source cites Korea, Suez and other conflicts. UN involvement does not establish that every conflict was resolved. Mandates, member-State decisions and cooperation shape results. Peacekeepers received the 1988 Nobel Peace Prize.",
+        "solution": [
+          "Through mediation, peacekeeping, humanitarian support and evidence of outcomes.",
+          "The source cites Korea, Suez and other conflicts. UN involvement does not establish that every conflict was resolved. Mandates, member-State decisions and cooperation shape results. Peacekeepers received the 1988 Nobel Peace Prize."
+        ],
+        "hints": [
+          "Through mediation, peacekeeping, humanitarian support and evidence of outcomes."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-020",
+        "title": "Education, science and culture",
+        "reference": "Exercise III Q20 · p63",
+        "prompt": "Which work belongs to UNESCO? Explain your reasoning with a chapter example.",
+        "sample": "Educational cooperation, scientific exchange and cultural heritage protection. UNESCO’s headquarters is in Paris. Its programmes include knowledge sharing and World Heritage recognition. Hampi, Pattadakal and the Sacred Ensembles of the Hoysalas illustrate Karnataka’s cultural sites, while the Western Ghats form a natural serial property.",
+        "solution": [
+          "Educational cooperation, scientific exchange and cultural heritage protection.",
+          "UNESCO’s headquarters is in Paris. Its programmes include knowledge sharing and World Heritage recognition. Hampi, Pattadakal and the Sacred Ensembles of the Hoysalas illustrate Karnataka’s cultural sites, while the Western Ghats form a natural serial property."
+        ],
+        "hints": [
+          "Educational cooperation, scientific exchange and cultural heritage protection."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-021",
+        "title": "International monetary cooperation",
+        "reference": "Exercise III Q21 · p63",
+        "prompt": "What role does the IMF play? Explain your reasoning with a chapter example.",
+        "sample": "Supporting monetary cooperation and responding to balance-of-payments problems. Bretton Woods negotiations in 1944 created the framework. IMF surveillance, financing and technical assistance differ from World Bank development lending. Evaluate a programme’s conditions and effects with evidence.",
+        "solution": [
+          "Supporting monetary cooperation and responding to balance-of-payments problems.",
+          "Bretton Woods negotiations in 1944 created the framework. IMF surveillance, financing and technical assistance differ from World Bank development lending. Evaluate a programme’s conditions and effects with evidence."
+        ],
+        "hints": [
+          "Supporting monetary cooperation and responding to balance-of-payments problems."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-022",
+        "title": "Commonwealth objectives",
+        "reference": "Exercise III Q22 · p63",
+        "prompt": "Which goals guide the Commonwealth? Explain your reasoning with a chapter example.",
+        "sample": "Democracy, development, cooperation and shared cultural links. It is a voluntary association headquartered through its Secretariat in London. The 1926 Balfour Declaration and 1949 London Declaration mark different stages in its development. Membership includes countries with varied colonial histories.",
+        "solution": [
+          "Democracy, development, cooperation and shared cultural links.",
+          "It is a voluntary association headquartered through its Secretariat in London. The 1926 Balfour Declaration and 1949 London Declaration mark different stages in its development. Membership includes countries with varied colonial histories."
+        ],
+        "hints": [
+          "Democracy, development, cooperation and shared cultural links."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-023",
+        "title": "European Union",
+        "reference": "Exercise III Q23 · p63",
+        "prompt": "How does the EU organise cooperation? Explain your reasoning with a chapter example.",
+        "sample": "Member States share institutions and specified powers within a treaty framework. The Maastricht Treaty was signed in 1992 and entered into force in 1993. The EU has a single market and institutions including the Council, Commission, Parliament, Court and central bank. Some members use currencies other than the euro.",
+        "solution": [
+          "Member States share institutions and specified powers within a treaty framework.",
+          "The Maastricht Treaty was signed in 1992 and entered into force in 1993. The EU has a single market and institutions including the Council, Commission, Parliament, Court and central bank. Some members use currencies other than the euro."
+        ],
+        "hints": [
+          "Member States share institutions and specified powers within a treaty framework."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-024",
+        "title": "Children and development finance",
+        "reference": "Foundation · pp58–59",
+        "prompt": "Which distinction is accurate? Explain your reasoning with a chapter example.",
+        "sample": "UNICEF supports children while IBRD provides development finance. UNICEF began in 1946 and became permanent in 1953. Its current name is United Nations Children’s Fund. IBRD belongs to the World Bank Group, alongside IDA, IFC, MIGA and ICSID.",
+        "solution": [
+          "UNICEF supports children while IBRD provides development finance.",
+          "UNICEF began in 1946 and became permanent in 1953. Its current name is United Nations Children’s Fund. IBRD belongs to the World Bank Group, alongside IDA, IFC, MIGA and ICSID."
+        ],
+        "hints": [
+          "UNICEF supports children while IBRD provides development finance."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-025",
+        "title": "Trade institutions",
+        "reference": "Foundation · pp59–60",
+        "prompt": "How do UNCTAD and WTO contribute to trade? Explain your reasoning with a chapter example.",
+        "sample": "UNCTAD provides development analysis and assistance while WTO administers trade agreements. UNCTAD dates from 1964. WTO began in 1995 after the GATT framework established in 1948. Their membership, mandates and relationship to the UN system differ.",
+        "solution": [
+          "UNCTAD provides development analysis and assistance while WTO administers trade agreements.",
+          "UNCTAD dates from 1964. WTO began in 1995 after the GATT framework established in 1948. Their membership, mandates and relationship to the UN system differ."
+        ],
+        "hints": [
+          "UNCTAD provides development analysis and assistance while WTO administers trade agreements."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-026",
+        "title": "Regional organisations",
+        "reference": "Foundation · pp61–62",
+        "prompt": "Which pairing gives correct origins? Explain your reasoning with a chapter example.",
+        "sample": "ASEAN in 1967 and OAU in 1963. ASEAN began with five Southeast Asian founders and has its Secretariat in Jakarta. Timor-Leste joined in 2025, taking membership to eleven. India is a dialogue partner. The African Union succeeded the OAU in 2002 and joined the G20 as an organisation in 2023.",
+        "solution": [
+          "ASEAN in 1967 and OAU in 1963.",
+          "ASEAN began with five Southeast Asian founders and has its Secretariat in Jakarta. Timor-Leste joined in 2025, taking membership to eleven. India is a dialogue partner. The African Union succeeded the OAU in 2002 and joined the G20 as an organisation in 2023."
+        ],
+        "hints": [
+          "ASEAN in 1967 and OAU in 1963."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-027",
+        "title": "Karnataka heritage",
+        "reference": "Inline activity · p58 and Activity IV Q1 · p63",
+        "prompt": "Prepare a sourced architectural heritage album using the 2023 reference year.",
+        "sample": "Compare Hampi’s Vijayanagara monuments, Pattadakal’s temple traditions and the Hoysala ensembles at Belur, Halebidu and Somanathapura. Credit images and identify each site’s inscription year. The Western Ghats are natural heritage and require a different descriptive category.",
+        "solution": [
+          "Compare Hampi’s Vijayanagara monuments, Pattadakal’s temple traditions and the Hoysala ensembles at Belur, Halebidu and Somanathapura.",
+          "Credit images and identify each site’s inscription year. The Western Ghats are natural heritage and require a different descriptive category."
+        ],
+        "hints": [
+          "Compare Hampi’s Vijayanagara monuments, Pattadakal’s temple traditions and the Hoysala ensembles at Belur, Halebidu and Somanathapura."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-028",
+        "title": "Peacekeeping in the news",
+        "reference": "Project V Q1 · p63",
+        "prompt": "Prepare a newspaper-based account of a UN peacekeeping mission.",
+        "sample": "Record mission name, location, report date, mandate and the reported activity. Compare the article with the UN mission page. Distinguish the mission’s authorised role, a reported action and evidence about outcomes.",
+        "solution": [
+          "Record mission name, location, report date, mandate and the reported activity. Compare the article with the UN mission page.",
+          "Distinguish the mission’s authorised role, a reported action and evidence about outcomes."
+        ],
+        "hints": [
+          "Record mission name, location, report date, mandate and the reported activity. Compare the article with the UN mission page."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-task-029",
+        "title": "UN languages and people",
+        "reference": "Source sidebars · pp54–56",
+        "prompt": "Prepare reference cards for UN languages, Secretaries-General and Indian ICJ judges.",
+        "sample": "The six official languages are Arabic, Chinese, English, French, Russian and Spanish. B. N. Rau, Nagendra Singh, R. S. Pathak and Dalveer Bhandari are Indian judges discussed in the source. Use dated institutional biographies to distinguish a judge’s term from service as Court President. Hammarskjöld, UN peacekeepers and the UN with Kofi Annan received Nobel Peace Prizes in 1961, 1988 and 2001 respectively.",
+        "solution": [
+          "The six official languages are Arabic, Chinese, English, French, Russian and Spanish. B. N. Rau, Nagendra Singh, R. S. Pathak and Dalveer Bhandari are Indian judges discussed in the source.",
+          "Use dated institutional biographies to distinguish a judge’s term from service as Court President. Hammarskjöld, UN peacekeepers and the UN with Kofi Annan received Nobel Peace Prizes in 1961, 1988 and 2001 respectively."
+        ],
+        "hints": [
+          "The six official languages are Arabic, Chinese, English, French, Russian and Spanish. B. N. Rau, Nagendra Singh, R. S. Pathak and Dalveer Bhandari are Indian judges discussed in the source."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "21": [
+      {
+        "id": "ss21-check-001",
+        "title": "Independent judgement",
+        "reference": "Independent check",
+        "prompt": "How could a non-aligned country take an active position in a dispute?",
+        "sample": "It can evaluate the issue through its interests and principles while pursuing diplomacy. Explain how independent judgement differs from joining a bloc automatically.",
+        "solution": [
+          "It can evaluate the issue through its interests and principles while pursuing diplomacy.",
+          "Explain how independent judgement differs from joining a bloc automatically."
+        ],
+        "hints": [
+          "It can evaluate the issue through its interests and principles while pursuing diplomacy."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss21-check-002",
+        "title": "From principle to outcome",
+        "reference": "Independent check",
+        "prompt": "How would you assess an effort to protect human rights?",
+        "sample": "Identify the right, responsible institution, action and people affected. Compare the stated commitment with evidence about access and remedies.",
+        "solution": [
+          "Identify the right, responsible institution, action and people affected.",
+          "Compare the stated commitment with evidence about access and remedies."
+        ],
+        "hints": [
+          "Identify the right, responsible institution, action and people affected."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "22": [
+      {
+        "id": "ss22-check-001",
+        "title": "Choose the institution",
+        "reference": "Independent check",
+        "prompt": "A country has a balance-of-payments crisis and also wants help protecting a heritage site. Which bodies would you investigate?",
+        "sample": "The IMF’s financial mandate addresses the first issue and UNESCO’s cultural mandate relates to the second. Explain the mandate and limits of each role before assessing a proposed response.",
+        "solution": [
+          "The IMF’s financial mandate addresses the first issue and UNESCO’s cultural mandate relates to the second.",
+          "Explain the mandate and limits of each role before assessing a proposed response."
+        ],
+        "hints": [
+          "The IMF’s financial mandate addresses the first issue and UNESCO’s cultural mandate relates to the second."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss22-check-002",
+        "title": "Different votes",
+        "reference": "Independent check",
+        "prompt": "Why can voting work differently in the General Assembly and Security Council?",
+        "sample": "The Assembly gives each member State one vote, while the Security Council has permanent and elected membership and veto rules. Specify the organ, type of decision and applicable voting rule.",
+        "solution": [
+          "The Assembly gives each member State one vote, while the Security Council has permanent and elected membership and veto rules.",
+          "Specify the organ, type of decision and applicable voting rule."
+        ],
+        "hints": [
+          "The Assembly gives each member State one vote, while the Security Council has permanent and elected membership and veto rules."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  }
+}

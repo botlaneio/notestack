@@ -1,10 +1,11 @@
 'use client';
 
 import Link from 'next/link';
-import {useRef, useState} from 'react';
-import {Check, ChevronLeft, ChevronRight, Heart, Menu, RotateCw, Search, ShoppingBag, X} from 'lucide-react';
+import {useEffect, useRef, useState, type ReactNode} from 'react';
+import {BookOpen, Calculator, Check, ChevronDown, ChevronLeft, ChevronRight, FileText, FlaskConical, Globe2, Heart, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, Search, ShoppingBag, X, type LucideIcon} from 'lucide-react';
 import {Brand} from './brand';
 import {AccountLink} from '@/components/auth/account-link';
+import {useSession} from '@/lib/auth-client';
 import styles from './home-hero.module.css';
 
 interface TopBarProps {
@@ -16,43 +17,126 @@ interface TopBarProps {
   onSaved: () => void;
 }
 
-const navLinks = [
-  {href: '/learn/maths/', label: 'Maths'},
-  {href: '/learn/science/', label: 'Science'},
-  {href: '/learn/social-science/', label: 'Social Science'},
-  {href: '#bundle', label: 'Pricing'},
+const SUBJECT_IDS = ['mathematics', 'science', 'social-science'];
+
+interface MenuItem {href: string; label: string; free: string; paid: string; icon: LucideIcon; tone: string}
+
+const studyTools: MenuItem[] = [
+  {href: '/learn/maths/', label: 'Guided chapters', free: 'Chapter 1 of every subject is free', paid: 'Every chapter, step by step', icon: BookOpen, tone: 'toneBlue'},
+  {href: '/learn/maths/real-numbers/practice/', label: 'Practice questions', free: 'Free for chapter 1', paid: 'Board-style questions with answers', icon: PenLine, tone: 'toneGreen'},
+  {href: '/learn/maths/real-numbers/check/', label: 'Chapter checks', free: 'Free for chapter 1', paid: 'See what you know after each chapter', icon: ListChecks, tone: 'toneOrange'},
+  {href: '#sample', label: 'Free sample notes', free: 'A PDF for every subject', paid: 'A PDF for every subject', icon: FileText, tone: 'tonePurple'},
 ];
 
-/** White top bar: logo, subject links, pill search, account, saved and bag. */
+const subjects: MenuItem[] = [
+  {href: '/learn/maths/', label: 'Mathematics', free: 'Chapter 1 free · Real Numbers', paid: 'All chapters unlocked', icon: Calculator, tone: 'toneBlue'},
+  {href: '/learn/science/', label: 'Science', free: 'Chapter 1 free · Chemical Reactions', paid: 'All chapters unlocked', icon: FlaskConical, tone: 'toneGreen'},
+  {href: '/learn/social-science/', label: 'Social Science', free: 'Chapter 1 free · Advent of Europeans', paid: 'All chapters unlocked', icon: Globe2, tone: 'toneOrange'},
+];
+
+/** Who is looking: a visitor, a signed-in student without every subject, or a student who owns everything. */
+function useAccess() {
+  const session = useSession();
+  const signedIn = session.status === 'signed-in';
+  const owned = signedIn ? (session.admin ? SUBJECT_IDS : session.entitlements) : [];
+  const ownsAll = SUBJECT_IDS.every(id => owned.includes(id));
+  const lastChapter = signedIn ? [...session.progress].sort((a, b) => b.lastSeenAt - a.lastSeenAt)[0] : undefined;
+  return {status: session.status, signedIn, ownsAll, owned, lastChapter};
+}
+
+function MenuList({items, isOpen, close, subjectIds}: {items: MenuItem[]; isOpen: (i: number) => boolean; close: () => void; subjectIds?: string[]}) {
+  return <ul className={styles.menuList}>{items.map((item, i) => {
+    const Icon = item.icon;
+    const unlocked = isOpen(i);
+    return <li key={item.label}>
+      <Link href={item.href} onClick={close} className={styles.menuItem}>
+        <span className={`${styles.menuIcon} ${styles[item.tone]}`}><Icon size={18}/></span>
+        <span className={styles.menuText}><strong>{item.label}</strong><small>{unlocked ? item.paid : item.free}</small></span>
+        {!unlocked && subjectIds && <Lock size={14} className={styles.menuLock} aria-label="Chapters after the first are locked"/>}
+      </Link>
+    </li>;
+  })}</ul>;
+}
+
+/** A top-bar dropdown that opens on click and closes on Escape or an outside click. */
+function Dropdown({label, children}: {label: string; children: (close: () => void) => ReactNode}) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!open) return;
+    const onDown = (e: MouseEvent) => {if (!ref.current?.contains(e.target as Node)) setOpen(false);};
+    const onKey = (e: KeyboardEvent) => {if (e.key === 'Escape') setOpen(false);};
+    document.addEventListener('mousedown', onDown);
+    document.addEventListener('keydown', onKey);
+    return () => {document.removeEventListener('mousedown', onDown); document.removeEventListener('keydown', onKey);};
+  }, [open]);
+  return <div className={styles.dropdown} ref={ref}>
+    <button type="button" className={styles.dropdownButton} aria-expanded={open} onClick={() => setOpen(!open)}>
+      {label}<ChevronDown size={16} className={open ? styles.chevronOpen : undefined}/>
+    </button>
+    {open && <div className={styles.dropdownPanel}>{children(() => setOpen(false))}</div>}
+  </div>;
+}
+
+/** White top bar. Visitors see every study tool with what is free; owners see the same menu without locks. */
 export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}: TopBarProps) {
   const [open, setOpen] = useState(false);
+  const access = useAccess();
+  const toolOpen = () => access.ownsAll;
+  const subjectOpen = (i: number) => access.owned.includes(SUBJECT_IDS[i]);
+  const close = () => setOpen(false);
+  const continueLink = access.lastChapter && <Link href={access.lastChapter.path} onClick={close} className={styles.continue}>
+    <PlayCircle size={18}/><span><small>Continue where you left off</small><strong>{access.lastChapter.title ?? 'Your last chapter'}</strong></span>
+  </Link>;
+  const unlockButton = access.signedIn && !access.ownsAll && <a href="#bundle" onClick={close} className={styles.unlock}>Unlock all subjects · ₹999</a>;
+
   return <header className={styles.bar}>
     <div className={styles.barInner}>
       <a href="#" aria-label="NoteStack home" className={styles.logo}><Brand small/></a>
       <nav className={styles.links} aria-label="Main navigation">
-        {navLinks.map(l => <Link key={l.href} href={l.href}>{l.label}</Link>)}
+        <Dropdown label="Study tools">{c => <MenuList items={studyTools} isOpen={toolOpen} close={c}/>}</Dropdown>
+        <Dropdown label="Subjects">{c => <>
+          <MenuList items={subjects} isOpen={subjectOpen} close={c} subjectIds={SUBJECT_IDS}/>
+          {access.lastChapter && <div className={styles.menuFooter}>{continueLink}</div>}
+        </>}</Dropdown>
+        <a href="#bundle" className={styles.plainLink}>Pricing</a>
       </nav>
       <form className={styles.search} role="search" onSubmit={e => {e.preventDefault(); onSearch();}}>
         <Search size={18} aria-hidden="true"/>
         <input type="search" value={query} onChange={e => onQuery(e.target.value)} placeholder="Search subjects, e.g. Science" aria-label="Search subject packs"/>
       </form>
       <div className={styles.actions}>
-        <button type="button" className={styles.iconButton} onClick={onSaved} aria-label="Saved packs"><Heart size={20}/></button>
+        <button type="button" className={`${styles.iconButton} ${styles.hideSmall}`} onClick={onSaved} aria-label="Saved packs"><Heart size={20}/></button>
         <button type="button" className={styles.iconButton} onClick={onBag} aria-label={`Open bag, ${bagCount} subject packs`}>
           <ShoppingBag size={20}/>{bagCount > 0 && <b className={styles.count}>{bagCount}</b>}
         </button>
-        <span className={styles.account}><AccountLink/></span>
+        {unlockButton && <span className={styles.hideMedium}>{unlockButton}</span>}
+        {access.status === 'signed-in'
+          ? <span className={styles.account}><AccountLink/></span>
+          : <span className={styles.authButtons}>
+              <Link href="/sign-in/" className={`${styles.ghost} ${styles.hideSmall}`}>Log in</Link>
+              <Link href="/sign-up/" className={styles.solid}>Sign up free</Link>
+            </span>}
         <button type="button" className={`${styles.iconButton} ${styles.menuButton}`} onClick={() => setOpen(!open)} aria-label="Toggle navigation" aria-expanded={open}>
           {open ? <X size={22}/> : <Menu size={22}/>}
         </button>
       </div>
     </div>
     {open && <nav className={styles.mobileNav} aria-label="Mobile navigation">
-      <form className={styles.mobileSearch} role="search" onSubmit={e => {e.preventDefault(); setOpen(false); onSearch();}}>
+      <form className={styles.mobileSearch} role="search" onSubmit={e => {e.preventDefault(); close(); onSearch();}}>
         <Search size={18} aria-hidden="true"/>
         <input type="search" value={query} onChange={e => onQuery(e.target.value)} placeholder="Search subjects" aria-label="Search subject packs"/>
       </form>
-      {navLinks.map(l => <Link key={l.href} href={l.href} onClick={() => setOpen(false)}>{l.label}</Link>)}
+      {continueLink}
+      <span className={styles.mobileHeading}>Study tools</span>
+      <MenuList items={studyTools} isOpen={toolOpen} close={close}/>
+      <span className={styles.mobileHeading}>Subjects</span>
+      <MenuList items={subjects} isOpen={subjectOpen} close={close} subjectIds={SUBJECT_IDS}/>
+      <a href="#bundle" onClick={close} className={styles.mobileLink}>Pricing</a>
+      <button type="button" onClick={() => {close(); onSaved();}} className={styles.mobileLink}>Saved packs</button>
+      {access.status !== 'signed-in'
+        ? <div className={styles.mobileAuth}><Link href="/sign-in/" className={styles.ghost}>Log in</Link><Link href="/sign-up/" className={styles.solid}>Sign up free</Link></div>
+        : unlockButton}
     </nav>}
   </header>;
 }

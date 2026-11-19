@@ -216,6 +216,23 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss17-source-p1-1",
+        "title": "Inam land records",
+        "reference": "Source study · p1",
+        "prompt": "Why did an inquiry into land grants create grievances before 1857?",
+        "sample": "The Inam Commission examined claims to land held under grants. A holder who could not establish a claim with acceptable records risked losing the grant and its income.",
+        "solution": [
+          "The Inam Commission examined claims to land held under grants. A holder who could not establish a claim with acceptable records risked losing the grant and its income."
+        ],
+        "hints": [
+          "Connect the demand for documents to its effect on the holder."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Connect the demand for documents to its effect on the holder."
+        ]
       }
     ],
     "18": [
@@ -2111,6 +2128,23 @@
         "checklist": [
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss20-source-p42-1",
+        "title": "African independence timeline",
+        "reference": "Source study · p42",
+        "prompt": "Read the postwar independence table. Put Libya, Ghana and Kenya in order and explain what the sequence shows.",
+        "sample": "Libya became independent in 1951, Ghana in 1957 and Kenya in 1963. Decolonisation continued across several decades. The dates alone cannot explain each country's path to independence.",
+        "solution": [
+          "Libya became independent in 1951, Ghana in 1957 and Kenya in 1963. Decolonisation continued across several decades. The dates alone cannot explain each country's path to independence."
+        ],
+        "hints": [
+          "Use three dated entries to support the sequence."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Use three dated entries to support the sequence."
         ]
       }
     ]

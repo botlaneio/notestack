@@ -1,0 +1,823 @@
+{
+  "11": [
+    {
+      "page": 98,
+      "title": "Monsoon and season",
+      "taskId": "ss11-source-p98-1"
+    },
+    {
+      "page": 99,
+      "title": "City temperature comparison",
+      "taskId": "ss11-task-013"
+    },
+    {
+      "page": 100,
+      "title": "Annual rainfall distribution map",
+      "taskId": "ss11-task-011"
+    },
+    {
+      "page": 101,
+      "title": "Taluk rainfall investigation",
+      "taskId": "ss11-task-014"
+    }
+  ],
+  "12": [
+    {
+      "page": 103,
+      "title": "Major soil types map and key",
+      "taskId": "ss12-map-review"
+    },
+    {
+      "page": 105,
+      "title": "Reading soil texture",
+      "taskId": "ss12-source-p105-1"
+    }
+  ],
+  "13": [
+    {
+      "page": 107,
+      "title": "Natural vegetation map",
+      "taskId": "ss13-task-008"
+    },
+    {
+      "page": 108,
+      "title": "Local grove oral history",
+      "taskId": "ss13-task-016"
+    },
+    {
+      "page": 110,
+      "title": "Counting protected places",
+      "taskId": "ss13-source-p110-1"
+    }
+  ],
+  "14": [
+    {
+      "page": 112,
+      "title": "Usable water resources table",
+      "taskId": "ss14-task-017"
+    },
+    {
+      "page": 113,
+      "title": "Cusecs and flow rate",
+      "taskId": "ss14-task-018"
+    },
+    {
+      "page": 114,
+      "title": "Local irrigation tanks activity",
+      "taskId": "ss14-task-020"
+    },
+    {
+      "page": 116,
+      "title": "Major irrigation projects map",
+      "taskId": "ss14-task-021"
+    },
+    {
+      "page": 118,
+      "title": "Rooftop rainwater harvesting diagram",
+      "taskId": "ss14-task-015"
+    }
+  ],
+  "15": [
+    {
+      "page": 121,
+      "title": "M. Visvesvaraya and planning",
+      "taskId": "ss15-task-008"
+    },
+    {
+      "page": 122,
+      "title": "Five-Year Plan dates and costs",
+      "taskId": "ss15-task-019"
+    },
+    {
+      "page": 123,
+      "title": "Sector chart and four graph-reading questions",
+      "taskId": "ss15-task-021"
+    },
+    {
+      "page": 125,
+      "title": "M. S. Swaminathan and crop research",
+      "taskId": "ss15-task-004"
+    },
+    {
+      "page": 126,
+      "title": "Support-price discussion",
+      "taskId": "ss15-task-023"
+    },
+    {
+      "page": 126,
+      "title": "Rainbow Revolution sidebar",
+      "taskId": "ss15-task-024"
+    }
+  ],
+  "16": [
+    {
+      "page": 132,
+      "title": "Bank visit about education loans",
+      "taskId": "ss16-task-018"
+    },
+    {
+      "page": 133,
+      "title": "Postal banking enquiry",
+      "taskId": "ss16-task-019"
+    },
+    {
+      "page": 134,
+      "title": "Compare account interest rates",
+      "taskId": "ss16-task-020"
+    },
+    {
+      "page": 135,
+      "title": "Joint account holders",
+      "taskId": "ss16-source-p135-1"
+    },
+    {
+      "page": 135,
+      "title": "Observe a branch at work",
+      "taskId": "ss16-task-021"
+    },
+    {
+      "page": 135,
+      "title": "Calculate interest on a ₹50,000 deposit",
+      "taskId": "ss16-task-022"
+    }
+  ],
+  "17": [
+    {
+      "page": 1,
+      "title": "Inam land records",
+      "taskId": "ss17-source-p1-1"
+    },
+    {
+      "page": 3,
+      "title": "Tatya Tope portrait",
+      "taskId": "ss17-task-003"
+    },
+    {
+      "page": 3,
+      "title": "Rani Lakshmibai portrait",
+      "taskId": "ss17-task-003"
+    }
+  ],
+  "18": [
+    {
+      "page": 6,
+      "title": "Nationalism and its setting",
+      "taskId": "ss18-source-review-001"
+    },
+    {
+      "page": 7,
+      "title": "Associations before Congress",
+      "taskId": "ss18-source-review-002"
+    },
+    {
+      "page": 8,
+      "title": "Dadabhai Naoroji portrait",
+      "taskId": "ss18-source-review-003"
+    },
+    {
+      "page": 8,
+      "title": "Gopal Krishna Gokhale portrait",
+      "taskId": "ss18-source-review-003"
+    },
+    {
+      "page": 8,
+      "title": "Naoroji and Gokhale portraits",
+      "taskId": "ss18-source-review-003"
+    },
+    {
+      "page": 8,
+      "title": "Moderates photograph activity",
+      "taskId": "ss18-source-review-004"
+    },
+    {
+      "page": 9,
+      "title": "Bal Gangadhar Tilak portrait",
+      "taskId": "ss18-source-review-005"
+    },
+    {
+      "page": 9,
+      "title": "Lala Lajpat Rai portrait",
+      "taskId": "ss18-source-review-005"
+    },
+    {
+      "page": 9,
+      "title": "Bipin Chandra Pal portrait",
+      "taskId": "ss18-source-review-005"
+    },
+    {
+      "page": 9,
+      "title": "Aurobindo Ghosh portrait",
+      "taskId": "ss18-source-review-005"
+    },
+    {
+      "page": 9,
+      "title": "The nationalist leaders pictured",
+      "taskId": "ss18-source-review-005"
+    },
+    {
+      "page": 10,
+      "title": "Bhagat Singh portrait",
+      "taskId": "ss18-task-019"
+    },
+    {
+      "page": 10,
+      "title": "Chandrashekhar Azad portrait",
+      "taskId": "ss18-task-019"
+    },
+    {
+      "page": 10,
+      "title": "V. D. Savarkar portrait",
+      "taskId": "ss18-source-review-006"
+    },
+    {
+      "page": 10,
+      "title": "Gandhi in South Africa photograph",
+      "taskId": "ss18-task-029"
+    },
+    {
+      "page": 10,
+      "title": "Revolutionary organisations and writing",
+      "taskId": "ss18-source-review-006"
+    },
+    {
+      "page": 10,
+      "title": "Jadonang and Gaidinliu",
+      "taskId": "ss18-source-review-007"
+    },
+    {
+      "page": 11,
+      "title": "Satyagraha and mass participation",
+      "taskId": "ss18-source-review-008"
+    },
+    {
+      "page": 12,
+      "title": "Jallianwala Bagh memorial",
+      "taskId": "ss18-source-review-009"
+    },
+    {
+      "page": 12,
+      "title": "Jallianwala Bagh and public responses",
+      "taskId": "ss18-source-review-009"
+    },
+    {
+      "page": 13,
+      "title": "Non-Cooperation photograph",
+      "taskId": "ss18-source-review-010"
+    },
+    {
+      "page": 13,
+      "title": "Motilal Nehru portrait",
+      "taskId": "ss18-source-review-011"
+    },
+    {
+      "page": 13,
+      "title": "Non-Cooperation and its suspension",
+      "taskId": "ss18-source-review-010"
+    },
+    {
+      "page": 14,
+      "title": "Swaraj Party and the Calcutta sidebar",
+      "taskId": "ss18-source-review-011"
+    },
+    {
+      "page": 14,
+      "title": "Lahore flag and independence observance",
+      "taskId": "ss18-source-review-012"
+    },
+    {
+      "page": 15,
+      "title": "Salt march photograph",
+      "taskId": "ss18-source-review-013"
+    },
+    {
+      "page": 15,
+      "title": "Karnataka and the Salt campaign",
+      "taskId": "ss18-source-review-013"
+    },
+    {
+      "page": 16,
+      "title": "Three Round Table Conferences",
+      "taskId": "ss18-source-review-014"
+    },
+    {
+      "page": 16,
+      "title": "The 1935 Act and wartime decisions",
+      "taskId": "ss18-source-review-015"
+    },
+    {
+      "page": 17,
+      "title": "Quit India photograph",
+      "taskId": "ss18-source-review-016"
+    },
+    {
+      "page": 17,
+      "title": "Cripps proposals and Quit India",
+      "taskId": "ss18-source-review-016"
+    },
+    {
+      "page": 17,
+      "title": "Esoor source sidebar",
+      "taskId": "ss18-source-review-017"
+    },
+    {
+      "page": 18,
+      "title": "Vallabhbhai Patel portrait",
+      "taskId": "ss18-source-review-018"
+    },
+    {
+      "page": 18,
+      "title": "Maulana Azad portrait",
+      "taskId": "ss18-source-review-018"
+    },
+    {
+      "page": 18,
+      "title": "Patel and Azad portraits",
+      "taskId": "ss18-source-review-018"
+    },
+    {
+      "page": 18,
+      "title": "Farmers’ movements",
+      "taskId": "ss18-source-review-019"
+    },
+    {
+      "page": 19,
+      "title": "Subhas Chandra Bose portrait",
+      "taskId": "ss18-source-review-022"
+    },
+    {
+      "page": 19,
+      "title": "Labour organisations",
+      "taskId": "ss18-source-review-020"
+    },
+    {
+      "page": 19,
+      "title": "Santhal, Munda and Halagali",
+      "taskId": "ss18-source-review-021"
+    },
+    {
+      "page": 20,
+      "title": "Bose, Congress and socialism",
+      "taskId": "ss18-source-review-022"
+    },
+    {
+      "page": 20,
+      "title": "Bose’s source quotations",
+      "taskId": "ss18-source-review-023"
+    },
+    {
+      "page": 21,
+      "title": "The INA’s early organisation",
+      "taskId": "ss18-source-review-024"
+    },
+    {
+      "page": 21,
+      "title": "Bose essay activity",
+      "taskId": "ss18-source-review-025"
+    },
+    {
+      "page": 22,
+      "title": "B. R. Ambedkar portrait",
+      "taskId": "ss18-source-review-026"
+    },
+    {
+      "page": 22,
+      "title": "Ambedkar’s institutions and public work",
+      "taskId": "ss18-source-review-026"
+    },
+    {
+      "page": 22,
+      "title": "Constituent Assembly and the press sidebar",
+      "taskId": "ss18-source-review-027"
+    },
+    {
+      "page": 23,
+      "title": "Jawaharlal Nehru portrait",
+      "taskId": "ss18-source-review-029"
+    },
+    {
+      "page": 23,
+      "title": "Ambedkar biography activity",
+      "taskId": "ss18-source-review-028"
+    },
+    {
+      "page": 23,
+      "title": "Nehru’s political development",
+      "taskId": "ss18-source-review-029"
+    },
+    {
+      "page": 24,
+      "title": "Jinnah and Gandhi photograph",
+      "taskId": "ss18-source-review-032"
+    },
+    {
+      "page": 24,
+      "title": "Mahad and Kalaram sidebar",
+      "taskId": "ss18-source-review-030"
+    },
+    {
+      "page": 24,
+      "title": "Nehru foreign-policy activity",
+      "taskId": "ss18-source-review-031"
+    },
+    {
+      "page": 24,
+      "title": "Jinnah’s early career",
+      "taskId": "ss18-source-review-032"
+    },
+    {
+      "page": 25,
+      "title": "Cabinet Mission and partition negotiations",
+      "taskId": "ss18-source-review-033"
+    },
+    {
+      "page": 26,
+      "title": "Mountbatten and the transfer of power",
+      "taskId": "ss18-source-review-034"
+    }
+  ],
+  "19": [
+    {
+      "page": 29,
+      "title": "Peace during Partition discussion",
+      "taskId": "ss19-detail-001"
+    },
+    {
+      "page": 30,
+      "title": "Parliamentary democracy sidebar",
+      "taskId": "ss19-detail-002"
+    },
+    {
+      "page": 30,
+      "title": "Vallabhbhai Patel portrait",
+      "taskId": "ss19-detail-003"
+    },
+    {
+      "page": 33,
+      "title": "States created after 1970",
+      "taskId": "ss19-detail-005"
+    }
+  ],
+  "20": [
+    {
+      "page": 35,
+      "title": "First World War casualty estimates",
+      "taskId": "ss20-task-016"
+    },
+    {
+      "page": 35,
+      "title": "Hitler portrait and Nazi rule",
+      "taskId": "ss20-task-004"
+    },
+    {
+      "page": 38,
+      "title": "Second World War casualty estimates",
+      "taskId": "ss20-task-016"
+    },
+    {
+      "page": 39,
+      "title": "Mysore Lancers photograph",
+      "taskId": "ss20-task-006"
+    },
+    {
+      "page": 42,
+      "title": "African independence timeline",
+      "taskId": "ss20-source-p42-1"
+    }
+  ],
+  "21": [
+    {
+      "page": 51,
+      "title": "Indian agencies in the abbreviations box",
+      "taskId": "ss21-source-p51-1"
+    },
+    {
+      "page": 51,
+      "title": "Arms-control abbreviations",
+      "taskId": "ss21-task-014"
+    }
+  ],
+  "22": [
+    {
+      "page": 53,
+      "title": "United Nations headquarters photograph",
+      "taskId": "ss22-task-002"
+    },
+    {
+      "page": 54,
+      "title": "Six principal organs diagram",
+      "taskId": "ss22-map-review"
+    },
+    {
+      "page": 54,
+      "title": "Official languages sidebar",
+      "taskId": "ss22-task-029"
+    },
+    {
+      "page": 56,
+      "title": "Reading the Secretaries-General timeline",
+      "taskId": "ss22-source-p56-1"
+    },
+    {
+      "page": 56,
+      "title": "Indian judges at the ICJ",
+      "taskId": "ss22-task-029"
+    },
+    {
+      "page": 58,
+      "title": "Karnataka UNESCO sites activity",
+      "taskId": "ss22-task-027"
+    }
+  ],
+  "23": [
+    {
+      "page": 66,
+      "title": "Chipko tree-protection illustration",
+      "taskId": "ss23-task-005"
+    },
+    {
+      "page": 67,
+      "title": "Women's self-help group illustration",
+      "taskId": "ss23-task-006"
+    },
+    {
+      "page": 68,
+      "title": "Farmers’ demonstration photograph",
+      "taskId": "ss23-task-016"
+    },
+    {
+      "page": 69,
+      "title": "Stree Shakti sidebar",
+      "taskId": "ss23-task-012"
+    }
+  ],
+  "24": [
+    {
+      "page": 72,
+      "title": "Workshop child labour illustration",
+      "taskId": "ss24-task-012"
+    },
+    {
+      "page": 72,
+      "title": "Food service child labour illustration",
+      "taskId": "ss24-task-012"
+    },
+    {
+      "page": 72,
+      "title": "Carrying loads illustration",
+      "taskId": "ss24-task-012"
+    },
+    {
+      "page": 72,
+      "title": "Domestic work illustration",
+      "taskId": "ss24-task-012"
+    },
+    {
+      "page": 73,
+      "title": "Reporting an absence related to child labour",
+      "taskId": "ss24-task-020"
+    },
+    {
+      "page": 74,
+      "title": "Child marriage photograph",
+      "taskId": "ss24-task-010"
+    },
+    {
+      "page": 74,
+      "title": "Child marriage and health sidebar",
+      "taskId": "ss24-task-016"
+    },
+    {
+      "page": 76,
+      "title": "Seeking help to prevent child marriage",
+      "taskId": "ss24-task-021"
+    },
+    {
+      "page": 79,
+      "title": "Census sex ratio sidebar and comparison table",
+      "taskId": "ss24-task-018"
+    }
+  ],
+  "25": [
+    {
+      "page": 85,
+      "title": "Paddy distribution map",
+      "taskId": "ss25-map-review"
+    },
+    {
+      "page": 86,
+      "title": "From cane to products",
+      "taskId": "ss25-source-p86-1"
+    },
+    {
+      "page": 86,
+      "title": "Wheat distribution map",
+      "taskId": "ss25-map-review"
+    },
+    {
+      "page": 87,
+      "title": "Ratoon cropping",
+      "taskId": "ss25-source-p87-1"
+    },
+    {
+      "page": 87,
+      "title": "Tobacco and its name",
+      "taskId": "ss25-source-p87-2"
+    },
+    {
+      "page": 88,
+      "title": "Tea gardens and caffeine",
+      "taskId": "ss25-source-p88-1"
+    },
+    {
+      "page": 88,
+      "title": "Research for horticulture",
+      "taskId": "ss25-source-p88-2"
+    },
+    {
+      "page": 89,
+      "title": "Linking growers to buyers",
+      "taskId": "ss25-source-p89-1"
+    }
+  ],
+  "26": [
+    {
+      "page": 91,
+      "title": "Four iron ore types",
+      "taskId": "ss26-task-010"
+    },
+    {
+      "page": 92,
+      "title": "Iron and manganese ore map",
+      "taskId": "ss26-map-review"
+    },
+    {
+      "page": 93,
+      "title": "Bauxite, mica and gold map",
+      "taskId": "ss26-map-review"
+    },
+    {
+      "page": 94,
+      "title": "Comparing coal ranks",
+      "taskId": "ss26-source-p94-1"
+    },
+    {
+      "page": 96,
+      "title": "Power resources map",
+      "taskId": "ss26-map-review"
+    }
+  ],
+  "27": [
+    {
+      "page": 98,
+      "title": "Transport as a network",
+      "taskId": "ss27-source-p98-1"
+    },
+    {
+      "page": 100,
+      "title": "Highways, ports and airports map",
+      "taskId": "ss27-map-review"
+    },
+    {
+      "page": 102,
+      "title": "Reading the airport table",
+      "taskId": "ss27-source-p102-1"
+    },
+    {
+      "page": 103,
+      "title": "Mobile communication discussion",
+      "taskId": "ss27-source-p103-1"
+    }
+  ],
+  "28": [
+    {
+      "page": 107,
+      "title": "Classifying industries by scale",
+      "taskId": "ss28-source-p107-1"
+    },
+    {
+      "page": 109,
+      "title": "Sugar milling and Gorakhpur",
+      "taskId": "ss28-source-p109-1"
+    },
+    {
+      "page": 110,
+      "title": "Industrial centres map",
+      "taskId": "ss28-map-review"
+    },
+    {
+      "page": 111,
+      "title": "Information technology at school",
+      "taskId": "ss28-source-p111-1"
+    }
+  ],
+  "29": [
+    {
+      "page": 114,
+      "title": "Cyclone names sidebar",
+      "taskId": "ss29-task-013"
+    },
+    {
+      "page": 115,
+      "title": "Cyclone and earthquake locations map",
+      "taskId": "ss29-map-review"
+    },
+    {
+      "page": 116,
+      "title": "Kedarnath flood case",
+      "taskId": "ss29-source-p116-1"
+    }
+  ],
+  "30": [
+    {
+      "page": 123,
+      "title": "Three tiers of Panchayat Raj diagram",
+      "taskId": "ss30-task-007"
+    },
+    {
+      "page": 124,
+      "title": "PURA sidebar",
+      "taskId": "ss30-task-015"
+    },
+    {
+      "page": 125,
+      "title": "Women working in industry photograph",
+      "taskId": "ss30-task-016"
+    },
+    {
+      "page": 125,
+      "title": "Women working in agriculture photograph",
+      "taskId": "ss30-task-016"
+    },
+    {
+      "page": 125,
+      "title": "Woman pilot photograph",
+      "taskId": "ss30-task-016"
+    },
+    {
+      "page": 126,
+      "title": "Local self-help group visit",
+      "taskId": "ss30-task-018"
+    }
+  ],
+  "31": [
+    {
+      "page": 128,
+      "title": "Family income discussion",
+      "taskId": "ss31-task-024"
+    },
+    {
+      "page": 131,
+      "title": "Public expenditure classification diagram",
+      "taskId": "ss31-task-016"
+    },
+    {
+      "page": 132,
+      "title": "2013–14 estimated spending pie chart",
+      "taskId": "ss31-task-019"
+    },
+    {
+      "page": 133,
+      "title": "Reading the receipts tree",
+      "taskId": "ss31-source-p133-1"
+    },
+    {
+      "page": 135,
+      "title": "2013–14 estimated receipts pie chart",
+      "taskId": "ss31-task-020"
+    }
+  ],
+  "32": [
+    {
+      "page": 144,
+      "title": "Entrepreneur portrait collection activity",
+      "taskId": "ss32-task-015"
+    }
+  ],
+  "33": [
+    {
+      "page": 150,
+      "title": "Reading the pictured packet",
+      "taskId": "ss33-task-015"
+    },
+    {
+      "page": 150,
+      "title": "Packet manufacturer",
+      "taskId": "ss33-task-016"
+    },
+    {
+      "page": 150,
+      "title": "Maximum retail price",
+      "taskId": "ss33-task-017"
+    },
+    {
+      "page": 150,
+      "title": "Manufacturing date",
+      "taskId": "ss33-task-018"
+    },
+    {
+      "page": 150,
+      "title": "Use-by date",
+      "taskId": "ss33-task-019"
+    }
+  ]
+}

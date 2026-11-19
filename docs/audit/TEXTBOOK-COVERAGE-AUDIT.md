@@ -70,27 +70,27 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 8 | Social Stratification | 14 | 28 | 7 | 0 |
 | Social Science | 9 | Work and Economic Life | 20 | 39 | 7 | 3 |
 | Social Science | 10 | India — Geographical Position and Physical Features | 26 | 60 | 7 | 3 |
-| Social Science | 11 | India – Seasons | 11 | 16 | 2 | 1 |
-| Social Science | 12 | India – Soils | 11 | 15 | 2 | 1 |
-| Social Science | 13 | India – Forest Resources | 15 | 20 | 2 | 1 |
+| Social Science | 11 | India – Seasons | 11 | 17 | 2 | 1 |
+| Social Science | 12 | India – Soils | 11 | 16 | 2 | 1 |
+| Social Science | 13 | India – Forest Resources | 15 | 21 | 2 | 1 |
 | Social Science | 14 | India – Water Resources | 16 | 25 | 2 | 0 |
 | Social Science | 15 | Economy and Government | 19 | 28 | 2 | 0 |
-| Social Science | 16 | Bank Transactions | 17 | 25 | 2 | 0 |
-| Social Science | 17 | The First War of Indian Independence (1857) | 10 | 12 | 2 | 0 |
+| Social Science | 16 | Bank Transactions | 17 | 26 | 2 | 0 |
+| Social Science | 17 | The First War of Indian Independence (1857) | 10 | 13 | 2 | 0 |
 | Social Science | 18 | The Freedom Struggle | 30 | 68 | 2 | 1 |
 | Social Science | 19 | India after Independence | 10 | 18 | 2 | 0 |
-| Social Science | 20 | World Wars and India’s Role | 15 | 19 | 2 | 0 |
-| Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 17 | 2 | 0 |
-| Social Science | 22 | World Organisations | 26 | 30 | 2 | 1 |
+| Social Science | 20 | World Wars and India’s Role | 15 | 20 | 2 | 0 |
+| Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 18 | 2 | 0 |
+| Social Science | 22 | World Organisations | 26 | 31 | 2 | 1 |
 | Social Science | 23 | Collective Behaviour and Protests | 17 | 21 | 2 | 0 |
 | Social Science | 24 | Social Challenges | 19 | 23 | 2 | 0 |
-| Social Science | 25 | India – Land Use and Agriculture | 14 | 20 | 2 | 1 |
-| Social Science | 26 | India – Mineral and Power Resources | 12 | 14 | 2 | 2 |
-| Social Science | 27 | India – Transport and Communication | 15 | 22 | 2 | 1 |
-| Social Science | 28 | India – Major Industries | 14 | 18 | 2 | 1 |
-| Social Science | 29 | India – Natural Disasters | 11 | 15 | 2 | 1 |
+| Social Science | 25 | India – Land Use and Agriculture | 14 | 26 | 2 | 1 |
+| Social Science | 26 | India – Mineral and Power Resources | 12 | 15 | 2 | 2 |
+| Social Science | 27 | India – Transport and Communication | 15 | 25 | 2 | 1 |
+| Social Science | 28 | India – Major Industries | 14 | 21 | 2 | 1 |
+| Social Science | 29 | India – Natural Disasters | 11 | 16 | 2 | 1 |
 | Social Science | 30 | Rural Development | 16 | 18 | 2 | 1 |
-| Social Science | 31 | Public Finance and Budget | 18 | 24 | 2 | 0 |
+| Social Science | 31 | Public Finance and Budget | 18 | 25 | 2 | 0 |
 | Social Science | 32 | Entrepreneurship | 12 | 16 | 2 | 0 |
 | Social Science | 33 | Consumer Education and Protection | 15 | 24 | 2 | 0 |
 
@@ -135,3 +135,7 @@ Five additional written tasks cover the peace discussion (p29), parliamentary de
 ## Six geography map lessons
 
 The six map-reading panels now include all nine map figures identified on the supplied chapter pages, including their printed legends and labels. Printed references are 103 (Soils), 85–86 (Agriculture), 92, 93 and 96 (Minerals and Energy), 100 (Transport), 110 (Industries) and 115 (Natural Disasters). Industry centres and disaster locations use point symbols in the printed figures. The chapter checklists also cover topics discussed outside those figures.
+
+## Social Science source features
+
+The lesson index maps 155 source entries across Chapters 11–33 to workbook tasks. It includes illustrated figures, portrait captions, charts, sidebars and in-text activities, with printed page numbers. Several entries can share a practice task when a figure or comparison involves multiple subjects. Technical QR codes and repeated page decorations are excluded. Independent subject-accuracy review remains open.

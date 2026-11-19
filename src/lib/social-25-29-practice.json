@@ -360,6 +360,108 @@
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
         ]
+      },
+      {
+        "id": "ss25-source-p86-1",
+        "title": "From cane to products",
+        "reference": "Source study · p86",
+        "prompt": "Why can one sugarcane harvest supply several industries?",
+        "sample": "Crushing the stalk releases juice for sugar, khandsari or jaggery. Molasses from sugar processing can be fermented to make alcohol.",
+        "solution": [
+          "Crushing the stalk releases juice for sugar, khandsari or jaggery. Molasses from sugar processing can be fermented to make alcohol."
+        ],
+        "hints": [
+          "Trace one stalk through two different products."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Trace one stalk through two different products."
+        ]
+      },
+      {
+        "id": "ss25-source-p87-1",
+        "title": "Ratoon cropping",
+        "reference": "Source study · p87",
+        "prompt": "A farmer cuts mature cane and leaves its base in the soil. Where will the next crop come from?",
+        "sample": "Buds on the surviving stubble can produce new shoots. This ratoon crop grows from the previous planting, saving the work of planting a fresh set of stem cuttings.",
+        "solution": [
+          "Buds on the surviving stubble can produce new shoots. This ratoon crop grows from the previous planting, saving the work of planting a fresh set of stem cuttings."
+        ],
+        "hints": [
+          "Distinguish the first planting from regrowth."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Distinguish the first planting from regrowth."
+        ]
+      },
+      {
+        "id": "ss25-source-p87-2",
+        "title": "Tobacco and its name",
+        "reference": "Source study · p87",
+        "prompt": "How do the plant name and the European history in the tobacco sidebar fit together?",
+        "sample": "Tobacco belongs to the genus Nicotiana and has origins in the Americas. Its scientific name commemorates Jean Nicot, associated with its introduction at the French court.",
+        "solution": [
+          "Tobacco belongs to the genus Nicotiana and has origins in the Americas. Its scientific name commemorates Jean Nicot, associated with its introduction at the French court."
+        ],
+        "hints": [
+          "Separate the plant’s geographic origin from the history of its name."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Separate the plant’s geographic origin from the history of its name."
+        ]
+      },
+      {
+        "id": "ss25-source-p88-1",
+        "title": "Tea gardens and caffeine",
+        "reference": "Source study · p88",
+        "prompt": "What substance does the tea sidebar call theine? Locate two tea-growing areas in different parts of India.",
+        "sample": "Theine is another name for caffeine. Assam in the northeast and the Nilgiris in southern India are tea-growing areas where moisture and suitable slopes support cultivation.",
+        "solution": [
+          "Theine is another name for caffeine. Assam in the northeast and the Nilgiris in southern India are tea-growing areas where moisture and suitable slopes support cultivation."
+        ],
+        "hints": [
+          "Name one northeastern and one southern example."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Name one northeastern and one southern example."
+        ]
+      },
+      {
+        "id": "ss25-source-p88-2",
+        "title": "Research for horticulture",
+        "reference": "Source study · p88",
+        "prompt": "A fruit grower needs advice about improving a variety. How are ICAR and IIHR related?",
+        "sample": "ICAR is the Indian Council of Agricultural Research. Its Indian Institute of Horticultural Research works on fruit, vegetable and other horticultural crops. Research can guide variety choice and cultivation.",
+        "solution": [
+          "ICAR is the Indian Council of Agricultural Research. Its Indian Institute of Horticultural Research works on fruit, vegetable and other horticultural crops. Research can guide variety choice and cultivation."
+        ],
+        "hints": [
+          "Connect the institute’s specialism to the grower’s question."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Connect the institute’s specialism to the grower’s question."
+        ]
+      },
+      {
+        "id": "ss25-source-p89-1",
+        "title": "Linking growers to buyers",
+        "reference": "Source study · p89",
+        "prompt": "How could a market link help a farmer selling a perishable horticultural crop?",
+        "sample": "A terminal market connects a producing region with buyers. A grower can arrange collection, learn a buyer’s requirements and reduce the time fruit spends in transit. Less spoilage can increase the share of a harvest that reaches buyers.",
+        "solution": [
+          "A terminal market connects a producing region with buyers. A grower can arrange collection, learn a buyer’s requirements and reduce the time fruit spends in transit. Less spoilage can increase the share of a harvest that reaches buyers."
+        ],
+        "hints": [
+          "Trace the crop from harvest to market."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Trace the crop from harvest to market."
+        ]
       }
     ],
     "26": [
@@ -613,6 +715,23 @@
         "checklist": [
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
+      },
+      {
+        "id": "ss26-source-p94-1",
+        "title": "Comparing coal ranks",
+        "reference": "Source study · p94",
+        "prompt": "Put peat, lignite, bituminous coal and anthracite in the sequence used in the sidebar. What generally changes?",
+        "sample": "Peat is the precursor. With increasing coalification the sequence proceeds through lignite and bituminous coal to anthracite. Carbon concentration generally rises and moisture falls.",
+        "solution": [
+          "Peat is the precursor. With increasing coalification the sequence proceeds through lignite and bituminous coal to anthracite. Carbon concentration generally rises and moisture falls."
+        ],
+        "hints": [
+          "Identify which material comes before coal."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Identify which material comes before coal."
         ]
       }
     ],
@@ -1012,6 +1131,57 @@
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
         ]
+      },
+      {
+        "id": "ss27-source-p98-1",
+        "title": "Transport as a network",
+        "reference": "Source study · p98",
+        "prompt": "The sidebar compares transport to a nervous system. Explain the comparison using a crop and a factory.",
+        "sample": "Roads or railways can take sugarcane from fields to a mill and carry processed sugar to buyers. A broken link delays movement between otherwise productive locations.",
+        "solution": [
+          "Roads or railways can take sugarcane from fields to a mill and carry processed sugar to buyers. A broken link delays movement between otherwise productive locations."
+        ],
+        "hints": [
+          "Trace an input and a finished product."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Trace an input and a finished product."
+        ]
+      },
+      {
+        "id": "ss27-source-p102-1",
+        "title": "Reading the airport table",
+        "reference": "Source study · p102",
+        "prompt": "Match three airports in different regions to their cities. What does the name of an airport tell a traveller?",
+        "sample": "Kempegowda serves Bengaluru, Rajiv Gandhi serves Hyderabad and Chaudhary Charan Singh serves Lucknow. A city name and airport name can identify the same destination in different ways.",
+        "solution": [
+          "Kempegowda serves Bengaluru, Rajiv Gandhi serves Hyderabad and Chaudhary Charan Singh serves Lucknow. A city name and airport name can identify the same destination in different ways."
+        ],
+        "hints": [
+          "Check the city against its own row."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Check the city against its own row."
+        ]
+      },
+      {
+        "id": "ss27-source-p103-1",
+        "title": "Mobile communication discussion",
+        "reference": "Source study · p103",
+        "prompt": "Discuss a day when a mobile phone is helpful and a situation where another communication channel is needed.",
+        "sample": "A phone can carry a bus update or a family message quickly. During a network outage, a radio announcement or an in-person notice can still reach people. Consider cost and access before assuming everyone receives a message.",
+        "solution": [
+          "A phone can carry a bus update or a family message quickly. During a network outage, a radio announcement or an in-person notice can still reach people. Consider cost and access before assuming everyone receives a message."
+        ],
+        "hints": [
+          "Give one example and one limitation."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Give one example and one limitation."
+        ]
       }
     ],
     "28": [
@@ -1338,6 +1508,57 @@
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
         ]
+      },
+      {
+        "id": "ss28-source-p107-1",
+        "title": "Classifying industries by scale",
+        "reference": "Source study · p107",
+        "prompt": "What information would help compare two manufacturing units by scale?",
+        "sample": "Compare dated criteria such as investment and turnover under the applicable classification. A unit’s product alone does not determine its scale. A workshop and a large plant may both make cloth.",
+        "solution": [
+          "Compare dated criteria such as investment and turnover under the applicable classification. A unit’s product alone does not determine its scale. A workshop and a large plant may both make cloth."
+        ],
+        "hints": [
+          "Use the same criteria for both units."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Use the same criteria for both units."
+        ]
+      },
+      {
+        "id": "ss28-source-p109-1",
+        "title": "Sugar milling and Gorakhpur",
+        "reference": "Source study · p109",
+        "prompt": "Why does the sugar sidebar associate a district with milling, and how would you check a ranking?",
+        "sample": "Cane is bulky and loses sugar after cutting, so mills benefit from nearby supplies. The text uses Gorakhpur as an example. A claim about the largest number of mills requires a year and comparable district counts.",
+        "solution": [
+          "Cane is bulky and loses sugar after cutting, so mills benefit from nearby supplies. The text uses Gorakhpur as an example. A claim about the largest number of mills requires a year and comparable district counts."
+        ],
+        "hints": [
+          "Separate a location advantage from a time-sensitive ranking."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Separate a location advantage from a time-sensitive ranking."
+        ]
+      },
+      {
+        "id": "ss28-source-p111-1",
+        "title": "Information technology at school",
+        "reference": "Source study · p111",
+        "prompt": "Choose one school task and show how information technology changes it.",
+        "sample": "For attendance, a teacher can record entries and prepare a summary electronically. Someone still needs to check errors and protect access to student records.",
+        "solution": [
+          "For attendance, a teacher can record entries and prepare a summary electronically. Someone still needs to check errors and protect access to student records."
+        ],
+        "hints": [
+          "Describe the input, the output and one responsibility."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Describe the input, the output and one responsibility."
+        ]
       }
     ],
     "29": [
@@ -1609,6 +1830,23 @@
         "checklist": [
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
+      },
+      {
+        "id": "ss29-source-p116-1",
+        "title": "Kedarnath flood case",
+        "reference": "Source study · p116",
+        "prompt": "Locate the river and correct the month of the 2013 Kedarnath disaster. Why record a date with this event?",
+        "sample": "The disaster occurred in June 2013 in the Mandakini valley in Uttarakhand. Heavy rainfall and rapid flood flows devastated settlements. Dating the event distinguishes the historical case from a general hazard warning.",
+        "solution": [
+          "The disaster occurred in June 2013 in the Mandakini valley in Uttarakhand. Heavy rainfall and rapid flood flows devastated settlements. Dating the event distinguishes the historical case from a general hazard warning."
+        ],
+        "hints": [
+          "Check river, place and month together."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Check river, place and month together."
         ]
       }
     ]

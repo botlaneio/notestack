@@ -71,7 +71,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 9 | Work and Economic Life | 20 | 39 | 7 | 3 |
 | Social Science | 10 | India — Geographical Position and Physical Features | 26 | 60 | 7 | 3 |
 | Social Science | 11 | India – Seasons | 11 | 16 | 2 | 1 |
-| Social Science | 12 | India – Soils | 11 | 14 | 2 | 0 |
+| Social Science | 12 | India – Soils | 11 | 15 | 2 | 1 |
 | Social Science | 13 | India – Forest Resources | 15 | 20 | 2 | 1 |
 | Social Science | 14 | India – Water Resources | 16 | 25 | 2 | 0 |
 | Social Science | 15 | Economy and Government | 19 | 28 | 2 | 0 |
@@ -81,14 +81,14 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 19 | India after Independence | 10 | 13 | 2 | 0 |
 | Social Science | 20 | World Wars and India’s Role | 15 | 19 | 2 | 0 |
 | Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 17 | 2 | 0 |
-| Social Science | 22 | World Organisations | 26 | 29 | 2 | 0 |
+| Social Science | 22 | World Organisations | 26 | 30 | 2 | 1 |
 | Social Science | 23 | Collective Behaviour and Protests | 17 | 21 | 2 | 0 |
 | Social Science | 24 | Social Challenges | 19 | 23 | 2 | 0 |
-| Social Science | 25 | India – Land Use and Agriculture | 14 | 19 | 2 | 0 |
-| Social Science | 26 | India – Mineral and Power Resources | 12 | 13 | 2 | 1 |
-| Social Science | 27 | India – Transport and Communication | 15 | 21 | 2 | 0 |
-| Social Science | 28 | India – Major Industries | 14 | 17 | 2 | 0 |
-| Social Science | 29 | India – Natural Disasters | 11 | 14 | 2 | 0 |
+| Social Science | 25 | India – Land Use and Agriculture | 14 | 20 | 2 | 1 |
+| Social Science | 26 | India – Mineral and Power Resources | 12 | 14 | 2 | 2 |
+| Social Science | 27 | India – Transport and Communication | 15 | 22 | 2 | 1 |
+| Social Science | 28 | India – Major Industries | 14 | 18 | 2 | 1 |
+| Social Science | 29 | India – Natural Disasters | 11 | 15 | 2 | 1 |
 | Social Science | 30 | Rural Development | 16 | 18 | 2 | 1 |
 | Social Science | 31 | Public Finance and Budget | 18 | 24 | 2 | 0 |
 | Social Science | 32 | Entrepreneurship | 12 | 16 | 2 | 0 |
@@ -107,3 +107,13 @@ Certification requires a ledger covering every source page, numbered exercise/su
 | Mathematical Modelling | 13 | 7 |
 
 Software regression result during this audit: all 137 existing tests pass. The remaining coverage and accuracy findings above are unaffected by that result.
+
+## First remediation batch
+
+The UN explorer now includes all six principal organs with their individual roles. Specialised agencies have a separate selector group. A dedicated source-visual review task is mapped to printed page 54.
+
+Soils and Chapters 25–29 now have guided full-map-reading checklists covering categories, source legends, regions, routes, orientation, source dates and annotation review. Their coverage pages include explicit visual-review tasks. These activities require the learner’s supplied textbook. The application still uses representative locator points rather than reconstructed regional polygons or complete route geometry. The corresponding visual-reconstruction and independent-review findings remain open.
+
+The Freedom Struggle page/item ledger, later sidebars and portraits, and independent Maths/Science accuracy review also remain open. This batch does not certify whole-book completeness.
+
+First-batch validation: all 137 regression tests and the production build pass. Mobile browser checks verify all six organ buttons and roles, the agency selector group, exactly one map-reading panel per lesson, working checklist state and source-review entries in all six coverage pages. The mobile UN display was visually inspected.

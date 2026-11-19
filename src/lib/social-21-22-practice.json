@@ -830,6 +830,24 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss22-map-review",
+        "reference": "Source visual review · pp54",
+        "title": "Six principal organs of the United Nations",
+        "prompt": "Read the complete source visual and explain its organisation, labels and relationships. Include annotated notes for every legend entry or organ.",
+        "solution": [
+          "The six principal organs are the General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice and Secretariat.",
+          "For each organ identify its membership or officers, mandate and one limit of its authority. WHO, UNESCO and ILO are specialised agencies, rather than additional principal organs."
+        ],
+        "sample": "The six principal organs are the General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice and Secretariat. For each organ identify its membership or officers, mandate and one limit of its authority. WHO, UNESCO and ILO are specialised agencies, rather than additional principal organs.",
+        "hints": [
+          "Start with the source title and its legend or labelled branches."
+        ],
+        "checklist": [
+          "I covered every source category or principal organ and checked its labels.",
+          "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
       }
     ]
   },

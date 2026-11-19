@@ -342,6 +342,24 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss25-map-review",
+        "reference": "Source visual review · pp81–90",
+        "title": "Agricultural distribution maps",
+        "prompt": "Read the complete source visual and explain its organisation, labels and relationships. Include annotated notes for every legend entry or organ.",
+        "solution": [
+          "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names.",
+          "Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed."
+        ],
+        "sample": "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names. Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed.",
+        "hints": [
+          "Start with the source title and its legend or labelled branches."
+        ],
+        "checklist": [
+          "I covered every source category or principal organ and checked its labels.",
+          "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
       }
     ],
     "26": [
@@ -577,6 +595,24 @@
         "checklist": [
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss26-map-review",
+        "reference": "Source visual review · pp91–97",
+        "title": "Mineral and energy maps",
+        "prompt": "Read the complete source visual and explain its organisation, labels and relationships. Include annotated notes for every legend entry or organ.",
+        "solution": [
+          "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names.",
+          "Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed."
+        ],
+        "sample": "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names. Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed.",
+        "hints": [
+          "Start with the source title and its legend or labelled branches."
+        ],
+        "checklist": [
+          "I covered every source category or principal organ and checked its labels.",
+          "I explained relationships, recorded the reference and identified details needing teacher review."
         ]
       }
     ],
@@ -958,6 +994,24 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss27-map-review",
+        "reference": "Source visual review · pp98–106",
+        "title": "Transport networks and corridors",
+        "prompt": "Read the complete source visual and explain its organisation, labels and relationships. Include annotated notes for every legend entry or organ.",
+        "solution": [
+          "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names.",
+          "Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed."
+        ],
+        "sample": "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names. Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed.",
+        "hints": [
+          "Start with the source title and its legend or labelled branches."
+        ],
+        "checklist": [
+          "I covered every source category or principal organ and checked its labels.",
+          "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
       }
     ],
     "28": [
@@ -1266,6 +1320,24 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss28-map-review",
+        "reference": "Source visual review · pp107–113",
+        "title": "Industrial regions and centres",
+        "prompt": "Read the complete source visual and explain its organisation, labels and relationships. Include annotated notes for every legend entry or organ.",
+        "solution": [
+          "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names.",
+          "Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed."
+        ],
+        "sample": "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names. Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed.",
+        "hints": [
+          "Start with the source title and its legend or labelled branches."
+        ],
+        "checklist": [
+          "I covered every source category or principal organ and checked its labels.",
+          "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
       }
     ],
     "29": [
@@ -1519,6 +1591,24 @@
         "checklist": [
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss29-map-review",
+        "reference": "Source visual review · pp114–120",
+        "title": "Hazard zones and affected regions",
+        "prompt": "Read the complete source visual and explain its organisation, labels and relationships. Include annotated notes for every legend entry or organ.",
+        "solution": [
+          "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names.",
+          "Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed."
+        ],
+        "sample": "Use the source map’s complete legend to identify each mapped category, then trace every region or route and record its associated place names. Compare the source with the guided map-reading activity. Explain the geographical pattern using the chapter’s processes and record source year, legend, orientation and uncertainties. Have the completed annotations reviewed.",
+        "hints": [
+          "Start with the source title and its legend or labelled branches."
+        ],
+        "checklist": [
+          "I covered every source category or principal organ and checked its labels.",
+          "I explained relationships, recorded the reference and identified details needing teacher review."
         ]
       }
     ]

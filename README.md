@@ -40,13 +40,26 @@ Orders are not yet open. The simulated checkout, fake order success and demo lib
 
 Cloudflare hosting is configured for `notestack.shop`; DNS activation is pending the registrar nameserver change. The existing Sites deployment is separate. Browser QA is unavailable in this environment; build, typechecking and data/business-rule checks are used.
 
-## Account frontend
-`/sign-in`, `/sign-up`, `/forgot-password` and `/account` are implemented and linked from the storefront. Shared Astryx forms provide client-side validation, password visibility, autocomplete and accessible error feedback. The account page is a signed-out entry point. Authentication is not connected: forms explicitly report unavailability rather than creating fake accounts, sessions or reset emails. Credentials are not saved in browser storage or submitted anywhere.
+## Accounts and sign-in
+Students can create an account, sign in, sign out and manage their devices. The account service is a Cloudflare Worker (`cloudflare/src/`) in front of the static site; only `/api/*` requests reach it.
+
+- Storage: Cloudflare D1 database `notestack-accounts`, created on first deploy. Tables are created automatically on the first request (`SCHEMA` in `cloudflare/src/auth.ts`).
+- Passwords: PBKDF2-SHA256, 100,000 iterations, per-user salt. Plain passwords are never stored or logged.
+- Sessions: a random 256-bit token in an `HttpOnly`, `Secure`, `SameSite=Lax` cookie (`ns_session`), stored only as a SHA-256 hash, valid 30 days.
+- Sharing limit: each account can be signed in on 2 devices (`MAX_DEVICES`). A third sign-in signs out the least recently used device, which is told why. Students can see and remove devices on `/account/`. Lesson pages show the signed-in student's name and email.
+- Abuse protection: 8 failed sign-ins for an email within 15 minutes locks that email for 15 minutes. State-changing requests must be same-origin JSON.
+- Owned subjects: the `entitlements` table maps users to products: `mathematics`, `science`, `social-science`, or `core-collection` (all three). `/api/auth/session` returns the subjects a student owns, with the full pack expanded, and `/account/` shows each owned subject as its own book linking to its lessons. Payments will insert rows here (`AuthService.grant`). To grant a pack by hand, run this in the Cloudflare dashboard D1 console for `notestack-accounts`: `INSERT INTO entitlements (user_id, product_id, source, created_at) SELECT id, 'core-collection', 'manual', unixepoch()*1000 FROM users WHERE email = 'student@example.com';`
+- Password reset: `/forgot-password/` emails a one-time link (valid 30 minutes, newest link only, at most 3 per hour) through Resend. `/reset-password/` sets the new password, signs out every device and signs in the current one. The response never reveals whether an email has an account. Needs the `RESEND_API_KEY` secret (`cd cloudflare && npx cf workers secrets update RESEND_API_KEY`); without it the page says reset is unavailable. The sender is `EMAIL_FROM` in `cloudflare/cloudflare.config.ts`.
+- Not yet: phone OTP and account deletion.
+
+API: `POST /api/auth/sign-up`, `POST /api/auth/sign-in`, `POST /api/auth/sign-out`, `POST /api/auth/forgot-password`, `POST /api/auth/reset-password`, `GET /api/auth/session`, `DELETE /api/auth/devices/:id`.
+
+Local testing of accounts needs the Worker, not `npm run dev`: run `npm run build:cloudflare`, then `npx vite preview --config cloudflare/vite.config.ts` and open the printed URL. `npm run dev` still works for content pages; sign-in there reports that accounts are unavailable.
 
 
 ## Cloudflare deployment
 
-Cloudflare Workers Static Assets serves the current Next.js static export. No authentication or payment backend is added by deployment.
+Cloudflare Workers Static Assets serves the Next.js static export, and the Worker in `cloudflare/src/worker.ts` handles `/api/*` (accounts). No payment backend exists yet.
 
 ```sh
 npm ci

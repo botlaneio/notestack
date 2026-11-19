@@ -17,8 +17,6 @@ test('password recovery only requires a valid email',()=>{
  assert.deepEqual(Object.keys(validateAuthForm('forgot-password',empty)),['email']);
  assert.deepEqual(validateAuthForm('forgot-password',{...empty,email:'student@example.com'}),{});
 });
-test('unconnected auth never reports success',()=>{
- assert.match(authUnavailableMessages['sign-up'],/No account has been created/);
+test('password reset never pretends an email was sent',()=>{
  assert.match(authUnavailableMessages['forgot-password'],/No reset email has been sent/);
- assert.match(authUnavailableMessages['sign-in'],/not available yet/);
 });

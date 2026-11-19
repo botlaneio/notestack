@@ -22,8 +22,6 @@ export function validateAuthForm(mode: AuthMode, values: AuthValues): AuthErrors
   return errors;
 }
 
-export const authUnavailableMessages: Record<AuthMode, string> = {
-  'sign-in': 'Sign-in is not available yet. Account access will open when NoteStack launches.',
-  'sign-up': 'Account registration is not open yet. No account has been created and your details have not been submitted.',
-  'forgot-password': 'Password recovery is not available yet. No reset email has been sent.',
+export const authUnavailableMessages: Pick<Record<AuthMode, string>, 'forgot-password'> = {
+  'forgot-password': 'Password reset is not available right now. No reset email has been sent. Try again later or contact NoteStack support.',
 };

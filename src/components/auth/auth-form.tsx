@@ -1,11 +1,13 @@
 'use client';
 
 import Link from 'next/link';
-import {useRef, useState, type FormEvent} from 'react';
+import {useEffect, useRef, useState, type FormEvent} from 'react';
+import {useRouter} from 'next/navigation';
 import {Button} from '@astryxdesign/core/Button';
 import {TextInput} from '@astryxdesign/core/TextInput';
 import {ArrowLeft, ArrowRight, Eye, EyeOff, Info, Check} from 'lucide-react';
 import {authUnavailableMessages, validateAuthForm, type AuthErrors, type AuthField, type AuthMode, type AuthValues} from '@/lib/auth-validation';
+import {fetchSession, requestPasswordReset, safeNext, signIn, signUp, signedOutMessages} from '@/lib/auth-client';
 
 const copy = {
   'sign-in': {
@@ -40,8 +42,30 @@ export function AuthForm({mode}: {mode: AuthMode}) {
     setMessage('');
   }
 
-  function submit(event: FormEvent<HTMLFormElement>) {
+  const router = useRouter();
+  const [busy, setBusy] = useState(false);
+  const [notice, setNotice] = useState('');
+  const next = useRef('/account/');
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    next.current = safeNext(params.get('next'));
+    if (mode === 'forgot-password') return;
+    // Explain a sign-out that happened elsewhere, and skip the form if already signed in.
+    fetchSession().then(session => {
+      if (session.status === 'signed-in') router.replace(next.current);
+      else if (session.status === 'signed-out') setNotice(signedOutMessages[session.reason]);
+    });
+  }, [mode, router]);
+
+  function showMessage(text: string) {
+    setMessage(text);
+    requestAnimationFrame(() => messageRef.current?.focus());
+  }
+
+  async function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    if (busy) return;
     const nextErrors = validateAuthForm(mode, values);
     setErrors(nextErrors);
     const firstError = (['name', 'email', 'password'] as const).find(field => nextErrors[field]);
@@ -50,10 +74,30 @@ export function AuthForm({mode}: {mode: AuthMode}) {
       setMessage('');
       return;
     }
-    // Frontend boundary: never persist credentials or simulate an authenticated session.
-    // Replace this result with the real auth service response when it is integrated.
-    setMessage(authUnavailableMessages[mode]);
-    requestAnimationFrame(() => messageRef.current?.focus());
+    if (mode === 'forgot-password') {
+      setBusy(true);
+      const result = await requestPasswordReset(values.email);
+      setBusy(false);
+      // The server answers the same way whether or not the account exists.
+      showMessage(result.message ?? (result.ok ? 'If an account exists for that email, a reset link is on its way.' : authUnavailableMessages['forgot-password']));
+      return;
+    }
+    setBusy(true);
+    setMessage('');
+    const result = mode === 'sign-up' ? await signUp(values) : await signIn({email: values.email, password: values.password});
+    setBusy(false);
+    if (result.ok) {
+      const query = result.signedOutDevices ? '?signedOutDevices=' + result.signedOutDevices : '';
+      router.replace(next.current + (next.current.includes('?') ? query.replace('?', '&') : query));
+      return;
+    }
+    if (result.errors && Object.keys(result.errors).length) {
+      setErrors(result.errors);
+      const field = (['name', 'email', 'password'] as const).find(f => result.errors?.[f]);
+      if (field) form.current?.querySelector<HTMLInputElement>(`#auth-${field}`)?.focus();
+      return;
+    }
+    showMessage(result.message ?? (result.status === 404 || result.status === 0 ? 'Accounts are not available on this preview. Try again on notestack.shop.' : 'Something went wrong. Please try again.'));
   }
 
   const status = (field: AuthField) => errors[field] ? {type: 'error' as const, message: errors[field]} : undefined;
@@ -90,11 +134,12 @@ export function AuthForm({mode}: {mode: AuthMode}) {
         </p>}
       </div>}
       {mode === 'sign-in' && <div className="auth-recovery-row"><Link href="/forgot-password">Forgot password?</Link></div>}
-      <Button type="submit" variant="primary" label={content.submit} endContent={<ArrowRight size={16}/>} width="100%" className="auth-submit"/>
+      {notice && !message && <div className="auth-service-message" role="status"><Info size={18}/><p>{notice}</p></div>}
+      <Button type="submit" variant="primary" label={busy ? 'Please wait…' : content.submit} isDisabled={busy} endContent={<ArrowRight size={16}/>} width="100%" className="auth-submit"/>
       {message && <div ref={messageRef} tabIndex={-1} className="auth-service-message" role="status"><Info size={18}/><p>{message}</p></div>}
     </form>
     <div className="auth-switch">{mode === 'sign-in' ? <>New to NoteStack? <Link href="/sign-up">Create an account <ArrowUpRightSmall/></Link></> : mode === 'sign-up' ? <>Already have an account? <Link href="/sign-in">Sign in <ArrowUpRightSmall/></Link></> : <Link href="/sign-in"><ArrowLeft size={14}/>Back to sign in</Link>}</div>
-    <div className="auth-availability"><span/>Account access opens with the NoteStack launch.</div>
+    {mode !== 'forgot-password' && <p className="auth-availability"><span/>Each account can be signed in on up to 2 devices at a time.</p>}
   </div>;
 }
 

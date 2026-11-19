@@ -81,8 +81,8 @@
 
 /* ---------- Study-mode cards ---------- */
 .railWrap { background: var(--canvas); padding: 16px 0 80px; position: relative; }
-.rail { width: calc(100% - 48px); max-width: 1200px; margin: auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; }
-.card { border-radius: 24px; padding: 24px 24px 0; min-height: 360px; display: flex; flex-direction: column; overflow: hidden; text-align: left; color: var(--ink); transition: transform 0.2s; }
+.rail { width: calc(100% - 48px); max-width: 1200px; margin: auto; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 32px; }
+.card { min-width: 0; box-sizing: border-box; border-radius: 24px; padding: 24px 24px 0; min-height: 360px; display: flex; flex-direction: column; overflow: hidden; text-align: left; color: var(--ink); transition: transform 0.2s; }
 .card:hover { transform: translateY(-4px); }
 .card h3 { font-family: 'DM Sans', Arial, sans-serif; margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.4px; text-align: center; }
 .card > p { margin: 6px 0 24px; font-size: 14px; color: var(--ink-2); text-align: center; }
@@ -90,7 +90,7 @@
 .science { background: #ccf2df; }
 .revision { background: #ecdcff; }
 .social { background: #ffe0c2; }
-.panel { margin-top: auto; background: var(--surface); border-radius: 12px 12px 0 0; padding: 16px; box-shadow: var(--shadow-md); min-height: 164px; font-size: 13px; }
+.panel { min-width: 0; margin-top: auto; background: var(--surface); border-radius: 12px 12px 0 0; padding: 16px; box-shadow: var(--shadow-md); min-height: 164px; font-size: 13px; }
 .panel small { display: block; color: var(--muted); font-size: 12px; font-weight: 600; letter-spacing: 0.4px; }
 .panel strong { display: block; font-size: 15px; margin-top: 6px; line-height: 1.35; }
 .progress { height: 8px; background: var(--canvas); border-radius: 99px; margin: 12px 0 6px; overflow: hidden; }

@@ -80,9 +80,9 @@
 .textLink:hover { text-decoration: underline; }
 
 /* ---------- Study-mode cards ---------- */
-.railWrap { background: var(--canvas); padding: 16px 0 56px; position: relative; }
-.rail { width: calc(100% - 48px); max-width: 1340px; margin: auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; }
-.card { border-radius: 24px; padding: 28px 24px 0; min-height: 360px; display: flex; flex-direction: column; overflow: hidden; text-align: left; color: var(--ink); transition: transform 0.2s; }
+.railWrap { background: var(--canvas); padding: 16px 0 80px; position: relative; }
+.rail { width: calc(100% - 48px); max-width: 1200px; margin: auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; }
+.card { border-radius: 24px; padding: 24px 24px 0; min-height: 360px; display: flex; flex-direction: column; overflow: hidden; text-align: left; color: var(--ink); transition: transform 0.2s; }
 .card:hover { transform: translateY(-4px); }
 .card h3 { font-family: 'DM Sans', Arial, sans-serif; margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.4px; text-align: center; }
 .card > p { margin: 6px 0 24px; font-size: 14px; color: var(--ink-2); text-align: center; }

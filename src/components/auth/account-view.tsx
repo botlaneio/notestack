@@ -129,11 +129,11 @@ export function AccountView() {
         <span className="library-cover"><img src={p.image} width="380" height="530" alt=""/></span>
         <span className="library-meta"><small>{p.edition} · English medium</small><strong>{p.title}</strong><span>{p.subtitle}</span><span className="library-progress">{done ? `${done} chapter${done > 1 ? 's' : ''} done` : 'No chapters marked done yet'}</span><em>Open {p.title} <ArrowRight size={14}/></em></span>
       </Link>;})}</div>
-      {notOwned.length > 0 && <p className="library-more">Want more? <Link href="/#subjects">Add {notOwned.map(p => p.title).join(' or ')} <ArrowRight size={13}/></Link></p>}
+      {notOwned.length > 0 && <p className="library-more">Want more? <Link href="/shop/#subjects">Add {notOwned.map(p => p.title).join(' or ')} <ArrowRight size={13}/></Link></p>}
     </section>}
     <div className="account-sections">
       {admin && <article className="account-admin"><ShieldCheck size={23} strokeWidth={1.5}/><h2>Admin</h2><p>Look up students, unlock subjects for them and sign out their devices. This account has no device limit.</p><Link className="text-action" href="/admin/">Open admin <ArrowRight size={14}/></Link></article>}
-      {owned.length === 0 && <article><BookOpen size={23} strokeWidth={1.5}/><h2>Your study library</h2><p>No subject packs yet. Packs you buy will appear here. The first chapter of each subject is free to try.</p><Link className="text-action" href="/#subjects">Explore subject packs <ArrowRight size={14}/></Link></article>}
+      {owned.length === 0 && <article><BookOpen size={23} strokeWidth={1.5}/><h2>Your study library</h2><p>No subject packs yet. Packs you buy will appear here. The first chapter of each subject is free to try.</p><Link className="text-action" href="/shop/#subjects">Explore subject packs <ArrowRight size={14}/></Link></article>}
       <article><ShoppingBag size={23} strokeWidth={1.5}/><h2>Your orders</h2><p>Order history will appear here when ordering opens.</p></article>
       <article className="account-devices"><Laptop size={23} strokeWidth={1.5}/><h2>Signed-in devices</h2><p>{admin ? 'The house account can be signed in on any number of devices.' : 'Your account can be signed in on up to 2 devices. Signing in on another device signs out the oldest one.'}</p>
         <ul className="device-list">{devices.map(d => <li key={d.id}><div><strong>{d.device}{d.current && <em> · This device</em>}</strong><small>Last active {when(d.lastSeenAt)}</small></div><button onClick={() => removeDevice(d)} disabled={busy === d.id}>{d.current ? 'Sign out' : 'Remove'}</button></li>)}</ul>

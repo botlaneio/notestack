@@ -22,7 +22,7 @@
 .barInner { max-width: 1200px; margin: auto; height: 64px; padding: 0 16px; display: flex; align-items: center; gap: 24px; }
 .logo { display: flex; align-items: center; flex: none; }
 .links { display: flex; align-items: center; gap: 4px; font-size: 15px; font-weight: 500; color: var(--ink-2); }
-.plainLink, .dropdownButton { display: inline-flex; align-items: center; gap: 4px; min-height: 40px; padding: 0 12px; border-radius: 999px; font-weight: 500; color: var(--ink-2); }
+.plainLink, .dropdownButton { display: inline-flex; align-items: center; gap: 4px; min-height: 40px; padding: 0 12px; border-radius: 8px; font-weight: 500; color: var(--ink-2); }
 .plainLink:hover, .dropdownButton:hover, .dropdownButton[aria-expanded='true'] { background: var(--canvas); color: var(--accent); }
 .chevronOpen { transform: rotate(180deg); }
 .dropdown { position: relative; }
@@ -46,7 +46,7 @@
 .continue small { font-size: 12px; font-weight: 600; }
 .continue strong { font-size: 15px; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .authButtons { display: flex; align-items: center; gap: 8px; margin-left: 8px; }
-.ghost, .solid, .unlock { display: inline-flex; align-items: center; justify-content: center; min-height: 40px; padding: 0 18px; border-radius: 999px; font-size: 14px; font-weight: 600; white-space: nowrap; }
+.ghost, .solid, .unlock { display: inline-flex; align-items: center; justify-content: center; min-height: 40px; padding: 0 18px; border-radius: 8px; font-size: 14px; font-weight: 600; white-space: nowrap; }
 .ghost { color: var(--accent); border: 1.5px solid var(--accent); }
 .ghost:hover { background: var(--accent-wash); }
 .solid { background: var(--accent); color: #fff; }
@@ -58,11 +58,11 @@
 .search input, .mobileSearch input { flex: 1; min-width: 0; border: 0; background: none; outline: none; font: inherit; font-size: 14px; color: var(--ink); }
 .search input::placeholder, .mobileSearch input::placeholder { color: var(--faint); }
 .actions { margin-left: auto; display: flex; align-items: center; gap: 4px; }
-.iconButton { position: relative; width: 44px; height: 44px; border-radius: 999px; display: grid; place-items: center; color: var(--ink-2); }
+.iconButton { position: relative; width: 44px; height: 44px; border-radius: 8px; display: grid; place-items: center; color: var(--ink-2); }
 .iconButton:hover { background: var(--canvas); color: var(--accent); }
 .count { position: absolute; top: 4px; right: 2px; min-width: 18px; height: 18px; padding: 0 5px; border-radius: 999px; background: var(--accent); color: #fff; font-size: 11px; font-weight: 700; display: grid; place-items: center; }
 /* AccountLink renders its own link: restyle it as a filled pill. */
-.account :global(.signin-link) { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 18px; margin-left: 8px; border-radius: 999px; background: var(--accent); color: #fff; font-size: 14px; font-weight: 600; white-space: nowrap; }
+.account :global(.signin-link) { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 18px; margin-left: 8px; border-radius: 8px; background: var(--accent); color: #fff; font-size: 14px; font-weight: 600; white-space: nowrap; }
 .account :global(.signin-link):hover { background: var(--accent-hover); }
 .menuButton { display: none; }
 .mobileNav { display: none; }
@@ -74,9 +74,9 @@
 .title { font-family: 'DM Sans', Arial, sans-serif; font-size: clamp(36px, 5.4vw, 60px); line-height: 1.1; letter-spacing: -1.5px; font-weight: 700; margin: 24px auto 0; max-width: 820px; }
 .lead { font-size: 18px; line-height: 1.6; color: var(--muted); margin: 20px auto 0; max-width: 600px; }
 .cta { display: flex; justify-content: center; align-items: center; gap: 16px 24px; flex-wrap: wrap; margin-top: 32px; }
-.primary { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: 0 32px; border-radius: 999px; background: var(--accent); color: #fff; font-size: 16px; font-weight: 600; box-shadow: var(--shadow-sm); transition: background 0.15s; }
+.primary { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: 0 32px; border-radius: 8px; background: var(--accent); color: #fff; font-size: 16px; font-weight: 600; box-shadow: var(--shadow-sm); transition: background 0.15s; }
 .primary:hover { background: var(--accent-hover); }
-.textLink { color: var(--accent); font-weight: 600; font-size: 16px; min-height: 44px; padding: 0 4px; }
+.textLink { border-radius: 8px; color: var(--accent); font-weight: 600; font-size: 16px; min-height: 44px; padding: 0 4px; }
 .textLink:hover { text-decoration: underline; }
 
 /* ---------- Study-mode cards ---------- */
@@ -105,7 +105,7 @@
 .score { display: flex; align-items: center; gap: 14px; margin-top: 10px; }
 .ring { flex: none; width: 72px; height: 72px; border-radius: 50%; background: conic-gradient(var(--accent) 0 78%, var(--canvas) 0); display: grid; place-items: center; }
 .ring span { width: 56px; height: 56px; border-radius: 50%; background: #fff; display: grid; place-items: center; font-weight: 700; font-size: 16px; }
-.arrow { position: absolute; top: 45%; z-index: 2; width: 40px; height: 40px; border-radius: 50%; background: var(--surface); border: 1px solid var(--border); display: none; place-items: center; box-shadow: var(--shadow-sm); color: var(--ink); }
+.arrow { position: absolute; top: 45%; z-index: 2; width: 40px; height: 40px; border-radius: 8px; background: var(--surface); border: 1px solid var(--border); display: none; place-items: center; box-shadow: var(--shadow-sm); color: var(--ink); }
 .arrowLeft { left: 8px; }
 .arrowRight { right: 8px; }
 .strip { list-style: none; padding: 0; margin: 32px 0 0; display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; font-size: 14px; color: var(--muted); }

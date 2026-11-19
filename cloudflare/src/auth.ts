@@ -29,6 +29,36 @@ export const FAILED_WINDOW_MINUTES = 15;
 export const RESET_LINK_MINUTES = 30;
 /** At most this many reset emails per account per hour. */
 export const MAX_RESETS_PER_HOUR = 3;
+/** Email confirmation links expire after this many hours; at most 3 are sent per hour. */
+export const VERIFY_LINK_HOURS = 48;
+export const MAX_VERIFY_EMAILS_PER_HOUR = 3;
+/** Chapters a student can track; more than this is ignored so the table cannot be flooded. */
+export const MAX_PROGRESS_ROWS = 400;
+/** Lesson URLs: /learn/<area>/<chapter>/… The area maps to the subject pack that unlocks it. */
+export const LEARN_AREAS: Record<string, string> = {maths: 'mathematics', science: 'science', 'social-science': 'social-science'};
+/** The first chapter of each subject stays open to everyone as a free preview. */
+export const FREE_CHAPTERS: Record<string, string> = {
+  maths: 'real-numbers',
+  science: 'chemical-reactions-and-equations',
+  'social-science': 'the-advent-of-europeans-to-india',
+};
+
+/**
+ * Reads a lesson URL. Returns null for anything that is not a chapter page, such as the
+ * subject's chapter list (/learn/maths/) and its page data files.
+ */
+export function lessonPath(pathname: string): {area: string; subject: string; chapter: string; path: string; free: boolean} | null {
+  let decoded = pathname;
+  try {decoded = decodeURIComponent(pathname);} catch {/* keep as is */}
+  const clean = decoded.replace(/\\/g, '/').replace(/\/{2,}/g, '/').toLowerCase();
+  const m = clean.match(/^\/learn\/([^/]+)\/([^/]+)(?:\/|$)/);
+  if (!m) return null;
+  const [, area, chapter] = m;
+  const subject = LEARN_AREAS[area];
+  if (!subject) return null;
+  if (chapter.startsWith('__next') || chapter.startsWith('index.')) return null;
+  return {area, subject, chapter, path: `/learn/${area}/${chapter}/`, free: FREE_CHAPTERS[area] === chapter};
+}
 const PBKDF2_ITERATIONS = 100_000; // Workers' WebCrypto maximum for PBKDF2.
 const DAY = 86_400_000;
 
@@ -75,12 +105,40 @@ export const SCHEMA = [
     used_at INTEGER
   )`,
   `CREATE INDEX IF NOT EXISTS password_resets_user ON password_resets(user_id, created_at)`,
+  `CREATE TABLE IF NOT EXISTS email_verifications (
+    token_hash TEXT PRIMARY KEY,
+    user_id TEXT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    created_at INTEGER NOT NULL,
+    expires_at INTEGER NOT NULL,
+    used_at INTEGER
+  )`,
+  `CREATE INDEX IF NOT EXISTS email_verifications_user ON email_verifications(user_id, created_at)`,
+  // One row per chapter a student has opened. completed_at is set when they mark it done.
+  `CREATE TABLE IF NOT EXISTS progress (
+    user_id TEXT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    path TEXT NOT NULL,
+    subject TEXT NOT NULL,
+    title TEXT,
+    first_seen_at INTEGER NOT NULL,
+    last_seen_at INTEGER NOT NULL,
+    completed_at INTEGER,
+    PRIMARY KEY (user_id, path)
+  )`,
+];
+/** Columns added after launch. Each runs once; "duplicate column" errors mean it already ran. */
+const MIGRATIONS = [
+  'ALTER TABLE users ADD COLUMN email_verified_at INTEGER',
 ];
 
 let schemaReady: WeakSet<object> = new WeakSet();
 export async function ensureSchema(db: D1Database): Promise<void> {
   if (schemaReady.has(db)) return;
   for (const statement of SCHEMA) await db.prepare(statement).run();
+  for (const statement of MIGRATIONS) {
+    try {await db.prepare(statement).run();} catch (error) {
+      if (!/duplicate column/i.test(String((error as Error)?.message ?? error))) throw error;
+    }
+  }
   schemaReady.add(db);
 }
 export function resetSchemaCache() {schemaReady = new WeakSet();}
@@ -153,9 +211,9 @@ export function describeDevice(userAgent: string | null): string {
 }
 
 // ---------- service ----------
-export interface PublicUser {id: string; name: string; email: string; createdAt: number}
+export interface PublicUser {id: string; name: string; email: string; createdAt: number; emailVerified: boolean}
 export interface DeviceSession {id: string; device: string; createdAt: number; lastSeenAt: number; current: boolean}
-interface UserRow {id: string; email: string; name: string; password_hash: string; created_at: number}
+interface UserRow {id: string; email: string; name: string; password_hash: string; created_at: number; email_verified_at?: number | null}
 interface SessionRow {id: string; user_id: string; device: string; created_at: number; last_seen_at: number; expires_at: number; revoked_at: number | null; revoked_reason: string | null}
 
 export type AuthFailure =
@@ -166,15 +224,35 @@ export type AuthFailure =
 export interface SessionCreated {ok: true; user: PublicUser; token: string; expiresAt: number; signedOutDevices: number}
 
 function publicUser(row: UserRow): PublicUser {
-  return {id: row.id, name: row.name, email: row.email, createdAt: row.created_at};
+  return {id: row.id, name: row.name, email: row.email, createdAt: row.created_at, emailVerified: Boolean(row.email_verified_at)};
+}
+
+export interface AdminUser extends PublicUser {
+  products: {productId: string; source: string; createdAt: number}[];
+  activeDevices: number;
+  chaptersDone: number;
+  lastSeenAt: number | null;
+}
+export interface ProgressEntry {path: string; subject: string; title: string | null; lastSeenAt: number; completedAt: number | null}
+
+/** Parses a comma-separated list of admin emails, such as the ADMIN_EMAILS setting. */
+export function parseAdminEmails(value: unknown): string[] {
+  return typeof value === 'string' ? value.split(',').map(normaliseEmail).filter(Boolean) : [];
 }
 
 export class AuthService {
   db: D1Database;
   now: () => number;
-  constructor(db: D1Database, now: () => number = Date.now) {
+  adminEmails: string[];
+  constructor(db: D1Database, now: () => number = Date.now, options: {adminEmails?: string[]} = {}) {
     this.db = db;
     this.now = now;
+    this.adminEmails = options.adminEmails ?? [];
+  }
+
+  /** Admins (the house account) see every subject and have no device limit. The email must be confirmed. */
+  isAdmin(user: {email: string; emailVerified: boolean} | null | undefined): boolean {
+    return Boolean(user && user.emailVerified && this.adminEmails.includes(normaliseEmail(user.email)));
   }
 
   async signUp(input: {name?: unknown; email?: unknown; password?: unknown}, userAgent: string | null): Promise<SessionCreated | AuthFailure> {
@@ -225,7 +303,7 @@ export class AuthService {
       .bind(crypto.randomUUID(), await sha256(token), user.id, describeDevice(userAgent), now, now, expiresAt).run();
     const active = await this.db.prepare('SELECT id FROM sessions WHERE user_id = ? AND revoked_at IS NULL AND expires_at > ? ORDER BY last_seen_at DESC, created_at DESC')
       .bind(user.id, now).all<{id: string}>();
-    const extra = (active.results ?? []).slice(MAX_DEVICES);
+    const extra = this.isAdmin(publicUser(user)) ? [] : (active.results ?? []).slice(MAX_DEVICES);
     for (const row of extra) {
       await this.db.prepare("UPDATE sessions SET revoked_at = ?, revoked_reason = 'device_limit' WHERE id = ?").bind(now, row.id).run();
     }
@@ -233,7 +311,7 @@ export class AuthService {
   }
 
   /** Resolves a session token. A revoked session reports why, so the device can explain it. */
-  async getSession(token: string | null): Promise<{user: PublicUser; sessionId: string} | {user: null; reason: 'none' | 'expired' | 'device_limit' | 'signed_out' | 'password_reset'}> {
+  async getSession(token: string | null): Promise<{user: PublicUser; sessionId: string; admin: boolean} | {user: null; reason: 'none' | 'expired' | 'device_limit' | 'signed_out' | 'password_reset'}> {
     if (!token) return {user: null, reason: 'none'};
     await ensureSchema(this.db);
     const now = this.now();
@@ -246,7 +324,8 @@ export class AuthService {
     if (now - session.last_seen_at > 5 * 60_000) {
       await this.db.prepare('UPDATE sessions SET last_seen_at = ? WHERE id = ?').bind(now, session.id).run();
     }
-    return {user: publicUser(user), sessionId: session.id};
+    const pub = publicUser(user);
+    return {user: pub, sessionId: session.id, admin: this.isAdmin(pub)};
   }
 
   async listDevices(userId: string, currentSessionId: string): Promise<DeviceSession[]> {
@@ -325,6 +404,148 @@ export class AuthService {
     await this.db.prepare('UPDATE users SET password_hash = ? WHERE id = ?').bind(user.password_hash, user.id).run();
     await this.db.prepare("UPDATE sessions SET revoked_at = ?, revoked_reason = 'password_reset' WHERE user_id = ? AND revoked_at IS NULL").bind(now, user.id).run();
     await this.db.prepare('DELETE FROM sign_in_failures WHERE email = ?').bind(user.email).run();
+    // Opening a link sent to the inbox proves the student owns the address.
+    if (!user.email_verified_at) {
+      user.email_verified_at = now;
+      await this.db.prepare('UPDATE users SET email_verified_at = ? WHERE id = ?').bind(now, user.id).run();
+    }
     return this.createSession(user, userAgent);
+  }
+
+  // ---------- email confirmation ----------
+
+  /** Creates a confirmation link token, or null if the email is confirmed or too many were sent. */
+  async createEmailVerification(userId: string): Promise<{token: string; user: PublicUser} | null> {
+    await ensureSchema(this.db);
+    const user = await this.db.prepare('SELECT * FROM users WHERE id = ?').bind(userId).first<UserRow>();
+    if (!user || user.email_verified_at) return null;
+    const now = this.now();
+    const recent = await this.db.prepare('SELECT COUNT(*) AS n FROM email_verifications WHERE user_id = ? AND created_at > ?').bind(userId, now - 3_600_000).first<{n: number}>();
+    if ((recent?.n ?? 0) >= MAX_VERIFY_EMAILS_PER_HOUR) return null;
+    const token = randomToken();
+    await this.db.prepare('INSERT INTO email_verifications (token_hash, user_id, created_at, expires_at) VALUES (?, ?, ?, ?)')
+      .bind(await sha256(token), userId, now, now + VERIFY_LINK_HOURS * 3_600_000).run();
+    return {token, user: publicUser(user)};
+  }
+
+  /** Confirms an email from its link. Any unexpired link for the account works. */
+  async verifyEmail(tokenInput: unknown): Promise<{ok: true; user: PublicUser} | {ok: false}> {
+    await ensureSchema(this.db);
+    const token = typeof tokenInput === 'string' ? tokenInput : '';
+    if (!/^[0-9a-f]{64}$/.test(token)) return {ok: false};
+    const now = this.now();
+    const row = await this.db.prepare('SELECT * FROM email_verifications WHERE token_hash = ?').bind(await sha256(token)).first<{token_hash: string; user_id: string; expires_at: number; used_at: number | null}>();
+    if (!row || row.expires_at <= now) return {ok: false};
+    const user = await this.db.prepare('SELECT * FROM users WHERE id = ?').bind(row.user_id).first<UserRow>();
+    if (!user) return {ok: false};
+    if (!user.email_verified_at) {
+      user.email_verified_at = now;
+      await this.db.prepare('UPDATE users SET email_verified_at = ? WHERE id = ?').bind(now, user.id).run();
+    }
+    await this.db.prepare('UPDATE email_verifications SET used_at = ? WHERE user_id = ? AND used_at IS NULL').bind(now, user.id).run();
+    return {ok: true, user: publicUser(user)};
+  }
+
+  // ---------- password change ----------
+
+  /** Changes the password after checking the current one. Every other device is signed out. */
+  async changePassword(userId: string, sessionId: string, input: {currentPassword?: unknown; newPassword?: unknown}): Promise<{ok: true; signedOutDevices: number} | {ok: false; status: 400 | 401 | 429; code: 'invalid_input' | 'wrong_password' | 'too_many_attempts'; errors?: Record<string, string>}> {
+    const current = typeof input.currentPassword === 'string' ? input.currentPassword : '';
+    const next = typeof input.newPassword === 'string' ? input.newPassword : '';
+    if (next.length < 8) return {ok: false, status: 400, code: 'invalid_input', errors: {newPassword: 'Use at least 8 characters for your new password.'}};
+    if (next.length > 200) return {ok: false, status: 400, code: 'invalid_input', errors: {newPassword: 'Use 200 characters or fewer for your password.'}};
+    const user = await this.db.prepare('SELECT * FROM users WHERE id = ?').bind(userId).first<UserRow>();
+    if (!user) return {ok: false, status: 401, code: 'wrong_password'};
+    const since = this.now() - FAILED_WINDOW_MINUTES * 60_000;
+    const failures = await this.db.prepare('SELECT COUNT(*) AS n FROM sign_in_failures WHERE email = ? AND at > ?').bind(user.email, since).first<{n: number}>();
+    if ((failures?.n ?? 0) >= MAX_FAILED_SIGN_INS) return {ok: false, status: 429, code: 'too_many_attempts'};
+    if (!await verifyPassword(current, user.password_hash)) {
+      await this.db.prepare('INSERT INTO sign_in_failures (email, at) VALUES (?, ?)').bind(user.email, this.now()).run();
+      return {ok: false, status: 401, code: 'wrong_password', errors: {currentPassword: 'That is not your current password.'}};
+    }
+    const now = this.now();
+    await this.db.prepare('UPDATE users SET password_hash = ? WHERE id = ?').bind(await hashPassword(next), userId).run();
+    const others = await this.db.prepare('SELECT id FROM sessions WHERE user_id = ? AND id != ? AND revoked_at IS NULL AND expires_at > ?').bind(userId, sessionId, now).all<{id: string}>();
+    await this.db.prepare("UPDATE sessions SET revoked_at = ?, revoked_reason = 'password_reset' WHERE user_id = ? AND id != ? AND revoked_at IS NULL").bind(now, userId, sessionId).run();
+    return {ok: true, signedOutDevices: (others.results ?? []).length};
+  }
+
+  // ---------- chapter progress ----------
+
+  /** Records that a chapter was opened, and optionally marks it done (true) or not done (false). */
+  async recordProgress(userId: string, input: {path?: unknown; title?: unknown; completed?: unknown}): Promise<boolean> {
+    const lesson = lessonPath(typeof input.path === 'string' ? input.path : '');
+    if (!lesson || !/^[a-z0-9-]{1,100}$/.test(lesson.chapter)) return false;
+    const title = typeof input.title === 'string' ? input.title.replace(/\s+/g, ' ').trim().slice(0, 120) || null : null;
+    const now = this.now();
+    const existing = await this.db.prepare('SELECT completed_at FROM progress WHERE user_id = ? AND path = ?').bind(userId, lesson.path).first<{completed_at: number | null}>();
+    if (!existing) {
+      const count = await this.db.prepare('SELECT COUNT(*) AS n FROM progress WHERE user_id = ?').bind(userId).first<{n: number}>();
+      if ((count?.n ?? 0) >= MAX_PROGRESS_ROWS) return false;
+    }
+    const completedAt = input.completed === true ? (existing?.completed_at ?? now) : input.completed === false ? null : (existing?.completed_at ?? null);
+    await this.db.prepare(`INSERT INTO progress (user_id, path, subject, title, first_seen_at, last_seen_at, completed_at) VALUES (?, ?, ?, ?, ?, ?, ?)
+      ON CONFLICT (user_id, path) DO UPDATE SET last_seen_at = excluded.last_seen_at, completed_at = excluded.completed_at, title = COALESCE(excluded.title, progress.title)`)
+      .bind(userId, lesson.path, lesson.subject, title, now, now, completedAt).run();
+    return true;
+  }
+
+  async progress(userId: string): Promise<ProgressEntry[]> {
+    const rows = await this.db.prepare('SELECT path, subject, title, last_seen_at, completed_at FROM progress WHERE user_id = ? ORDER BY last_seen_at DESC LIMIT ?')
+      .bind(userId, MAX_PROGRESS_ROWS).all<{path: string; subject: string; title: string | null; last_seen_at: number; completed_at: number | null}>();
+    return (rows.results ?? []).map(r => ({path: r.path, subject: r.subject, title: r.title, lastSeenAt: r.last_seen_at, completedAt: r.completed_at}));
+  }
+
+  /** Whether this user may open a lesson in the given subject. */
+  async canOpen(user: PublicUser, subject: string): Promise<boolean> {
+    if (this.isAdmin(user)) return true;
+    return (await this.entitlements(user.id)).includes(subject);
+  }
+
+  // ---------- admin ----------
+
+  /** Finds students by email or name for the admin page. */
+  async searchUsers(query: unknown, limit = 25): Promise<AdminUser[]> {
+    await ensureSchema(this.db);
+    const q = typeof query === 'string' ? query.trim().toLowerCase().slice(0, 100) : '';
+    const like = `%${q.replace(/[\\%_]/g, c => '\\' + c)}%`;
+    const now = this.now();
+    const users = await this.db.prepare(`SELECT * FROM users WHERE ? = '' OR lower(email) LIKE ? ESCAPE '\\' OR lower(name) LIKE ? ESCAPE '\\' ORDER BY created_at DESC LIMIT ?`)
+      .bind(q, like, like, limit).all<UserRow>();
+    const out: AdminUser[] = [];
+    for (const row of users.results ?? []) {
+      const [products, devices, done] = await Promise.all([
+        this.db.prepare('SELECT product_id, source, created_at FROM entitlements WHERE user_id = ? ORDER BY created_at').bind(row.id).all<{product_id: string; source: string; created_at: number}>(),
+        this.db.prepare('SELECT COUNT(*) AS n, MAX(last_seen_at) AS last FROM sessions WHERE user_id = ? AND revoked_at IS NULL AND expires_at > ?').bind(row.id, now).first<{n: number; last: number | null}>(),
+        this.db.prepare('SELECT COUNT(*) AS n FROM progress WHERE user_id = ? AND completed_at IS NOT NULL').bind(row.id).first<{n: number}>(),
+      ]);
+      out.push({
+        ...publicUser(row),
+        products: (products.results ?? []).map(p => ({productId: p.product_id, source: p.source, createdAt: p.created_at})),
+        activeDevices: devices?.n ?? 0, lastSeenAt: devices?.last ?? null, chaptersDone: done?.n ?? 0,
+      });
+    }
+    return out;
+  }
+
+  async findUser(userId: string): Promise<PublicUser | null> {
+    const row = await this.db.prepare('SELECT * FROM users WHERE id = ?').bind(userId).first<UserRow>();
+    return row ? publicUser(row) : null;
+  }
+
+  /** Removes a subject or the full pack from an account (for refunds or mistakes). */
+  async revoke(userId: string, productId: string): Promise<boolean> {
+    const row = await this.db.prepare('SELECT product_id FROM entitlements WHERE user_id = ? AND product_id = ?').bind(userId, productId).first();
+    if (!row) return false;
+    await this.db.prepare('DELETE FROM entitlements WHERE user_id = ? AND product_id = ?').bind(userId, productId).run();
+    return true;
+  }
+
+  /** Signs an account out everywhere. Returns how many devices were signed out. */
+  async signOutEverywhere(userId: string): Promise<number> {
+    const now = this.now();
+    const rows = await this.db.prepare('SELECT id FROM sessions WHERE user_id = ? AND revoked_at IS NULL AND expires_at > ?').bind(userId, now).all<{id: string}>();
+    await this.db.prepare("UPDATE sessions SET revoked_at = ?, revoked_reason = 'signed_out' WHERE user_id = ? AND revoked_at IS NULL").bind(now, userId).run();
+    return (rows.results ?? []).length;
   }
 }

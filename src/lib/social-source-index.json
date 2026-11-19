@@ -19,6 +19,16 @@
       "page": 101,
       "title": "Taluk rainfall investigation",
       "taskId": "ss11-task-014"
+    },
+    {
+      "page": 101,
+      "title": "Draw rainfall regions",
+      "taskId": "ss11-task-015"
+    },
+    {
+      "page": 101,
+      "title": "Local seasonal calendar",
+      "taskId": "ss11-task-016"
     }
   ],
   "12": [
@@ -31,6 +41,21 @@
       "page": 105,
       "title": "Reading soil texture",
       "taskId": "ss12-source-p105-1"
+    },
+    {
+      "page": 105,
+      "title": "Local soil inventory",
+      "taskId": "ss12-task-012"
+    },
+    {
+      "page": 105,
+      "title": "Grazing and erosion",
+      "taskId": "ss12-task-013"
+    },
+    {
+      "page": 105,
+      "title": "Soil testing",
+      "taskId": "ss12-task-014"
     }
   ],
   "13": [
@@ -48,6 +73,26 @@
       "page": 110,
       "title": "Counting protected places",
       "taskId": "ss13-source-p110-1"
+    },
+    {
+      "page": 110,
+      "title": "Local vegetation",
+      "taskId": "ss13-task-017"
+    },
+    {
+      "page": 110,
+      "title": "Tree list",
+      "taskId": "ss13-task-018"
+    },
+    {
+      "page": 110,
+      "title": "Wildlife album",
+      "taskId": "ss13-task-019"
+    },
+    {
+      "page": 110,
+      "title": "Reserve map",
+      "taskId": "ss13-task-020"
     }
   ],
   "14": [
@@ -72,9 +117,34 @@
       "taskId": "ss14-task-021"
     },
     {
+      "page": 117,
+      "title": "State-by-state hydroelectric project list",
+      "taskId": "ss14-task-019"
+    },
+    {
       "page": 118,
       "title": "Rooftop rainwater harvesting diagram",
       "taskId": "ss14-task-015"
+    },
+    {
+      "page": 119,
+      "title": "Uses and trade-offs",
+      "taskId": "ss14-task-022"
+    },
+    {
+      "page": 119,
+      "title": "Harvesting visit plan",
+      "taskId": "ss14-task-023"
+    },
+    {
+      "page": 119,
+      "title": "Irrigation near you",
+      "taskId": "ss14-task-024"
+    },
+    {
+      "page": 119,
+      "title": "Describe one project",
+      "taskId": "ss14-task-025"
     }
   ],
   "15": [
@@ -107,6 +177,26 @@
       "page": 126,
       "title": "Rainbow Revolution sidebar",
       "taskId": "ss15-task-024"
+    },
+    {
+      "page": 129,
+      "title": "Goods in your surroundings",
+      "taskId": "ss15-task-025"
+    },
+    {
+      "page": 129,
+      "title": "Twelfth Plan research",
+      "taskId": "ss15-task-026"
+    },
+    {
+      "page": 129,
+      "title": "NITI functions",
+      "taskId": "ss15-task-027"
+    },
+    {
+      "page": 129,
+      "title": "Farm report",
+      "taskId": "ss15-task-028"
     }
   ],
   "16": [
@@ -139,6 +229,21 @@
       "page": 135,
       "title": "Calculate interest on a ₹50,000 deposit",
       "taskId": "ss16-task-022"
+    },
+    {
+      "page": 139,
+      "title": "A list of banks",
+      "taskId": "ss16-task-023"
+    },
+    {
+      "page": 139,
+      "title": "Term-deposit enquiry",
+      "taskId": "ss16-task-024"
+    },
+    {
+      "page": 139,
+      "title": "Account-opening report",
+      "taskId": "ss16-task-025"
     }
   ],
   "17": [
@@ -156,6 +261,16 @@
       "page": 3,
       "title": "Rani Lakshmibai portrait",
       "taskId": "ss17-task-003"
+    },
+    {
+      "page": 5,
+      "title": "Annexation map",
+      "taskId": "ss17-task-011"
+    },
+    {
+      "page": 5,
+      "title": "A historical argument",
+      "taskId": "ss17-task-012"
     }
   ],
   "18": [
@@ -247,6 +362,16 @@
     {
       "page": 11,
       "title": "Satyagraha and mass participation",
+      "taskId": "ss18-source-review-008"
+    },
+    {
+      "page": 11,
+      "title": "Congress membership and mass participation box",
+      "taskId": "ss18-source-review-008"
+    },
+    {
+      "page": 11,
+      "title": "Meaning of satyagraha box",
       "taskId": "ss18-source-review-008"
     },
     {
@@ -365,6 +490,16 @@
       "taskId": "ss18-source-review-023"
     },
     {
+      "page": 20,
+      "title": "Bose on British reverses in Europe",
+      "taskId": "ss18-source-review-023"
+    },
+    {
+      "page": 20,
+      "title": "Bose’s pledge of service after independence",
+      "taskId": "ss18-source-review-023"
+    },
+    {
       "page": 21,
       "title": "The INA’s early organisation",
       "taskId": "ss18-source-review-024"
@@ -433,6 +568,26 @@
       "page": 26,
       "title": "Mountbatten and the transfer of power",
       "taskId": "ss18-source-review-034"
+    },
+    {
+      "page": 28,
+      "title": "Freedom fighters album",
+      "taskId": "ss18-task-031"
+    },
+    {
+      "page": 28,
+      "title": "Two events in pictures",
+      "taskId": "ss18-task-032"
+    },
+    {
+      "page": 28,
+      "title": "Satyagraha discussion",
+      "taskId": "ss18-task-033"
+    },
+    {
+      "page": 28,
+      "title": "Historical drama",
+      "taskId": "ss18-task-034"
     }
   ],
   "19": [
@@ -452,9 +607,34 @@
       "taskId": "ss19-detail-003"
     },
     {
+      "page": 31,
+      "title": "Privy purse passage continued from page 30",
+      "taskId": "ss19-detail-003"
+    },
+    {
+      "page": 32,
+      "title": "Andhra State and Andhra Pradesh chronology",
+      "taskId": "ss19-detail-004"
+    },
+    {
       "page": 33,
       "title": "States created after 1970",
       "taskId": "ss19-detail-005"
+    },
+    {
+      "page": 33,
+      "title": "State map",
+      "taskId": "ss19-task-011"
+    },
+    {
+      "page": 33,
+      "title": "Capitals and languages",
+      "taskId": "ss19-task-012"
+    },
+    {
+      "page": 33,
+      "title": "Neighbouring cultures",
+      "taskId": "ss19-task-013"
     }
   ],
   "20": [
@@ -482,6 +662,21 @@
       "page": 42,
       "title": "African independence timeline",
       "taskId": "ss20-source-p42-1"
+    },
+    {
+      "page": 43,
+      "title": "Peace efforts",
+      "taskId": "ss20-task-017"
+    },
+    {
+      "page": 43,
+      "title": "World alliances map",
+      "taskId": "ss20-task-018"
+    },
+    {
+      "page": 43,
+      "title": "Flags album",
+      "taskId": "ss20-task-019"
     }
   ],
   "21": [
@@ -494,6 +689,21 @@
       "page": 51,
       "title": "Arms-control abbreviations",
       "taskId": "ss21-task-014"
+    },
+    {
+      "page": 52,
+      "title": "Human Rights Commission research",
+      "taskId": "ss21-task-015"
+    },
+    {
+      "page": 52,
+      "title": "Kailash Satyarthi",
+      "taskId": "ss21-task-016"
+    },
+    {
+      "page": 52,
+      "title": "Rights defenders",
+      "taskId": "ss21-task-017"
     }
   ],
   "22": [
@@ -523,9 +733,24 @@
       "taskId": "ss22-task-029"
     },
     {
+      "page": 56,
+      "title": "UN Nobel Peace Prize list",
+      "taskId": "ss22-task-029"
+    },
+    {
       "page": 58,
       "title": "Karnataka UNESCO sites activity",
       "taskId": "ss22-task-027"
+    },
+    {
+      "page": 62,
+      "title": "Five institutions of the World Bank Group",
+      "taskId": "ss22-box-62"
+    },
+    {
+      "page": 63,
+      "title": "Peacekeeping in the news",
+      "taskId": "ss22-task-028"
     }
   ],
   "23": [
@@ -548,6 +773,26 @@
       "page": 69,
       "title": "Stree Shakti sidebar",
       "taskId": "ss23-task-012"
+    },
+    {
+      "page": 70,
+      "title": "Group programmes",
+      "taskId": "ss23-task-018"
+    },
+    {
+      "page": 70,
+      "title": "Members’ experiences",
+      "taskId": "ss23-task-019"
+    },
+    {
+      "page": 70,
+      "title": "Karnataka environmental album",
+      "taskId": "ss23-task-020"
+    },
+    {
+      "page": 70,
+      "title": "Sasya Shyamala report",
+      "taskId": "ss23-task-021"
     }
   ],
   "24": [
@@ -595,6 +840,16 @@
       "page": 79,
       "title": "Census sex ratio sidebar and comparison table",
       "taskId": "ss24-task-018"
+    },
+    {
+      "page": 80,
+      "title": "Local social issues",
+      "taskId": "ss24-task-022"
+    },
+    {
+      "page": 80,
+      "title": "Legal expert discussion",
+      "taskId": "ss24-task-023"
     }
   ],
   "25": [
@@ -637,6 +892,31 @@
       "page": 89,
       "title": "Linking growers to buyers",
       "taskId": "ss25-source-p89-1"
+    },
+    {
+      "page": 90,
+      "title": "Food-grain samples",
+      "taskId": "ss25-task-015"
+    },
+    {
+      "page": 90,
+      "title": "Cash-crop map",
+      "taskId": "ss25-task-016"
+    },
+    {
+      "page": 90,
+      "title": "Tobacco and health",
+      "taskId": "ss25-task-017"
+    },
+    {
+      "page": 90,
+      "title": "Neighbourhood crops",
+      "taskId": "ss25-task-018"
+    },
+    {
+      "page": 90,
+      "title": "Floriculture and participation",
+      "taskId": "ss25-task-019"
     }
   ],
   "26": [
@@ -664,6 +944,11 @@
       "page": 96,
       "title": "Power resources map",
       "taskId": "ss26-map-review"
+    },
+    {
+      "page": 97,
+      "title": "Mineral map",
+      "taskId": "ss26-task-013"
     }
   ],
   "27": [
@@ -686,6 +971,36 @@
       "page": 103,
       "title": "Mobile communication discussion",
       "taskId": "ss27-source-p103-1"
+    },
+    {
+      "page": 106,
+      "title": "Transport map",
+      "taskId": "ss27-task-016"
+    },
+    {
+      "page": 106,
+      "title": "Satellite images album",
+      "taskId": "ss27-task-017"
+    },
+    {
+      "page": 106,
+      "title": "Local transport",
+      "taskId": "ss27-task-018"
+    },
+    {
+      "page": 106,
+      "title": "Village road maintenance",
+      "taskId": "ss27-task-019"
+    },
+    {
+      "page": 106,
+      "title": "Transport and development",
+      "taskId": "ss27-task-020"
+    },
+    {
+      "page": 106,
+      "title": "ISRO in Karnataka",
+      "taskId": "ss27-task-021"
     }
   ],
   "28": [
@@ -708,6 +1023,16 @@
       "page": 111,
       "title": "Information technology at school",
       "taskId": "ss28-source-p111-1"
+    },
+    {
+      "page": 113,
+      "title": "Industrial map",
+      "taskId": "ss28-task-016"
+    },
+    {
+      "page": 113,
+      "title": "Manufacturing report",
+      "taskId": "ss28-task-017"
     }
   ],
   "29": [
@@ -725,6 +1050,16 @@
       "page": 116,
       "title": "Kedarnath flood case",
       "taskId": "ss29-source-p116-1"
+    },
+    {
+      "page": 120,
+      "title": "Risk map",
+      "taskId": "ss29-task-012"
+    },
+    {
+      "page": 120,
+      "title": "Flood-affected places",
+      "taskId": "ss29-task-014"
     }
   ],
   "30": [
@@ -757,6 +1092,11 @@
       "page": 126,
       "title": "Local self-help group visit",
       "taskId": "ss30-task-018"
+    },
+    {
+      "page": 127,
+      "title": "Local Panchayat enquiry",
+      "taskId": "ss30-task-017"
     }
   ],
   "31": [
@@ -764,6 +1104,16 @@
       "page": 128,
       "title": "Family income discussion",
       "taskId": "ss31-task-024"
+    },
+    {
+      "page": 128,
+      "title": "Private and public finance comparison table",
+      "taskId": "ss31-task-011"
+    },
+    {
+      "page": 129,
+      "title": "Private and public finance table continued",
+      "taskId": "ss31-task-011"
     },
     {
       "page": 131,
@@ -784,6 +1134,26 @@
       "page": 135,
       "title": "2013–14 estimated receipts pie chart",
       "taskId": "ss31-task-020"
+    },
+    {
+      "page": 136,
+      "title": "Other budget deficits formula box",
+      "taskId": "ss31-task-015"
+    },
+    {
+      "page": 137,
+      "title": "Panchayat budget",
+      "taskId": "ss31-task-021"
+    },
+    {
+      "page": 137,
+      "title": "Budget presentation",
+      "taskId": "ss31-task-022"
+    },
+    {
+      "page": 137,
+      "title": "News display",
+      "taskId": "ss31-task-023"
     }
   ],
   "32": [
@@ -791,9 +1161,34 @@
       "page": 144,
       "title": "Entrepreneur portrait collection activity",
       "taskId": "ss32-task-015"
+    },
+    {
+      "page": 144,
+      "title": "Enterprise workforce enquiry",
+      "taskId": "ss32-task-013"
+    },
+    {
+      "page": 144,
+      "title": "Online enterprise research",
+      "taskId": "ss32-task-014"
+    },
+    {
+      "page": 144,
+      "title": "Enterprise interview plan",
+      "taskId": "ss32-task-016"
     }
   ],
   "33": [
+    {
+      "page": 146,
+      "title": "Teleshopping and a consumer’s record",
+      "taskId": "ss33-box-146"
+    },
+    {
+      "page": 146,
+      "title": "Boxed definition of a consumer",
+      "taskId": "ss33-task-005"
+    },
     {
       "page": 150,
       "title": "Reading the pictured packet",
@@ -818,6 +1213,31 @@
       "page": 150,
       "title": "Use-by date",
       "taskId": "ss33-task-019"
+    },
+    {
+      "page": 150,
+      "title": "Commission visit plan",
+      "taskId": "ss33-task-020"
+    },
+    {
+      "page": 150,
+      "title": "Four awareness slogans",
+      "taskId": "ss33-task-021"
+    },
+    {
+      "page": 150,
+      "title": "Awareness event plan",
+      "taskId": "ss33-task-022"
+    },
+    {
+      "page": 150,
+      "title": "Receipt collection",
+      "taskId": "ss33-task-023"
+    },
+    {
+      "page": 150,
+      "title": "Fictional complaint",
+      "taskId": "ss33-task-024"
     }
   ]
 }

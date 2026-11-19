@@ -882,6 +882,24 @@
           "I identified the source detail named in the question.",
           "Give the office, the countries and the sequence."
         ]
+      },
+      {
+        "id": "ss22-box-62",
+        "title": "Five institutions of the World Bank Group",
+        "reference": "Textbook sidebar · p62",
+        "prompt": "A government seeks a development loan, a private firm seeks investment, and a foreign investor asks about political risk. Use the sidebar to identify the institutions involved. What does the fifth institution do?",
+        "sample": "IBRD lends to middle-income and creditworthy poorer governments. IDA offers grants and concessional finance to the poorest countries. IFC supports private enterprises. MIGA provides political risk guarantees. ICSID provides facilities for resolving investment disputes. The World Bank itself comprises IBRD and IDA.",
+        "solution": [
+          "IBRD lends to middle-income and creditworthy poorer governments. IDA offers grants and concessional finance to the poorest countries. IFC supports private enterprises.",
+          "MIGA provides political risk guarantees. ICSID provides facilities for resolving investment disputes. The World Bank itself comprises IBRD and IDA."
+        ],
+        "hints": [
+          "Match each institution to its client or function."
+        ],
+        "checklist": [
+          "Match each institution to its client or function.",
+          "I used an example to explain my answer."
+        ]
       }
     ]
   },

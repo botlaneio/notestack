@@ -81,7 +81,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 19 | India after Independence | 10 | 18 | 2 | 0 |
 | Social Science | 20 | World Wars and India’s Role | 15 | 20 | 2 | 0 |
 | Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 18 | 2 | 0 |
-| Social Science | 22 | World Organisations | 26 | 31 | 2 | 1 |
+| Social Science | 22 | World Organisations | 26 | 32 | 2 | 1 |
 | Social Science | 23 | Collective Behaviour and Protests | 17 | 21 | 2 | 0 |
 | Social Science | 24 | Social Challenges | 19 | 23 | 2 | 0 |
 | Social Science | 25 | India – Land Use and Agriculture | 14 | 26 | 2 | 1 |
@@ -92,7 +92,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 30 | Rural Development | 16 | 18 | 2 | 1 |
 | Social Science | 31 | Public Finance and Budget | 18 | 25 | 2 | 0 |
 | Social Science | 32 | Entrepreneurship | 12 | 16 | 2 | 0 |
-| Social Science | 33 | Consumer Education and Protection | 15 | 24 | 2 | 0 |
+| Social Science | 33 | Consumer Education and Protection | 15 | 25 | 2 | 0 |
 
 The Maths appendices are implemented separately and are outside the 59 main-chapter rows.
 
@@ -139,3 +139,5 @@ The six map-reading panels now include all nine map figures identified on the su
 ## Social Science source features
 
 The lesson index maps 155 source entries across Chapters 11–33 to workbook tasks. It includes illustrated figures, portrait captions, charts, sidebars and in-text activities, with printed page numbers. Several entries can share a practice task when a figure or comparison involves multiple subjects. Technical QR codes and repeated page decorations are excluded. Independent subject-accuracy review remains open.
+
+The [printed-page crosswalk](social-science-page-crosswalk.md) records all 192 reviewed pages, including pages without separate visual or activity items. It includes the World Bank Group box, UN Nobel sidebar, continued finance table, deficit formulas and boxed consumer definitions found in the layout review.

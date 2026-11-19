@@ -450,6 +450,23 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss16-source-p135-1",
+        "title": "Joint account holders",
+        "reference": "Source study · p135",
+        "prompt": "If two people open a joint account, what determines who can authorise a withdrawal?",
+        "sample": "Both are named account holders. The operating mandate agreed with the bank specifies whether either holder may act or whether both must authorise a transaction.",
+        "solution": [
+          "Both are named account holders. The operating mandate agreed with the bank specifies whether either holder may act or whether both must authorise a transaction."
+        ],
+        "hints": [
+          "Distinguish ownership from authority to transact."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Distinguish ownership from authority to transact."
+        ]
       }
     ]
   },

@@ -1,4 +1,6 @@
 import type {Metadata} from 'next';
 import {ScienceChapterIndex} from '@/components/science-chapter-index';
+import {scienceChapters,scienceWorkbooks} from '@/lib/science-chapters';
+import {summariseChapters} from '@/lib/chapter-summary';
 export const metadata:Metadata={title:'Guided Science chapters',description:'KTBS Class 10 Science Chapters 1–12: guided study, virtual chemistry models and source coverage maps, labelled diagrams, source mapping for Chapters 1–5 and 7–12, and an explicitly partial Chapter 6 opening.'};
-export default function Page(){return <ScienceChapterIndex/>;}
+export default function Page(){return <ScienceChapterIndex chapters={summariseChapters(scienceChapters,scienceWorkbooks)}/>;}

@@ -306,6 +306,23 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss21-source-p51-1",
+        "title": "Indian agencies in the abbreviations box",
+        "reference": "Source study · p51",
+        "prompt": "Distinguish the NIA, ATS, R&AW and IB from the international agreements in this box.",
+        "sample": "The National Investigation Agency investigates specified offences. ATS refers to an Anti-Terrorism Squad. The Research and Analysis Wing and Intelligence Bureau are intelligence organisations. These initials name bodies with different functions.",
+        "solution": [
+          "The National Investigation Agency investigates specified offences. ATS refers to an Anti-Terrorism Squad. The Research and Analysis Wing and Intelligence Bureau are intelligence organisations. These initials name bodies with different functions."
+        ],
+        "hints": [
+          "Separate investigation and intelligence from treaties."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Separate investigation and intelligence from treaties."
+        ]
       }
     ],
     "22": [
@@ -847,6 +864,41 @@
         "checklist": [
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
+      },
+      {
+        "id": "ss22-source-p56-1",
+        "title": "Reading the Secretaries-General timeline",
+        "reference": "Source study · p56",
+        "prompt": "Using two entries, show how the office of Secretary-General differs from the country of origin of its holder.",
+        "sample": "Trygve Lie of Norway served from 1946 to 1952. Dag Hammarskjöld of Sweden followed in 1953. Both held the same international office and served the United Nations.",
+        "solution": [
+          "Trygve Lie of Norway served from 1946 to 1952. Dag Hammarskjöld of Sweden followed in 1953. Both held the same international office and served the United Nations."
+        ],
+        "hints": [
+          "Give the office, the countries and the sequence."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Give the office, the countries and the sequence."
+        ]
+      },
+      {
+        "id": "ss22-box-62",
+        "title": "Five institutions of the World Bank Group",
+        "reference": "Textbook sidebar · p62",
+        "prompt": "A government seeks a development loan, a private firm seeks investment, and a foreign investor asks about political risk. Use the sidebar to identify the institutions involved. What does the fifth institution do?",
+        "sample": "IBRD lends to middle-income and creditworthy poorer governments. IDA offers grants and concessional finance to the poorest countries. IFC supports private enterprises. MIGA provides political risk guarantees. ICSID provides facilities for resolving investment disputes. The World Bank itself comprises IBRD and IDA.",
+        "solution": [
+          "IBRD lends to middle-income and creditworthy poorer governments. IDA offers grants and concessional finance to the poorest countries. IFC supports private enterprises.",
+          "MIGA provides political risk guarantees. ICSID provides facilities for resolving investment disputes. The World Bank itself comprises IBRD and IDA."
+        ],
+        "hints": [
+          "Match each institution to its client or function."
+        ],
+        "checklist": [
+          "Match each institution to its client or function.",
+          "I used an example to explain my answer."
         ]
       }
     ]

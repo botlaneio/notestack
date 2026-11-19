@@ -288,6 +288,23 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss11-source-p98-1",
+        "title": "Monsoon and season",
+        "reference": "Source study · p98",
+        "prompt": "What does the word monsoon tell us about the seasonal winds?",
+        "sample": "The name comes from Arabic mawsim, meaning season. Over India the prevailing winds change direction with the seasons. Rainfall is one consequence of this circulation.",
+        "solution": [
+          "The name comes from Arabic mawsim, meaning season. Over India the prevailing winds change direction with the seasons. Rainfall is one consequence of this circulation."
+        ],
+        "hints": [
+          "Use wind direction to explain the seasonal change."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Use wind direction to explain the seasonal change."
+        ]
       }
     ],
     "12": [
@@ -559,6 +576,23 @@
         "checklist": [
           "I covered every source category or principal organ and checked its labels.",
           "I explained relationships, recorded the reference and identified details needing teacher review."
+        ]
+      },
+      {
+        "id": "ss12-source-p105-1",
+        "title": "Reading soil texture",
+        "reference": "Source study · p105",
+        "prompt": "Two soil samples feel different. How would a student of pedology compare them?",
+        "sample": "Sand has relatively large grains. Clay has very fine particles that can pack closely and hold water. Pedology studies soils, including how they form and change.",
+        "solution": [
+          "Sand has relatively large grains. Clay has very fine particles that can pack closely and hold water. Pedology studies soils, including how they form and change."
+        ],
+        "hints": [
+          "Compare particle size before predicting drainage."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Compare particle size before predicting drainage."
         ]
       }
     ],
@@ -921,6 +955,23 @@
         "checklist": [
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss13-source-p110-1",
+        "title": "Counting protected places",
+        "reference": "Source study · p110",
+        "prompt": "Why would you record a date and category beside the sidebar’s count of protected places?",
+        "sample": "National parks and wildlife sanctuaries are distinct designations. Botanical gardens and zoos are different kinds of institutions. Counts can change as sites are designated, so compare the same category and year.",
+        "solution": [
+          "National parks and wildlife sanctuaries are distinct designations. Botanical gardens and zoos are different kinds of institutions. Counts can change as sites are designated, so compare the same category and year."
+        ],
+        "hints": [
+          "Name the designation and year of each count."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Name the designation and year of each count."
         ]
       }
     ]

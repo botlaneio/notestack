@@ -2025,19 +2025,18 @@
         "id": "sc11-090",
         "reference": "Figure 11.1",
         "title": "Simple circuit",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Simple circuit.",
+        "prompt": "Trace conventional current in Figure 11.1, starting at the positive cell terminal. Where does it enter the ammeter, and what happens if the key opens?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "From the long positive plate, follow the wire up the left side, through the bulb and into the positive side of the series ammeter.",
+          "Continue through the closed key to the short negative plate. Opening the key breaks the loop, so the ammeter reads zero and the bulb goes out."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Find the longer plate and trace the arrows around the external circuit."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "From the long positive plate, follow the wire up the left side, through the bulb and into the positive side of the series ammeter. Continue through the closed key to the short negative plate. Opening the key breaks the loop, so the ammeter reads zero and the bulb goes out.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "I traced a single complete path through the bulb, ammeter and key.",
+          "I explained the effect of opening the key."
         ]
       },
       {

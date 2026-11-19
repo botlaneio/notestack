@@ -2,11 +2,13 @@
 
 import {useState} from 'react';
 import Link from 'next/link';
-import details from '@/lib/freedom-struggle-source-details.json';
+import {useSourceDetails} from './guide-steps-context';
 
 export function FreedomSourceDetails() {
+  const details = useSourceDetails();
   const [index,setIndex] = useState(0);
   const detail = details[index];
+  if (!detail) return null;
   return <details style={{marginTop:20,textAlign:'left',minWidth:0,overflowWrap:'anywhere'}}>
     <summary style={{minHeight:44,cursor:'pointer'}}>Explore the source sidebars and leader accounts</summary>
     <label style={{display:'block',minWidth:0}}>Source page detail <select style={{display:'block',width:'100%',maxWidth:'100%',minWidth:0,boxSizing:'border-box'}} value={index} onChange={event=>setIndex(Number(event.target.value))}>

@@ -1,6 +1,7 @@
 'use client';
 import {Social910Observation} from './social-9-10-explorers';
 import {Social78Observation} from './social-7-8-explorers';
+import {GuideStepsProvider,type GuideStep} from './guide-steps-context';
 import {Social56Observation} from './social-5-6-observation';
 import {HistoryLaterObservation} from './history-later-observation';
 import {HistorySourceNotes} from './history-source-notes';
@@ -21,7 +22,8 @@ import {GeometryBookSketch} from './geometry-book-sketch';
 import {ConstructionPad} from './construction-pad';
 import {PolynomialBookGraph} from './textbook-graphs';
 import styles from './real-number-workspace.module.css';
-export function RealNumberWorkbook({independent=false,config}:{independent?:boolean;config?:WorkbookConfig}){
+export function RealNumberWorkbook({guideSteps,...props}:{independent?:boolean;config?:WorkbookConfig;guideSteps?:GuideStep[]}){return <GuideStepsProvider steps={guideSteps}><RealNumberWorkbookBody {...props}/></GuideStepsProvider>;}
+function RealNumberWorkbookBody({independent=false,config}:{independent?:boolean;config?:WorkbookConfig}){
  const slug=config?.slug??'real-numbers',title=config?.title??'Real Numbers',number=config?.number??1;
  const subject=config?.subject??'maths',isScience=subject==='science',isHistory=subject==='social-science',isCivics=isHistory&&config?.discipline!=='History',socialFocus=config?.discipline==='Business Studies'?'banking services, account choices and transaction records':config?.discipline==='Economics'?'economic choices, institutions and changes in production':config?.discipline==='Geography'?'locations, landform processes and map evidence':config?.discipline==='Sociology'?'social relationships, work and unequal access':'institutions, functions and constitutional responsibilities',isMaths=subject==='maths',basePath=`/learn/${subject}`,subjectName=isHistory?`Social Science · ${config?.discipline??'History'}`:isScience?'Science':'Maths',storageSlug=isHistory?`social-science-${slug}`:isScience?`science-${slug}`:slug;
  const tasks=independent?(config?.checks??independentTasks):(config?.tasks??allPracticeTasks),key=config?`ns-${storageSlug}-${independent?'check':'workbook'}-v1`:independent?'ns-real-check-v1':'ns-real-workbook-v1';

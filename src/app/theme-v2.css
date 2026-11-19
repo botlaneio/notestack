@@ -1,0 +1,266 @@
+/* NoteStack v2 look for every page outside the homepage hero:
+   deep navy accent, pale canvas, white cards, DM Sans, readable sizes.
+   Loaded after globals.css; the `html` prefix lets these rules win without !important. */
+:root {
+  --ink: #1f2537;
+  --muted: #586178;
+  --accent: #1f2a44;
+  --line: #dfe3ec;
+  --v2-accent-hover: #111827;
+  --v2-wash: #eceff5;
+  --v2-canvas: #f6f7fb;
+  --v2-faint: #8a92a8;
+  --v2-ink-2: #303a55;
+  --v2-success: #17895a;
+  --v2-danger: #b42318;
+  --v2-shadow-sm: 0 2px 4px rgba(31, 37, 55, 0.08);
+  --v2-shadow-md: 0 1px 2px rgba(31, 37, 55, 0.06), 0 8px 24px rgba(31, 37, 55, 0.08);
+  color: var(--ink);
+}
+html .brand-mark { background: #1f2a44; }
+html .section-kicker { font-size: 13px; font-weight: 600; letter-spacing: 0.6px; color: var(--accent); }
+html .text-action { font-size: 15px; font-weight: 600; color: var(--accent); min-height: 40px; }
+html .text-action:hover { color: var(--v2-accent-hover); text-decoration: underline; }
+html :focus-visible { outline-color: var(--accent); }
+
+/* Shared: design-system buttons used as primary actions */
+html .auth-submit, html .checkout-button button, html .primary-cta {
+  min-height: 48px !important; border-radius: 8px !important; font-size: 16px !important; font-weight: 600 !important;
+  background: var(--accent) !important; color: #fff !important; border: 0 !important; box-shadow: var(--v2-shadow-sm) !important;
+}
+html .auth-submit:hover, html .checkout-button button:hover, html .primary-cta:hover { background: var(--v2-accent-hover) !important; }
+
+/* ---------- Sign in, sign up, password and email pages ---------- */
+html .auth-shell { background: var(--v2-canvas); }
+html .auth-header { padding: 24px 40px; }
+html .auth-back { font-size: 14px; font-weight: 600; color: var(--muted); min-height: 40px; padding: 0 12px; border-radius: 8px; }
+html .auth-back:hover { background: #eceef4; color: var(--ink); }
+html .auth-content { padding: 24px 40px 48px; }
+html .auth-form-container { max-width: 440px; background: #fff; border-radius: 24px; padding: 40px; box-shadow: var(--v2-shadow-md); }
+html .auth-form-container h1 { font-size: 32px; letter-spacing: -0.6px; font-weight: 700; margin-top: 8px; }
+html .auth-intro { font-size: 15px; line-height: 1.6; color: var(--muted); margin-top: 10px; }
+html .auth-form { gap: 20px; margin-top: 28px; }
+html .auth-form input { font-size: 16px !important; }
+html .auth-form label { font-size: 14px !important; font-weight: 600; color: var(--v2-ink-2); }
+html .auth-password-toggle { font-size: 13px; font-weight: 600; color: var(--accent); }
+html .password-guidance { font-size: 13px; color: var(--v2-faint); }
+html .password-guidance.met { color: var(--v2-success); }
+html .auth-recovery-row { font-size: 14px; font-weight: 600; color: var(--accent); }
+html .auth-switch { font-size: 14px; color: var(--muted); margin-top: 24px; }
+html .auth-switch a { color: var(--accent); font-weight: 700; }
+html .auth-availability { font-size: 12px; color: var(--v2-faint); }
+html .auth-availability > span { background: var(--accent); }
+html .auth-service-message { border-radius: 12px; padding: 14px 16px; background: #fff7e6; border-color: #f3e1bd; color: #8a5a12; }
+html .auth-service-message p { font-size: 14px; line-height: 1.6; color: #7a5310; }
+html .auth-footer { font-size: 13px; color: var(--v2-faint); padding: 24px 40px; }
+html .auth-footer strong { font-size: 12px; color: var(--muted); }
+html .auth-footer a { font-size: 13px; font-weight: 600; color: var(--accent); }
+
+html .auth-aside { background: var(--accent); color: #fff; margin: 16px 16px 16px 0; border-radius: 24px; min-height: 0; }
+html .auth-aside-grid { background-image: radial-gradient(rgba(255, 255, 255, 0.14) 1px, transparent 1.2px); background-size: 24px 24px; }
+html .auth-aside-heading > .section-kicker { font-size: 13px; color: #b9c2d6; }
+html .auth-aside h2 { font-size: 44px; font-weight: 700; letter-spacing: -1px; color: #fff; }
+html .auth-aside-heading p { font-size: 16px; line-height: 1.6; color: #c9d1e1; }
+html .auth-book { filter: drop-shadow(10px 16px 14px rgba(0, 0, 0, 0.35)); }
+html .auth-aside-card { background: #fff; border: 0; border-radius: 16px; padding: 16px 18px; box-shadow: 0 12px 32px rgba(0, 0, 0, 0.2); color: var(--ink); }
+html .auth-aside-card > span { background: var(--v2-wash); color: var(--accent); width: 40px; height: 40px; border-radius: 10px; }
+html .auth-aside-card strong { font-size: 15px; font-weight: 700; }
+html .auth-aside-card small { font-size: 13px; color: var(--muted); }
+html .auth-aside-card > svg { color: var(--v2-faint); }
+html .auth-aside-bottom > span { font-size: 13px; font-weight: 600; color: #c9d1e1; }
+
+/* ---------- Account page ---------- */
+html .account-page { background: var(--v2-canvas); min-height: 100dvh; }
+html .account-header { border-bottom: 1px solid var(--line); padding-block: 16px; }
+html .account-page h1 { font-size: 40px; letter-spacing: -0.8px; font-weight: 700; margin-top: 8px; }
+html .account-intro { font-size: 16px; line-height: 1.6; color: var(--muted); margin-top: 12px; }
+html .account-welcome { background: #fff; border-radius: 24px; padding: 28px; box-shadow: var(--v2-shadow-md); margin-top: 32px; }
+html .account-avatar { background: var(--v2-wash); color: var(--accent); width: 64px; height: 64px; }
+html .account-welcome h2 { font-size: 22px; letter-spacing: -0.4px; }
+html .account-welcome p { font-size: 14px; line-height: 1.6; color: var(--muted); margin-top: 6px; }
+html .account-actions { font-size: 14px; font-weight: 600; gap: 16px; }
+html .account-signin { background: var(--accent); color: #fff; min-height: 44px; padding: 0 20px; border-radius: 8px; font-size: 15px; font-weight: 600; gap: 10px; }
+html .account-signin:hover { background: var(--v2-accent-hover); }
+html .account-sections { gap: 24px; margin-top: 24px; }
+html .account-sections > article, html .account-library { background: #fff; border: 0; border-radius: 24px; padding: 28px; box-shadow: var(--v2-shadow-sm); }
+html .account-sections h2, html .account-library-head h2 { font-size: 20px; letter-spacing: -0.3px; font-weight: 700; margin-top: 16px; }
+html .account-library-head h2 { margin-top: 0; }
+html .account-sections p, html .account-library-head p { font-size: 14px; line-height: 1.6; color: var(--muted); margin-top: 8px; }
+html .account-sections > article > .text-action { font-size: 14px; }
+html .account-list { font-size: 14px; color: var(--v2-ink-2); }
+html .account-status { font-size: 13px; color: var(--v2-faint); }
+html .device-list li { background: var(--v2-canvas); border-radius: 12px; padding: 12px 14px; }
+html .device-list strong { font-size: 14px; color: var(--ink); }
+html .device-list em { color: var(--v2-success); }
+html .device-list small { font-size: 12px; color: var(--v2-faint); }
+html .device-list button { font-size: 13px; font-weight: 600; color: var(--v2-danger); border-color: #f3d0cc; border-radius: 8px; min-height: 36px; padding: 0 12px; }
+html .library-book { background: var(--v2-canvas); border-radius: 16px; }
+html .library-book.blue { background: #e6f0ff; }
+html .library-book.green { background: #e3f6ec; }
+html .library-book.ochre { background: #fff0e0; }
+html .library-book:hover { border-color: transparent; box-shadow: var(--v2-shadow-md); }
+html .library-meta small { font-size: 12px; font-weight: 600; color: var(--v2-faint); }
+html .library-meta strong { font-size: 18px; color: var(--ink); }
+html .library-meta > span { font-size: 14px; color: var(--muted); }
+html .library-meta em { font-size: 14px; color: var(--accent); }
+html .library-meta .library-progress { font-size: 13px; color: var(--v2-success); font-weight: 600; }
+html .library-more { font-size: 14px; color: var(--muted); }
+html .library-more a { color: var(--accent); font-weight: 700; }
+html .continue-card { background: var(--accent); border-radius: 16px; padding: 20px 24px; box-shadow: var(--v2-shadow-md); }
+html .continue-card small { font-size: 12px; font-weight: 600; color: #b9c2d6; }
+html .continue-card strong { font-size: 18px; }
+html .continue-card em { font-size: 14px; color: #c9d1e1; }
+html .password-form label { font-size: 14px; color: var(--v2-ink-2); }
+html .password-form input { font-size: 16px; border-color: var(--line); border-radius: 8px; min-height: 44px; padding: 0 12px; }
+html .password-form input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--v2-wash); }
+html .password-form small { font-size: 13px; color: var(--v2-faint); }
+html .password-actions button { font-size: 14px; font-weight: 600; border-radius: 8px; min-height: 40px; padding: 0 16px; border-color: var(--line); }
+html .password-actions .password-save { background: var(--accent); border-color: var(--accent); }
+html .password-open { font-size: 14px; }
+html .password-message { font-size: 14px; }
+html .password-message.ok { color: var(--v2-success); }
+html .password-message.error { color: var(--v2-danger); }
+
+/* ---------- Unlock, checkout and launch pages ---------- */
+html .unlock-note { font-size: 15px; color: var(--muted); line-height: 1.6; }
+html .unlock-primary, html .unlock-secondary { min-height: 48px; padding: 0 22px; border-radius: 8px; font-size: 16px; }
+html .unlock-primary { background: var(--accent); }
+html .unlock-primary:hover { background: var(--v2-accent-hover); }
+html .unlock-secondary { background: #fff; border-color: var(--line); color: var(--ink); }
+html .unlock-secondary:hover { border-color: var(--v2-faint); }
+html .unlock-free { font-size: 15px; color: var(--accent); }
+html .verify-ok svg { color: var(--v2-success); }
+html .launch-page { max-width: 720px; margin: 64px auto; padding: 48px; background: #fff; border-radius: 24px; box-shadow: var(--v2-shadow-md); min-height: 0; }
+html body:has(.launch-page) { background: var(--v2-canvas); }
+html .launch-page h1 { font-size: 40px; letter-spacing: -0.8px; line-height: 1.15; font-weight: 700; margin-top: 12px; }
+html .launch-page p { font-size: 16px; line-height: 1.6; color: var(--muted); margin-block: 16px; }
+html .checkout-link { min-height: 48px; font-size: 16px; font-weight: 600; background: var(--accent); }
+
+/* ---------- Admin ---------- */
+html .admin-search { background: #fff; border-color: var(--line); border-radius: 12px; padding: 6px 6px 6px 16px; box-shadow: var(--v2-shadow-sm); }
+html .admin-search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px var(--v2-wash); }
+html .admin-search input { font-size: 16px; min-height: 40px; color: var(--ink); }
+html .admin-search button { background: var(--accent); border-radius: 8px; min-height: 40px; padding: 0 18px; font-size: 14px; }
+html .admin-empty, html .admin-count { font-size: 14px; color: var(--muted); }
+html .admin-list li { background: #fff; border: 0; border-radius: 16px; padding: 18px 20px; box-shadow: var(--v2-shadow-sm); }
+html .admin-who strong { font-size: 16px; }
+html .admin-who span { font-size: 14px; color: var(--muted); }
+html .admin-who em { font-size: 12px; font-weight: 600; background: #fff0e0; color: #9a4b0e; }
+html .admin-who em.ok { background: #e3f6ec; color: var(--v2-success); }
+html .admin-who small { font-size: 13px; color: var(--v2-faint); }
+html .admin-chip { background: var(--v2-wash); color: var(--accent); font-size: 13px; }
+html .admin-none { font-size: 14px; color: var(--v2-faint); }
+html .admin-actions button { font-size: 13px; font-weight: 600; border-radius: 8px; border-color: var(--line); color: var(--ink); min-height: 36px; padding: 0 12px; }
+html .admin-actions button:hover { border-color: var(--accent); }
+html .admin-actions .admin-signout { color: var(--v2-danger); border-color: #f3d0cc; }
+
+/* ---------- Floating student badge and chapter-done button ---------- */
+html .student-badge { background: rgba(255, 255, 255, 0.96); border-color: var(--line); box-shadow: var(--v2-shadow-md); font-size: 13px; padding: 8px 14px; }
+html .student-badge small { color: var(--muted); }
+html .chapter-done { font-size: 14px; min-height: 40px; padding: 0 16px; border-color: var(--line); color: var(--ink); box-shadow: var(--v2-shadow-md); }
+html .chapter-done:hover { border-color: var(--accent); }
+html .chapter-done.done { background: #e3f6ec; border-color: #bfe6d0; color: var(--v2-success); }
+
+/* ---------- Homepage pop-ups: pack details, sample reader, bag ---------- */
+html .modal { border-radius: 24px; box-shadow: 0 24px 64px rgba(31, 37, 55, 0.24); }
+html .modal::backdrop { background: rgba(31, 37, 55, 0.45); }
+html .modal-close { border-radius: 8px; background: var(--v2-canvas); min-width: 40px; min-height: 40px; }
+html .modal h2 { font-size: 28px; letter-spacing: -0.5px; font-weight: 700; }
+html .modal-lead { font-size: 15px; line-height: 1.6; color: var(--muted); }
+html .detail-cover { border-radius: 16px; background: #e6f0ff; }
+html .detail-cover.green { background: #e3f6ec; }
+html .detail-cover.ochre { background: #fff0e0; }
+html .detail-cover > span { font-size: 11px; font-weight: 600; color: var(--muted); }
+html .detail-info > span { font-size: 12px !important; }
+html .detail-subtitle, html .detail-description { font-size: 15px; line-height: 1.6; color: var(--muted); }
+html .detail-tags > span { font-size: 12px; font-weight: 600; border: 0; border-radius: 999px; padding: 4px 10px; background: var(--v2-wash); color: var(--accent); }
+html .detail-tabs button, html .reader-tabs button { font-size: 14px; font-weight: 600; color: var(--muted); }
+html .detail-tabs button.active, html .reader-tabs button.active { color: var(--ink); border-color: var(--accent); }
+html .reader-tabs button > span { font-size: 11px; }
+html .detail-price > strong { font-family: 'DM Sans', Arial, sans-serif; font-size: 28px; font-weight: 700; }
+html .detail-price > span, html .detail-info > small, html .reader-disclaimer { font-size: 12px; color: var(--v2-faint); }
+html .detail-preview { font-size: 14px; font-weight: 600; color: var(--accent); }
+html .reader-intro { font-size: 15px; line-height: 1.6; color: var(--muted); }
+html .reader-question { font-family: 'DM Sans', Arial, sans-serif; }
+html .reader-bottom > span { font-size: 13px; color: var(--muted); }
+html .reader-bottom > button { font-size: 14px !important; }
+html .bag-item h3 { font-size: 17px; }
+html .bag-item small { font-size: 13px; color: var(--muted); }
+html .bag-remove { font-size: 13px; color: var(--v2-danger); }
+html .bag-upgrade { background: var(--v2-wash); border: 0; border-radius: 12px; }
+html .bag-upgrade strong { font-size: 15px; }
+html .bag-upgrade small { font-size: 13px; color: var(--muted); }
+html .checkout-note { font-size: 12px; color: var(--v2-faint); }
+html .toast { background: var(--accent); border-radius: 12px; font-size: 14px; }
+
+@media (max-width: 1100px) {
+  html .auth-header, html .auth-footer { padding-inline: 28px; }
+  html .auth-content { padding-inline: 28px; }
+  html .auth-aside h2 { font-size: 36px; }
+}
+@media (max-width: 800px) {
+  html .auth-form-container { padding: 28px 24px; }
+  html .auth-form-container h1 { font-size: 28px; }
+  html .auth-aside h2 { font-size: 30px; }
+  html .auth-aside-heading > .section-kicker, html .auth-aside-card small, html .auth-aside-bottom > span { font-size: 12px; }
+  html .auth-aside-card strong { font-size: 14px; }
+}
+@media (max-width: 600px) {
+  html .auth-header, html .auth-footer { padding-inline: 16px; }
+  html .auth-content { padding: 8px 16px 32px; }
+  html .auth-form-container { padding: 24px 20px; border-radius: 20px; }
+  html .auth-form-container h1 { font-size: 28px; letter-spacing: -0.5px; }
+  html .auth-intro { font-size: 15px; }
+  html .auth-switch { font-size: 14px; }
+  html .auth-availability { font-size: 12px; }
+  html .auth-footer, html .auth-footer a { font-size: 13px; }
+  html .auth-footer strong { font-size: 12px; }
+  html .auth-back { font-size: 14px; }
+  html .auth-service-message p { font-size: 14px; }
+  html .account-page h1 { font-size: 30px; letter-spacing: -0.5px; }
+  html .account-intro { font-size: 15px; }
+  html .account-welcome { padding: 20px; border-radius: 20px; }
+  html .account-welcome p { font-size: 14px; }
+  html .account-actions { font-size: 14px; }
+  html .account-sections > article, html .account-library { padding: 20px; border-radius: 20px; }
+  html .account-sections p { font-size: 14px; }
+  html .account-status { font-size: 13px; }
+  html .launch-page { margin: 24px 16px; padding: 28px 20px; }
+  html .launch-page h1 { font-size: 30px; }
+  html .modal-inner { padding: 28px 20px; }
+}
+
+/* Sign-in pages on tablet and desktop: the form and the navy panel both fit in one screen. */
+@media (min-width: 601px) {
+  html .auth-shell { height: 100dvh; min-height: 0; overflow: hidden; }
+  html .auth-main { height: 100dvh; min-height: 0; overflow-y: auto; }
+  html .auth-header { padding-block: 16px; }
+  html .auth-content { padding-block: 4px 12px; }
+  html .auth-form-container { padding: clamp(20px, 3.6vh, 36px) 36px; }
+  html .auth-form-container h1 { font-size: clamp(24px, 4vh, 32px); margin-top: 6px; }
+  html .auth-intro { margin-top: 6px; }
+  html .auth-form { gap: clamp(12px, 2vh, 20px); margin-top: clamp(14px, 2.6vh, 28px); }
+  html .auth-switch { margin-top: clamp(12px, 2vh, 24px); }
+  html .auth-availability { margin-top: clamp(10px, 2vh, 24px); }
+  html .auth-footer { padding-block: 12px; }
+  html .auth-aside { height: calc(100dvh - 32px); min-height: 0; padding: clamp(24px, 5vh, 56px) clamp(24px, 3vw, 48px) clamp(16px, 3vh, 28px); }
+  html .auth-aside h2 { font-size: clamp(26px, 5vh, 44px); margin-top: clamp(8px, 1.5vh, 16px); }
+  html .auth-aside-heading p { margin-top: clamp(6px, 1.2vh, 14px); }
+  html .auth-book-scene { flex: 1 1 0; min-height: 0; margin-top: clamp(8px, 2vh, 24px); }
+  html .auth-book { height: 78%; top: 11%; }
+  html .auth-book-1 { height: 90%; top: 0; }
+  html .auth-aside-card { margin-top: clamp(8px, 1.5vh, 16px); flex: none; }
+  html .auth-aside-bottom { margin-top: clamp(10px, 2vh, 20px); flex: none; }
+}
+@media (min-width: 601px) and (max-height: 640px) {
+  html .auth-aside-heading p, html .auth-aside-bottom { display: none; }
+}
+
+/* Navy panel sits inset in the right ~57% of the screen, clear of the edges. */
+@media (min-width: 801px) {
+  html .auth-shell { grid-template-columns: minmax(0, 3fr) minmax(0, 4fr); }
+  html .auth-aside { height: calc(100dvh - 120px); margin: 64px 64px 56px 0; }
+}
+@media (min-width: 601px) and (max-width: 800px) {
+  html .auth-aside { height: calc(100dvh - 48px); margin: 24px 24px 24px 0; }
+}

@@ -758,6 +758,23 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss31-source-p133-1",
+        "title": "Reading the receipts tree",
+        "reference": "Source study · p133",
+        "prompt": "Follow personal income tax and a government borrowing through the receipts diagram. Where do they separate?",
+        "sample": "Income tax is a tax within revenue receipts. Borrowing is a debt-creating capital receipt because it creates a repayment obligation. Both bring money in, with different effects on liabilities.",
+        "solution": [
+          "Income tax is a tax within revenue receipts. Borrowing is a debt-creating capital receipt because it creates a repayment obligation. Both bring money in, with different effects on liabilities."
+        ],
+        "hints": [
+          "Follow each branch to its parent category."
+        ],
+        "checklist": [
+          "I identified the source detail named in the question.",
+          "Follow each branch to its parent category."
+        ]
       }
     ]
   },

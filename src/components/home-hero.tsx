@@ -92,7 +92,7 @@ export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}:
 
   return <header className={styles.bar}>
     <div className={styles.barInner}>
-      <a href="#" aria-label="NoteStack home" className={styles.logo}><Brand small/></a>
+      <a href="#" aria-label="NoteStack home" className={styles.logo}><Brand small animated/></a>
       <nav className={styles.links} aria-label="Main navigation">
         <Dropdown label="Study tools">{c => <MenuList items={studyTools} isOpen={toolOpen} close={c}/>}</Dropdown>
         <Dropdown label="Subjects">{c => <>

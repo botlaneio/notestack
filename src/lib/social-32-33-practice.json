@@ -722,6 +722,24 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss33-box-146",
+        "title": "Teleshopping and a consumer’s record",
+        "reference": "Textbook sidebar · p146",
+        "prompt": "You order a kettle by phone after seeing a television advertisement. Why is this teleshopping, and what should you keep if the wrong model arrives?",
+        "sample": "You chose and ordered goods remotely in response to an advertisement. Payment may occur when ordering or on delivery. Keep the advertised description, order confirmation and receipt. Compare the model delivered with the one promised when requesting a remedy.",
+        "solution": [
+          "You chose and ordered goods remotely in response to an advertisement. Payment may occur when ordering or on delivery.",
+          "Keep the advertised description, order confirmation and receipt. Compare the model delivered with the one promised when requesting a remedy."
+        ],
+        "hints": [
+          "Connect the way the order was placed to the evidence of what was promised."
+        ],
+        "checklist": [
+          "Connect the way the order was placed to the evidence of what was promised.",
+          "I used an example to explain my answer."
+        ]
       }
     ]
   },

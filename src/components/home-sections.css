@@ -1,10 +1,10 @@
 /* Homepage sections below the hero, restyled to match the hero and top bar.
    Everything is scoped under .home-v2 so other pages keep their styles. */
 .home-v2 {
-  --hv-accent: #4f46e5;
-  --hv-accent-hover: #4338ca;
-  --hv-wash: #eef0ff;
-  --hv-lilac: #dbdfff;
+  --hv-accent: #1f2a44;
+  --hv-accent-hover: #111827;
+  --hv-wash: #eceff5;
+  --hv-lilac: #e2e7f1;
   --hv-ink: #1f2537;
   --hv-ink-2: #303a55;
   --hv-muted: #586178;
@@ -147,7 +147,7 @@
 .home-v2 .closing { background: var(--hv-canvas); border-block: 0; padding-bottom: 80px; }
 .home-v2 .closing > .wrap { background: var(--hv-accent); color: #fff; border-radius: 24px; padding: 40px 48px; gap: 24px; }
 .home-v2 .closing-mark { width: 64px; height: 64px; background: rgba(255, 255, 255, 0.16); color: #fff; }
-.home-v2 .closing .section-kicker { color: #c7c9ff; font-size: 13px; }
+.home-v2 .closing .section-kicker { color: #b9c2d6; font-size: 13px; }
 .home-v2 .closing h2 { color: #fff; font-size: 30px; letter-spacing: -0.6px; font-weight: 700; margin-top: 6px; }
 .home-v2 .closing .primary-cta { background: #fff !important; color: var(--hv-accent) !important; }
 .home-v2 .closing .primary-cta:hover { background: var(--hv-wash) !important; }

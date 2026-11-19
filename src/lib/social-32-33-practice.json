@@ -1,0 +1,806 @@
+{
+  "chapters": {
+    "32": [
+      {
+        "id": "ss32-task-001",
+        "title": "The French origin",
+        "reference": "Exercise I Q1 · p143",
+        "prompt": "Which French verb means to undertake? Explain your reasoning with a chapter example.",
+        "sample": "Entreprendre. The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity.",
+        "solution": [
+          "Entreprendre.",
+          "The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity."
+        ],
+        "hints": [
+          "Entreprendre."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-002",
+        "title": "From idea to enterprise",
+        "reference": "Exercise I Q2 · p143",
+        "prompt": "What is the process of establishing and developing an enterprise called? Explain your reasoning with a chapter example.",
+        "sample": "Entrepreneurship. The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation.",
+        "solution": [
+          "Entrepreneurship.",
+          "The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation."
+        ],
+        "hints": [
+          "Entrepreneurship."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-003",
+        "title": "District support",
+        "reference": "Exercise I Q3 · p143",
+        "prompt": "When were District Industries Centres introduced? Explain your reasoning with a chapter example.",
+        "sample": "1978. DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility.",
+        "solution": [
+          "1978.",
+          "DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility."
+        ],
+        "hints": [
+          "1978."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-004",
+        "title": "The entrepreneur",
+        "reference": "Exercise II Q4 · p144",
+        "prompt": "Who is an entrepreneur? Explain your reasoning with a chapter example.",
+        "sample": "A person who identifies an opportunity and organises resources to pursue it through an enterprise. Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners.",
+        "solution": [
+          "A person who identifies an opportunity and organises resources to pursue it through an enterprise.",
+          "Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners."
+        ],
+        "hints": [
+          "A person who identifies an opportunity and organises resources to pursue it through an enterprise."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-005",
+        "title": "A creative activity",
+        "reference": "Exercise II Q5 · p144",
+        "prompt": "How can entrepreneurship involve creativity? Explain your reasoning with a chapter example.",
+        "sample": "It develops useful ways to address needs and organise production or services. A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it.",
+        "solution": [
+          "It develops useful ways to address needs and organise production or services.",
+          "A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it."
+        ],
+        "hints": [
+          "It develops useful ways to address needs and organise production or services."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-006",
+        "title": "Entrepreneurial characteristics",
+        "reference": "Exercise II Q6 · p144",
+        "prompt": "Which qualities appear in the source list? Explain your reasoning with a chapter example.",
+        "sample": "Creativity, initiative, leadership, teamwork and calculated risk-taking. The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience.",
+        "solution": [
+          "Creativity, initiative, leadership, teamwork and calculated risk-taking.",
+          "The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience."
+        ],
+        "hints": [
+          "Creativity, initiative, leadership, teamwork and calculated risk-taking."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-007",
+        "title": "Economic contribution",
+        "reference": "Exercise II Q7 · p144",
+        "prompt": "How can entrepreneurs contribute to development? Explain your reasoning with a chapter example.",
+        "sample": "By organising investment, employment, products, services and markets. Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions.",
+        "solution": [
+          "By organising investment, employment, products, services and markets.",
+          "Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions."
+        ],
+        "hints": [
+          "By organising investment, employment, products, services and markets."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-008",
+        "title": "DIC services",
+        "reference": "Exercise II Q8 · p144",
+        "prompt": "Which services illustrate a DIC’s supporting role? Explain your reasoning with a chapter example.",
+        "sample": "Project guidance, training, coordination and links to finance and markets. The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application.",
+        "solution": [
+          "Project guidance, training, coordination and links to finance and markets.",
+          "The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application."
+        ],
+        "hints": [
+          "Project guidance, training, coordination and links to finance and markets."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-009",
+        "title": "Functions in a venture",
+        "reference": "Foundation · p139",
+        "prompt": "Which tasks must an entrepreneur coordinate? Explain your reasoning with a chapter example.",
+        "sample": "Planning, resources, production, finance, marketing, innovation and risk management. A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change.",
+        "solution": [
+          "Planning, resources, production, finance, marketing, innovation and risk management.",
+          "A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change."
+        ],
+        "hints": [
+          "Planning, resources, production, finance, marketing, innovation and risk management."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-010",
+        "title": "Self-employment opportunities",
+        "reference": "Foundation · p141",
+        "prompt": "Which source examples illustrate service enterprises? Explain your reasoning with a chapter example.",
+        "sample": "Consultancy, equipment rental, photocopying, childcare and technical services. The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements.",
+        "solution": [
+          "Consultancy, equipment rental, photocopying, childcare and technical services.",
+          "The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements."
+        ],
+        "hints": [
+          "Consultancy, equipment rental, photocopying, childcare and technical services."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-011",
+        "title": "Finance institutions",
+        "reference": "Source list · p142",
+        "prompt": "Why should the source’s institutional list be read with dates? Explain your reasoning with a chapter example.",
+        "sample": "Institutions, names and financing roles can change. The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan.",
+        "solution": [
+          "Institutions, names and financing roles can change.",
+          "The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan."
+        ],
+        "hints": [
+          "Institutions, names and financing roles can change."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-012",
+        "title": "Promotional organisations",
+        "reference": "Source list · p142",
+        "prompt": "Which bodies can help connect a new enterprise with support? Explain your reasoning with a chapter example.",
+        "sample": "DICs, NSIC, State agencies, industrial estates and KVIC. The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services.",
+        "solution": [
+          "DICs, NSIC, State agencies, industrial estates and KVIC.",
+          "The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services."
+        ],
+        "hints": [
+          "DICs, NSIC, State agencies, industrial estates and KVIC."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-013",
+        "title": "Enterprise workforce enquiry",
+        "reference": "Activity III Q1 · p144",
+        "prompt": "Prepare an enquiry about work in a local enterprise.",
+        "sample": "Use public information or a voluntary supervised discussion to identify work roles, skills, production stages and training. Record only agreed information and avoid collecting private employee details.",
+        "solution": [
+          "Use public information or a voluntary supervised discussion to identify work roles, skills, production stages and training.",
+          "Record only agreed information and avoid collecting private employee details."
+        ],
+        "hints": [
+          "Use public information or a voluntary supervised discussion to identify work roles, skills, production stages and training."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-014",
+        "title": "Online enterprise research",
+        "reference": "Activity III Q2 · p144",
+        "prompt": "Compare two enterprises using named sources.",
+        "sample": "Describe the product or service, users, resources, market and one challenge for each. Distinguish company claims from independently documented outcomes.",
+        "solution": [
+          "Describe the product or service, users, resources, market and one challenge for each.",
+          "Distinguish company claims from independently documented outcomes."
+        ],
+        "hints": [
+          "Describe the product or service, users, resources, market and one challenge for each."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-015",
+        "title": "Entrepreneur portraits",
+        "reference": "Activity III Q3 · p144",
+        "prompt": "Prepare a credited entrepreneur album.",
+        "sample": "Pair each permitted image with the person, venture, period and a verified contribution. Include varied sectors and avoid treating one founder as the only contributor to a team’s achievements.",
+        "solution": [
+          "Pair each permitted image with the person, venture, period and a verified contribution.",
+          "Include varied sectors and avoid treating one founder as the only contributor to a team’s achievements."
+        ],
+        "hints": [
+          "Pair each permitted image with the person, venture, period and a verified contribution."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-task-016",
+        "title": "Enterprise interview plan",
+        "reference": "Project IV Q1 · p144",
+        "prompt": "Plan a report on how an enterprise developed.",
+        "sample": "Ask about the original need, resources, decisions, early difficulties, team and changes over time. Use voluntary participation and label actual answers only after the interview. A published case study can supply a clearly sourced alternative.",
+        "solution": [
+          "Ask about the original need, resources, decisions, early difficulties, team and changes over time.",
+          "Use voluntary participation and label actual answers only after the interview. A published case study can supply a clearly sourced alternative."
+        ],
+        "hints": [
+          "Ask about the original need, resources, decisions, early difficulties, team and changes over time."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "ss33-task-001",
+        "title": "Another word",
+        "reference": "Exercise I Q1 · p149",
+        "prompt": "Which term does the chapter use for a consumer? Explain your reasoning with a chapter example.",
+        "sample": "User. A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose.",
+        "solution": [
+          "User.",
+          "A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose."
+        ],
+        "hints": [
+          "User."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-002",
+        "title": "The supplier",
+        "reference": "Exercise I Q2 · p149",
+        "prompt": "What is a person or organisation supplying goods or services called in the source? Explain your reasoning with a chapter example.",
+        "sample": "Provider. Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms.",
+        "solution": [
+          "Provider.",
+          "Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms."
+        ],
+        "hints": [
+          "Provider."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-003",
+        "title": "Consumer awareness day",
+        "reference": "Exercise I Q3 · p149",
+        "prompt": "When is World Consumer Rights Day observed? Explain your reasoning with a chapter example.",
+        "sample": "15 March. The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December.",
+        "solution": [
+          "15 March.",
+          "The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December."
+        ],
+        "hints": [
+          "15 March."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-004",
+        "title": "Which commission?",
+        "reference": "Exercise I Q4 · p149",
+        "prompt": "Which commission is the expected answer in the textbook’s below-one-crore blank? Explain your reasoning with a chapter example.",
+        "sample": "District Commission under the book’s older threshold. For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure.",
+        "solution": [
+          "District Commission under the book’s older threshold.",
+          "For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure."
+        ],
+        "hints": [
+          "District Commission under the book’s older threshold."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-005",
+        "title": "Who is a consumer?",
+        "reference": "Exercise II Q5 · p149",
+        "prompt": "What does the legal consumer definition generally cover? Explain your reasoning with a chapter example.",
+        "sample": "A person buying goods or hiring services for consideration within the Act’s scope. It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad.",
+        "solution": [
+          "A person buying goods or hiring services for consideration within the Act’s scope.",
+          "It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad."
+        ],
+        "hints": [
+          "A person buying goods or hiring services for consideration within the Act’s scope."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-006",
+        "title": "Consumer movement",
+        "reference": "Exercise II Q6 · p149",
+        "prompt": "What is its central aim? Explain your reasoning with a chapter example.",
+        "sample": "Protecting consumers against exploitation and improving fair treatment. Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples.",
+        "solution": [
+          "Protecting consumers against exploitation and improving fair treatment.",
+          "Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples."
+        ],
+        "hints": [
+          "Protecting consumers against exploitation and improving fair treatment."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-007",
+        "title": "Consumer rights",
+        "reference": "Exercise II Q7 · p149",
+        "prompt": "Which rights guide a fair transaction? Explain your reasoning with a chapter example.",
+        "sample": "Safety, information, choice, being heard, redressal and consumer education. The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service.",
+        "solution": [
+          "Safety, information, choice, being heard, redressal and consumer education.",
+          "The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service."
+        ],
+        "hints": [
+          "Safety, information, choice, being heard, redressal and consumer education."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-008",
+        "title": "Two Acts",
+        "reference": "Exercise II Q8 · p149",
+        "prompt": "Which year fits the historical Consumer Protection Act question? Explain your reasoning with a chapter example.",
+        "sample": "1986. The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed.",
+        "solution": [
+          "1986.",
+          "The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed."
+        ],
+        "hints": [
+          "1986."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-009",
+        "title": "Appointments",
+        "reference": "Exercise II Q9 · p149",
+        "prompt": "Who appoints the District Commission President under the relevant framework? Explain your reasoning with a chapter example.",
+        "sample": "The State Government through the prescribed appointment process. Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions.",
+        "solution": [
+          "The State Government through the prescribed appointment process.",
+          "Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions."
+        ],
+        "hints": [
+          "The State Government through the prescribed appointment process."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-010",
+        "title": "Consumer problems",
+        "reference": "Exercise III Q10 · p149",
+        "prompt": "Which examples can give rise to a consumer concern? Explain your reasoning with a chapter example.",
+        "sample": "Defects, deficient services, misleading claims, overcharging or short measure. The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider.",
+        "solution": [
+          "Defects, deficient services, misleading claims, overcharging or short measure.",
+          "The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider."
+        ],
+        "hints": [
+          "Defects, deficient services, misleading claims, overcharging or short measure."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-011",
+        "title": "Why exploitation occurs",
+        "reference": "Exercise III Q11 · p149",
+        "prompt": "Which conditions can make unfair practices harder to challenge? Explain your reasoning with a chapter example.",
+        "sample": "Information gaps, weak awareness, misleading claims and barriers to remedy. Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms.",
+        "solution": [
+          "Information gaps, weak awareness, misleading claims and barriers to remedy.",
+          "Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms."
+        ],
+        "hints": [
+          "Information gaps, weak awareness, misleading claims and barriers to remedy."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-012",
+        "title": "Four objectives",
+        "reference": "Exercise III Q12 · p149",
+        "prompt": "Which objectives fit consumer protection? Explain your reasoning with a chapter example.",
+        "sample": "Safety, fair practices, reliable information and effective remedies. Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency.",
+        "solution": [
+          "Safety, fair practices, reliable information and effective remedies.",
+          "Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency."
+        ],
+        "hints": [
+          "Safety, fair practices, reliable information and effective remedies."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-013",
+        "title": "Three levels",
+        "reference": "Exercise III Q13 · p149",
+        "prompt": "Which three commissions form the redressal structure? Explain your reasoning with a chapter example.",
+        "sample": "District, State and National Consumer Disputes Redressal Commissions. Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute.",
+        "solution": [
+          "District, State and National Consumer Disputes Redressal Commissions.",
+          "Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute."
+        ],
+        "hints": [
+          "District, State and National Consumer Disputes Redressal Commissions."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-014",
+        "title": "A documented complaint",
+        "reference": "Exercise III Q14 · p149",
+        "prompt": "What information helps prepare a consumer complaint? Explain your reasoning with a chapter example.",
+        "sample": "Parties, transaction facts, the issue, evidence and the remedy sought. Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad.",
+        "solution": [
+          "Parties, transaction facts, the issue, evidence and the remedy sought.",
+          "Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad."
+        ],
+        "hints": [
+          "Parties, transaction facts, the issue, evidence and the remedy sought."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-015",
+        "title": "Read a label",
+        "reference": "Foundation · p150",
+        "prompt": "Which details help a buyer understand a packaged product? Explain your reasoning with a chapter example.",
+        "sample": "Manufacturer identity, price, quantity, batch and date information. Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates.",
+        "solution": [
+          "Manufacturer identity, price, quantity, batch and date information.",
+          "Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates."
+        ],
+        "hints": [
+          "Manufacturer identity, price, quantity, batch and date information."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-016",
+        "title": "Packet identity",
+        "reference": "Picture IV Q1 · p150",
+        "prompt": "Identify the company or brand shown on the source packet.",
+        "sample": "The label prominently displays Khojati and names Khojati Ayurved Pharma in the manufacturer area. Distinguish the brand, the product name tri-Phalanjan and the manufacturer details when reading the packet.",
+        "solution": [
+          "The label prominently displays Khojati and names Khojati Ayurved Pharma in the manufacturer area.",
+          "Distinguish the brand, the product name tri-Phalanjan and the manufacturer details when reading the packet."
+        ],
+        "hints": [
+          "The label prominently displays Khojati and names Khojati Ayurved Pharma in the manufacturer area."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-017",
+        "title": "Packet price",
+        "reference": "Picture IV Q2 · p150",
+        "prompt": "Read the printed maximum retail price.",
+        "sample": "The source label shows MRP ₹30 and a separate ₹31 figure for outside Maharashtra, inclusive of taxes as printed. State the region qualifier and the historical label context. Read the amount rather than assuming one price from the product name.",
+        "solution": [
+          "The source label shows MRP ₹30 and a separate ₹31 figure for outside Maharashtra, inclusive of taxes as printed.",
+          "State the region qualifier and the historical label context. Read the amount rather than assuming one price from the product name."
+        ],
+        "hints": [
+          "The source label shows MRP ₹30 and a separate ₹31 figure for outside Maharashtra, inclusive of taxes as printed."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-018",
+        "title": "Manufacture date",
+        "reference": "Picture IV Q3 · p150",
+        "prompt": "Read the packet’s manufacture date.",
+        "sample": "The source label reads FEB 13, meaning February 2013 in its printed format. Keep the printed date and format with the answer.",
+        "solution": [
+          "The source label reads FEB 13, meaning February 2013 in its printed format.",
+          "Keep the printed date and format with the answer."
+        ],
+        "hints": [
+          "The source label reads FEB 13, meaning February 2013 in its printed format."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-019",
+        "title": "Expiry date",
+        "reference": "Picture IV Q4 · p150",
+        "prompt": "Read the source packet’s expiry date.",
+        "sample": "The label reads JAN 16, meaning January 2016 in its printed format. This is a historical reading exercise. The date belongs to the pictured batch.",
+        "solution": [
+          "The label reads JAN 16, meaning January 2016 in its printed format.",
+          "This is a historical reading exercise. The date belongs to the pictured batch."
+        ],
+        "hints": [
+          "The label reads JAN 16, meaning January 2016 in its printed format."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-020",
+        "title": "Commission visit plan",
+        "reference": "Activity V Q1 · p150",
+        "prompt": "Prepare observations for a teacher-supervised consumer-commission visit.",
+        "sample": "Ask about the institution’s role, filing information, hearings and public assistance using publicly available procedures. Record actual observations after the visit and respect the privacy of people involved in cases.",
+        "solution": [
+          "Ask about the institution’s role, filing information, hearings and public assistance using publicly available procedures.",
+          "Record actual observations after the visit and respect the privacy of people involved in cases."
+        ],
+        "hints": [
+          "Ask about the institution’s role, filing information, hearings and public assistance using publicly available procedures."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-021",
+        "title": "Four awareness slogans",
+        "reference": "Activity V Q2 · p150",
+        "prompt": "Write four messages that help consumers act.",
+        "sample": "Examples include Read the label before you buy; Keep your receipt; Check the full price; Know where to seek redress. Explain which action or right each message supports.",
+        "solution": [
+          "Examples include Read the label before you buy; Keep your receipt; Check the full price; Know where to seek redress.",
+          "Explain which action or right each message supports."
+        ],
+        "hints": [
+          "Examples include Read the label before you buy; Keep your receipt; Check the full price; Know where to seek redress."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-022",
+        "title": "Awareness event plan",
+        "reference": "Activity V Q3 · p150",
+        "prompt": "Prepare a World Consumer Rights Day awareness plan.",
+        "sample": "Choose a clear theme, audience, date, school-approved format and sources. Include practical messages about labels, receipts and remedies. This is a planning task. An actual event needs the school’s arrangements and participation.",
+        "solution": [
+          "Choose a clear theme, audience, date, school-approved format and sources. Include practical messages about labels, receipts and remedies.",
+          "This is a planning task. An actual event needs the school’s arrangements and participation."
+        ],
+        "hints": [
+          "Choose a clear theme, audience, date, school-approved format and sources. Include practical messages about labels, receipts and remedies."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-023",
+        "title": "Receipt collection",
+        "reference": "Activity V Q4 · p150",
+        "prompt": "Compare sample receipts used in different transactions.",
+        "sample": "Identify seller, date, item, quantity, amount and relevant tax details. Use blank or anonymised examples. Explain which details could help reconstruct a transaction later.",
+        "solution": [
+          "Identify seller, date, item, quantity, amount and relevant tax details. Use blank or anonymised examples.",
+          "Explain which details could help reconstruct a transaction later."
+        ],
+        "hints": [
+          "Identify seller, date, item, quantity, amount and relevant tax details. Use blank or anonymised examples."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-task-024",
+        "title": "Fictional complaint",
+        "reference": "Project VI · p150",
+        "prompt": "Prepare a clearly fictional consumer complaint with sample supporting records.",
+        "sample": "Describe a fictional purchase, promised terms, the problem, communication with the provider and the requested remedy. Create documents explicitly marked as fictional classroom samples. Keep the narrative and dates consistent. A classroom sample must not be presented as evidence of a real transaction.",
+        "solution": [
+          "Describe a fictional purchase, promised terms, the problem, communication with the provider and the requested remedy. Create documents explicitly marked as fictional classroom samples.",
+          "Keep the narrative and dates consistent. A classroom sample must not be presented as evidence of a real transaction."
+        ],
+        "hints": [
+          "Describe a fictional purchase, promised terms, the problem, communication with the provider and the requested remedy. Create documents explicitly marked as fictional classroom samples."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "32": [
+      {
+        "id": "ss32-check-001",
+        "title": "A useful opportunity",
+        "reference": "Independent check",
+        "prompt": "A village has repair demand but no nearby service. What would an entrepreneur examine?",
+        "sample": "Investigate customers, skills, parts, equipment, pricing, access and competing options. Estimate costs and demand and test assumptions before expanding.",
+        "solution": [
+          "Investigate customers, skills, parts, equipment, pricing, access and competing options.",
+          "Estimate costs and demand and test assumptions before expanding."
+        ],
+        "hints": [
+          "Investigate customers, skills, parts, equipment, pricing, access and competing options."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss32-check-002",
+        "title": "Support and decisions",
+        "reference": "Independent check",
+        "prompt": "Why might a founder seek both training and finance?",
+        "sample": "Skills and advice address different constraints from capital. Match the service to the need and check the current institution’s terms.",
+        "solution": [
+          "Skills and advice address different constraints from capital.",
+          "Match the service to the need and check the current institution’s terms."
+        ],
+        "hints": [
+          "Skills and advice address different constraints from capital."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "33": [
+      {
+        "id": "ss33-check-001",
+        "title": "A buyer’s evidence",
+        "reference": "Independent check",
+        "prompt": "A purchased appliance does not meet an advertised specification. What would help assess the concern?",
+        "sample": "Compare the advertisement, invoice, product details and correspondence. Describe the difference accurately and identify the remedy sought.",
+        "solution": [
+          "Compare the advertisement, invoice, product details and correspondence.",
+          "Describe the difference accurately and identify the remedy sought."
+        ],
+        "hints": [
+          "Compare the advertisement, invoice, product details and correspondence."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss33-check-002",
+        "title": "Thresholds and dates",
+        "reference": "Independent check",
+        "prompt": "Why should a commission-selection answer identify the rules and the amount being measured?",
+        "sample": "Jurisdiction rules changed from the textbook’s older thresholds, and consideration paid differs from compensation requested. State the applicable version and check the official procedure before a real filing.",
+        "solution": [
+          "Jurisdiction rules changed from the textbook’s older thresholds, and consideration paid differs from compensation requested.",
+          "State the applicable version and check the official procedure before a real filing."
+        ],
+        "hints": [
+          "Jurisdiction rules changed from the textbook’s older thresholds, and consideration paid differs from compensation requested."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  }
+}

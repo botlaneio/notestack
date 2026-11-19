@@ -1,0 +1,781 @@
+[
+  {
+    "number": 32,
+    "title": "Entrepreneurship",
+    "slug": "entrepreneurship",
+    "part": 2,
+    "discipline": "Business Studies",
+    "subject": "social-science",
+    "sections": [
+      "Opportunity and organisation · pp138–140",
+      "Enterprise support · pp141–144"
+    ],
+    "steps": [
+      {
+        "id": "ss32-step-1",
+        "section": 0,
+        "title": "The French origin",
+        "intro": "The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity.",
+        "simple": "Entreprendre.",
+        "example": [
+          "Entreprendre.",
+          "The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity."
+        ],
+        "question": "Which French verb means to undertake?",
+        "options": [
+          "Entreprendre",
+          "Banque",
+          "Swaraj"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity.",
+          "Look again. The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity.",
+          "Look again. The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity."
+        ],
+        "hints": [
+          "The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity.",
+          "Entreprendre."
+        ]
+      },
+      {
+        "id": "ss32-step-2",
+        "section": 0,
+        "title": "From idea to enterprise",
+        "intro": "The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation.",
+        "simple": "Entrepreneurship.",
+        "example": [
+          "Entrepreneurship.",
+          "The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation."
+        ],
+        "question": "What is the process of establishing and developing an enterprise called?",
+        "options": [
+          "Only consumption",
+          "Only taxation",
+          "Entrepreneurship"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation.",
+          "Look again. The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation.",
+          "Correct. The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation."
+        ],
+        "hints": [
+          "The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation.",
+          "Entrepreneurship."
+        ]
+      },
+      {
+        "id": "ss32-step-3",
+        "section": 1,
+        "title": "District support",
+        "intro": "DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility.",
+        "simple": "1978.",
+        "example": [
+          "1978.",
+          "DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility."
+        ],
+        "question": "When were District Industries Centres introduced?",
+        "options": [
+          "2015",
+          "1978",
+          "1945"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility.",
+          "Correct. DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility.",
+          "Look again. DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility."
+        ],
+        "hints": [
+          "DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility.",
+          "1978."
+        ]
+      },
+      {
+        "id": "ss32-step-4",
+        "section": 0,
+        "title": "The entrepreneur",
+        "intro": "Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners.",
+        "simple": "A person who identifies an opportunity and organises resources to pursue it through an enterprise.",
+        "example": [
+          "A person who identifies an opportunity and organises resources to pursue it through an enterprise.",
+          "Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners."
+        ],
+        "question": "Who is an entrepreneur?",
+        "options": [
+          "A person who identifies an opportunity and organises resources to pursue it through an enterprise",
+          "Only a person inheriting a factory",
+          "Every customer buying a product"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners.",
+          "Look again. Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners.",
+          "Look again. Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners."
+        ],
+        "hints": [
+          "Decisions concern products or services, production methods, scale, people and markets. Entrepreneurs can work individually or with teams and partners.",
+          "A person who identifies an opportunity and organises resources to pursue it through an enterprise."
+        ]
+      },
+      {
+        "id": "ss32-step-5",
+        "section": 0,
+        "title": "A creative activity",
+        "intro": "A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it.",
+        "simple": "It develops useful ways to address needs and organise production or services.",
+        "example": [
+          "It develops useful ways to address needs and organise production or services.",
+          "A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it."
+        ],
+        "question": "How can entrepreneurship involve creativity?",
+        "options": [
+          "Every idea automatically succeeds",
+          "Only inventing a physical machine counts",
+          "It develops useful ways to address needs and organise production or services"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it.",
+          "Look again. A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it.",
+          "Correct. A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it."
+        ],
+        "hints": [
+          "A repair service, improved product or new delivery system can create value. Test whether the idea solves a problem and whether users can and will use it.",
+          "It develops useful ways to address needs and organise production or services."
+        ]
+      },
+      {
+        "id": "ss32-step-6",
+        "section": 0,
+        "title": "Entrepreneurial characteristics",
+        "intro": "The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience.",
+        "simple": "Creativity, initiative, leadership, teamwork and calculated risk-taking.",
+        "example": [
+          "Creativity, initiative, leadership, teamwork and calculated risk-taking.",
+          "The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience."
+        ],
+        "question": "Which qualities appear in the source list?",
+        "options": [
+          "A guarantee against failure",
+          "Creativity, initiative, leadership, teamwork and calculated risk-taking",
+          "An absence of planning"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience.",
+          "Correct. The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience.",
+          "Look again. The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience."
+        ],
+        "hints": [
+          "The list also includes innovation, dynamism, achievement motivation, problem solving, goal orientation, decisions and commitment. These can be developed through learning and experience.",
+          "Creativity, initiative, leadership, teamwork and calculated risk-taking."
+        ]
+      },
+      {
+        "id": "ss32-step-7",
+        "section": 0,
+        "title": "Economic contribution",
+        "intro": "Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions.",
+        "simple": "By organising investment, employment, products, services and markets.",
+        "example": [
+          "By organising investment, employment, products, services and markets.",
+          "Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions."
+        ],
+        "question": "How can entrepreneurs contribute to development?",
+        "options": [
+          "By organising investment, employment, products, services and markets",
+          "Every enterprise reduces inequality automatically",
+          "Only large factories create value"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions.",
+          "Look again. Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions.",
+          "Look again. Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions."
+        ],
+        "hints": [
+          "Enterprises can mobilise savings and skills, create value, support regional activity and exports, and improve offerings. Effects on income distribution, prices and employment depend on actual conditions.",
+          "By organising investment, employment, products, services and markets."
+        ]
+      },
+      {
+        "id": "ss32-step-8",
+        "section": 1,
+        "title": "DIC services",
+        "intro": "The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application.",
+        "simple": "Project guidance, training, coordination and links to finance and markets.",
+        "example": [
+          "Project guidance, training, coordination and links to finance and markets.",
+          "The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application."
+        ],
+        "question": "Which services illustrate a DIC’s supporting role?",
+        "options": [
+          "Issuing every national currency note",
+          "Guaranteeing profit on every venture",
+          "Project guidance, training, coordination and links to finance and markets"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application.",
+          "Look again. The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application.",
+          "Correct. The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application."
+        ],
+        "hints": [
+          "The source lists project-report help, industrial estates, raw-material access, modernisation, export assistance, exhibitions, design and innovation support. Assistance does not itself establish approval of every loan or scheme application.",
+          "Project guidance, training, coordination and links to finance and markets."
+        ]
+      },
+      {
+        "id": "ss32-step-9",
+        "section": 0,
+        "title": "Functions in a venture",
+        "intro": "A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change.",
+        "simple": "Planning, resources, production, finance, marketing, innovation and risk management.",
+        "example": [
+          "Planning, resources, production, finance, marketing, innovation and risk management.",
+          "A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change."
+        ],
+        "question": "Which tasks must an entrepreneur coordinate?",
+        "options": [
+          "Only borrowing money",
+          "Planning, resources, production, finance, marketing, innovation and risk management",
+          "Only designing a logo"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change.",
+          "Correct. A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change.",
+          "Look again. A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change."
+        ],
+        "hints": [
+          "A plan connects the customer need with costs, people, technology and delivery. Budgets and feedback help review performance and decide what to change.",
+          "Planning, resources, production, finance, marketing, innovation and risk management."
+        ]
+      },
+      {
+        "id": "ss32-step-10",
+        "section": 1,
+        "title": "Self-employment opportunities",
+        "intro": "The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements.",
+        "simple": "Consultancy, equipment rental, photocopying, childcare and technical services.",
+        "example": [
+          "Consultancy, equipment rental, photocopying, childcare and technical services.",
+          "The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements."
+        ],
+        "question": "Which source examples illustrate service enterprises?",
+        "options": [
+          "Consultancy, equipment rental, photocopying, childcare and technical services",
+          "Every example needs identical capital",
+          "Only exporting minerals is possible"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements.",
+          "Look again. The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements.",
+          "Look again. The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements."
+        ],
+        "hints": [
+          "The chapter also names advertising, testing labs, research services, internet services and beauty services. Suitability depends on skills, demand, capital, access and applicable requirements.",
+          "Consultancy, equipment rental, photocopying, childcare and technical services."
+        ]
+      },
+      {
+        "id": "ss32-step-11",
+        "section": 1,
+        "title": "Finance institutions",
+        "intro": "The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan.",
+        "simple": "Institutions, names and financing roles can change.",
+        "example": [
+          "Institutions, names and financing roles can change.",
+          "The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan."
+        ],
+        "question": "Why should the source’s institutional list be read with dates?",
+        "options": [
+          "Every historical institution offers the same current loan",
+          "A name alone establishes approval",
+          "Institutions, names and financing roles can change"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan.",
+          "Look again. The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan.",
+          "Correct. The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan."
+        ],
+        "hints": [
+          "The book lists IDBI, NABARD, EXIM Bank, SIDBI, IFCI, ICICI, IRBI, banks, State financial corporations, LIC and UTI. Some entries reflect historical structures. Identify the current provider, product, eligibility and terms before discussing an actual loan.",
+          "Institutions, names and financing roles can change."
+        ]
+      },
+      {
+        "id": "ss32-step-12",
+        "section": 1,
+        "title": "Promotional organisations",
+        "intro": "The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services.",
+        "simple": "DICs, NSIC, State agencies, industrial estates and KVIC.",
+        "example": [
+          "DICs, NSIC, State agencies, industrial estates and KVIC.",
+          "The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services."
+        ],
+        "question": "Which bodies can help connect a new enterprise with support?",
+        "options": [
+          "Only international military alliances",
+          "DICs, NSIC, State agencies, industrial estates and KVIC",
+          "Only consumer courts"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services.",
+          "Correct. The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services.",
+          "Look again. The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services."
+        ],
+        "hints": [
+          "The source also lists small-industry boards, service institutes and technical-consultancy organisations. Training, project advice, market linkage and finance serve different needs. Check current names and services.",
+          "DICs, NSIC, State agencies, industrial estates and KVIC."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Opportunity and organisation · pp138–140",
+        "The textbook prints Entreprende. The standard French form entreprendre gives the sense of undertaking a venture or activity."
+      ],
+      [
+        "Enterprise support · pp141–144",
+        "DICs provide district-level coordination and support for smaller enterprises. Their actual services depend on current State arrangements and programme eligibility."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  },
+  {
+    "number": 33,
+    "title": "Consumer Education and Protection",
+    "slug": "consumer-education-and-protection",
+    "part": 2,
+    "discipline": "Business Studies",
+    "subject": "social-science",
+    "sections": [
+      "Consumers, rights and awareness · pp145–147",
+      "Redressal and evidence · pp148–150"
+    ],
+    "steps": [
+      {
+        "id": "ss33-step-1",
+        "section": 0,
+        "title": "Another word",
+        "intro": "A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose.",
+        "simple": "User.",
+        "example": [
+          "User.",
+          "A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose."
+        ],
+        "question": "Which term does the chapter use for a consumer?",
+        "options": [
+          "User",
+          "Only manufacturer",
+          "Only advertiser"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose.",
+          "Look again. A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose.",
+          "Look again. A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose."
+        ],
+        "hints": [
+          "A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose.",
+          "User."
+        ]
+      },
+      {
+        "id": "ss33-step-2",
+        "section": 0,
+        "title": "The supplier",
+        "intro": "Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms.",
+        "simple": "Provider.",
+        "example": [
+          "Provider.",
+          "Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms."
+        ],
+        "question": "What is a person or organisation supplying goods or services called in the source?",
+        "options": [
+          "Only a voter",
+          "Only a judge",
+          "Provider"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms.",
+          "Look again. Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms.",
+          "Correct. Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms."
+        ],
+        "hints": [
+          "Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms.",
+          "Provider."
+        ]
+      },
+      {
+        "id": "ss33-step-3",
+        "section": 0,
+        "title": "Consumer awareness day",
+        "intro": "The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December.",
+        "simple": "15 March.",
+        "example": [
+          "15 March.",
+          "The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December."
+        ],
+        "question": "When is World Consumer Rights Day observed?",
+        "options": [
+          "26 January",
+          "15 March",
+          "24 October"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December.",
+          "Correct. The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December.",
+          "Look again. The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December."
+        ],
+        "hints": [
+          "The date recalls President Kennedy’s 1962 statement of consumer rights. India’s National Consumer Day is separately observed on 24 December.",
+          "15 March."
+        ]
+      },
+      {
+        "id": "ss33-step-4",
+        "section": 1,
+        "title": "Which commission?",
+        "intro": "For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure.",
+        "simple": "District Commission under the book’s older threshold.",
+        "example": [
+          "District Commission under the book’s older threshold.",
+          "For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure."
+        ],
+        "question": "Which commission is the expected answer in the textbook’s below-one-crore blank?",
+        "options": [
+          "District Commission under the book’s older threshold",
+          "Every claim goes directly to the Supreme Court",
+          "Only a village council"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure.",
+          "Look again. For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure.",
+          "Look again. For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure."
+        ],
+        "hints": [
+          "For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure.",
+          "District Commission under the book’s older threshold."
+        ]
+      },
+      {
+        "id": "ss33-step-5",
+        "section": 0,
+        "title": "Who is a consumer?",
+        "intro": "It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad.",
+        "simple": "A person buying goods or hiring services for consideration within the Act’s scope.",
+        "example": [
+          "A person buying goods or hiring services for consideration within the Act’s scope.",
+          "It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad."
+        ],
+        "question": "What does the legal consumer definition generally cover?",
+        "options": [
+          "Every commercial reseller automatically qualifies",
+          "Only a person paying with cash",
+          "A person buying goods or hiring services for consideration within the Act’s scope"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad.",
+          "Look again. It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad.",
+          "Correct. It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad."
+        ],
+        "hints": [
+          "It includes specified users and beneficiaries. Purchases for resale or commercial purposes are generally excluded, with a livelihood-by-self-employment exception for goods. The textbook’s inclusion of all resale purchases is too broad.",
+          "A person buying goods or hiring services for consideration within the Act’s scope."
+        ]
+      },
+      {
+        "id": "ss33-step-6",
+        "section": 0,
+        "title": "Consumer movement",
+        "intro": "Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples.",
+        "simple": "Protecting consumers against exploitation and improving fair treatment.",
+        "example": [
+          "Protecting consumers against exploitation and improving fair treatment.",
+          "Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples."
+        ],
+        "question": "What is its central aim?",
+        "options": [
+          "Promoting misleading advertising",
+          "Protecting consumers against exploitation and improving fair treatment",
+          "Removing all consumer choice"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples.",
+          "Correct. Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples.",
+          "Look again. Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples."
+        ],
+        "hints": [
+          "Awareness, organisation, standards and remedies support that aim. The source describes the Indian Association of Consumers in 1956 and the women-led AWARE initiative in Mumbai in 1965 as historical examples.",
+          "Protecting consumers against exploitation and improving fair treatment."
+        ]
+      },
+      {
+        "id": "ss33-step-7",
+        "section": 0,
+        "title": "Consumer rights",
+        "intro": "The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service.",
+        "simple": "Safety, information, choice, being heard, redressal and consumer education.",
+        "example": [
+          "Safety, information, choice, being heard, redressal and consumer education.",
+          "The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service."
+        ],
+        "question": "Which rights guide a fair transaction?",
+        "options": [
+          "Safety, information, choice, being heard, redressal and consumer education",
+          "Only a right to advertisements",
+          "Only sellers have enforceable interests"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service.",
+          "Look again. The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service.",
+          "Look again. The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service."
+        ],
+        "hints": [
+          "The chapter also discusses protection from exploitation and a healthy environment. Identify the particular issue, such as missing price information, an unsafe product or a failure to provide the promised service.",
+          "Safety, information, choice, being heard, redressal and consumer education."
+        ]
+      },
+      {
+        "id": "ss33-step-8",
+        "section": 0,
+        "title": "Two Acts",
+        "intro": "The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed.",
+        "simple": "1986.",
+        "example": [
+          "1986.",
+          "The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed."
+        ],
+        "question": "Which year fits the historical Consumer Protection Act question?",
+        "options": [
+          "1905",
+          "1951",
+          "1986"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed.",
+          "Look again. The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed.",
+          "Correct. The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed."
+        ],
+        "hints": [
+          "The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed.",
+          "1986."
+        ]
+      },
+      {
+        "id": "ss33-step-9",
+        "section": 1,
+        "title": "Appointments",
+        "intro": "Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions.",
+        "simple": "The State Government through the prescribed appointment process.",
+        "example": [
+          "The State Government through the prescribed appointment process.",
+          "Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions."
+        ],
+        "question": "Who appoints the District Commission President under the relevant framework?",
+        "options": [
+          "Only a manufacturer’s board",
+          "The State Government through the prescribed appointment process",
+          "Every local trader votes directly"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions.",
+          "Correct. Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions.",
+          "Look again. Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions."
+        ],
+        "hints": [
+          "Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions.",
+          "The State Government through the prescribed appointment process."
+        ]
+      },
+      {
+        "id": "ss33-step-10",
+        "section": 0,
+        "title": "Consumer problems",
+        "intro": "The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider.",
+        "simple": "Defects, deficient services, misleading claims, overcharging or short measure.",
+        "example": [
+          "Defects, deficient services, misleading claims, overcharging or short measure.",
+          "The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider."
+        ],
+        "question": "Which examples can give rise to a consumer concern?",
+        "options": [
+          "Defects, deficient services, misleading claims, overcharging or short measure",
+          "Every price difference proves fraud",
+          "All goods carry identical warranties"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider.",
+          "Look again. The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider.",
+          "Look again. The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider."
+        ],
+        "hints": [
+          "The facts, transaction terms, evidence and applicable law determine the remedy. An unhappy experience alone does not establish every allegation against a provider.",
+          "Defects, deficient services, misleading claims, overcharging or short measure."
+        ]
+      },
+      {
+        "id": "ss33-step-11",
+        "section": 0,
+        "title": "Why exploitation occurs",
+        "intro": "Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms.",
+        "simple": "Information gaps, weak awareness, misleading claims and barriers to remedy.",
+        "example": [
+          "Information gaps, weak awareness, misleading claims and barriers to remedy.",
+          "Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms."
+        ],
+        "question": "Which conditions can make unfair practices harder to challenge?",
+        "options": [
+          "All middlemen are fraudulent",
+          "Online purchases can never create problems",
+          "Information gaps, weak awareness, misleading claims and barriers to remedy"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms.",
+          "Look again. Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms.",
+          "Correct. Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms."
+        ],
+        "hints": [
+          "Intermediaries can affect transactions but are not inherently dishonest. Online or teleshopping channels change access and risks. Check the provider, description, total price and return terms.",
+          "Information gaps, weak awareness, misleading claims and barriers to remedy."
+        ]
+      },
+      {
+        "id": "ss33-step-12",
+        "section": 0,
+        "title": "Four objectives",
+        "intro": "Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency.",
+        "simple": "Safety, fair practices, reliable information and effective remedies.",
+        "example": [
+          "Safety, fair practices, reliable information and effective remedies.",
+          "Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency."
+        ],
+        "question": "Which objectives fit consumer protection?",
+        "options": [
+          "Only protecting the largest seller",
+          "Safety, fair practices, reliable information and effective remedies",
+          "Only increasing advertisements"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency.",
+          "Correct. Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency.",
+          "Look again. Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency."
+        ],
+        "hints": [
+          "Quality and measurement standards, redress and education support these objectives. Compare what was promised, what was supplied and the evidence of any deficiency.",
+          "Safety, fair practices, reliable information and effective remedies."
+        ]
+      },
+      {
+        "id": "ss33-step-13",
+        "section": 1,
+        "title": "Three levels",
+        "intro": "Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute.",
+        "simple": "District, State and National Consumer Disputes Redressal Commissions.",
+        "example": [
+          "District, State and National Consumer Disputes Redressal Commissions.",
+          "Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute."
+        ],
+        "question": "Which three commissions form the redressal structure?",
+        "options": [
+          "District, State and National Consumer Disputes Redressal Commissions",
+          "Grama, Taluk and Zilla Panchayats",
+          "Only the ICJ"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute.",
+          "Look again. Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute.",
+          "Look again. Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute."
+        ],
+        "hints": [
+          "Ordinary pecuniary jurisdiction uses the 2021 consideration-paid thresholds. Appeals, territorial jurisdiction and special case categories have additional rules. The CCPA’s regulatory role differs from adjudication of an individual dispute.",
+          "District, State and National Consumer Disputes Redressal Commissions."
+        ]
+      },
+      {
+        "id": "ss33-step-14",
+        "section": 1,
+        "title": "A documented complaint",
+        "intro": "Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad.",
+        "simple": "Parties, transaction facts, the issue, evidence and the remedy sought.",
+        "example": [
+          "Parties, transaction facts, the issue, evidence and the remedy sought.",
+          "Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad."
+        ],
+        "question": "What information helps prepare a consumer complaint?",
+        "options": [
+          "Only an unsupported accusation",
+          "Invented receipts for a real claim",
+          "Parties, transaction facts, the issue, evidence and the remedy sought"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad.",
+          "Look again. Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad.",
+          "Correct. Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad."
+        ],
+        "hints": [
+          "Keep invoices, payment records, terms, correspondence and dated photographs where relevant. A consumer can appear without a lawyer. Filing rules, limitation periods, fee schedules and official electronic procedures must be checked. The book’s statement of universally fee-free filing is too broad.",
+          "Parties, transaction facts, the issue, evidence and the remedy sought."
+        ]
+      },
+      {
+        "id": "ss33-step-15",
+        "section": 1,
+        "title": "Read a label",
+        "intro": "Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates.",
+        "simple": "Manufacturer identity, price, quantity, batch and date information.",
+        "example": [
+          "Manufacturer identity, price, quantity, batch and date information.",
+          "Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates."
+        ],
+        "question": "Which details help a buyer understand a packaged product?",
+        "options": [
+          "Only a slogan",
+          "Manufacturer identity, price, quantity, batch and date information",
+          "Only the picture colour"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates.",
+          "Correct. Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates.",
+          "Look again. Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates."
+        ],
+        "hints": [
+          "Check labels in their product-specific context, including instructions and relevant standards. An old textbook label provides an observation exercise and should retain its original dates.",
+          "Manufacturer identity, price, quantity, batch and date information."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Consumers, rights and awareness · pp145–147",
+        "A user receives or uses a good or service. The legal definition of consumer has specific requirements about consideration and purpose."
+      ],
+      [
+        "Redressal and evidence · pp148–150",
+        "For ordinary complaints, the 2021 rules use consideration paid: District up to ₹50 lakh, State above ₹50 lakh through ₹2 crore, National above ₹2 crore. These replace the older ₹1 crore and ₹10 crore boundaries. Compensation claimed is a different figure."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  }
+]

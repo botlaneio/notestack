@@ -1,0 +1,842 @@
+{
+  "chapters": {
+    "30": [
+      {
+        "id": "ss30-task-001",
+        "title": "Villages and development",
+        "reference": "Exercise I Q1 · p127",
+        "prompt": "Whom does the chapter associate with the statement that India’s development depends on its villages? Explain your reasoning with a chapter example.",
+        "sample": "Mahatma Gandhi. The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year.",
+        "solution": [
+          "Mahatma Gandhi.",
+          "The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year."
+        ],
+        "hints": [
+          "Mahatma Gandhi."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-002",
+        "title": "Three-tier structure",
+        "reference": "Exercise I Q2 · p127",
+        "prompt": "How many levels appear in the chapter’s Panchayat Raj structure? Explain your reasoning with a chapter example.",
+        "sample": "Three. The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements.",
+        "solution": [
+          "Three.",
+          "The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements."
+        ],
+        "hints": [
+          "Three."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-003",
+        "title": "Local democracy",
+        "reference": "Exercise I Q3 · p127",
+        "prompt": "Which principles guide Panchayat Raj institutions? Explain your reasoning with a chapter example.",
+        "sample": "Democratic principles. Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation.",
+        "solution": [
+          "Democratic principles.",
+          "Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation."
+        ],
+        "hints": [
+          "Democratic principles."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-004",
+        "title": "Organising rural women",
+        "reference": "Exercise I Q4 · p127",
+        "prompt": "Which organisations support collective saving and economic participation? Explain your reasoning with a chapter example.",
+        "sample": "Women’s self-help groups. Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions.",
+        "solution": [
+          "Women’s self-help groups.",
+          "Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions."
+        ],
+        "hints": [
+          "Women’s self-help groups."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-005",
+        "title": "Broad rural development",
+        "reference": "Exercise II Q5 · p127",
+        "prompt": "What does rural development aim to improve? Explain your reasoning with a chapter example.",
+        "sample": "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities. Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing.",
+        "solution": [
+          "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities.",
+          "Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing."
+        ],
+        "hints": [
+          "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-006",
+        "title": "Sharing authority",
+        "reference": "Exercise II Q6 · p127",
+        "prompt": "What is decentralisation of power? Explain your reasoning with a chapter example.",
+        "sample": "Assigning authority and responsibility to institutions closer to the people affected. Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled.",
+        "solution": [
+          "Assigning authority and responsibility to institutions closer to the people affected.",
+          "Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled."
+        ],
+        "hints": [
+          "Assigning authority and responsibility to institutions closer to the people affected."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-007",
+        "title": "Name the levels",
+        "reference": "Exercise II Q7 · p127",
+        "prompt": "Which sequence matches the source diagram? Explain your reasoning with a chapter example.",
+        "sample": "Grama Panchayat, Taluk Panchayat and Zilla Panchayat. These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat.",
+        "solution": [
+          "Grama Panchayat, Taluk Panchayat and Zilla Panchayat.",
+          "These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat."
+        ],
+        "hints": [
+          "Grama Panchayat, Taluk Panchayat and Zilla Panchayat."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-008",
+        "title": "Housing programmes",
+        "reference": "Exercise II Q8 · p127",
+        "prompt": "Which pair can be used as textbook housing-programme examples? Explain your reasoning with a chapter example.",
+        "sample": "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana. The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information.",
+        "solution": [
+          "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana.",
+          "The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information."
+        ],
+        "hints": [
+          "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-009",
+        "title": "Unpaid contributions",
+        "reference": "Exercise II Q9 · p127",
+        "prompt": "Which work is described as often excluded from paid-work measures? Explain your reasoning with a chapter example.",
+        "sample": "Unpaid household and care work. Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value.",
+        "solution": [
+          "Unpaid household and care work.",
+          "Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value."
+        ],
+        "hints": [
+          "Unpaid household and care work."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-010",
+        "title": "Rural economic conditions",
+        "reference": "Exercise III Q10 · p127",
+        "prompt": "Which factors help explain rural economic challenges? Explain your reasoning with a chapter example.",
+        "sample": "Unequal access to employment, productive assets, infrastructure and services. Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions.",
+        "solution": [
+          "Unequal access to employment, productive assets, infrastructure and services.",
+          "Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions."
+        ],
+        "hints": [
+          "Unequal access to employment, productive assets, infrastructure and services."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-011",
+        "title": "Why rural development matters",
+        "reference": "Exercise III Q11 · p127",
+        "prompt": "How can rural development broaden opportunities? Explain your reasoning with a chapter example.",
+        "sample": "Through productive livelihoods, services, skills and value addition. Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints.",
+        "solution": [
+          "Through productive livelihoods, services, skills and value addition.",
+          "Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints."
+        ],
+        "hints": [
+          "Through productive livelihoods, services, skills and value addition."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-012",
+        "title": "Grama Swarajya",
+        "reference": "Exercise III Q12 · p127",
+        "prompt": "How does Gandhi’s village self-rule connect with decentralisation? Explain your reasoning with a chapter example.",
+        "sample": "People participate in decisions concerning their community’s development. Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made.",
+        "solution": [
+          "People participate in decisions concerning their community’s development.",
+          "Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made."
+        ],
+        "hints": [
+          "People participate in decisions concerning their community’s development."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-013",
+        "title": "Panchayats in practice",
+        "reference": "Exercise III Q13 · p127",
+        "prompt": "Which activities illustrate Panchayats’ development role? Explain your reasoning with a chapter example.",
+        "sample": "Local services, livelihood support, infrastructure and access to welfare programmes. The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government.",
+        "solution": [
+          "Local services, livelihood support, infrastructure and access to welfare programmes.",
+          "The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government."
+        ],
+        "hints": [
+          "Local services, livelihood support, infrastructure and access to welfare programmes."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-014",
+        "title": "Connecting programmes",
+        "reference": "Foundation · p124",
+        "prompt": "How should the employment and welfare examples be read? Explain your reasoning with a chapter example.",
+        "sample": "As programmes with specific aims, dates, eligibility and implementing arrangements. MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification.",
+        "solution": [
+          "As programmes with specific aims, dates, eligibility and implementing arrangements.",
+          "MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification."
+        ],
+        "hints": [
+          "As programmes with specific aims, dates, eligibility and implementing arrangements."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-015",
+        "title": "PURA connections",
+        "reference": "Source sidebar · p124",
+        "prompt": "What four connections organise the PURA model in the sidebar? Explain your reasoning with a chapter example.",
+        "sample": "Physical, knowledge, electronic and economic connectivity. A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement.",
+        "solution": [
+          "Physical, knowledge, electronic and economic connectivity.",
+          "A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement."
+        ],
+        "hints": [
+          "Physical, knowledge, electronic and economic connectivity."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-016",
+        "title": "Women in development",
+        "reference": "Source visuals and discussion · pp125–126",
+        "prompt": "Which dimensions help assess women’s participation? Explain your reasoning with a chapter example.",
+        "sample": "Paid and unpaid work, access to resources, representation and decision-making. Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings.",
+        "solution": [
+          "Paid and unpaid work, access to resources, representation and decision-making.",
+          "Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings."
+        ],
+        "hints": [
+          "Paid and unpaid work, access to resources, representation and decision-making."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-017",
+        "title": "Local Panchayat enquiry",
+        "reference": "Activity IV Q1 · p127",
+        "prompt": "Prepare a record of a Grama Panchayat’s development work.",
+        "sample": "Use public plans, budget information or a voluntary supervised discussion. Record the activity, purpose, responsible institution, period and evidence of progress. Distinguish a proposal, a funded activity and completed work.",
+        "solution": [
+          "Use public plans, budget information or a voluntary supervised discussion. Record the activity, purpose, responsible institution, period and evidence of progress.",
+          "Distinguish a proposal, a funded activity and completed work."
+        ],
+        "hints": [
+          "Use public plans, budget information or a voluntary supervised discussion. Record the activity, purpose, responsible institution, period and evidence of progress."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-task-018",
+        "title": "Self-help group enquiry",
+        "reference": "Inline activity · p126 and Activity IV Q2 · p127",
+        "prompt": "Prepare questions about a group’s contribution to women’s independence.",
+        "sample": "Ask general questions about saving, training, market access, participation and control over earnings. Use only voluntarily shared information and record findings after the discussion, with appropriate anonymity.",
+        "solution": [
+          "Ask general questions about saving, training, market access, participation and control over earnings.",
+          "Use only voluntarily shared information and record findings after the discussion, with appropriate anonymity."
+        ],
+        "hints": [
+          "Ask general questions about saving, training, market access, participation and control over earnings."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "31": [
+      {
+        "id": "ss31-task-001",
+        "title": "Fiscal policy",
+        "reference": "Exercise I Q1 · p136",
+        "prompt": "Through what policy does government manage its spending, receipts and borrowing? Explain your reasoning with a chapter example.",
+        "sample": "Fiscal policy. Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools.",
+        "solution": [
+          "Fiscal policy.",
+          "Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools."
+        ],
+        "hints": [
+          "Fiscal policy."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-002",
+        "title": "A surplus budget",
+        "reference": "Exercise I Q2 · p136",
+        "prompt": "What describes a budget with receipts above expenditure under the stated comparison? Explain your reasoning with a chapter example.",
+        "sample": "Surplus budget. A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators.",
+        "solution": [
+          "Surplus budget.",
+          "A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators."
+        ],
+        "hints": [
+          "Surplus budget."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-003",
+        "title": "Presenting the Union Budget",
+        "reference": "Exercise I Q3 · p136",
+        "prompt": "Which office normally presents it in the Lok Sabha? Explain your reasoning with a chapter example.",
+        "sample": "Union Finance Minister. The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures.",
+        "solution": [
+          "Union Finance Minister.",
+          "The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures."
+        ],
+        "hints": [
+          "Union Finance Minister."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-004",
+        "title": "Borrowing and receipts",
+        "reference": "Exercise I Q4 · p136",
+        "prompt": "How are government borrowings classified? Explain your reasoning with a chapter example.",
+        "sample": "Debt capital receipts. Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations.",
+        "solution": [
+          "Debt capital receipts.",
+          "Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations."
+        ],
+        "hints": [
+          "Debt capital receipts."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-005",
+        "title": "GST",
+        "reference": "Exercise I Q5 · p136",
+        "prompt": "What does GST stand for? Explain your reasoning with a chapter example.",
+        "sample": "Goods and Services Tax. It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax.",
+        "solution": [
+          "Goods and Services Tax.",
+          "It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax."
+        ],
+        "hints": [
+          "Goods and Services Tax."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-006",
+        "title": "Public finance",
+        "reference": "Exercise II Q6 · p137",
+        "prompt": "What does public finance study? Explain your reasoning with a chapter example.",
+        "sample": "Government receipts, expenditure and debt management. The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy.",
+        "solution": [
+          "Government receipts, expenditure and debt management.",
+          "The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy."
+        ],
+        "hints": [
+          "Government receipts, expenditure and debt management."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-007",
+        "title": "A budget document",
+        "reference": "Exercise II Q7 · p137",
+        "prompt": "What is a government budget? Explain your reasoning with a chapter example.",
+        "sample": "A statement of estimated receipts and expenditure for a financial year. Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance.",
+        "solution": [
+          "A statement of estimated receipts and expenditure for a financial year.",
+          "Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance."
+        ],
+        "hints": [
+          "A statement of estimated receipts and expenditure for a financial year."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-008",
+        "title": "Deficit budget",
+        "reference": "Exercise II Q8 · p137",
+        "prompt": "When does a budget show a deficit? Explain your reasoning with a chapter example.",
+        "sample": "When the defined expenditure exceeds the corresponding receipts. A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy.",
+        "solution": [
+          "When the defined expenditure exceeds the corresponding receipts.",
+          "A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy."
+        ],
+        "hints": [
+          "When the defined expenditure exceeds the corresponding receipts."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-009",
+        "title": "Direct taxation",
+        "reference": "Exercise II Q9 · p137",
+        "prompt": "Which is an example of a direct tax? Explain your reasoning with a chapter example.",
+        "sample": "Personal income tax. Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation.",
+        "solution": [
+          "Personal income tax.",
+          "Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation."
+        ],
+        "hints": [
+          "Personal income tax."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-010",
+        "title": "Fiscal-deficit formula",
+        "reference": "Exercise II Q10 · p137",
+        "prompt": "Which is the standard positive fiscal-deficit calculation? Explain your reasoning with a chapter example.",
+        "sample": "Total expenditure minus revenue receipts minus non-debt capital receipts. For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two.",
+        "solution": [
+          "Total expenditure minus revenue receipts minus non-debt capital receipts.",
+          "For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two."
+        ],
+        "hints": [
+          "Total expenditure minus revenue receipts minus non-debt capital receipts."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-011",
+        "title": "Private and public finance",
+        "reference": "Exercise III Q11 · p137",
+        "prompt": "How does public finance differ from household finance? Explain your reasoning with a chapter example.",
+        "sample": "Its scope includes public authority, collective services and economy-wide effects. Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings.",
+        "solution": [
+          "Its scope includes public authority, collective services and economy-wide effects.",
+          "Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings."
+        ],
+        "hints": [
+          "Its scope includes public authority, collective services and economy-wide effects."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-012",
+        "title": "Significance",
+        "reference": "Exercise III Q12 · p137",
+        "prompt": "What can public finance help government pursue? Explain your reasoning with a chapter example.",
+        "sample": "Services, development, stability and fairer access to opportunity. Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation.",
+        "solution": [
+          "Services, development, stability and fairer access to opportunity.",
+          "Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation."
+        ],
+        "hints": [
+          "Services, development, stability and fairer access to opportunity."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-013",
+        "title": "Historical plan expenditure",
+        "reference": "Exercise III Q13 · p137",
+        "prompt": "Which activities appear under the textbook’s plan classification? Explain your reasoning with a chapter example.",
+        "sample": "Economic, social and general services within development plans. Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue.",
+        "solution": [
+          "Economic, social and general services within development plans.",
+          "Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue."
+        ],
+        "hints": [
+          "Economic, social and general services within development plans."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-014",
+        "title": "Non-tax revenue",
+        "reference": "Exercise III Q14 · p137",
+        "prompt": "Which sources illustrate non-tax receipts? Explain your reasoning with a chapter example.",
+        "sample": "Fees, fines, dividends, profits and receipts from public services. The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue.",
+        "solution": [
+          "Fees, fines, dividends, profits and receipts from public services.",
+          "The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue."
+        ],
+        "hints": [
+          "Fees, fines, dividends, profits and receipts from public services."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-015",
+        "title": "Four deficit concepts",
+        "reference": "Exercise III Q15 · p137",
+        "prompt": "Which deficit measures does the textbook list? Explain your reasoning with a chapter example.",
+        "sample": "Budget, revenue, fiscal and primary deficits. In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope.",
+        "solution": [
+          "Budget, revenue, fiscal and primary deficits.",
+          "In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope."
+        ],
+        "hints": [
+          "Budget, revenue, fiscal and primary deficits."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-016",
+        "title": "Revenue and capital spending",
+        "reference": "Foundation · pp130–132",
+        "prompt": "How can the two spending categories be distinguished? Explain your reasoning with a chapter example.",
+        "sample": "By the nature and accounting treatment of the expenditure. Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes.",
+        "solution": [
+          "By the nature and accounting treatment of the expenditure.",
+          "Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes."
+        ],
+        "hints": [
+          "By the nature and accounting treatment of the expenditure."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-017",
+        "title": "Taxation and distribution",
+        "reference": "Foundation · pp133–134",
+        "prompt": "What is progressive taxation? Explain your reasoning with a chapter example.",
+        "sample": "A structure in which the tax rate rises across the specified taxable base or income bands. Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation.",
+        "solution": [
+          "A structure in which the tax rate rises across the specified taxable base or income bands.",
+          "Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation."
+        ],
+        "hints": [
+          "A structure in which the tax rate rises across the specified taxable base or income bands."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-018",
+        "title": "Financing a shortfall",
+        "reference": "Foundation · pp135–136",
+        "prompt": "How can government meet financing needs? Explain your reasoning with a chapter example.",
+        "sample": "Borrowing, use of available balances and other authorised financing arrangements. Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit.",
+        "solution": [
+          "Borrowing, use of available balances and other authorised financing arrangements.",
+          "Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit."
+        ],
+        "hints": [
+          "Borrowing, use of available balances and other authorised financing arrangements."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-019",
+        "title": "Spending chart",
+        "reference": "Source chart · p132",
+        "prompt": "Read the expenditure shares for the source’s 2013–14 illustration.",
+        "sample": "The source shows Central plan 21%, interest 18%, tax devolution 17%, subsidies 12%, non-plan 11%, defence 10%, State/UT plan 7% and grants 4%. The shares total 100%. Keep the historical categories and year with the chart rather than applying them to a current budget.",
+        "solution": [
+          "The source shows Central plan 21%, interest 18%, tax devolution 17%, subsidies 12%, non-plan 11%, defence 10%, State/UT plan 7% and grants 4%.",
+          "The shares total 100%. Keep the historical categories and year with the chart rather than applying them to a current budget."
+        ],
+        "hints": [
+          "The source shows Central plan 21%, interest 18%, tax devolution 17%, subsidies 12%, non-plan 11%, defence 10%, State/UT plan 7% and grants 4%."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-020",
+        "title": "Receipts chart",
+        "reference": "Source chart · p135",
+        "prompt": "Explain why borrowing must be identified separately in a receipts chart.",
+        "sample": "The source gives debt and other liabilities 27%, corporate tax 21%, income tax 12%, excise 10%, customs 9%, non-tax 9%, service and other taxes 9%, and non-debt capital 3%. These shares sum to 100% of the illustrated financing total. The chart combines revenue with capital receipts and borrowing.",
+        "solution": [
+          "The source gives debt and other liabilities 27%, corporate tax 21%, income tax 12%, excise 10%, customs 9%, non-tax 9%, service and other taxes 9%, and non-debt capital 3%.",
+          "These shares sum to 100% of the illustrated financing total. The chart combines revenue with capital receipts and borrowing."
+        ],
+        "hints": [
+          "The source gives debt and other liabilities 27%, corporate tax 21%, income tax 12%, excise 10%, customs 9%, non-tax 9%, service and other taxes 9%, and non-debt capital 3%."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-021",
+        "title": "Panchayat budget",
+        "reference": "Activity IV Q1 · p137",
+        "prompt": "Prepare a sourced description of a local public budget.",
+        "sample": "Record the year, institution, main receipt and spending categories, estimates and actuals where available. Use public records or a supervised enquiry and state which figures were actually obtained.",
+        "solution": [
+          "Record the year, institution, main receipt and spending categories, estimates and actuals where available.",
+          "Use public records or a supervised enquiry and state which figures were actually obtained."
+        ],
+        "hints": [
+          "Record the year, institution, main receipt and spending categories, estimates and actuals where available."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-022",
+        "title": "Budget presentation",
+        "reference": "Activity IV Q2 · p137",
+        "prompt": "Prepare notes from a Union or State budget presentation.",
+        "sample": "Record the government, financial year, date, announced priorities and selected estimates. Distinguish a proposal from final authorisation and implementation.",
+        "solution": [
+          "Record the government, financial year, date, announced priorities and selected estimates.",
+          "Distinguish a proposal from final authorisation and implementation."
+        ],
+        "hints": [
+          "Record the government, financial year, date, announced priorities and selected estimates."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-023",
+        "title": "News display",
+        "reference": "Activity IV Q3 · p137",
+        "prompt": "Compare newspaper reports about a budget.",
+        "sample": "Identify the same budget year, the reported measure, units and the source document. Separate reporting of an estimate from opinion about its effects.",
+        "solution": [
+          "Identify the same budget year, the reported measure, units and the source document.",
+          "Separate reporting of an estimate from opinion about its effects."
+        ],
+        "hints": [
+          "Identify the same budget year, the reported measure, units and the source document."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-task-024",
+        "title": "Household budget",
+        "reference": "Project V Q1 · p137",
+        "prompt": "Prepare a household-budget exercise.",
+        "sample": "Use fictional amounts or voluntarily shared non-identifying figures. Group income and expenditure by period, calculate the balance and discuss saving or financing needs. Personal financial disclosure is optional. A fictional budget is sufficient for learning the calculation.",
+        "solution": [
+          "Use fictional amounts or voluntarily shared non-identifying figures. Group income and expenditure by period, calculate the balance and discuss saving or financing needs.",
+          "Personal financial disclosure is optional. A fictional budget is sufficient for learning the calculation."
+        ],
+        "hints": [
+          "Use fictional amounts or voluntarily shared non-identifying figures. Group income and expenditure by period, calculate the balance and discuss saving or financing needs."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  },
+  "checks": {
+    "30": [
+      {
+        "id": "ss30-check-001",
+        "title": "A local road decision",
+        "reference": "Independent check",
+        "prompt": "How could decentralisation improve the choice of a village-road project?",
+        "sample": "Residents can identify routes, seasonal access problems and service needs. Resources, transparent decisions and follow-up accountability determine whether participation leads to results.",
+        "solution": [
+          "Residents can identify routes, seasonal access problems and service needs.",
+          "Resources, transparent decisions and follow-up accountability determine whether participation leads to results."
+        ],
+        "hints": [
+          "Residents can identify routes, seasonal access problems and service needs."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss30-check-002",
+        "title": "Work and measurement",
+        "reference": "Independent check",
+        "prompt": "Why might a household’s unpaid care be important even when absent from market income?",
+        "sample": "Care supports people’s wellbeing and their ability to learn or earn. Explain the accounting boundary and the contribution separately.",
+        "solution": [
+          "Care supports people’s wellbeing and their ability to learn or earn.",
+          "Explain the accounting boundary and the contribution separately."
+        ],
+        "hints": [
+          "Care supports people’s wellbeing and their ability to learn or earn."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ],
+    "31": [
+      {
+        "id": "ss31-check-001",
+        "title": "Complementary spending",
+        "reference": "Independent check",
+        "prompt": "Why might a health centre need both capital and revenue spending?",
+        "sample": "Constructing a building and purchasing equipment can create assets. Staff, supplies and maintenance support its operation, so both affect the service delivered.",
+        "solution": [
+          "Constructing a building and purchasing equipment can create assets.",
+          "Staff, supplies and maintenance support its operation, so both affect the service delivered."
+        ],
+        "hints": [
+          "Constructing a building and purchasing equipment can create assets."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      },
+      {
+        "id": "ss31-check-002",
+        "title": "Calculate two deficits",
+        "reference": "Independent check",
+        "prompt": "Spending is 120, revenue is 90, non-debt capital receipts 10 and interest 5. What are fiscal and primary deficits?",
+        "sample": "Fiscal deficit is 120 minus 90 minus 10, which is 20. Primary deficit is 20 minus interest of 5, which is 15. State the positive-deficit convention.",
+        "solution": [
+          "Fiscal deficit is 120 minus 90 minus 10, which is 20.",
+          "Primary deficit is 20 minus interest of 5, which is 15. State the positive-deficit convention."
+        ],
+        "hints": [
+          "Fiscal deficit is 120 minus 90 minus 10, which is 20."
+        ],
+        "checklist": [
+          "I identified the relevant place, process or category.",
+          "I explained the connection using the example in the model."
+        ]
+      }
+    ]
+  }
+}

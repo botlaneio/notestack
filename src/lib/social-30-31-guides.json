@@ -1,0 +1,970 @@
+[
+  {
+    "number": 30,
+    "title": "Rural Development",
+    "slug": "rural-development",
+    "part": 2,
+    "discipline": "Economics",
+    "subject": "social-science",
+    "sections": [
+      "Meaning and participation · pp121–123",
+      "Panchayats and livelihoods · pp123–127"
+    ],
+    "steps": [
+      {
+        "id": "ss30-step-1",
+        "section": 0,
+        "title": "Villages and development",
+        "intro": "The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year.",
+        "simple": "Mahatma Gandhi.",
+        "example": [
+          "Mahatma Gandhi.",
+          "The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year."
+        ],
+        "question": "Whom does the chapter associate with the statement that India’s development depends on its villages?",
+        "options": [
+          "Mahatma Gandhi",
+          "Lord Curzon",
+          "Adam Smith"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year.",
+          "Look again. The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year.",
+          "Look again. The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year."
+        ],
+        "hints": [
+          "The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year.",
+          "Mahatma Gandhi."
+        ]
+      },
+      {
+        "id": "ss30-step-2",
+        "section": 0,
+        "title": "Three-tier structure",
+        "intro": "The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements.",
+        "simple": "Three.",
+        "example": [
+          "Three.",
+          "The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements."
+        ],
+        "question": "How many levels appear in the chapter’s Panchayat Raj structure?",
+        "options": [
+          "Two",
+          "Five",
+          "Three"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements.",
+          "Look again. The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements.",
+          "Correct. The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements."
+        ],
+        "hints": [
+          "The source names village, intermediate or taluk, and district institutions. The 73rd Constitutional Amendment came into force in 1993 and provides a constitutional framework, with specified exceptions and State arrangements.",
+          "Three."
+        ]
+      },
+      {
+        "id": "ss30-step-3",
+        "section": 0,
+        "title": "Local democracy",
+        "intro": "Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation.",
+        "simple": "Democratic principles.",
+        "example": [
+          "Democratic principles.",
+          "Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation."
+        ],
+        "question": "Which principles guide Panchayat Raj institutions?",
+        "options": [
+          "Private ownership of villages",
+          "Democratic principles",
+          "Hereditary succession"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation.",
+          "Correct. Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation.",
+          "Look again. Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation."
+        ],
+        "hints": [
+          "Elections, participation, representation and accountability connect local decisions with community needs. Constitutional status alone does not guarantee equal participation or effective implementation.",
+          "Democratic principles."
+        ]
+      },
+      {
+        "id": "ss30-step-4",
+        "section": 1,
+        "title": "Organising rural women",
+        "intro": "Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions.",
+        "simple": "Women’s self-help groups.",
+        "example": [
+          "Women’s self-help groups.",
+          "Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions."
+        ],
+        "question": "Which organisations support collective saving and economic participation?",
+        "options": [
+          "Women’s self-help groups",
+          "Only international banks",
+          "Only private military groups"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions.",
+          "Look again. Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions.",
+          "Look again. Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions."
+        ],
+        "hints": [
+          "Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions.",
+          "Women’s self-help groups."
+        ]
+      },
+      {
+        "id": "ss30-step-5",
+        "section": 0,
+        "title": "Broad rural development",
+        "intro": "Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing.",
+        "simple": "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities.",
+        "example": [
+          "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities.",
+          "Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing."
+        ],
+        "question": "What does rural development aim to improve?",
+        "options": [
+          "Only the amount of grain grown",
+          "Only urban factory output",
+          "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing.",
+          "Look again. Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing.",
+          "Correct. Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing."
+        ],
+        "hints": [
+          "Agriculture is one part. Housing, education, health, sanitation, transport, communication, employment and social inclusion also shape wellbeing.",
+          "The social and economic wellbeing of rural people through effective use of local resources and wider opportunities."
+        ]
+      },
+      {
+        "id": "ss30-step-6",
+        "section": 0,
+        "title": "Sharing authority",
+        "intro": "Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled.",
+        "simple": "Assigning authority and responsibility to institutions closer to the people affected.",
+        "example": [
+          "Assigning authority and responsibility to institutions closer to the people affected.",
+          "Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled."
+        ],
+        "question": "What is decentralisation of power?",
+        "options": [
+          "Concentrating every village decision in one office",
+          "Assigning authority and responsibility to institutions closer to the people affected",
+          "Removing all public accountability"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled.",
+          "Correct. Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled.",
+          "Look again. Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled."
+        ],
+        "hints": [
+          "Local participation can improve knowledge of needs and accountability. Finance, functions, staff and inclusive decision-making influence whether responsibilities can be fulfilled.",
+          "Assigning authority and responsibility to institutions closer to the people affected."
+        ]
+      },
+      {
+        "id": "ss30-step-7",
+        "section": 0,
+        "title": "Name the levels",
+        "intro": "These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat.",
+        "simple": "Grama Panchayat, Taluk Panchayat and Zilla Panchayat.",
+        "example": [
+          "Grama Panchayat, Taluk Panchayat and Zilla Panchayat.",
+          "These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat."
+        ],
+        "question": "Which sequence matches the source diagram?",
+        "options": [
+          "Grama Panchayat, Taluk Panchayat and Zilla Panchayat",
+          "Lok Sabha, Rajya Sabha and Supreme Court",
+          "RBI, IMF and World Bank"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat.",
+          "Look again. These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat.",
+          "Look again. These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat."
+        ],
+        "hints": [
+          "These correspond to village, intermediate and district levels in the chapter’s Karnataka examples. The Gram Sabha is the body of registered voters in a village area and differs from the elected Panchayat.",
+          "Grama Panchayat, Taluk Panchayat and Zilla Panchayat."
+        ]
+      },
+      {
+        "id": "ss30-step-8",
+        "section": 1,
+        "title": "Housing programmes",
+        "intro": "The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information.",
+        "simple": "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana.",
+        "example": [
+          "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana.",
+          "The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information."
+        ],
+        "question": "Which pair can be used as textbook housing-programme examples?",
+        "options": [
+          "Golden Quadrilateral and Chandrayaan",
+          "SALT and CTBT",
+          "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information.",
+          "Look again. The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information.",
+          "Correct. The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information."
+        ],
+        "hints": [
+          "The source also lists Ashraya and Ambedkar–Valmiki programmes. Programme names, funding, eligibility and current operation require dated official information.",
+          "Pradhan Mantri Awas Yojana and Basava Vasathi Yojana."
+        ]
+      },
+      {
+        "id": "ss30-step-9",
+        "section": 1,
+        "title": "Unpaid contributions",
+        "intro": "Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value.",
+        "simple": "Unpaid household and care work.",
+        "example": [
+          "Unpaid household and care work.",
+          "Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value."
+        ],
+        "question": "Which work is described as often excluded from paid-work measures?",
+        "options": [
+          "Only factory production",
+          "Unpaid household and care work",
+          "Only salaried office work"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value.",
+          "Correct. Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value.",
+          "Look again. Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value."
+        ],
+        "hints": [
+          "Cooking, cleaning and caring can be purposeful, skilled contributions even without wages. National-accounting conventions distinguish many own-use household services from measured market production. Lack of pay does not remove the work’s value.",
+          "Unpaid household and care work."
+        ]
+      },
+      {
+        "id": "ss30-step-10",
+        "section": 0,
+        "title": "Rural economic conditions",
+        "intro": "Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions.",
+        "simple": "Unequal access to employment, productive assets, infrastructure and services.",
+        "example": [
+          "Unequal access to employment, productive assets, infrastructure and services.",
+          "Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions."
+        ],
+        "question": "Which factors help explain rural economic challenges?",
+        "options": [
+          "Unequal access to employment, productive assets, infrastructure and services",
+          "Every village has identical conditions",
+          "Rural residents lack ability"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions.",
+          "Look again. Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions.",
+          "Look again. Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions."
+        ],
+        "hints": [
+          "Agricultural risk, low returns, limited processing and gaps in education or health can constrain livelihoods. Conditions vary across regions and households. The chapter’s broad poverty statements need dates and definitions.",
+          "Unequal access to employment, productive assets, infrastructure and services."
+        ]
+      },
+      {
+        "id": "ss30-step-11",
+        "section": 1,
+        "title": "Why rural development matters",
+        "intro": "Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints.",
+        "simple": "Through productive livelihoods, services, skills and value addition.",
+        "example": [
+          "Through productive livelihoods, services, skills and value addition.",
+          "Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints."
+        ],
+        "question": "How can rural development broaden opportunities?",
+        "options": [
+          "Only by preventing every person from moving",
+          "Only by expanding one crop",
+          "Through productive livelihoods, services, skills and value addition"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints.",
+          "Look again. Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints.",
+          "Correct. Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints."
+        ],
+        "hints": [
+          "Livestock, fisheries, poultry, silk, horticulture and cottage industries can diversify income. Processing and marketing can retain more value locally. Improved opportunities can make migration a choice rather than a response to severe constraints.",
+          "Through productive livelihoods, services, skills and value addition."
+        ]
+      },
+      {
+        "id": "ss30-step-12",
+        "section": 0,
+        "title": "Grama Swarajya",
+        "intro": "Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made.",
+        "simple": "People participate in decisions concerning their community’s development.",
+        "example": [
+          "People participate in decisions concerning their community’s development.",
+          "Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made."
+        ],
+        "question": "How does Gandhi’s village self-rule connect with decentralisation?",
+        "options": [
+          "All national and State institutions disappear",
+          "People participate in decisions concerning their community’s development",
+          "Every local decision is automatically fair"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made.",
+          "Correct. Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made.",
+          "Look again. Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made."
+        ],
+        "hints": [
+          "Local responsibility, cooperation and self-reliance are central themes. Assess who has a voice and whether resources and accountability support the decisions being made.",
+          "People participate in decisions concerning their community’s development."
+        ]
+      },
+      {
+        "id": "ss30-step-13",
+        "section": 1,
+        "title": "Panchayats in practice",
+        "intro": "The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government.",
+        "simple": "Local services, livelihood support, infrastructure and access to welfare programmes.",
+        "example": [
+          "Local services, livelihood support, infrastructure and access to welfare programmes.",
+          "The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government."
+        ],
+        "question": "Which activities illustrate Panchayats’ development role?",
+        "options": [
+          "Local services, livelihood support, infrastructure and access to welfare programmes",
+          "Only issuing passports",
+          "Only national monetary policy"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government.",
+          "Look again. The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government.",
+          "Look again. The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government."
+        ],
+        "hints": [
+          "The chapter cites water, roads, drains, lighting, sanitation, schools, health facilities, tanks and markets. Employment, housing, food distribution and social protection need coordination across levels of government.",
+          "Local services, livelihood support, infrastructure and access to welfare programmes."
+        ]
+      },
+      {
+        "id": "ss30-step-14",
+        "section": 1,
+        "title": "Connecting programmes",
+        "intro": "MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification.",
+        "simple": "As programmes with specific aims, dates, eligibility and implementing arrangements.",
+        "example": [
+          "As programmes with specific aims, dates, eligibility and implementing arrangements.",
+          "MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification."
+        ],
+        "question": "How should the employment and welfare examples be read?",
+        "options": [
+          "Every programme is an identical payment",
+          "Every source scheme remains unchanged forever",
+          "As programmes with specific aims, dates, eligibility and implementing arrangements"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification.",
+          "Look again. MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification.",
+          "Correct. MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification."
+        ],
+        "hints": [
+          "MGNREGA provides a statutory rural employment framework. SGSY is a historical programme succeeded by later rural-livelihood arrangements. Housing and food-support programmes address different needs. Participation and outcomes require verification.",
+          "As programmes with specific aims, dates, eligibility and implementing arrangements."
+        ]
+      },
+      {
+        "id": "ss30-step-15",
+        "section": 1,
+        "title": "PURA connections",
+        "intro": "A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement.",
+        "simple": "Physical, knowledge, electronic and economic connectivity.",
+        "example": [
+          "Physical, knowledge, electronic and economic connectivity.",
+          "A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement."
+        ],
+        "question": "What four connections organise the PURA model in the sidebar?",
+        "options": [
+          "Only a new bank branch",
+          "Physical, knowledge, electronic and economic connectivity",
+          "Only air connections"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement.",
+          "Correct. A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement.",
+          "Look again. A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement."
+        ],
+        "hints": [
+          "A. P. J. Abdul Kalam’s model links roads and electricity, learning and services, communication, and markets. The village-group and distance examples describe a proposed model rather than a universal entitlement.",
+          "Physical, knowledge, electronic and economic connectivity."
+        ]
+      },
+      {
+        "id": "ss30-step-16",
+        "section": 1,
+        "title": "Women in development",
+        "intro": "Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings.",
+        "simple": "Paid and unpaid work, access to resources, representation and decision-making.",
+        "example": [
+          "Paid and unpaid work, access to resources, representation and decision-making.",
+          "Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings."
+        ],
+        "question": "Which dimensions help assess women’s participation?",
+        "options": [
+          "Paid and unpaid work, access to resources, representation and decision-making",
+          "Only a person’s family role",
+          "Only the number of meeting photographs"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings.",
+          "Look again. Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings.",
+          "Look again. Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings."
+        ],
+        "hints": [
+          "Women contribute across agriculture, enterprises, public services and government. The source discusses Panchayat representation and self-help groups. Use dated evidence for participation shares and examine who can influence decisions and control earnings.",
+          "Paid and unpaid work, access to resources, representation and decision-making."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Meaning and participation · pp121–123",
+        "The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year."
+      ],
+      [
+        "Panchayats and livelihoods · pp123–127",
+        "Members can pool savings, access credit, develop skills and organise productive activities. Results depend on access, terms, opportunities and members’ control over decisions."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  },
+  {
+    "number": 31,
+    "title": "Public Finance and Budget",
+    "slug": "public-finance-and-budget",
+    "part": 2,
+    "discipline": "Economics",
+    "subject": "social-science",
+    "sections": [
+      "Finance, budgets and spending · pp128–132",
+      "Receipts and deficits · pp133–137"
+    ],
+    "steps": [
+      {
+        "id": "ss31-step-1",
+        "section": 0,
+        "title": "Fiscal policy",
+        "intro": "Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools.",
+        "simple": "Fiscal policy.",
+        "example": [
+          "Fiscal policy.",
+          "Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools."
+        ],
+        "question": "Through what policy does government manage its spending, receipts and borrowing?",
+        "options": [
+          "Fiscal policy",
+          "Only foreign policy",
+          "Only a household shopping list"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools.",
+          "Look again. Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools.",
+          "Look again. Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools."
+        ],
+        "hints": [
+          "Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools.",
+          "Fiscal policy."
+        ]
+      },
+      {
+        "id": "ss31-step-2",
+        "section": 0,
+        "title": "A surplus budget",
+        "intro": "A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators.",
+        "simple": "Surplus budget.",
+        "example": [
+          "Surplus budget.",
+          "A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators."
+        ],
+        "question": "What describes a budget with receipts above expenditure under the stated comparison?",
+        "options": [
+          "Deficit budget",
+          "A natural disaster",
+          "Surplus budget"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators.",
+          "Look again. A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators.",
+          "Correct. A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators."
+        ],
+        "hints": [
+          "A balanced budget has equal amounts and a deficit budget shows an excess of expenditure. Specify which receipts and spending are included when using actual fiscal indicators.",
+          "Surplus budget."
+        ]
+      },
+      {
+        "id": "ss31-step-3",
+        "section": 0,
+        "title": "Presenting the Union Budget",
+        "intro": "The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures.",
+        "simple": "Union Finance Minister.",
+        "example": [
+          "Union Finance Minister.",
+          "The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures."
+        ],
+        "question": "Which office normally presents it in the Lok Sabha?",
+        "options": [
+          "President of the World Bank",
+          "Union Finance Minister",
+          "Chief Justice alone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures.",
+          "Correct. The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures.",
+          "Look again. The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures."
+        ],
+        "hints": [
+          "The Union and States have separate budgets. India’s financial year runs from 1 April to 31 March. Legislative scrutiny and authorisation govern taxation and spending under constitutional procedures.",
+          "Union Finance Minister."
+        ]
+      },
+      {
+        "id": "ss31-step-4",
+        "section": 1,
+        "title": "Borrowing and receipts",
+        "intro": "Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations.",
+        "simple": "Debt capital receipts.",
+        "example": [
+          "Debt capital receipts.",
+          "Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations."
+        ],
+        "question": "How are government borrowings classified?",
+        "options": [
+          "Debt capital receipts",
+          "Tax revenue",
+          "Only service fees"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations.",
+          "Look again. Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations.",
+          "Look again. Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations."
+        ],
+        "hints": [
+          "Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations.",
+          "Debt capital receipts."
+        ]
+      },
+      {
+        "id": "ss31-step-5",
+        "section": 1,
+        "title": "GST",
+        "intro": "It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax.",
+        "simple": "Goods and Services Tax.",
+        "example": [
+          "Goods and Services Tax.",
+          "It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax."
+        ],
+        "question": "What does GST stand for?",
+        "options": [
+          "General Savings Transfer",
+          "Government Salary Trust",
+          "Goods and Services Tax"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax.",
+          "Look again. It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax.",
+          "Correct. It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax."
+        ],
+        "hints": [
+          "It is an indirect tax framework for specified supplies of goods and services. Actual coverage, rates and compliance depend on current law. It differs from a direct income tax.",
+          "Goods and Services Tax."
+        ]
+      },
+      {
+        "id": "ss31-step-6",
+        "section": 0,
+        "title": "Public finance",
+        "intro": "The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy.",
+        "simple": "Government receipts, expenditure and debt management.",
+        "example": [
+          "Government receipts, expenditure and debt management.",
+          "The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy."
+        ],
+        "question": "What does public finance study?",
+        "options": [
+          "Only corporate product design",
+          "Government receipts, expenditure and debt management",
+          "Only one family’s grocery bill"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy.",
+          "Correct. The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy.",
+          "Look again. The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy."
+        ],
+        "hints": [
+          "The chapter cites Dalton’s definition relating public income and spending. Decisions affect public services, resources, distribution and the wider economy.",
+          "Government receipts, expenditure and debt management."
+        ]
+      },
+      {
+        "id": "ss31-step-7",
+        "section": 0,
+        "title": "A budget document",
+        "intro": "Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance.",
+        "simple": "A statement of estimated receipts and expenditure for a financial year.",
+        "example": [
+          "A statement of estimated receipts and expenditure for a financial year.",
+          "Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance."
+        ],
+        "question": "What is a government budget?",
+        "options": [
+          "A statement of estimated receipts and expenditure for a financial year",
+          "A guarantee every forecast will occur",
+          "A record of only one day’s cash"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance.",
+          "Look again. Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance.",
+          "Look again. Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance."
+        ],
+        "hints": [
+          "Estimates express plans and forecasts. Revised estimates and actual outturns can differ. Compare the same period, units and accounting definitions when evaluating performance.",
+          "A statement of estimated receipts and expenditure for a financial year."
+        ]
+      },
+      {
+        "id": "ss31-step-8",
+        "section": 0,
+        "title": "Deficit budget",
+        "intro": "A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy.",
+        "simple": "When the defined expenditure exceeds the corresponding receipts.",
+        "example": [
+          "When the defined expenditure exceeds the corresponding receipts.",
+          "A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy."
+        ],
+        "question": "When does a budget show a deficit?",
+        "options": [
+          "Whenever any tax is collected",
+          "Whenever expenditure is zero",
+          "When the defined expenditure exceeds the corresponding receipts"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy.",
+          "Look again. A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy.",
+          "Correct. A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy."
+        ],
+        "hints": [
+          "A deficit indicates a financing need under the chosen definition. Its economic effects depend on scale, use, financing conditions and the state of the economy.",
+          "When the defined expenditure exceeds the corresponding receipts."
+        ]
+      },
+      {
+        "id": "ss31-step-9",
+        "section": 1,
+        "title": "Direct taxation",
+        "intro": "Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation.",
+        "simple": "Personal income tax.",
+        "example": [
+          "Personal income tax.",
+          "Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation."
+        ],
+        "question": "Which is an example of a direct tax?",
+        "options": [
+          "A bus fare",
+          "Personal income tax",
+          "GST alone"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation.",
+          "Correct. Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation.",
+          "Look again. Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation."
+        ],
+        "hints": [
+          "Income and corporate taxes are direct-tax examples. The textbook contrasts these with taxes on supplies such as GST. Economic incidence can depend on markets, so legal liability and final burden need careful interpretation.",
+          "Personal income tax."
+        ]
+      },
+      {
+        "id": "ss31-step-10",
+        "section": 1,
+        "title": "Fiscal-deficit formula",
+        "intro": "For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two.",
+        "simple": "Total expenditure minus revenue receipts minus non-debt capital receipts.",
+        "example": [
+          "Total expenditure minus revenue receipts minus non-debt capital receipts.",
+          "For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two."
+        ],
+        "question": "Which is the standard positive fiscal-deficit calculation?",
+        "options": [
+          "Total expenditure minus revenue receipts minus non-debt capital receipts",
+          "Total expenditure plus every receipt",
+          "Only interest payments"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two.",
+          "Look again. For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two.",
+          "Look again. For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two."
+        ],
+        "hints": [
+          "For spending of 120, revenue receipts of 90 and non-debt capital receipts of 10, fiscal deficit is 20. The textbook prints receipts minus spending, a negative financing balance. Label the sign convention when comparing the two.",
+          "Total expenditure minus revenue receipts minus non-debt capital receipts."
+        ]
+      },
+      {
+        "id": "ss31-step-11",
+        "section": 0,
+        "title": "Private and public finance",
+        "intro": "Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings.",
+        "simple": "Its scope includes public authority, collective services and economy-wide effects.",
+        "example": [
+          "Its scope includes public authority, collective services and economy-wide effects.",
+          "Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings."
+        ],
+        "question": "How does public finance differ from household finance?",
+        "options": [
+          "Government has unlimited resources",
+          "Every household transaction is publicly legislated",
+          "Its scope includes public authority, collective services and economy-wide effects"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings.",
+          "Look again. Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings.",
+          "Correct. Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings."
+        ],
+        "hints": [
+          "Households usually plan within their income and borrowing constraints. Government budgets are publicly scrutinised and can use taxation and borrowing. The source’s income-first or expenditure-first contrast is a teaching simplification. Saving or deficits need context in both settings.",
+          "Its scope includes public authority, collective services and economy-wide effects."
+        ]
+      },
+      {
+        "id": "ss31-step-12",
+        "section": 0,
+        "title": "Significance",
+        "intro": "Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation.",
+        "simple": "Services, development, stability and fairer access to opportunity.",
+        "example": [
+          "Services, development, stability and fairer access to opportunity.",
+          "Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation."
+        ],
+        "question": "What can public finance help government pursue?",
+        "options": [
+          "Guaranteed growth from every expense",
+          "Services, development, stability and fairer access to opportunity",
+          "Only collecting money without a purpose"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation.",
+          "Correct. Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation.",
+          "Look again. Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation."
+        ],
+        "hints": [
+          "Spending on health, education, infrastructure and social protection can affect productivity and welfare. Taxes and transfers influence distribution. Choices require balancing needs, resources, debt sustainability and implementation.",
+          "Services, development, stability and fairer access to opportunity."
+        ]
+      },
+      {
+        "id": "ss31-step-13",
+        "section": 0,
+        "title": "Historical plan expenditure",
+        "intro": "Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue.",
+        "simple": "Economic, social and general services within development plans.",
+        "example": [
+          "Economic, social and general services within development plans.",
+          "Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue."
+        ],
+        "question": "Which activities appear under the textbook’s plan classification?",
+        "options": [
+          "Economic, social and general services within development plans",
+          "Only household purchases",
+          "Every current budget still uses the old split"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue.",
+          "Look again. Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue.",
+          "Look again. Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue."
+        ],
+        "hints": [
+          "Agriculture, industry, energy, communication, education, health, housing and rural development are examples. The Union Budget discontinued plan/non-plan expenditure classification from 2017–18. Revenue and capital classifications continue.",
+          "Economic, social and general services within development plans."
+        ]
+      },
+      {
+        "id": "ss31-step-14",
+        "section": 1,
+        "title": "Non-tax revenue",
+        "intro": "The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue.",
+        "simple": "Fees, fines, dividends, profits and receipts from public services.",
+        "example": [
+          "Fees, fines, dividends, profits and receipts from public services.",
+          "The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue."
+        ],
+        "question": "Which sources illustrate non-tax receipts?",
+        "options": [
+          "Every government loan",
+          "Only income tax",
+          "Fees, fines, dividends, profits and receipts from public services"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue.",
+          "Look again. The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue.",
+          "Correct. The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue."
+        ],
+        "hints": [
+          "The source names RBI transfers, public enterprises, Railways, posts and other services. Read gross receipts, operating costs and net surpluses carefully. A sale of government equity is a capital receipt rather than ordinary non-tax revenue.",
+          "Fees, fines, dividends, profits and receipts from public services."
+        ]
+      },
+      {
+        "id": "ss31-step-15",
+        "section": 1,
+        "title": "Four deficit concepts",
+        "intro": "In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope.",
+        "simple": "Budget, revenue, fiscal and primary deficits.",
+        "example": [
+          "Budget, revenue, fiscal and primary deficits.",
+          "In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope."
+        ],
+        "question": "Which deficit measures does the textbook list?",
+        "options": [
+          "All four are identical",
+          "Budget, revenue, fiscal and primary deficits",
+          "Only the trade deficit"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope.",
+          "Correct. In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope.",
+          "Look again. In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope."
+        ],
+        "hints": [
+          "In standard positive notation, revenue deficit is revenue expenditure minus revenue receipts. Fiscal deficit excludes debt receipts from financing resources. Primary deficit equals fiscal deficit minus interest payments. The old overall budget-deficit concept requires its own accounting scope.",
+          "Budget, revenue, fiscal and primary deficits."
+        ]
+      },
+      {
+        "id": "ss31-step-16",
+        "section": 0,
+        "title": "Revenue and capital spending",
+        "intro": "Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes.",
+        "simple": "By the nature and accounting treatment of the expenditure.",
+        "example": [
+          "By the nature and accounting treatment of the expenditure.",
+          "Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes."
+        ],
+        "question": "How can the two spending categories be distinguished?",
+        "options": [
+          "By the nature and accounting treatment of the expenditure",
+          "Any useful spending is automatically capital",
+          "Only the source of cash determines the category"
+        ],
+        "correct": 0,
+        "feedback": [
+          "Correct. Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes.",
+          "Look again. Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes.",
+          "Look again. Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes."
+        ],
+        "hints": [
+          "Revenue spending includes many running services, interest and grants. Capital spending includes acquisition of assets, loans and other specified capital transactions. A school building and teachers’ salaries illustrate different spending with complementary purposes.",
+          "By the nature and accounting treatment of the expenditure."
+        ]
+      },
+      {
+        "id": "ss31-step-17",
+        "section": 1,
+        "title": "Taxation and distribution",
+        "intro": "Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation.",
+        "simple": "A structure in which the tax rate rises across the specified taxable base or income bands.",
+        "example": [
+          "A structure in which the tax rate rises across the specified taxable base or income bands.",
+          "Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation."
+        ],
+        "question": "What is progressive taxation?",
+        "options": [
+          "Every person pays the same share by definition",
+          "Only a voluntary service payment",
+          "A structure in which the tax rate rises across the specified taxable base or income bands"
+        ],
+        "correct": 2,
+        "feedback": [
+          "Look again. Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation.",
+          "Look again. Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation.",
+          "Correct. Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation."
+        ],
+        "hints": [
+          "Tax systems can support revenue and distribution aims. Compare statutory rates, exemptions and actual burdens. The textbook’s wealth-tax and foreign-travel-tax examples require historical context rather than assumption of current operation.",
+          "A structure in which the tax rate rises across the specified taxable base or income bands."
+        ]
+      },
+      {
+        "id": "ss31-step-18",
+        "section": 1,
+        "title": "Financing a shortfall",
+        "intro": "Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit.",
+        "simple": "Borrowing, use of available balances and other authorised financing arrangements.",
+        "example": [
+          "Borrowing, use of available balances and other authorised financing arrangements.",
+          "Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit."
+        ],
+        "question": "How can government meet financing needs?",
+        "options": [
+          "Every deficit guarantees higher purchasing power without costs",
+          "Borrowing, use of available balances and other authorised financing arrangements",
+          "All borrowing is tax revenue"
+        ],
+        "correct": 1,
+        "feedback": [
+          "Look again. Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit.",
+          "Correct. Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit.",
+          "Look again. Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit."
+        ],
+        "hints": [
+          "Financing affects debt, interest costs and future choices. The source’s description of automatic RBI money printing is oversimplified. Monetary financing is subject to legal and institutional constraints and is not an automatic response to every fiscal deficit.",
+          "Borrowing, use of available balances and other authorised financing arrangements."
+        ]
+      }
+    ],
+    "summary": [
+      [
+        "Finance, budgets and spending · pp128–132",
+        "Taxation, expenditure and debt decisions can support services, development, stability and distribution. Monetary policy concerns a different set of central-bank tools."
+      ],
+      [
+        "Receipts and deficits · pp133–137",
+        "Internal borrowing comes from domestic sources and external borrowing from foreign sources. Loan recoveries and disinvestment are examples of non-debt capital receipts. Borrowing creates repayment obligations."
+      ]
+    ],
+    "challenge": "Use a regional example to explain the process and identify what evidence would support your answer."
+  }
+]

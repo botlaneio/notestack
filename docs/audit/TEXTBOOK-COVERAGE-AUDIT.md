@@ -131,3 +131,7 @@ Second-batch validation: all 137 existing tests pass and the production build su
 ## Chapter 19 source activities
 
 Five additional written tasks cover the peace discussion (p29), parliamentary democracy sidebar (p30), Patel portrait and privy purses (pp30–31), Andhra statehood sequence (p32), and statehood list (p33). The chapter now has 18 practice entries. Each new entry includes a hint and worked response.
+
+## Six geography map lessons
+
+The six map-reading panels now include all nine map figures identified on the supplied chapter pages, including their printed legends and labels. Printed references are 103 (Soils), 85–86 (Agriculture), 92, 93 and 96 (Minerals and Energy), 100 (Transport), 110 (Industries) and 115 (Natural Disasters). Industry centres and disaster locations use point symbols in the printed figures. The chapter checklists also cover topics discussed outside those figures.

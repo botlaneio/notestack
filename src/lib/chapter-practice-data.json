@@ -6247,6 +6247,114 @@
           "Similarity gives AB/PQ=BC/QR and ∠ABD=∠PQM."
         ],
         "sample": "Similarity gives AB/PQ=BC/QR and ∠ABD=∠PQM. BD=BC/2, QM=QR/2, so AB/PQ=BD/QM. SAS:ABD~PQM, hence AD/PM=AB/PQ."
+      },
+      {
+        "id": "c6-construction-1",
+        "reference": "Activity 1 · Fig. 6.4 · p75",
+        "title": "Enlarge a quadrilateral",
+        "prompt": "Sketch a point light source O, a card ABCD and a parallel surface. Construct the shadow vertices A′, B′, C′ and D′. Why is the shadow similar?",
+        "solution": [
+          "Extend OA, OB, OC and OD to the parallel plane. The rays locate the matching shadow vertices.",
+          "The projection between parallel planes from O uses one enlargement factor, so corresponding angles agree and side ratios are equal."
+        ],
+        "sample": "Extend OA, OB, OC and OD to the parallel plane. The rays locate the matching shadow vertices. The projection between parallel planes from O uses one enlargement factor, so corresponding angles agree and side ratios are equal.",
+        "hints": [
+          "Extend OA, OB, OC and OD to the parallel plane. The rays locate the matching shadow vertices."
+        ],
+        "checklist": [
+          "I labelled corresponding points and used the specified measures.",
+          "I explained the geometric reason for my prediction."
+        ]
+      },
+      {
+        "id": "c6-construction-2",
+        "reference": "Activity 2 · Fig. 6.9 · p78",
+        "title": "Construct a 3:2 division",
+        "prompt": "Mark five equal intervals AP, PQ, QD, DR and RB along ray AX. Choose C on ray AY. Through D construct DE parallel to BC. Predict the ratio AE:EC before measuring.",
+        "solution": [
+          "AD contains three intervals and DB contains two. Since DE is parallel to BC, the basic proportionality theorem gives AE:EC = AD:DB = 3:2.",
+          "Measure AE and EC using one scale and compare with the predicted ratio."
+        ],
+        "sample": "AD contains three intervals and DB contains two. Since DE is parallel to BC, the basic proportionality theorem gives AE:EC = AD:DB = 3:2. Measure AE and EC using one scale and compare with the predicted ratio.",
+        "hints": [
+          "AD contains three intervals and DB contains two. Since DE is parallel to BC, the basic proportionality theorem gives AE:EC = AD:DB = 3:2."
+        ],
+        "checklist": [
+          "I labelled corresponding points and used the specified measures.",
+          "I explained the geometric reason for my prediction."
+        ]
+      },
+      {
+        "id": "c6-construction-3",
+        "reference": "Activity 3 · Fig. 6.11 · p80",
+        "title": "Construct parallel crossbars",
+        "prompt": "Divide AB into five equal parts and AC into five equal parts. Join corresponding division points B₁ and C₁, then B₂ and C₂. What direction should these segments take?",
+        "solution": [
+          "AB₁/B₁B and AC₁/C₁C both equal 1/4. At the second division both ratios are 2/3.",
+          "The converse of basic proportionality makes each crossbar parallel to BC. The interval size on AB can differ from the interval size on AC."
+        ],
+        "sample": "AB₁/B₁B and AC₁/C₁C both equal 1/4. At the second division both ratios are 2/3. The converse of basic proportionality makes each crossbar parallel to BC. The interval size on AB can differ from the interval size on AC.",
+        "hints": [
+          "AB₁/B₁B and AC₁/C₁C both equal 1/4. At the second division both ratios are 2/3."
+        ],
+        "checklist": [
+          "I labelled corresponding points and used the specified measures.",
+          "I explained the geometric reason for my prediction."
+        ]
+      },
+      {
+        "id": "c6-construction-4",
+        "reference": "Activity 4 · Fig. 6.23 · p85",
+        "title": "Construct two triangles from angles",
+        "prompt": "Draw BC = 3 cm and EF = 5 cm. Construct interior base angles of 60° at B and E and 40° at C and F. Label the intersections A and D. What must agree?",
+        "solution": [
+          "Both third angles are 80°, so A corresponds to D, B to E and C to F.",
+          "AA gives ABC ∼ DEF. Corresponding side lengths are in the ratio 3:5. A drawing provides a measurement check; the angle argument establishes similarity."
+        ],
+        "sample": "Both third angles are 80°, so A corresponds to D, B to E and C to F. AA gives ABC ∼ DEF. Corresponding side lengths are in the ratio 3:5. A drawing provides a measurement check; the angle argument establishes similarity.",
+        "hints": [
+          "Both third angles are 80°, so A corresponds to D, B to E and C to F."
+        ],
+        "checklist": [
+          "I labelled corresponding points and used the specified measures.",
+          "I explained the geometric reason for my prediction."
+        ]
+      },
+      {
+        "id": "c6-construction-5",
+        "reference": "Activity 5 · Fig. 6.25 · p87",
+        "title": "Construct similar triangles from three sides",
+        "prompt": "Draw ABC with sides AB = 3, BC = 6, CA = 8 cm and DEF with DE = 4.5, EF = 9, FD = 12 cm. Locate each third vertex with compass arcs.",
+        "solution": [
+          "For ABC, draw BC, then intersect arcs of radii 3 from B and 8 from C. For DEF, draw EF and intersect arcs of radii 4.5 from E and 12 from F.",
+          "AB/DE = BC/EF = CA/FD = 2/3. SSS gives ABC ∼ DEF and corresponding angles are equal."
+        ],
+        "sample": "For ABC, draw BC, then intersect arcs of radii 3 from B and 8 from C. For DEF, draw EF and intersect arcs of radii 4.5 from E and 12 from F. AB/DE = BC/EF = CA/FD = 2/3. SSS gives ABC ∼ DEF and corresponding angles are equal.",
+        "hints": [
+          "For ABC, draw BC, then intersect arcs of radii 3 from B and 8 from C. For DEF, draw EF and intersect arcs of radii 4.5 from E and 12 from F."
+        ],
+        "checklist": [
+          "I labelled corresponding points and used the specified measures.",
+          "I explained the geometric reason for my prediction."
+        ]
+      },
+      {
+        "id": "c6-construction-6",
+        "reference": "Activity 6 · Fig. 6.27 · p88",
+        "title": "Construct similar triangles from an included angle",
+        "prompt": "Construct ∠A and ∠D of 50°. On their arms mark AB = 2 and AC = 4 cm, then DE = 3 and DF = 6 cm. Join BC and EF. Which sides surround the given angle?",
+        "solution": [
+          "AB and AC enclose ∠A; DE and DF enclose ∠D. Their corresponding ratios are 2/3 and 4/6.",
+          "The included angles agree and both side ratios equal 2/3, so SAS gives ABC ∼ DEF. BC/EF should also equal 2/3."
+        ],
+        "sample": "AB and AC enclose ∠A; DE and DF enclose ∠D. Their corresponding ratios are 2/3 and 4/6. The included angles agree and both side ratios equal 2/3, so SAS gives ABC ∼ DEF. BC/EF should also equal 2/3.",
+        "hints": [
+          "AB and AC enclose ∠A; DE and DF enclose ∠D. Their corresponding ratios are 2/3 and 4/6."
+        ],
+        "checklist": [
+          "I labelled corresponding points and used the specified measures.",
+          "I explained the geometric reason for my prediction."
+        ]
       }
     ],
     "7": [
@@ -6254,19 +6362,19 @@
         "id": "c7-Example1",
         "reference": "Example 1",
         "title": "Worked example 1",
-        "prompt": "Classify the triangle A(3, 2), B(−2, −3), C(2, 3), if noncollinear.",
+        "prompt": "Do P(3, 2), Q(−2, −3) and R(2, 3) form a triangle? Classify it by its sides and angles.",
         "solution": [
-          "AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle.",
-          "All side lengths differ, so scalene."
+          "PQ² = 5² + 5² = 50, QR² = 4² + 6² = 52, and PR² = 1² + (−1)² = 2.",
+          "Since PQ² + PR² = QR², the converse of Pythagoras gives a right angle at P. The three side lengths differ, so PQR is a right scalene triangle."
         ],
         "checklist": [
-          "Compare step 1: AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle.",
-          "Compare step 2: All side lengths differ, so scalene."
+          "I used the same point labels as the book.",
+          "I identified the right angle and compared all three lengths."
         ],
         "hints": [
-          "AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle."
+          "Compare the largest squared distance with the sum of the other two."
         ],
-        "sample": "AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle. All side lengths differ, so scalene."
+        "sample": "PQ² = 5² + 5² = 50, QR² = 4² + 6² = 52, and PR² = 1² + (−1)² = 2. Since PQ² + PR² = QR², the converse of Pythagoras gives a right angle at P. The three side lengths differ, so PQR is a right scalene triangle."
       },
       {
         "id": "c7-Example2",

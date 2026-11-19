@@ -39,7 +39,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Maths | 3 | Pair of Linear Equations in Two Variables | 19 | 49 | 7 | 0 |
 | Maths | 4 | Quadratic Equations | 19 | 40 | 7 | 0 |
 | Maths | 5 | Arithmetic Progressions | 21 | 115 | 7 | 0 |
-| Maths | 6 | Triangles | 21 | 60 | 7 | 3 |
+| Maths | 6 | Triangles | 21 | 66 | 7 | 3 |
 | Maths | 7 | Coordinate Geometry | 21 | 36 | 7 | 1 |
 | Maths | 8 | Introduction to Trigonometry | 25 | 66 | 7 | 1 |
 | Maths | 9 | Some Applications of Trigonometry | 18 | 23 | 7 | 0 |
@@ -70,29 +70,29 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 8 | Social Stratification | 14 | 28 | 7 | 0 |
 | Social Science | 9 | Work and Economic Life | 20 | 39 | 7 | 3 |
 | Social Science | 10 | India — Geographical Position and Physical Features | 26 | 60 | 7 | 3 |
-| Social Science | 11 | India – Seasons | 11 | 16 | 2 | 1 |
-| Social Science | 12 | India – Soils | 11 | 15 | 2 | 1 |
-| Social Science | 13 | India – Forest Resources | 15 | 20 | 2 | 1 |
+| Social Science | 11 | India – Seasons | 11 | 17 | 2 | 1 |
+| Social Science | 12 | India – Soils | 11 | 16 | 2 | 1 |
+| Social Science | 13 | India – Forest Resources | 15 | 21 | 2 | 1 |
 | Social Science | 14 | India – Water Resources | 16 | 25 | 2 | 0 |
 | Social Science | 15 | Economy and Government | 19 | 28 | 2 | 0 |
-| Social Science | 16 | Bank Transactions | 17 | 25 | 2 | 0 |
-| Social Science | 17 | The First War of Indian Independence (1857) | 10 | 12 | 2 | 0 |
+| Social Science | 16 | Bank Transactions | 17 | 26 | 2 | 0 |
+| Social Science | 17 | The First War of Indian Independence (1857) | 10 | 13 | 2 | 0 |
 | Social Science | 18 | The Freedom Struggle | 30 | 68 | 2 | 1 |
-| Social Science | 19 | India after Independence | 10 | 13 | 2 | 0 |
-| Social Science | 20 | World Wars and India’s Role | 15 | 19 | 2 | 0 |
-| Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 17 | 2 | 0 |
-| Social Science | 22 | World Organisations | 26 | 30 | 2 | 1 |
+| Social Science | 19 | India after Independence | 10 | 18 | 2 | 0 |
+| Social Science | 20 | World Wars and India’s Role | 15 | 20 | 2 | 0 |
+| Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 18 | 2 | 0 |
+| Social Science | 22 | World Organisations | 26 | 32 | 2 | 1 |
 | Social Science | 23 | Collective Behaviour and Protests | 17 | 21 | 2 | 0 |
 | Social Science | 24 | Social Challenges | 19 | 23 | 2 | 0 |
-| Social Science | 25 | India – Land Use and Agriculture | 14 | 20 | 2 | 1 |
-| Social Science | 26 | India – Mineral and Power Resources | 12 | 14 | 2 | 2 |
-| Social Science | 27 | India – Transport and Communication | 15 | 22 | 2 | 1 |
-| Social Science | 28 | India – Major Industries | 14 | 18 | 2 | 1 |
-| Social Science | 29 | India – Natural Disasters | 11 | 15 | 2 | 1 |
+| Social Science | 25 | India – Land Use and Agriculture | 14 | 26 | 2 | 1 |
+| Social Science | 26 | India – Mineral and Power Resources | 12 | 15 | 2 | 2 |
+| Social Science | 27 | India – Transport and Communication | 15 | 25 | 2 | 1 |
+| Social Science | 28 | India – Major Industries | 14 | 21 | 2 | 1 |
+| Social Science | 29 | India – Natural Disasters | 11 | 16 | 2 | 1 |
 | Social Science | 30 | Rural Development | 16 | 18 | 2 | 1 |
-| Social Science | 31 | Public Finance and Budget | 18 | 24 | 2 | 0 |
+| Social Science | 31 | Public Finance and Budget | 18 | 25 | 2 | 0 |
 | Social Science | 32 | Entrepreneurship | 12 | 16 | 2 | 0 |
-| Social Science | 33 | Consumer Education and Protection | 15 | 24 | 2 | 0 |
+| Social Science | 33 | Consumer Education and Protection | 15 | 25 | 2 | 0 |
 
 The Maths appendices are implemented separately and are outside the 59 main-chapter rows.
 
@@ -127,3 +127,34 @@ New entries cover moderate and nationalist portraits, northeastern resistance, s
 Explicit corrections include the Congress Socialist Party’s founders, the 1947 arrival of Mountbatten, Ambedkar’s Baroda office and the distinction between prisoners of war and war criminals. Unverified publication attribution and the claimed 1827 labour-movement origin are flagged for bibliographic checking. The ledger records independent accuracy review as pending; it does not certify every source claim.
 
 Second-batch validation: all 137 existing tests pass and the production build succeeds. Browser checks cover all 34 source-detail cards at 320px, their target task links, four sampled writing/submission/reload flows and the complete 68-entry coverage page. A long-selector overflow found during testing was corrected. The resulting mobile source-detail panel was visually inspected.
+
+## Chapter 19 source activities
+
+Five additional written tasks cover the peace discussion (p29), parliamentary democracy sidebar (p30), Patel portrait and privy purses (pp30–31), Andhra statehood sequence (p32), and statehood list (p33). The chapter now has 18 practice entries. Each new entry includes a hint and worked response.
+
+## Six geography map lessons
+
+The six map-reading panels now include all nine map figures identified on the supplied chapter pages, including their printed legends and labels. Printed references are 103 (Soils), 85–86 (Agriculture), 92, 93 and 96 (Minerals and Energy), 100 (Transport), 110 (Industries) and 115 (Natural Disasters). Industry centres and disaster locations use point symbols in the printed figures. The chapter checklists also cover topics discussed outside those figures.
+
+## Social Science source features
+
+The lesson index maps 155 source entries across Chapters 11–33 to workbook tasks. It includes illustrated figures, portrait captions, charts, sidebars and in-text activities, with printed page numbers. Several entries can share a practice task when a figure or comparison involves multiple subjects. Technical QR codes and repeated page decorations are excluded. Independent subject-accuracy review remains open.
+
+The [printed-page crosswalk](social-science-page-crosswalk.md) records all 192 reviewed pages, including pages without separate visual or activity items. It includes the World Bank Group box, UN Nobel sidebar, continued finance table, deficit formulas and boxed consumer definitions found in the layout review.
+
+## Maths and Science source review
+
+The [source-item index](maths-science-source-items.md) records 657 distinct chapter-scoped identifiers from 455 subject pages across both Maths books and the supplied Science extracts. It includes references in prose as well as captions. Of these, 656 point to a workbook task or guided concept. One is the printed reference to “Example 8” on Maths p9, although Chapter 1 ends at Example 7. Contextual links identify where a concept is taught; their presence does not verify every dimension, label or numerical step.
+
+| Printed source | Comparison and result |
+|---|---|
+| Maths 2, pp17–18, Figs. 2.9–2.10 | Checked all twelve panels against the rendered pages. Restored the printed ordering of line, parabola and cubic examples, directions of opening, the side of the origin at a tangency, and the turning points relative to the axis. These qualitative figures have no numbered measurement scale. Example counts are 1, 2, 3, 1, 1, 4. Exercise counts are 0, 1, 3, 2, 4, 3. |
+| Maths 6, pp75–88 | The six numbered construction activities now have individual writing and drawing prompts. The source figures supply the corresponding vertices, lengths, angles and parallel lines. |
+| Maths 3, p26, Example 1 | Substitution gives 6 and 12 at the intersection (6, 0). The construction pad uses the same pixels per unit on each axis. Corrected its extended-line calculation for closely spaced points and labelled both axes and the origin. |
+| Maths 7, pp101–102, Example 1 | Restored P, Q and R in the worked answer. Squared lengths 50, 52 and 2 establish a right angle at P as well as three unequal sides. |
+| Maths 11, p44, Example 1 | Using the specified 3.14 gives minor sector 50.24/12 and major sector 11 × 50.24/12 square centimetres. The rounded areas sum to 50.24. |
+| Maths 13, pp60–61, Example 1 | The printed frequency distribution gives 30 observations and a weighted total of 1779, for mean 59.3. Grouping assigns a value of 40 to the 40–55 interval. |
+| Science 4, p37, Activities 4.7 and 4.8, Fig. 4.11 | Both activity numbers were recovered by inspecting the rendered page. The first compares litmus and universal indicator. The second uses a water bath. The model distinguishes the water in the beaker from the reaction mixture in the test tube and identifies the heat path. Across the twelve chapters all 101 distinct workbook activity numbers now have a corresponding source occurrence. |
+| Science 11, p72, Fig. 11.1 and Example 11.1 | The diagram now shows the bulb, key, source polarity and series ammeter. Conventional current enters the meter at its positive terminal. For the printed example, 0.5 A × 600 s = 300 C. |
+
+The source index and targeted checks do not establish an independent result for every construction, figure label, activity explanation, exercise subpart or worked solution. Those checks remain open.

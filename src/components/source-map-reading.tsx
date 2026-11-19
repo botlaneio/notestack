@@ -1,7 +1,7 @@
 'use client';
 
 import {useState} from 'react';
-import {sourceMapReadings} from '@/lib/source-map-reading';
+import {sourceMapReadings, textbookMaps} from '@/lib/source-map-reading';
 import styles from './real-numbers-lesson.module.css';
 
 export function SourceMapReading({chapter}:{chapter:number}) {
@@ -10,8 +10,18 @@ export function SourceMapReading({chapter}:{chapter:number}) {
   if (!map) return null;
   return <details className={styles.explorer}>
     <summary style={{cursor:'pointer',minHeight:44}}>Read the full textbook map · {map.title}</summary>
-    <p>Open the maps on printed pages {map.pages} of your textbook and work through every legend entry and marked region.</p>
-    <fieldset><legend>Map layers to inspect</legend>{map.layers.map(layer=><label key={layer} style={{display:'flex',gap:8,textAlign:'left',margin:'12px 0'}}>
+    {textbookMaps[chapter].map(figure=>{
+      const url = `/maps/${figure.file}.webp`;
+      return <figure key={figure.file} style={{margin:'1rem 0'}}>
+        <h4>{figure.title}</h4>
+        <a href={url} target="_blank" rel="noreferrer" aria-label={`Enlarge ${figure.title} in a new tab`}>
+          <img src={url} alt={figure.description} loading="lazy" style={{display:'block',width:'100%',maxWidth:640,height:'auto'}}/>
+        </a>
+        <figcaption>{figure.description} <small>KTBS Class 10 Social Science, p. {figure.page}.</small></figcaption>
+        <a href={url} target="_blank" rel="noreferrer">Open full-size map ↗</a>
+      </figure>;
+    })}
+    <fieldset><legend>Chapter geography checklist</legend>{map.layers.map(layer=><label key={layer} style={{display:'flex',gap:8,textAlign:'left',margin:'12px 0'}}>
       <input type="checkbox" checked={checked.includes(layer)} onChange={event=>setChecked(previous=>event.target.checked?[...previous,layer]:previous.filter(value=>value!==layer))}/>{layer}
     </label>)}</fieldset>
     <ol>{map.questions.map(question=><li key={question}>{question}</li>)}</ol>

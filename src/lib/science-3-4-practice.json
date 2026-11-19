@@ -1861,7 +1861,7 @@
       },
       {
         "id": "sc4-007",
-        "reference": "Activity 4.7 · pp 22–40",
+        "reference": "Activity 4.7 · p37",
         "title": "Two acids, one concentration",
         "prompt": "Interpret the source dilute acetic-acid/HCl comparison using litmus and a universal indicator. What must be controlled?",
         "solution": [
@@ -1882,19 +1882,21 @@
       },
       {
         "id": "sc4-008",
-        "reference": "Activity 4.8 · pp 22–40",
+        "reference": "Activity 4.8 · p37",
         "title": "Esterification and its reverse",
-        "prompt": "Explain the source ethanol/ethanoic-acid ester demonstration, including catalyst, product, equilibrium and alkaline hydrolysis.",
+        "prompt": "Explain the source ethanol/ethanoic-acid ester demonstration, including catalyst, product, equilibrium and alkaline hydrolysis. In Figure 4.11, trace the heat path and identify the two liquids.",
         "solution": [
           "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O under acid-catalysed conditions forms ethyl ethanoate.",
           "The source reports a characteristic fruity/sweet odour; this is not an instruction to directly sniff a heated chemical mixture. Esterification is reversible and the acid catalyst is not consumed in the overall equation.",
-          "Alkaline hydrolysis:CH3COOC2H5+NaOH→CH3COONa+C2H5OH. This model illustrates saponification chemistry; actual soaps are salts of long-chain carboxylic acids, not sodium acetate."
+          "Alkaline hydrolysis:CH3COOC2H5+NaOH→CH3COONa+C2H5OH. This model illustrates saponification chemistry; actual soaps are salts of long-chain carboxylic acids, not sodium acetate.",
+          "The burner heats the beaker of water on wire gauze supported by a tripod. The water bath gently warms the separate reaction mixture in the test tube."
         ],
-        "sample": "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O under acid-catalysed conditions forms ethyl ethanoate. The source reports a characteristic fruity/sweet odour; this is not an instruction to directly sniff a heated chemical mixture. Esterification is reversible and the acid catalyst is not consumed in the overall equation. Alkaline hydrolysis:CH3COOC2H5+NaOH→CH3COONa+C2H5OH. This model illustrates saponification chemistry; actual soaps are salts of long-chain carboxylic acids, not sodium acetate.",
+        "sample": "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O under acid-catalysed conditions forms ethyl ethanoate. The source reports a characteristic fruity/sweet odour; this is not an instruction to directly sniff a heated chemical mixture. Esterification is reversible and the acid catalyst is not consumed in the overall equation. Alkaline hydrolysis:CH3COOC2H5+NaOH→CH3COONa+C2H5OH. This model illustrates saponification chemistry; actual soaps are salts of long-chain carboxylic acids, not sodium acetate. The burner heats the beaker of water on wire gauze supported by a tripod. The water bath gently warms the separate reaction mixture in the test tube.",
         "checklist": [
           "I included and justified: CH3COOH+C2H5OH⇌CH3COOC2H5+H2O under acid-catalysed conditions forms ethyl ethanoate.",
           "I included and justified: The source reports a characteristic fruity/sweet odour; this is not an instruction to directly sniff a heated chemical mixture. Esterification is reversible and the acid catalyst is not consumed in the overall equation.",
-          "I included and justified: Alkaline hydrolysis:CH3COOC2H5+NaOH→CH3COONa+C2H5OH. This model illustrates saponification chemistry; actual soaps are salts of long-chain carboxylic acids, not sodium acetate."
+          "I included and justified: Alkaline hydrolysis:CH3COOC2H5+NaOH→CH3COONa+C2H5OH. This model illustrates saponification chemistry; actual soaps are salts of long-chain carboxylic acids, not sodium acetate.",
+          "I distinguished the water in the beaker from the reaction mixture in the test tube."
         ],
         "hints": [
           "CH3COOH+C2H5OH⇌CH3COOC2H5+H2O under acid-catalysed conditions forms ethyl ethanoate.",

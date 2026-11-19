@@ -39,7 +39,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Maths | 3 | Pair of Linear Equations in Two Variables | 19 | 49 | 7 | 0 |
 | Maths | 4 | Quadratic Equations | 19 | 40 | 7 | 0 |
 | Maths | 5 | Arithmetic Progressions | 21 | 115 | 7 | 0 |
-| Maths | 6 | Triangles | 21 | 60 | 7 | 3 |
+| Maths | 6 | Triangles | 21 | 66 | 7 | 3 |
 | Maths | 7 | Coordinate Geometry | 21 | 36 | 7 | 1 |
 | Maths | 8 | Introduction to Trigonometry | 25 | 66 | 7 | 1 |
 | Maths | 9 | Some Applications of Trigonometry | 18 | 23 | 7 | 0 |
@@ -144,11 +144,12 @@ The [printed-page crosswalk](social-science-page-crosswalk.md) records all 192 r
 
 ## Maths and Science source review
 
-The [source-item index](maths-science-source-items.md) records 651 distinct chapter-scoped identifiers from 455 subject pages across both Maths books and the supplied Science extracts. It includes references in prose as well as captions. There are 408 direct or manually confirmed workbook matches. The 243 remaining identifiers require comparison with lesson content, contextual exercise references or figures. They are not a count of missing lessons.
+The [source-item index](maths-science-source-items.md) records 657 distinct chapter-scoped identifiers from 455 subject pages across both Maths books and the supplied Science extracts. It includes references in prose as well as captions. Of these, 656 point to a workbook task or guided concept. One is the printed reference to “Example 8” on Maths p9, although Chapter 1 ends at Example 7. Contextual links identify where a concept is taught; their presence does not verify every dimension, label or numerical step.
 
 | Printed source | Comparison and result |
 |---|---|
 | Maths 2, pp17–18, Figs. 2.9–2.10 | Checked all twelve panels against the rendered pages. Restored the printed ordering of line, parabola and cubic examples, directions of opening, the side of the origin at a tangency, and the turning points relative to the axis. These qualitative figures have no numbered measurement scale. Example counts are 1, 2, 3, 1, 1, 4. Exercise counts are 0, 1, 3, 2, 4, 3. |
+| Maths 6, pp75–88 | The six numbered construction activities now have individual writing and drawing prompts. The source figures supply the corresponding vertices, lengths, angles and parallel lines. |
 | Maths 3, p26, Example 1 | Substitution gives 6 and 12 at the intersection (6, 0). The construction pad uses the same pixels per unit on each axis. Corrected its extended-line calculation for closely spaced points and labelled both axes and the origin. |
 | Maths 7, pp101–102, Example 1 | Restored P, Q and R in the worked answer. Squared lengths 50, 52 and 2 establish a right angle at P as well as three unequal sides. |
 | Maths 11, p44, Example 1 | Using the specified 3.14 gives minor sector 50.24/12 and major sector 11 × 50.24/12 square centimetres. The rounded areas sum to 50.24. |

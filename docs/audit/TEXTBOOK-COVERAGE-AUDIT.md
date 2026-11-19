@@ -141,3 +141,19 @@ The six map-reading panels now include all nine map figures identified on the su
 The lesson index maps 155 source entries across Chapters 11–33 to workbook tasks. It includes illustrated figures, portrait captions, charts, sidebars and in-text activities, with printed page numbers. Several entries can share a practice task when a figure or comparison involves multiple subjects. Technical QR codes and repeated page decorations are excluded. Independent subject-accuracy review remains open.
 
 The [printed-page crosswalk](social-science-page-crosswalk.md) records all 192 reviewed pages, including pages without separate visual or activity items. It includes the World Bank Group box, UN Nobel sidebar, continued finance table, deficit formulas and boxed consumer definitions found in the layout review.
+
+## Maths and Science source review
+
+The [source-item index](maths-science-source-items.md) records 651 distinct chapter-scoped identifiers from 455 subject pages across both Maths books and the supplied Science extracts. It includes references in prose as well as captions. There are 408 direct or manually confirmed workbook matches. The 243 remaining identifiers require comparison with lesson content, contextual exercise references or figures. They are not a count of missing lessons.
+
+| Printed source | Comparison and result |
+|---|---|
+| Maths 2, pp17–18, Figs. 2.9–2.10 | Checked all twelve panels against the rendered pages. Restored the printed ordering of line, parabola and cubic examples, directions of opening, the side of the origin at a tangency, and the turning points relative to the axis. These qualitative figures have no numbered measurement scale. Example counts are 1, 2, 3, 1, 1, 4. Exercise counts are 0, 1, 3, 2, 4, 3. |
+| Maths 3, p26, Example 1 | Substitution gives 6 and 12 at the intersection (6, 0). The construction pad uses the same pixels per unit on each axis. Corrected its extended-line calculation for closely spaced points and labelled both axes and the origin. |
+| Maths 7, pp101–102, Example 1 | Restored P, Q and R in the worked answer. Squared lengths 50, 52 and 2 establish a right angle at P as well as three unequal sides. |
+| Maths 11, p44, Example 1 | Using the specified 3.14 gives minor sector 50.24/12 and major sector 11 × 50.24/12 square centimetres. The rounded areas sum to 50.24. |
+| Maths 13, pp60–61, Example 1 | The printed frequency distribution gives 30 observations and a weighted total of 1779, for mean 59.3. Grouping assigns a value of 40 to the 40–55 interval. |
+| Science 4, p37, Activities 4.7 and 4.8, Fig. 4.11 | Both activity numbers were recovered by inspecting the rendered page. The first compares litmus and universal indicator. The second uses a water bath. The model distinguishes the water in the beaker from the reaction mixture in the test tube and identifies the heat path. Across the twelve chapters all 101 distinct workbook activity numbers now have a corresponding source occurrence. |
+| Science 11, p72, Fig. 11.1 and Example 11.1 | The diagram now shows the bulb, key, source polarity and series ammeter. Conventional current enters the meter at its positive terminal. For the printed example, 0.5 A × 600 s = 300 C. |
+
+The source index and targeted checks do not establish an independent result for every construction, figure label, activity explanation, exercise subpart or worked solution. Those checks remain open.

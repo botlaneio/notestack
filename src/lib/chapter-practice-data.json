@@ -6254,19 +6254,19 @@
         "id": "c7-Example1",
         "reference": "Example 1",
         "title": "Worked example 1",
-        "prompt": "Classify the triangle A(3, 2), B(−2, −3), C(2, 3), if noncollinear.",
+        "prompt": "Do P(3, 2), Q(−2, −3) and R(2, 3) form a triangle? Classify it by its sides and angles.",
         "solution": [
-          "AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle.",
-          "All side lengths differ, so scalene."
+          "PQ² = 5² + 5² = 50, QR² = 4² + 6² = 52, and PR² = 1² + (−1)² = 2.",
+          "Since PQ² + PR² = QR², the converse of Pythagoras gives a right angle at P. The three side lengths differ, so PQR is a right scalene triangle."
         ],
         "checklist": [
-          "Compare step 1: AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle.",
-          "Compare step 2: All side lengths differ, so scalene."
+          "I used the same point labels as the book.",
+          "I identified the right angle and compared all three lengths."
         ],
         "hints": [
-          "AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle."
+          "Compare the largest squared distance with the sum of the other two."
         ],
-        "sample": "AB²=50, BC²=52, CA²=2. These do not give a degenerate triangle. All side lengths differ, so scalene."
+        "sample": "PQ² = 5² + 5² = 50, QR² = 4² + 6² = 52, and PR² = 1² + (−1)² = 2. Since PQ² + PR² = QR², the converse of Pythagoras gives a right angle at P. The three side lengths differ, so PQR is a right scalene triangle."
       },
       {
         "id": "c7-Example2",

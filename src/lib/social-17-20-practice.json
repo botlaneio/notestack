@@ -1678,6 +1678,96 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss19-detail-001",
+        "title": "Keeping peace during Partition",
+        "reference": "Source detail · p29",
+        "prompt": "Imagine a family arriving at a relief camp hears a rumour that its neighbourhood is unsafe. Discuss with your teacher one immediate response and one step towards rebuilding trust.",
+        "sample": "Keep families safe and check the report with people who can verify it before passing it on. In the longer term, local leaders from different communities can meet residents together and arrange safe access to schools and markets. Gandhi’s fast in Calcutta drew attention to the need to end communal violence.",
+        "solution": [
+          "Keep families safe and check the report with people who can verify it before passing it on.",
+          "In the longer term, local leaders from different communities can meet residents together and arrange safe access to schools and markets. Gandhi’s fast in Calcutta drew attention to the need to end communal violence."
+        ],
+        "hints": [
+          "How would you protect people while someone checks the report?"
+        ],
+        "checklist": [
+          "I answered each part of the prompt.",
+          "I checked the names, dates or reasoning against the worked answer."
+        ]
+      },
+      {
+        "id": "ss19-detail-002",
+        "title": "Who answers to Parliament?",
+        "reference": "Source detail · p30",
+        "prompt": "A student says the President runs the government because India is a republic. Use the parliamentary democracy sidebar to explain who must retain the confidence of the elected house.",
+        "sample": "The President is the head of state. The Prime Minister heads the Council of Ministers. The Council is collectively responsible to the Lok Sabha. If it loses the confidence of that house, it cannot simply carry on governing as before.",
+        "solution": [
+          "The President is the head of state. The Prime Minister heads the Council of Ministers.",
+          "The Council is collectively responsible to the Lok Sabha. If it loses the confidence of that house, it cannot simply carry on governing as before."
+        ],
+        "hints": [
+          "Distinguish the head of state from the head of government."
+        ],
+        "checklist": [
+          "I answered each part of the prompt.",
+          "I checked the names, dates or reasoning against the worked answer."
+        ]
+      },
+      {
+        "id": "ss19-detail-003",
+        "title": "Patel and the privy purses",
+        "reference": "Source detail · p31",
+        "prompt": "Use Patel’s portrait on page 30 to identify his role in integration. What was a privy purse and when did the constitutional guarantee end?",
+        "sample": "As Home Minister, Vallabhbhai Patel worked with V. P. Menon to negotiate accession. Privy purses were guaranteed payments to former rulers under integration agreements. The Constitution (Twenty-sixth Amendment) Act, 1971 ended recognition of rulers and abolished privy purses. Use 1971 for abolition when reading page 31.",
+        "solution": [
+          "As Home Minister, Vallabhbhai Patel worked with V. P. Menon to negotiate accession. Privy purses were guaranteed payments to former rulers under integration agreements.",
+          "The Constitution (Twenty-sixth Amendment) Act, 1971 ended recognition of rulers and abolished privy purses. Use 1971 for abolition when reading page 31."
+        ],
+        "hints": [
+          "Separate the original negotiations from the later constitutional amendment."
+        ],
+        "checklist": [
+          "I answered each part of the prompt.",
+          "I checked the names, dates or reasoning against the worked answer."
+        ]
+      },
+      {
+        "id": "ss19-detail-004",
+        "title": "Andhra State and Andhra Pradesh",
+        "reference": "Source detail · p32",
+        "prompt": "Make a two-entry timeline for a Telugu-speaking student comparing maps from 1953 and 1956. Which name belongs on each map?",
+        "sample": "1953 — Andhra State was formed from Telugu-speaking areas of Madras State following a movement associated with Potti Sriramulu. 1956 — Andhra State joined the Telangana region of Hyderabad State to form Andhra Pradesh. The maps show two distinct changes.",
+        "solution": [
+          "1953 — Andhra State was formed from Telugu-speaking areas of Madras State following a movement associated with Potti Sriramulu.",
+          "1956 — Andhra State joined the Telangana region of Hyderabad State to form Andhra Pradesh. The maps show two distinct changes."
+        ],
+        "hints": [
+          "Look for the year Telangana joined Andhra State."
+        ],
+        "checklist": [
+          "I answered each part of the prompt.",
+          "I checked the names, dates or reasoning against the worked answer."
+        ]
+      },
+      {
+        "id": "ss19-detail-005",
+        "title": "States formed after 1970",
+        "reference": "Source detail · p33",
+        "prompt": "Build the sidebar’s list by grouping present-day Indian states by the year they attained statehood after 1970. Where does a change of name fit?",
+        "sample": "1971 — Himachal Pradesh. 1972 — Manipur, Meghalaya and Tripura. 1975 — Sikkim. 1987 — Arunachal Pradesh, Mizoram and Goa. 2000 — Chhattisgarh, Uttarakhand (then Uttaranchal) and Jharkhand. 2014 — Telangana. Mysore State took the name Karnataka in 1973, so that year records a renaming.",
+        "solution": [
+          "1971 — Himachal Pradesh. 1972 — Manipur, Meghalaya and Tripura. 1975 — Sikkim. 1987 — Arunachal Pradesh, Mizoram and Goa.",
+          "2000 — Chhattisgarh, Uttarakhand (then Uttaranchal) and Jharkhand. 2014 — Telangana. Mysore State took the name Karnataka in 1973, so that year records a renaming."
+        ],
+        "hints": [
+          "Use the date of full statehood for each entry."
+        ],
+        "checklist": [
+          "I answered each part of the prompt.",
+          "I checked the names, dates or reasoning against the worked answer."
+        ]
       }
     ],
     "20": [

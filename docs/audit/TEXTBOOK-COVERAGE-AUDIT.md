@@ -78,7 +78,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 16 | Bank Transactions | 17 | 25 | 2 | 0 |
 | Social Science | 17 | The First War of Indian Independence (1857) | 10 | 12 | 2 | 0 |
 | Social Science | 18 | The Freedom Struggle | 30 | 68 | 2 | 1 |
-| Social Science | 19 | India after Independence | 10 | 13 | 2 | 0 |
+| Social Science | 19 | India after Independence | 10 | 18 | 2 | 0 |
 | Social Science | 20 | World Wars and India’s Role | 15 | 19 | 2 | 0 |
 | Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 17 | 2 | 0 |
 | Social Science | 22 | World Organisations | 26 | 30 | 2 | 1 |
@@ -127,3 +127,7 @@ New entries cover moderate and nationalist portraits, northeastern resistance, s
 Explicit corrections include the Congress Socialist Party’s founders, the 1947 arrival of Mountbatten, Ambedkar’s Baroda office and the distinction between prisoners of war and war criminals. Unverified publication attribution and the claimed 1827 labour-movement origin are flagged for bibliographic checking. The ledger records independent accuracy review as pending; it does not certify every source claim.
 
 Second-batch validation: all 137 existing tests pass and the production build succeeds. Browser checks cover all 34 source-detail cards at 320px, their target task links, four sampled writing/submission/reload flows and the complete 68-entry coverage page. A long-selector overflow found during testing was corrected. The resulting mobile source-detail panel was visually inspected.
+
+## Chapter 19 source activities
+
+Five additional written tasks cover the peace discussion (p29), parliamentary democracy sidebar (p30), Patel portrait and privy purses (pp30–31), Andhra statehood sequence (p32), and statehood list (p33). The chapter now has 18 practice entries. Each new entry includes a hint and worked response.

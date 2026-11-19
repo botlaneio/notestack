@@ -830,6 +830,618 @@
           "I identified the relevant place, process or category.",
           "I explained the connection using the example in the model."
         ]
+      },
+      {
+        "id": "ss18-source-review-001",
+        "reference": "Source detail review · p6",
+        "title": "Nationalism and its setting",
+        "prompt": "How did institutions and communication help people develop a wider political identity?",
+        "solution": [
+          "English education, print, transport and communication helped connect political discussions across regions. Colonial economic policies and racial inequality supplied shared grievances.",
+          "People interpreted these developments differently. Use a specific mechanism, such as newspapers circulating an argument, rather than assuming every person acquired the same outlook."
+        ],
+        "sample": "English education, print, transport and communication helped connect political discussions across regions. Colonial economic policies and racial inequality supplied shared grievances. People interpreted these developments differently. Use a specific mechanism, such as newspapers circulating an argument, rather than assuming every person acquired the same outlook.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-002",
+        "reference": "Source detail review · p7",
+        "title": "Associations before Congress",
+        "prompt": "Compare local political associations with the founding Congress organisation.",
+        "solution": [
+          "The British Indian Association, Indian Association, Poona Sarvajanik Sabha, Madras Mahajana Sabha and Bombay Presidency Association helped develop political representation.",
+          "Congress connected organisers at a wider scale in 1885. A. O. Hume helped convene the first session and W. C. Bonnerjee presided. Earlier associations and many Indian organisers contributed to this development."
+        ],
+        "sample": "The British Indian Association, Indian Association, Poona Sarvajanik Sabha, Madras Mahajana Sabha and Bombay Presidency Association helped develop political representation. Congress connected organisers at a wider scale in 1885. A. O. Hume helped convene the first session and W. C. Bonnerjee presided. Earlier associations and many Indian organisers contributed to this development.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-003",
+        "reference": "Source detail review · p8",
+        "title": "Naoroji and Gokhale portraits",
+        "prompt": "Identify the contribution represented by each moderate leader.",
+        "solution": [
+          "Dadabhai Naoroji developed the drain-of-wealth argument. Gopal Krishna Gokhale worked through constitutional politics and founded the Servants of India Society in 1905.",
+          "The portraits represent distinct contributions within moderate politics. Explain the person’s argument or organisation, alongside a specific method such as representation, speeches or public education."
+        ],
+        "sample": "Dadabhai Naoroji developed the drain-of-wealth argument. Gopal Krishna Gokhale worked through constitutional politics and founded the Servants of India Society in 1905. The portraits represent distinct contributions within moderate politics. Explain the person’s argument or organisation, alongside a specific method such as representation, speeches or public education.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-004",
+        "reference": "Source detail review · p8",
+        "title": "Moderates photograph activity",
+        "prompt": "Plan a sourced album of moderate leaders.",
+        "solution": [
+          "Choose Naoroji, Gokhale, Ranade and Surendranath Banerjea, and identify each image and one documented contribution.",
+          "Credit the image source, check identity and dates, and distinguish a contemporary photograph from a later illustration. Reading a biography should supply evidence beyond the caption."
+        ],
+        "sample": "Choose Naoroji, Gokhale, Ranade and Surendranath Banerjea, and identify each image and one documented contribution. Credit the image source, check identity and dates, and distinguish a contemporary photograph from a later illustration. Reading a biography should supply evidence beyond the caption.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-005",
+        "reference": "Source detail review · p9",
+        "title": "The nationalist leaders pictured",
+        "prompt": "Compare Aurobindo Ghosh, Tilak, Lala Lajpat Rai and Bipin Chandra Pal.",
+        "solution": [
+          "The source groups these leaders with assertive nationalism and resistance to Bengal’s partition. They used different combinations of writing, organisation, education and public mobilisation.",
+          "Lal–Bal–Pal refers to Lajpat Rai, Bal Gangadhar Tilak and Bipin Chandra Pal. Avoid attributing every publication or action to all four people."
+        ],
+        "sample": "The source groups these leaders with assertive nationalism and resistance to Bengal’s partition. They used different combinations of writing, organisation, education and public mobilisation. Lal–Bal–Pal refers to Lajpat Rai, Bal Gangadhar Tilak and Bipin Chandra Pal. Avoid attributing every publication or action to all four people.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-006",
+        "reference": "Source detail review · p10",
+        "title": "Revolutionary organisations and writing",
+        "prompt": "What did Anushilan Samiti and Abhinav Bharat contribute to the chapter’s account?",
+        "solution": [
+          "These organisations illustrate anti-colonial networks involving political education and armed resistance. The source names Savarkar, Shyamji Krishna Varma, Madam Cama and others in wider revolutionary activity.",
+          "The sidebar contains publication and authorship claims that need bibliographic verification. Treat its attribution of Vartamana Rananiti cautiously rather than using it as a settled authorship question."
+        ],
+        "sample": "These organisations illustrate anti-colonial networks involving political education and armed resistance. The source names Savarkar, Shyamji Krishna Varma, Madam Cama and others in wider revolutionary activity. The sidebar contains publication and authorship claims that need bibliographic verification. Treat its attribution of Vartamana Rananiti cautiously rather than using it as a settled authorship question.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-007",
+        "reference": "Source detail review · p10",
+        "title": "Jadonang and Gaidinliu",
+        "prompt": "Explain the northeastern resistance example individually.",
+        "solution": [
+          "Haipou Jadonang and Rani Gaidinliu were associated with Zeliangrong resistance and the Heraka movement in the northeast. Jadonang was executed in 1931; Gaidinliu was imprisoned in 1932 and released in 1947.",
+          "Relate their work to community autonomy and colonial rule. The source’s broad Naga description should not erase the particular communities, religious aims and local setting."
+        ],
+        "sample": "Haipou Jadonang and Rani Gaidinliu were associated with Zeliangrong resistance and the Heraka movement in the northeast. Jadonang was executed in 1931; Gaidinliu was imprisoned in 1932 and released in 1947. Relate their work to community autonomy and colonial rule. The source’s broad Naga description should not erase the particular communities, religious aims and local setting.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-008",
+        "reference": "Source detail review · p11",
+        "title": "Satyagraha and mass participation",
+        "prompt": "Explain how the two source sidebars connect a method with an organisation.",
+        "solution": [
+          "Satyagraha combined adherence to truth with disciplined non-violent resistance. Congress reorganisation in the Gandhian period widened participation through membership and local organisation.",
+          "A method and a party structure are different. Compare the intended discipline of a campaign with the practical means used to involve people."
+        ],
+        "sample": "Satyagraha combined adherence to truth with disciplined non-violent resistance. Congress reorganisation in the Gandhian period widened participation through membership and local organisation. A method and a party structure are different. Compare the intended discipline of a campaign with the practical means used to involve people.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-009",
+        "reference": "Source detail review · p12",
+        "title": "Jallianwala Bagh and public responses",
+        "prompt": "Explain the massacre and the responses highlighted in the source.",
+        "solution": [
+          "On 13 April 1919 troops under General Reginald Dyer fired on the gathering at Jallianwala Bagh in Amritsar. The official British death count was 379, while other estimates were higher.",
+          "Rabindranath Tagore renounced his knighthood in protest. Distinguish Dyer from Michael O’Dwyer, Punjab’s Lieutenant Governor, and label any casualty figure with its source."
+        ],
+        "sample": "On 13 April 1919 troops under General Reginald Dyer fired on the gathering at Jallianwala Bagh in Amritsar. The official British death count was 379, while other estimates were higher. Rabindranath Tagore renounced his knighthood in protest. Distinguish Dyer from Michael O’Dwyer, Punjab’s Lieutenant Governor, and label any casualty figure with its source.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-010",
+        "reference": "Source detail review · p13",
+        "title": "Non-Cooperation and its suspension",
+        "prompt": "Connect public participation with the decision after Chauri Chaura.",
+        "solution": [
+          "Boycott of institutions, goods and honours brought students, lawyers and other groups into the movement. Violence at Chauri Chaura in February 1922 led Gandhi to suspend the mass campaign.",
+          "The decision generated debate about strategy. Explain the difference between the movement’s non-violent conditions, actual events and the response of its leadership."
+        ],
+        "sample": "Boycott of institutions, goods and honours brought students, lawyers and other groups into the movement. Violence at Chauri Chaura in February 1922 led Gandhi to suspend the mass campaign. The decision generated debate about strategy. Explain the difference between the movement’s non-violent conditions, actual events and the response of its leadership.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-011",
+        "reference": "Source detail review · p14",
+        "title": "Swaraj Party and the Calcutta sidebar",
+        "prompt": "What connects C. R. Das’s municipal role with council-entry politics?",
+        "solution": [
+          "C. R. Das and Motilal Nehru founded the Swaraj Party in 1923 to contest councils and oppose colonial policy from within. Das became Calcutta’s mayor in 1924.",
+          "Municipal leadership and national council strategy operate at different levels. The 1924 Belgaum Congress session under Gandhi forms another part of the source’s account of Congress strategy."
+        ],
+        "sample": "C. R. Das and Motilal Nehru founded the Swaraj Party in 1923 to contest councils and oppose colonial policy from within. Das became Calcutta’s mayor in 1924. Municipal leadership and national council strategy operate at different levels. The 1924 Belgaum Congress session under Gandhi forms another part of the source’s account of Congress strategy.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-012",
+        "reference": "Source detail review · p14",
+        "title": "Lahore flag and independence observance",
+        "prompt": "Distinguish the Lahore flag event from the later Independence Day observance.",
+        "solution": [
+          "The Lahore Congress of December 1929 adopted Purna Swaraj under Nehru’s presidency. Flag-hoisting at the turn of 1929–30 and observance of 26 January 1930 linked the resolution with public action.",
+          "The sidebar labels the flag event 1 January 1930. Historical descriptions often refer to the night of 31 December 1929. Identify the event and date convention rather than treating them as unrelated episodes."
+        ],
+        "sample": "The Lahore Congress of December 1929 adopted Purna Swaraj under Nehru’s presidency. Flag-hoisting at the turn of 1929–30 and observance of 26 January 1930 linked the resolution with public action. The sidebar labels the flag event 1 January 1930. Historical descriptions often refer to the night of 31 December 1929. Identify the event and date convention rather than treating them as unrelated episodes.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-013",
+        "reference": "Source detail review · p15",
+        "title": "Karnataka and the Salt campaign",
+        "prompt": "Explain the two Karnataka examples in the source sidebar.",
+        "solution": [
+          "Mylara Mahadevappa participated in the Dandi march. In Karnataka, organisers including R. R. Diwakar, Koujalgi Hanumantharao, Gangadhar Deshpande and Karnad Sadashiva Rao helped organise Salt Satyagraha around Ankola.",
+          "The sidebar’s joined names need careful reading: N. S. Hardikar and Gangadhar Deshpande are distinct people. Distinguish participation in Gandhi’s march from organising regional salt-law resistance."
+        ],
+        "sample": "Mylara Mahadevappa participated in the Dandi march. In Karnataka, organisers including R. R. Diwakar, Koujalgi Hanumantharao, Gangadhar Deshpande and Karnad Sadashiva Rao helped organise Salt Satyagraha around Ankola. The sidebar’s joined names need careful reading: N. S. Hardikar and Gangadhar Deshpande are distinct people. Distinguish participation in Gandhi’s march from organising regional salt-law resistance.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-014",
+        "reference": "Source detail review · p16",
+        "title": "Three Round Table Conferences",
+        "prompt": "Place the conferences, pact and representation dispute in order.",
+        "solution": [
+          "The first conference met in 1930 without Congress participation. The Gandhi–Irwin Pact preceded Gandhi’s attendance at the second in 1931. The Communal Award and Poona Pact followed in 1932; the third conference met later that year.",
+          "Separate electorates and reserved seats within joint electorates are different arrangements. Explain the political positions and the terms of the Poona Pact without merging all three conferences."
+        ],
+        "sample": "The first conference met in 1930 without Congress participation. The Gandhi–Irwin Pact preceded Gandhi’s attendance at the second in 1931. The Communal Award and Poona Pact followed in 1932; the third conference met later that year. Separate electorates and reserved seats within joint electorates are different arrangements. Explain the political positions and the terms of the Poona Pact without merging all three conferences.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-015",
+        "reference": "Source detail review · p16",
+        "title": "The 1935 Act and wartime decisions",
+        "prompt": "Connect constitutional proposals, elections and the outbreak of war.",
+        "solution": [
+          "The Government of India Act 1935 provided provincial autonomy. Elections in 1937 brought Congress ministries to several provinces; its proposed all-India federation did not come into operation.",
+          "In 1939 the Viceroy committed India to war without consulting elected Indian leaders. Congress provincial ministries resigned. Distinguish a proposed constitutional arrangement from one actually implemented."
+        ],
+        "sample": "The Government of India Act 1935 provided provincial autonomy. Elections in 1937 brought Congress ministries to several provinces; its proposed all-India federation did not come into operation. In 1939 the Viceroy committed India to war without consulting elected Indian leaders. Congress provincial ministries resigned. Distinguish a proposed constitutional arrangement from one actually implemented.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-016",
+        "reference": "Source detail review · p17",
+        "title": "Cripps proposals and Quit India",
+        "prompt": "How did the unsuccessful Cripps Mission form part of the background to Quit India?",
+        "solution": [
+          "The 1942 proposals envisaged post-war constitutional arrangements and dominion status, with disputed provisions about participation in a future union. They failed to secure agreement.",
+          "Congress adopted the Quit India resolution in August 1942. Subsequent arrests and repression shaped the movement’s decentralised and underground activities."
+        ],
+        "sample": "The 1942 proposals envisaged post-war constitutional arrangements and dominion status, with disputed provisions about participation in a future union. They failed to secure agreement. Congress adopted the Quit India resolution in August 1942. Subsequent arrests and repression shaped the movement’s decentralised and underground activities.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-017",
+        "reference": "Source detail review · p17",
+        "title": "Esoor source sidebar",
+        "prompt": "Explain the local event and its relationship to Quit India.",
+        "solution": [
+          "Esoor, near Shikaripura in the former Mysore State, became associated with defiance of officials and the idea of a free village in 1942. Confrontation, firing and deaths were followed by severe repression.",
+          "Use the source to identify place, participants, demand and consequences. Describe the violence as an event in a specific setting rather than prescribing a method for present-day protest."
+        ],
+        "sample": "Esoor, near Shikaripura in the former Mysore State, became associated with defiance of officials and the idea of a free village in 1942. Confrontation, firing and deaths were followed by severe repression. Use the source to identify place, participants, demand and consequences. Describe the violence as an event in a specific setting rather than prescribing a method for present-day protest.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-018",
+        "reference": "Source detail review · p18",
+        "title": "Patel and Azad portraits",
+        "prompt": "Give a distinct account of each leader pictured on page 18.",
+        "solution": [
+          "Vallabhbhai Patel’s organising included Kheda and Bardoli, later Congress leadership and integration of princely states. Abul Kalam Azad was a nationalist leader, a major Congress president and independent India’s first Education Minister.",
+          "Azad advocated Hindu–Muslim unity and opposed partition. A shared portrait panel does not mean the two leaders had identical responsibilities."
+        ],
+        "sample": "Vallabhbhai Patel’s organising included Kheda and Bardoli, later Congress leadership and integration of princely states. Abul Kalam Azad was a nationalist leader, a major Congress president and independent India’s first Education Minister. Azad advocated Hindu–Muslim unity and opposed partition. A shared portrait panel does not mean the two leaders had identical responsibilities.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-019",
+        "reference": "Source detail review · p18",
+        "title": "Farmers’ movements",
+        "prompt": "Compare the farmers’ struggles described in the source.",
+        "solution": [
+          "Champaran and Kheda connected agrarian grievances with Gandhian campaigns. Kisan Sabha organisations, Tebhaga, Telangana and Malabar movements arose in different regional and political settings.",
+          "Compare cultivation conditions, land rights, rent or revenue demands and leadership. Farmers’ organisations were not all directed by Congress or identical in aims and methods."
+        ],
+        "sample": "Champaran and Kheda connected agrarian grievances with Gandhian campaigns. Kisan Sabha organisations, Tebhaga, Telangana and Malabar movements arose in different regional and political settings. Compare cultivation conditions, land rights, rent or revenue demands and leadership. Farmers’ organisations were not all directed by Congress or identical in aims and methods.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-020",
+        "reference": "Source detail review · p19",
+        "title": "Labour organisations",
+        "prompt": "Explain workers’ participation using the source examples.",
+        "solution": [
+          "Railway, jute, textile and printing workers organised around wages and conditions. The Madras Labour Union, founded in 1918, is a well-known early modern trade union; AITUC followed in 1920.",
+          "The source’s claim that the labour movement began in Calcutta in 1827 needs a specific historical reference and should not be taught as an uncontested national starting date."
+        ],
+        "sample": "Railway, jute, textile and printing workers organised around wages and conditions. The Madras Labour Union, founded in 1918, is a well-known early modern trade union; AITUC followed in 1920. The source’s claim that the labour movement began in Calcutta in 1827 needs a specific historical reference and should not be taught as an uncontested national starting date.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-021",
+        "reference": "Source detail review · p19",
+        "title": "Santhal, Munda and Halagali",
+        "prompt": "Compare three movements without collapsing their chronology.",
+        "solution": [
+          "The Santhal Hul of 1855–56 challenged exploitation by intermediaries and colonial structures. Birsa Munda’s movement in the late nineteenth century involved land, religious renewal and resistance. Halagali hunters resisted disarmament in 1857.",
+          "Their communities, dates and demands differed. Calling the Santhal uprising India’s first movement ignores earlier resistance and requires qualification."
+        ],
+        "sample": "The Santhal Hul of 1855–56 challenged exploitation by intermediaries and colonial structures. Birsa Munda’s movement in the late nineteenth century involved land, religious renewal and resistance. Halagali hunters resisted disarmament in 1857. Their communities, dates and demands differed. Calling the Santhal uprising India’s first movement ignores earlier resistance and requires qualification.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-022",
+        "reference": "Source detail review · p20",
+        "title": "Bose, Congress and socialism",
+        "prompt": "Correct the source’s account of the Congress Socialist Party.",
+        "solution": [
+          "Bose presided at Haripura in 1938 and was re-elected at Tripuri in 1939 before resigning and establishing the Forward Bloc. Nehru and Bose were associated with left-leaning debates within Congress.",
+          "The Congress Socialist Party was founded in 1934 by leaders including Jayaprakash Narayan and Acharya Narendra Deva. It should not be attributed simply to Nehru and Bose."
+        ],
+        "sample": "Bose presided at Haripura in 1938 and was re-elected at Tripuri in 1939 before resigning and establishing the Forward Bloc. Nehru and Bose were associated with left-leaning debates within Congress. The Congress Socialist Party was founded in 1934 by leaders including Jayaprakash Narayan and Acharya Narendra Deva. It should not be attributed simply to Nehru and Bose.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-023",
+        "reference": "Source detail review · p20",
+        "title": "Bose’s source quotations",
+        "prompt": "How should the two quotations be used as historical evidence?",
+        "solution": [
+          "The sidebars convey Bose’s resolve and his view that Britain’s wartime vulnerability could assist Indian independence. Situate those statements within his wartime strategy and political choices.",
+          "For a verbatim quotation, check its speech or documentary source. A quotation demonstrates a stated aim and does not alone establish the effectiveness or consequences of the strategy."
+        ],
+        "sample": "The sidebars convey Bose’s resolve and his view that Britain’s wartime vulnerability could assist Indian independence. Situate those statements within his wartime strategy and political choices. For a verbatim quotation, check its speech or documentary source. A quotation demonstrates a stated aim and does not alone establish the effectiveness or consequences of the strategy.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-024",
+        "reference": "Source detail review · p21",
+        "title": "The INA’s early organisation",
+        "prompt": "Distinguish Mohan Singh, Rash Behari Bose and Subhas Chandra Bose.",
+        "solution": [
+          "Mohan Singh helped form an early INA from Indian prisoners of war in Southeast Asia in 1942. Rash Behari Bose helped organise the Indian Independence League. Subhas took leadership in 1943 and reorganised the armed independence campaign.",
+          "Prisoners of war should not be described as war criminals solely because they were captured. The Rani of Jhansi Regiment under Lakshmi Sahgal was a distinct women’s unit."
+        ],
+        "sample": "Mohan Singh helped form an early INA from Indian prisoners of war in Southeast Asia in 1942. Rash Behari Bose helped organise the Indian Independence League. Subhas took leadership in 1943 and reorganised the armed independence campaign. Prisoners of war should not be described as war criminals solely because they were captured. The Rani of Jhansi Regiment under Lakshmi Sahgal was a distinct women’s unit.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-025",
+        "reference": "Source detail review · p21",
+        "title": "Bose essay activity",
+        "prompt": "Plan the source’s essay on Bose’s view of the freedom movement.",
+        "solution": [
+          "Organise the essay around his goal, disagreements over strategy, overseas organisation, INA leadership and the effects of Japan’s defeat. Use dated examples and identified sources.",
+          "Compare the approach with Gandhi’s without assuming every participant belonged permanently to one opposing camp. Distinguish reported aims, military outcomes and the later public impact of INA trials."
+        ],
+        "sample": "Organise the essay around his goal, disagreements over strategy, overseas organisation, INA leadership and the effects of Japan’s defeat. Use dated examples and identified sources. Compare the approach with Gandhi’s without assuming every participant belonged permanently to one opposing camp. Distinguish reported aims, military outcomes and the later public impact of INA trials.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-026",
+        "reference": "Source detail review · p22",
+        "title": "Ambedkar’s institutions and public work",
+        "prompt": "Explain Ambedkar’s contribution beyond a single protest.",
+        "solution": [
+          "Bahishkrit Hitakarini Sabha and the Independent Labour Party illustrate organisation. Mooknayak, Bahishkrit Bharat and Janata illustrate public communication. His legislative and labour work connected political participation with social and economic rights.",
+          "The source’s description of Ambedkar as Baroda’s diwan is inaccurate. His brief Baroda service is usually described as military secretary. Identify the actual office and period in a biographical source."
+        ],
+        "sample": "Bahishkrit Hitakarini Sabha and the Independent Labour Party illustrate organisation. Mooknayak, Bahishkrit Bharat and Janata illustrate public communication. His legislative and labour work connected political participation with social and economic rights. The source’s description of Ambedkar as Baroda’s diwan is inaccurate. His brief Baroda service is usually described as military secretary. Identify the actual office and period in a biographical source.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-027",
+        "reference": "Source detail review · p22",
+        "title": "Constituent Assembly and the press sidebar",
+        "prompt": "Distinguish the institutions and offices involved in constitution-making.",
+        "solution": [
+          "Rajendra Prasad presided over the Constituent Assembly. Ambedkar chaired its Drafting Committee and later served as independent India’s Law Minister. Many committees and Assembly members contributed to the Constitution.",
+          "The newspaper metaphor in the sidebar highlights communication and organisation. Connect it to named publications while distinguishing an attributed quotation from a sourced verbatim text."
+        ],
+        "sample": "Rajendra Prasad presided over the Constituent Assembly. Ambedkar chaired its Drafting Committee and later served as independent India’s Law Minister. Many committees and Assembly members contributed to the Constitution. The newspaper metaphor in the sidebar highlights communication and organisation. Connect it to named publications while distinguishing an attributed quotation from a sourced verbatim text.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-028",
+        "reference": "Source detail review · p23",
+        "title": "Ambedkar biography activity",
+        "prompt": "Prepare an evidence-based biography note.",
+        "solution": [
+          "Cover education, anti-caste organisation, public writing, labour and constitutional work, conversion to Buddhism in 1956 and the posthumous Bharat Ratna in 1990.",
+          "Record the biography’s author and publication details. Explain social equality and political independence in his thought using a cited example rather than treating any one label as a full account of his ideas."
+        ],
+        "sample": "Cover education, anti-caste organisation, public writing, labour and constitutional work, conversion to Buddhism in 1956 and the posthumous Bharat Ratna in 1990. Record the biography’s author and publication details. Explain social equality and political independence in his thought using a cited example rather than treating any one label as a full account of his ideas.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-029",
+        "reference": "Source detail review · p23",
+        "title": "Nehru’s political development",
+        "prompt": "Connect Nehru’s nationalist role with his policy ideas.",
+        "solution": [
+          "Nehru participated in Home Rule and Gandhian movements and presided at Lahore in 1929. Socialist and internationalist currents influenced his views on industry, planning and social change.",
+          "A person’s ideological influences differ from founding a specific party. Preserve the correction to the source’s Congress Socialist Party attribution when comparing Nehru and Bose."
+        ],
+        "sample": "Nehru participated in Home Rule and Gandhian movements and presided at Lahore in 1929. Socialist and internationalist currents influenced his views on industry, planning and social change. A person’s ideological influences differ from founding a specific party. Preserve the correction to the source’s Congress Socialist Party attribution when comparing Nehru and Bose.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-030",
+        "reference": "Source detail review · p24",
+        "title": "Mahad and Kalaram sidebar",
+        "prompt": "Distinguish the campaigns’ claims and their immediate outcomes.",
+        "solution": [
+          "Mahad in 1927 asserted equal access to public water. The Kalaram temple-entry campaign began in 1930 and challenged caste exclusion. Both were associated with Ambedkar and organised participation.",
+          "These campaigns built awareness and political organisation. Do not infer that every access restriction ended immediately or that a campaign’s aim was fully achieved at its first event."
+        ],
+        "sample": "Mahad in 1927 asserted equal access to public water. The Kalaram temple-entry campaign began in 1930 and challenged caste exclusion. Both were associated with Ambedkar and organised participation. These campaigns built awareness and political organisation. Do not infer that every access restriction ended immediately or that a campaign’s aim was fully achieved at its first event.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-031",
+        "reference": "Source detail review · p24",
+        "title": "Nehru foreign-policy activity",
+        "prompt": "Prepare the source’s short research task with dated examples.",
+        "solution": [
+          "Examine Panchsheel in 1954, cooperation through the UN, anti-colonial positions and the Non-Aligned Movement founded in 1961. Relate these to independent judgement in the Cold War.",
+          "Use identified speeches or official accounts and compare principles with decisions. Separate foreign policy from domestic planning and the integration work led by Patel and others."
+        ],
+        "sample": "Examine Panchsheel in 1954, cooperation through the UN, anti-colonial positions and the Non-Aligned Movement founded in 1961. Relate these to independent judgement in the Cold War. Use identified speeches or official accounts and compare principles with decisions. Separate foreign policy from domestic planning and the integration work led by Patel and others.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-032",
+        "reference": "Source detail review · p24",
+        "title": "Jinnah’s early career",
+        "prompt": "Explain a change in political position over time.",
+        "solution": [
+          "Jinnah initially worked in Congress and constitutional politics, defended Tilak in court and supported intercommunal cooperation including the 1916 Lucknow context. His later leadership of the Muslim League advanced the Pakistan demand.",
+          "The source’s account should be placed within changing negotiations, institutions and representation disputes rather than treating political positions as fixed features of a community."
+        ],
+        "sample": "Jinnah initially worked in Congress and constitutional politics, defended Tilak in court and supported intercommunal cooperation including the 1916 Lucknow context. His later leadership of the Muslim League advanced the Pakistan demand. The source’s account should be placed within changing negotiations, institutions and representation disputes rather than treating political positions as fixed features of a community.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-033",
+        "reference": "Source detail review · p25",
+        "title": "Cabinet Mission and partition negotiations",
+        "prompt": "Place the 1946 proposals within the transition to independence.",
+        "solution": [
+          "The Cabinet Mission proposed a constitutional framework, Constituent Assembly and interim arrangements. Congress and League disagreements concerned the proposed union and representation. Direct Action Day on 16 August 1946 was followed by grave communal violence.",
+          "Explain decisions, institutions and consequences using specific evidence. Responsibility for particular acts cannot be assigned collectively to all members of a religion."
+        ],
+        "sample": "The Cabinet Mission proposed a constitutional framework, Constituent Assembly and interim arrangements. Congress and League disagreements concerned the proposed union and representation. Direct Action Day on 16 August 1946 was followed by grave communal violence. Explain decisions, institutions and consequences using specific evidence. Responsibility for particular acts cannot be assigned collectively to all members of a religion.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
+      },
+      {
+        "id": "ss18-source-review-034",
+        "reference": "Source detail review · p26",
+        "title": "Mountbatten and the transfer of power",
+        "prompt": "Correct the source’s arrival year and distinguish political decisions from boundaries.",
+        "solution": [
+          "Mountbatten became Viceroy in March 1947, not March 1946. The 3 June plan, Indian Independence Act and transfer of power followed in 1947. The Radcliffe commissions drew partition boundaries.",
+          "India and Pakistan emerged through different legal, territorial and administrative steps. Gandhi was assassinated by Nathuram Godse on 30 January 1948, the event described in the source sidebar."
+        ],
+        "sample": "Mountbatten became Viceroy in March 1947, not March 1946. The 3 June plan, Indian Independence Act and transfer of power followed in 1947. The Radcliffe commissions drew partition boundaries. India and Pakistan emerged through different legal, territorial and administrative steps. Gandhi was assassinated by Nathuram Godse on 30 January 1948, the event described in the source sidebar.",
+        "hints": [
+          "Identify the event, person, institution and date before comparing claims."
+        ],
+        "checklist": [
+          "I identified the source detail and explained it with a specific example.",
+          "I distinguished the relevant dates, roles, aims and outcomes, including any stated source correction."
+        ]
       }
     ],
     "19": [

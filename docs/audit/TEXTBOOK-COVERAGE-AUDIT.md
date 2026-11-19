@@ -77,7 +77,7 @@ Counts below describe implemented entries. They do not measure complete source c
 | Social Science | 15 | Economy and Government | 19 | 28 | 2 | 0 |
 | Social Science | 16 | Bank Transactions | 17 | 25 | 2 | 0 |
 | Social Science | 17 | The First War of Indian Independence (1857) | 10 | 12 | 2 | 0 |
-| Social Science | 18 | The Freedom Struggle | 30 | 34 | 2 | 1 |
+| Social Science | 18 | The Freedom Struggle | 30 | 68 | 2 | 1 |
 | Social Science | 19 | India after Independence | 10 | 13 | 2 | 0 |
 | Social Science | 20 | World Wars and India’s Role | 15 | 19 | 2 | 0 |
 | Social Science | 21 | India’s Foreign Policy and Global Challenges | 14 | 17 | 2 | 0 |
@@ -117,3 +117,13 @@ Soils and Chapters 25–29 now have guided full-map-reading checklists covering 
 The Freedom Struggle page/item ledger, later sidebars and portraits, and independent Maths/Science accuracy review also remain open. This batch does not certify whole-book completeness.
 
 First-batch validation: all 137 regression tests and the production build pass. Mobile browser checks verify all six organ buttons and roles, the agency selector group, exactly one map-reading panel per lesson, working checklist state and source-review entries in all six coverage pages. The mobile UN display was visually inspected.
+
+## Second remediation batch — Freedom Struggle
+
+Chapter 18 now has 68 written practice entries, including 34 newly explicit source-detail tasks. The source-detail ledger identifies printed pages 6–26 individually, with the existing exercise/activity mappings covering pp26–28. The lesson provides an expandable source-detail selector and links to the corresponding writing tasks.
+
+New entries cover moderate and nationalist portraits, northeastern resistance, satyagraha sidebars, Jallianwala Bagh responses, Calcutta and Lahore sidebars, Karnataka salt campaigns, the Esoor account, farmers and labour movements, the INA foundation sequence, Ambedkar’s publications and institutions, Nehru, Jinnah, partition and the inline reading/essay activities. Historical photographs are interpreted through named accounts rather than reproduced.
+
+Explicit corrections include the Congress Socialist Party’s founders, the 1947 arrival of Mountbatten, Ambedkar’s Baroda office and the distinction between prisoners of war and war criminals. Unverified publication attribution and the claimed 1827 labour-movement origin are flagged for bibliographic checking. The ledger records independent accuracy review as pending; it does not certify every source claim.
+
+Second-batch validation: all 137 existing tests pass and the production build succeeds. Browser checks cover all 34 source-detail cards at 320px, their target task links, four sampled writing/submission/reload flows and the complete 68-entry coverage page. A long-selector overflow found during testing was corrected. The resulting mobile source-detail panel was visually inspected.

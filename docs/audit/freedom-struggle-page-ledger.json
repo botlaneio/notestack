@@ -1,0 +1,230 @@
+[
+  {
+    "printedPage": 6,
+    "sourceDetailTasks": [
+      "ss18-source-review-001"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 7,
+    "sourceDetailTasks": [
+      "ss18-source-review-002"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 8,
+    "sourceDetailTasks": [
+      "ss18-source-review-003",
+      "ss18-source-review-004"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 9,
+    "sourceDetailTasks": [
+      "ss18-source-review-005"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 10,
+    "sourceDetailTasks": [
+      "ss18-source-review-006",
+      "ss18-source-review-007"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 11,
+    "sourceDetailTasks": [
+      "ss18-source-review-008"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 12,
+    "sourceDetailTasks": [
+      "ss18-source-review-009"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 13,
+    "sourceDetailTasks": [
+      "ss18-source-review-010"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 14,
+    "sourceDetailTasks": [
+      "ss18-source-review-011",
+      "ss18-source-review-012"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 15,
+    "sourceDetailTasks": [
+      "ss18-source-review-013"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 16,
+    "sourceDetailTasks": [
+      "ss18-source-review-014",
+      "ss18-source-review-015"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 17,
+    "sourceDetailTasks": [
+      "ss18-source-review-016",
+      "ss18-source-review-017"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 18,
+    "sourceDetailTasks": [
+      "ss18-source-review-018",
+      "ss18-source-review-019"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 19,
+    "sourceDetailTasks": [
+      "ss18-source-review-020",
+      "ss18-source-review-021"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 20,
+    "sourceDetailTasks": [
+      "ss18-source-review-022",
+      "ss18-source-review-023"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 21,
+    "sourceDetailTasks": [
+      "ss18-source-review-024",
+      "ss18-source-review-025"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 22,
+    "sourceDetailTasks": [
+      "ss18-source-review-026",
+      "ss18-source-review-027"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 23,
+    "sourceDetailTasks": [
+      "ss18-source-review-028",
+      "ss18-source-review-029"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 24,
+    "sourceDetailTasks": [
+      "ss18-source-review-030",
+      "ss18-source-review-031",
+      "ss18-source-review-032"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 25,
+    "sourceDetailTasks": [
+      "ss18-source-review-033"
+    ],
+    "existingTasksWithExplicitPage": [],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 26,
+    "sourceDetailTasks": [
+      "ss18-source-review-034"
+    ],
+    "existingTasksWithExplicitPage": [
+      "ss18-task-001",
+      "ss18-task-002",
+      "ss18-task-003",
+      "ss18-task-004",
+      "ss18-task-005",
+      "ss18-task-006",
+      "ss18-task-007",
+      "ss18-task-008",
+      "ss18-task-009",
+      "ss18-task-010"
+    ],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 27,
+    "sourceDetailTasks": [],
+    "existingTasksWithExplicitPage": [
+      "ss18-task-011",
+      "ss18-task-012",
+      "ss18-task-013",
+      "ss18-task-014",
+      "ss18-task-015",
+      "ss18-task-016",
+      "ss18-task-017",
+      "ss18-task-018",
+      "ss18-task-019",
+      "ss18-task-020",
+      "ss18-task-021",
+      "ss18-task-022"
+    ],
+    "review": "Source detail mapped; independent accuracy review pending"
+  },
+  {
+    "printedPage": 28,
+    "sourceDetailTasks": [],
+    "existingTasksWithExplicitPage": [
+      "ss18-task-023",
+      "ss18-task-024",
+      "ss18-task-025",
+      "ss18-task-026",
+      "ss18-task-027",
+      "ss18-task-028",
+      "ss18-task-031",
+      "ss18-task-032",
+      "ss18-task-033",
+      "ss18-task-034"
+    ],
+    "review": "Source detail mapped; independent accuracy review pending"
+  }
+]

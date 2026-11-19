@@ -1,6 +1,7 @@
 'use client';
 
 import {useState} from 'react';
+import {FreedomSourceDetails} from './freedom-source-details';
 import styles from './real-numbers-lesson.module.css';
 
 const timelines: Record<number, [number, string, string][]> = {
@@ -21,5 +22,6 @@ export function FreedomTimelineExplorer({chapter}:{chapter:number}) {
     </select></label>
     <ol>{events.map(([date,name],position)=><li key={date} style={{fontWeight:position===index?700:400}}>{date} — {name}</li>)}</ol>
     <p aria-live="polite"><strong>{year} · {title}</strong> {detail}</p>
+    {chapter===18&&<FreedomSourceDetails/>}
   </section>;
 }

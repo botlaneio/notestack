@@ -102,8 +102,8 @@
 /* ---------- Study-mode cards ---------- */
 .railWrap { background: var(--canvas); padding: 16px 0 80px; position: relative; width: 100%; overflow-x: clip; }
 .rail { box-sizing: border-box; width: min(1200px, calc(100% - 48px)); margin: 0 auto; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 32px; }
-.card { min-width: 0; box-sizing: border-box; border-radius: 24px; padding: 24px 24px 0; min-height: 360px; display: flex; flex-direction: column; overflow: hidden; text-align: left; color: var(--ink); transition: transform 0.2s; }
-.card:hover { transform: translateY(-4px); }
+.card { min-width: 0; box-sizing: border-box; border-radius: 24px; padding: 24px 24px 0; min-height: 360px; display: flex; flex-direction: column; overflow: hidden; text-align: left; color: var(--ink); transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 1px 2px rgba(31, 37, 55, 0.06), 0 8px 24px rgba(31, 37, 55, 0.08), inset 0 0 0 1px rgba(255, 255, 255, 0.55); }
+.card:hover { transform: translateY(-4px); box-shadow: 0 2px 4px rgba(31, 37, 55, 0.06), 0 18px 40px rgba(31, 37, 55, 0.13), inset 0 0 0 1px rgba(255, 255, 255, 0.55); }
 .card h3 { font-family: 'DM Sans', Arial, sans-serif; margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.4px; text-align: center; }
 .card > p { margin: 6px 0 24px; font-size: 14px; color: var(--ink-2); text-align: center; }
 .maths { background: #cfe4ff; }
@@ -136,7 +136,7 @@
 
 @media (max-width: 980px) {
   .links { display: none; }
-  .rail { grid-auto-flow: column; grid-template-columns: none; grid-auto-columns: minmax(260px, 44%); overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; scrollbar-width: none; }
+  .rail { grid-auto-flow: column; grid-template-columns: none; grid-auto-columns: minmax(260px, 44%); overflow-x: auto; scroll-snap-type: x mandatory; padding: 8px 4px 32px; margin-bottom: -24px; scrollbar-width: none; }
   .rail::-webkit-scrollbar { display: none; }
   .card { scroll-snap-align: start; }
   .arrow { display: grid; }

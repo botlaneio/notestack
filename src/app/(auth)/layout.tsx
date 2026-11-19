@@ -7,9 +7,9 @@ import {products} from '@/lib/catalog';
 export default function AuthLayout({children}: {children: ReactNode}) {
   return <div className="auth-shell">
     <div className="auth-main">
-      <header className="auth-header"><Link href="/" aria-label="NoteStack home"><Brand/></Link><Link href="/" className="auth-back"><ArrowLeft size={14}/><span>Back to store</span></Link></header>
+      <header className="auth-header"><Link href="/" aria-label="NoteStack home"><Brand/></Link><Link href="/shop/" className="auth-back"><ArrowLeft size={14}/><span>Back to store</span></Link></header>
       <main className="auth-content">{children}</main>
-      <footer className="auth-footer"><span>A project by <strong>VEDANT VENTURES</strong></span><Link href="/#faqs">Questions? Start here <span aria-hidden="true">↗</span></Link></footer>
+      <footer className="auth-footer"><span>A project by <strong>VEDANT VENTURES</strong></span><Link href="/shop/#faqs">Questions? Start here <span aria-hidden="true">↗</span></Link></footer>
     </div>
     <aside className="auth-aside" aria-label="The NoteStack core collection">
       <div className="auth-aside-grid"/>

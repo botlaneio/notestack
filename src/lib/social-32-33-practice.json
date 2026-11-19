@@ -23,7 +23,7 @@
         "id": "ss32-task-002",
         "title": "From idea to enterprise",
         "reference": "Exercise I Q2 · p143",
-        "prompt": "What is the process of establishing and developing an enterprise called? Explain your reasoning with a chapter example.",
+        "prompt": "What is the process of establishing and developing an enterprise called?",
         "sample": "Entrepreneurship. The process involves identifying an opportunity, planning, organising resources and managing uncertainty. It can occur in production, services and other forms of organised innovation.",
         "solution": [
           "Entrepreneurship.",
@@ -33,8 +33,7 @@
           "Entrepreneurship."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Entrepreneurship)."
         ]
       },
       {
@@ -313,7 +312,7 @@
         "id": "ss33-task-002",
         "title": "The supplier",
         "reference": "Exercise I Q2 · p149",
-        "prompt": "What is a person or organisation supplying goods or services called in the source? Explain your reasoning with a chapter example.",
+        "prompt": "What is a person or organisation supplying goods or services called in the source?",
         "sample": "Provider. Identify the seller, manufacturer and service provider where their roles differ. Records help establish who supplied what and on which terms.",
         "solution": [
           "Provider.",
@@ -323,8 +322,7 @@
           "Provider."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Provider)."
         ]
       },
       {
@@ -421,7 +419,7 @@
         "id": "ss33-task-008",
         "title": "Two Acts",
         "reference": "Exercise II Q8 · p149",
-        "prompt": "Which year fits the historical Consumer Protection Act question? Explain your reasoning with a chapter example.",
+        "prompt": "Which year fits the historical Consumer Protection Act question?",
         "sample": "1986. The 1986 Act was replaced by the Consumer Protection Act, 2019, with major provisions commencing in July 2020. The CCPA belongs to the later framework. State which version is being discussed.",
         "solution": [
           "1986.",
@@ -431,15 +429,14 @@
           "1986."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1986)."
         ]
       },
       {
         "id": "ss33-task-009",
         "title": "Appointments",
         "reference": "Exercise II Q9 · p149",
-        "prompt": "Who appoints the District Commission President under the relevant framework? Explain your reasoning with a chapter example.",
+        "prompt": "Who appoints the District Commission President under the relevant framework?",
         "sample": "The State Government through the prescribed appointment process. Qualifications, selection and service conditions are governed by the Act and applicable rules. A textbook summary should not substitute for the current appointment provisions.",
         "solution": [
           "The State Government through the prescribed appointment process.",
@@ -449,8 +446,7 @@
           "The State Government through the prescribed appointment process."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "My answer identifies the State Government through the prescribed appointment process."
         ]
       },
       {

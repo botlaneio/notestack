@@ -5,7 +5,7 @@
         "id": "ss21-task-001",
         "title": "Foreign policy’s architect",
         "reference": "Exercise I Q1 · p52",
-        "prompt": "Whom does the chapter call the architect of independent India’s foreign policy? Explain your reasoning with a chapter example.",
+        "prompt": "Whom does the chapter call the architect of independent India’s foreign policy?",
         "sample": "Jawaharlal Nehru. Nehru helped establish early priorities such as peaceful coexistence, anti-colonialism and independent judgement in international affairs. Institutions and later governments also shaped policy.",
         "solution": [
           "Jawaharlal Nehru.",
@@ -15,8 +15,7 @@
           "Jawaharlal Nehru."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Jawaharlal Nehru)."
         ]
       },
       {
@@ -330,7 +329,7 @@
         "id": "ss22-task-001",
         "title": "A new organisation",
         "reference": "Exercise I Q1 · p62",
-        "prompt": "When did the United Nations come into existence? Explain your reasoning with a chapter example.",
+        "prompt": "When did the United Nations come into existence?",
         "sample": "24 October 1945. The Charter entered into force after the Second World War. The 1942 Declaration by United Nations and the 1945 San Francisco conference were earlier stages.",
         "solution": [
           "24 October 1945.",
@@ -340,8 +339,7 @@
           "24 October 1945."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (24 October 1945)."
         ]
       },
       {
@@ -438,7 +436,7 @@
         "id": "ss22-task-007",
         "title": "Secretary-General",
         "reference": "Exercise I Q7 · p62",
-        "prompt": "Who is the UN Secretary-General in the textbook’s current period? Explain your reasoning with a chapter example.",
+        "prompt": "Who is the UN Secretary-General in the textbook’s current period?",
         "sample": "António Guterres. Guterres of Portugal took office in 2017. His second term runs through 2026. The General Assembly appoints the Secretary-General on the Security Council’s recommendation.",
         "solution": [
           "António Guterres.",
@@ -448,15 +446,14 @@
           "António Guterres."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (António Guterres)."
         ]
       },
       {
         "id": "ss22-task-008",
         "title": "World health",
         "reference": "Exercise I Q8 · p62",
-        "prompt": "When was WHO established? Explain your reasoning with a chapter example.",
+        "prompt": "When was WHO established?",
         "sample": "1948. Its Constitution entered into force on 7 April 1948. WHO coordinates health cooperation, standards, disease surveillance and public-health support. Smallpox eradication was certified in 1980.",
         "solution": [
           "1948.",
@@ -466,15 +463,14 @@
           "1948."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1948)."
         ]
       },
       {
         "id": "ss22-task-009",
         "title": "South Asian cooperation",
         "reference": "Exercise I Q9 · p62",
-        "prompt": "When was SAARC established? Explain your reasoning with a chapter example.",
+        "prompt": "When was SAARC established?",
         "sample": "1985. The South Asian Association for Regional Cooperation links Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. Its Secretariat is in Kathmandu.",
         "solution": [
           "1985.",
@@ -484,8 +480,7 @@
           "1985."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1985)."
         ]
       },
       {

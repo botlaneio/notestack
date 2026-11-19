@@ -240,7 +240,7 @@
         "id": "ss18-task-001",
         "title": "A national organisation",
         "reference": "Exercise I Q1 · p26",
-        "prompt": "When was the Indian National Congress founded? Explain your reasoning with a chapter example.",
+        "prompt": "When was the Indian National Congress founded?",
         "sample": "1885. A. O. Hume helped convene the first session in Bombay, presided over by W. C. Bonnerjee. Earlier associations had developed political discussion and representation.",
         "solution": [
           "1885.",
@@ -250,15 +250,14 @@
           "1885."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1885)."
         ]
       },
       {
         "id": "ss18-task-002",
         "title": "Explain the drain",
         "reference": "Exercise I Q2 · p26",
-        "prompt": "Who developed the drain-of-wealth argument? Explain your reasoning with a chapter example.",
+        "prompt": "Who developed the drain-of-wealth argument?",
         "sample": "Dadabhai Naoroji. He argued that salaries, pensions, profits and other transfers carried resources from India to Britain without an equivalent return. Analyse the channels of transfer and their effects on investment and poverty.",
         "solution": [
           "Dadabhai Naoroji.",
@@ -268,15 +267,14 @@
           "Dadabhai Naoroji."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Dadabhai Naoroji)."
         ]
       },
       {
         "id": "ss18-task-003",
         "title": "A call for self-rule",
         "reference": "Exercise I Q3 · p26",
-        "prompt": "Who declared Swaraj is my birthright? Explain your reasoning with a chapter example.",
+        "prompt": "Who declared Swaraj is my birthright?",
         "sample": "Bal Gangadhar Tilak. Tilak used newspapers, public festivals and political organisation to widen nationalist participation. The slogan linked self-rule with a public claim to rights.",
         "solution": [
           "Bal Gangadhar Tilak.",
@@ -286,8 +284,7 @@
           "Bal Gangadhar Tilak."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Bal Gangadhar Tilak)."
         ]
       },
       {
@@ -312,7 +309,7 @@
         "id": "ss18-task-005",
         "title": "The demand for Pakistan",
         "reference": "Exercise I Q5 · p26",
-        "prompt": "Whose separate-nation proposal does the textbook blank expect? Explain your reasoning with a chapter example.",
+        "prompt": "Whose separate-nation proposal does the textbook blank expect?",
         "sample": "Muhammad Ali Jinnah. The Muslim League under Jinnah advanced the Pakistan demand. The movement developed through several stages and participants, including Iqbal’s 1930 address and the 1940 Lahore resolution. Distinguish an early idea from later political negotiation.",
         "solution": [
           "Muhammad Ali Jinnah.",
@@ -322,15 +319,14 @@
           "Muhammad Ali Jinnah."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Muhammad Ali Jinnah)."
         ]
       },
       {
         "id": "ss18-task-006",
         "title": "Complete independence",
         "reference": "Exercise I Q6 · p26",
-        "prompt": "Who presided over the Congress Lahore session of 1929? Explain your reasoning with a chapter example.",
+        "prompt": "Who presided over the Congress Lahore session of 1929?",
         "sample": "Jawaharlal Nehru. The session adopted Purna Swaraj. The subsequent Independence Day observance on 26 January 1930 connected the resolution with public mobilisation.",
         "solution": [
           "Jawaharlal Nehru.",
@@ -340,15 +336,14 @@
           "Jawaharlal Nehru."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Jawaharlal Nehru)."
         ]
       },
       {
         "id": "ss18-task-007",
         "title": "Equal access and citizenship",
         "reference": "Exercise I Q7 · p26",
-        "prompt": "Who led the Mahad tank and Kalaram temple movements? Explain your reasoning with a chapter example.",
+        "prompt": "Who led the Mahad tank and Kalaram temple movements?",
         "sample": "B. R. Ambedkar. The campaigns challenged caste-based denial of water and religious access. Ambedkar’s later constitutional work connected political rights, representation and social equality.",
         "solution": [
           "B. R. Ambedkar.",
@@ -358,15 +353,14 @@
           "B. R. Ambedkar."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (B. R. Ambedkar)."
         ]
       },
       {
         "id": "ss18-task-008",
         "title": "Women in the INA",
         "reference": "Exercise I Q8 · p26",
-        "prompt": "Who led its Rani of Jhansi Regiment? Explain your reasoning with a chapter example.",
+        "prompt": "Who led its Rani of Jhansi Regiment?",
         "sample": "Lakshmi Sahgal. The regiment formed part of Subhas Chandra Bose’s Indian National Army initiative in Southeast Asia. Distinguish its twentieth-century organisation from Lakshmibai’s nineteenth-century resistance.",
         "solution": [
           "Lakshmi Sahgal.",
@@ -376,8 +370,7 @@
           "Lakshmi Sahgal."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Lakshmi Sahgal)."
         ]
       },
       {
@@ -402,7 +395,7 @@
         "id": "ss18-task-010",
         "title": "Quit India",
         "reference": "Exercise I Q10 · p26",
-        "prompt": "When did Congress launch the Quit India movement? Explain your reasoning with a chapter example.",
+        "prompt": "When did Congress launch the Quit India movement?",
         "sample": "1942. The August call demanded an end to British rule. The arrest of major leaders was followed by protests, underground activity and regional resistance.",
         "solution": [
           "1942.",
@@ -412,8 +405,7 @@
           "1942."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1942)."
         ]
       },
       {
@@ -438,7 +430,7 @@
         "id": "ss18-task-012",
         "title": "Political newspapers",
         "reference": "Exercise II Q12 · p27",
-        "prompt": "Who published the Maratha newspaper? Explain your reasoning with a chapter example.",
+        "prompt": "Who published the Maratha newspaper?",
         "sample": "Bal Gangadhar Tilak. Tilak’s English-language Mahratta and Marathi Kesari helped communicate political arguments. Print joined public meetings and festivals in nationalist mobilisation.",
         "solution": [
           "Bal Gangadhar Tilak.",
@@ -448,15 +440,14 @@
           "Bal Gangadhar Tilak."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Bal Gangadhar Tilak)."
         ]
       },
       {
         "id": "ss18-task-013",
         "title": "Council politics",
         "reference": "Exercise II Q13 · p27",
-        "prompt": "When was the Swaraj Party formed? Explain your reasoning with a chapter example.",
+        "prompt": "When was the Swaraj Party formed?",
         "sample": "1923. C. R. Das and Motilal Nehru sought to enter legislative councils and challenge colonial policy from within. This strategy emerged after suspension of Non-Cooperation.",
         "solution": [
           "1923.",
@@ -466,15 +457,14 @@
           "1923."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1923)."
         ]
       },
       {
         "id": "ss18-task-014",
         "title": "Haripura Congress",
         "reference": "Exercise II Q14 · p27",
-        "prompt": "Who presided over the Haripura session? Explain your reasoning with a chapter example.",
+        "prompt": "Who presided over the Haripura session?",
         "sample": "Subhas Chandra Bose. Bose presided in 1938 and won re-election in 1939 at Tripuri. Differences over strategy later led to his resignation and the Forward Bloc.",
         "solution": [
           "Subhas Chandra Bose.",
@@ -484,15 +474,14 @@
           "Subhas Chandra Bose."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Subhas Chandra Bose)."
         ]
       },
       {
         "id": "ss18-task-015",
         "title": "Organising and integration",
         "reference": "Exercise II Q15 · p27",
-        "prompt": "Who is called the Iron Man of India? Explain your reasoning with a chapter example.",
+        "prompt": "Who is called the Iron Man of India?",
         "sample": "Vallabhbhai Patel. Patel organised peasant campaigns including Bardoli and later played a major role in integrating princely states as independent India’s Home Minister.",
         "solution": [
           "Vallabhbhai Patel.",
@@ -502,8 +491,7 @@
           "Vallabhbhai Patel."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Vallabhbhai Patel)."
         ]
       },
       {
@@ -1466,7 +1454,7 @@
         "id": "ss19-task-001",
         "title": "Home Minister",
         "reference": "Exercise I Q1 · p33",
-        "prompt": "Who was independent India’s first Home Minister? Explain your reasoning with a chapter example.",
+        "prompt": "Who was independent India’s first Home Minister?",
         "sample": "Vallabhbhai Patel. Patel worked with V. P. Menon and others on integration of princely states. Negotiation, accession and different responses to particular states shaped the process.",
         "solution": [
           "Vallabhbhai Patel.",
@@ -1476,15 +1464,14 @@
           "Vallabhbhai Patel."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Vallabhbhai Patel)."
         ]
       },
       {
         "id": "ss19-task-002",
         "title": "First President",
         "reference": "Exercise I Q2 · p33",
-        "prompt": "Who became India’s first President? Explain your reasoning with a chapter example.",
+        "prompt": "Who became India’s first President?",
         "sample": "Rajendra Prasad. The Constitution came into effect on 26 January 1950 and India became a republic. Nehru was Prime Minister. These offices had different responsibilities.",
         "solution": [
           "Rajendra Prasad.",
@@ -1494,15 +1481,14 @@
           "Rajendra Prasad."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Rajendra Prasad)."
         ]
       },
       {
         "id": "ss19-task-003",
         "title": "Puducherry’s stages",
         "reference": "Exercise I Q3 · p33",
-        "prompt": "Which year fits the textbook’s Union Territory blank? Explain your reasoning with a chapter example.",
+        "prompt": "Which year fits the textbook’s Union Territory blank?",
         "sample": "1962. French settlements transferred in practice in 1954. Legal transfer followed in 1962 and Union Territory administration developed under subsequent arrangements. Explain which stage a date describes.",
         "solution": [
           "1962.",
@@ -1512,15 +1498,14 @@
           "1962."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1962)."
         ]
       },
       {
         "id": "ss19-task-004",
         "title": "Reorganisation",
         "reference": "Exercise I Q4 · p33",
-        "prompt": "Which year marks the major linguistic reorganisation in the chapter? Explain your reasoning with a chapter example.",
+        "prompt": "Which year marks the major linguistic reorganisation in the chapter?",
         "sample": "1956. The States Reorganisation Act and constitutional changes reshaped State boundaries. Earlier Andhra State formation in 1953 and later reorganisations show that this was a continuing process.",
         "solution": [
           "1956.",
@@ -1530,8 +1515,7 @@
           "1956."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1956)."
         ]
       },
       {
@@ -1792,25 +1776,24 @@
         "id": "ss20-task-001",
         "title": "The first war ends",
         "reference": "Exercise I Q1 · p42",
-        "prompt": "In which year did World War I end? Explain your reasoning with a chapter example.",
+        "prompt": "In which year did World War I end?",
         "sample": "1918. The war began in 1914 and the armistice of November 1918 ended the principal fighting. The post-war treaties came later.",
         "solution": [
           "1918.",
           "The war began in 1914 and the armistice of November 1918 ended the principal fighting. The post-war treaties came later."
         ],
         "hints": [
-          "1918."
+          "Recall the year of the November armistice."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I gave the year the fighting ended in the First World War."
         ]
       },
       {
         "id": "ss20-task-002",
         "title": "Peace terms",
         "reference": "Exercise I Q2 · p42",
-        "prompt": "When was the Treaty of Versailles signed? Explain your reasoning with a chapter example.",
+        "prompt": "When was the Treaty of Versailles signed?",
         "sample": "1919. It imposed terms on Germany after the war. Territorial losses, reparations and political resentment contributed to later tensions alongside other developments.",
         "solution": [
           "1919.",
@@ -1820,15 +1803,14 @@
           "1919."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1919)."
         ]
       },
       {
         "id": "ss20-task-003",
         "title": "Fascism in Italy",
         "reference": "Exercise I Q3 · p42",
-        "prompt": "Who led Italy’s Fascist dictatorship? Explain your reasoning with a chapter example.",
+        "prompt": "Who led Italy’s Fascist dictatorship?",
         "sample": "Benito Mussolini. Fascism promoted authoritarian rule, aggressive nationalism and suppression of opposition. Examine institutions and actions when explaining dictatorship.",
         "solution": [
           "Benito Mussolini.",
@@ -1838,15 +1820,14 @@
           "Benito Mussolini."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Benito Mussolini)."
         ]
       },
       {
         "id": "ss20-task-004",
         "title": "Nazism in Germany",
         "reference": "Exercise I Q4 · p42",
-        "prompt": "Who led the Nazi Party? Explain your reasoning with a chapter example.",
+        "prompt": "Who led the Nazi Party?",
         "sample": "Adolf Hitler. Nazi dictatorship destroyed democratic institutions and pursued racist persecution, expansion and mass murder. Its claims of racial superiority were false and were used to justify genocide.",
         "solution": [
           "Adolf Hitler.",
@@ -1856,15 +1837,14 @@
           "Adolf Hitler."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Adolf Hitler)."
         ]
       },
       {
         "id": "ss20-task-005",
         "title": "The second war begins",
         "reference": "Exercise I Q5 · p42",
-        "prompt": "Which year marks the beginning of World War II in Europe? Explain your reasoning with a chapter example.",
+        "prompt": "Which year marks the beginning of World War II in Europe?",
         "sample": "1939. Germany invaded Poland on 1 September and Britain and France declared war. Fighting in Asia had an earlier history, so identify the geographical convention in the question.",
         "solution": [
           "1939.",
@@ -1874,8 +1854,7 @@
           "1939."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1939)."
         ]
       },
       {

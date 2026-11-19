@@ -312,7 +312,7 @@
         "id": "ss12-task-001",
         "title": "Sediment becomes soil",
         "reference": "Exercise I Q1 · p105",
-        "prompt": "Which soil develops from river deposits? Explain your reasoning with a chapter example.",
+        "prompt": "Which soil develops from river deposits?",
         "sample": "Alluvial soil. Rivers carry sand, silt and clay into plains, valleys and deltas. The Ganga and Brahmaputra plains support crops such as paddy, wheat, sugarcane and jute under suitable conditions.",
         "solution": [
           "Alluvial soil.",
@@ -322,8 +322,7 @@
           "Alluvial soil."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Alluvial soil)."
         ]
       },
       {
@@ -348,7 +347,7 @@
         "id": "ss12-task-003",
         "title": "Dry-region soils",
         "reference": "Exercise I Q3 · p105",
-        "prompt": "Which soil is prominent in western Rajasthan? Explain your reasoning with a chapter example.",
+        "prompt": "Which soil is prominent in western Rajasthan?",
         "sample": "Desert soil. Low rainfall, sparse vegetation and wind deposition favour sandy soils with little organic matter. Irrigation can change cropping possibilities, though drainage and salinity matter.",
         "solution": [
           "Desert soil.",
@@ -358,15 +357,14 @@
           "Desert soil."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Desert soil)."
         ]
       },
       {
         "id": "ss12-task-004",
         "title": "National and peninsular extent",
         "reference": "Exercise I Q4 · p105",
-        "prompt": "Which soil group does the book describe as most extensive across India? Explain your reasoning with a chapter example.",
+        "prompt": "Which soil group does the book describe as most extensive across India?",
         "sample": "Alluvial soil. Alluvial deposits cover the northern plains and many coastal or river lowlands. Red soils are extensive across the peninsula. Read the geographical scope before comparing extent.",
         "solution": [
           "Alluvial soil.",
@@ -376,15 +374,14 @@
           "Alluvial soil."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Alluvial soil)."
         ]
       },
       {
         "id": "ss12-task-005",
         "title": "Red soils",
         "reference": "Exercise I Q5 · p105",
-        "prompt": "Which soil does the source associate with ragi and oilseeds? Explain your reasoning with a chapter example.",
+        "prompt": "Which soil does the source associate with ragi and oilseeds?",
         "sample": "Red soil. Iron compounds give these weathered soils a reddish colour. Across parts of the peninsula, ragi and oilseeds are examples. Irrigation and local fertility can support other crops.",
         "solution": [
           "Red soil.",
@@ -394,8 +391,7 @@
           "Red soil."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Red soil)."
         ]
       },
       {
@@ -601,7 +597,7 @@
         "id": "ss13-task-001",
         "title": "Wet northeastern forests",
         "reference": "Exercise I Q1 · p110",
-        "prompt": "Which forest type does the book associate with wet parts of Assam and Meghalaya? Explain your reasoning with a chapter example.",
+        "prompt": "Which forest type does the book associate with wet parts of Assam and Meghalaya?",
         "sample": "Tropical evergreen forest. High rainfall and humidity support dense, layered vegetation. Trees renew leaves at different times, keeping a green canopy through the year. Wet western slopes and some islands offer other examples.",
         "solution": [
           "Tropical evergreen forest.",
@@ -611,8 +607,7 @@
           "Tropical evergreen forest."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Tropical evergreen forest)."
         ]
       },
       {
@@ -637,7 +632,7 @@
         "id": "ss13-task-003",
         "title": "Forests shaped by tides",
         "reference": "Exercise I Q3 · p110",
-        "prompt": "What is the mangrove region of the lower Ganga–Brahmaputra delta called? Explain your reasoning with a chapter example.",
+        "prompt": "What is the mangrove region of the lower Ganga–Brahmaputra delta called?",
         "sample": "The Sundarbans. Salt-tolerant vegetation grows on tidal mudflats and estuaries. The book links the name to sundari trees. Mangroves also occur in parts of the Mahanadi, Godavari and Krishna deltas.",
         "solution": [
           "The Sundarbans.",
@@ -647,8 +642,7 @@
           "The Sundarbans."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (The Sundarbans)."
         ]
       },
       {

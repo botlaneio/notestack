@@ -3466,8 +3466,8 @@
           "Check the class boundaries, sample space or model assumptions before giving the final answer."
         ],
         "checklist": [
-          "Compare step 1: No. The equally likely elementary outcomes are 36 ordered pairs, not the 11 sum values.",
-          "Compare step 2: Sum 2 has only(1, 1), giving 1/36; sum 7 has 6 ordered pairs, giving 6/36. The sums cannot all have probability 1/11."
+          "I rejected the claim that every sum is equally likely.",
+          "I showed that at least two sums have different probabilities, using valid counts, a table, or another probability argument."
         ],
         "sample": "No. The equally likely elementary outcomes are 36 ordered pairs, not the 11 sum values. Sum 2 has only(1, 1), giving 1/36; sum 7 has 6 ordered pairs, giving 6/36. The sums cannot all have probability 1/11."
       },
@@ -3548,8 +3548,8 @@
           "Check the class boundaries, sample space or model assumptions before giving the final answer."
         ],
         "checklist": [
-          "Compare step 1: Incorrect: HH, HT, TH, TT are 4 equally likely ordered outcomes.",
-          "Compare step 2: The grouped probabilities are 1/4, 1/4, 1/2 respectively, because “one of each” contains both HT and TH. Three event names do not imply equal likelihood."
+          "I recognised that the three groups have unequal probabilities.",
+          "I showed why one head and one tail is twice as likely as two heads or two tails, using ordered outcomes, a tree or another valid argument."
         ],
         "sample": "Incorrect: HH, HT, TH, TT are 4 equally likely ordered outcomes. The grouped probabilities are 1/4, 1/4, 1/2 respectively, because “one of each” contains both HT and TH. Three event names do not imply equal likelihood."
       },
@@ -3567,8 +3567,8 @@
           "Check the class boundaries, sample space or model assumptions before giving the final answer."
         ],
         "checklist": [
-          "Compare step 1: For a fair six-sided die the numerical result 1/2 is correct: odd faces 1, 3, 5 are 3 of 6 equally likely faces.",
-          "Compare step 2: The justification must use those elementary faces. Simply listing odd and even does not by itself establish equal chances for an arbitrary die."
+          "I distinguished the valid probability from the incomplete justification.",
+          "I justified equal probability on a fair die, for example by counting faces or pairing each odd face with an equally likely even face."
         ],
         "sample": "For a fair six-sided die the numerical result 1/2 is correct: odd faces 1, 3, 5 are 3 of 6 equally likely faces. The justification must use those elementary faces. Simply listing odd and even does not by itself establish equal chances for an arbitrary die."
       }

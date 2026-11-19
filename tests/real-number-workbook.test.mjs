@@ -20,7 +20,7 @@ test('source calculation values and safe prime-factor checking',()=>{
 });
 test('proof work is never graded by text matching and needs explicit review',()=>{
  const task=textbookTasks.find(t=>t.id==='ex12-1');const w=blankWork(task);w.draft='This is long enough to be a draft, but it is not a valid proof.';w.submitted=true;
- assert.equal(calculationCorrect(task,w),false);assert.equal(proofReviewed(task,w),false);w.solutionViewed=true;w.checks=w.checks.map(()=>true);assert.equal(proofReviewed(task,w),true);w.draft='short';assert.equal(proofReviewed(task,w),false);
+ assert.equal(calculationCorrect(task,w),false);assert.equal(proofReviewed(task,w),false);w.solutionViewed=true;w.checks=w.checks.map(()=>true);assert.equal(proofReviewed(task,w),true);w.draft='1918';assert.equal(proofReviewed(task,w),true);assert.equal(restoreWork({[task.id]:w},[task])[task.id].submitted,true);w.draft='  ';assert.equal(proofReviewed(task,w),false);assert.equal(restoreWork({[task.id]:w},[task])[task.id].submitted,false);
 });
 test('workbook drafts restore safely and retain per-mode support history',()=>{
  const task=textbookTasks[0],w=blankWork(task);w.answers=['2²*5*7'];w.submitted=true;w.firstCorrect=true;w.hints=1;assert.deepEqual(restoreWork({[task.id]:w},textbookTasks)[task.id],w);

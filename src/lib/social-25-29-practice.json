@@ -95,7 +95,7 @@
         "id": "ss25-task-006",
         "title": "Summer cropping",
         "reference": "Exercise I Q6 · p90",
-        "prompt": "What is the summer season between rabi and kharif commonly called? Explain your reasoning with a chapter example.",
+        "prompt": "What is the summer season between rabi and kharif commonly called?",
         "sample": "Zaid. Irrigation can support short-duration pulses, vegetables, melons and fodder in the hot season. The chapter’s jade spelling refers to this season.",
         "solution": [
           "Zaid.",
@@ -105,8 +105,7 @@
           "Zaid."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Zaid)."
         ]
       },
       {
@@ -469,7 +468,7 @@
         "id": "ss26-task-001",
         "title": "A versatile metal",
         "reference": "Exercise I Q1 · p97",
-        "prompt": "Which metal does the chapter call the wonder metal of the twentieth century? Explain your reasoning with a chapter example.",
+        "prompt": "Which metal does the chapter call the wonder metal of the twentieth century?",
         "sample": "Aluminium. Bauxite is its principal ore. Light weight and useful conductivity make aluminium valuable for transport, electrical goods, packaging and other products.",
         "solution": [
           "Aluminium.",
@@ -479,8 +478,7 @@
           "Aluminium."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Aluminium)."
         ]
       },
       {
@@ -505,7 +503,7 @@
         "id": "ss26-task-003",
         "title": "A Kannada name",
         "reference": "Exercise I Q3 · p97",
-        "prompt": "What is mica called in Kannada in the source? Explain your reasoning with a chapter example.",
+        "prompt": "What is mica called in Kannada in the source?",
         "sample": "Kage bangara. Mica splits into thin sheets and has insulating and heat-resistant properties. A local name and a mineral’s chemical classification serve different purposes.",
         "solution": [
           "Kage bangara.",
@@ -515,8 +513,7 @@
           "Kage bangara."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Kage bangara)."
         ]
       },
       {
@@ -740,7 +737,7 @@
         "id": "ss27-task-001",
         "title": "Bengaluru airport",
         "reference": "Exercise I Q1 · p105",
-        "prompt": "What is Bengaluru’s international airport called? Explain your reasoning with a chapter example.",
+        "prompt": "What is Bengaluru’s international airport called?",
         "sample": "Kempegowda International Airport. Air transport connects distant places quickly. Airport location, access, capacity and routes affect its role in passenger and freight networks.",
         "solution": [
           "Kempegowda International Airport.",
@@ -750,8 +747,7 @@
           "Kempegowda International Airport."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Kempegowda International Airport)."
         ]
       },
       {
@@ -1243,7 +1239,7 @@
         "id": "ss28-task-004",
         "title": "ISRO begins",
         "reference": "Exercise I Q4 · p112",
-        "prompt": "When was ISRO established? Explain your reasoning with a chapter example.",
+        "prompt": "When was ISRO established?",
         "sample": "1969. The Indian Space Research Organisation developed from earlier Indian space initiatives. Its work includes launch vehicles, satellites, scientific missions and space applications.",
         "solution": [
           "1969.",
@@ -1253,8 +1249,7 @@
           "1969."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1969)."
         ]
       },
       {

@@ -9,8 +9,8 @@ test('only valid subject packs are retained and cannot be added twice',()=>{
 });
 test('single subjects and the complete collection use the configured prices',()=>{
  assert.equal(priceBag([]).total,0);
- assert.equal(priceBag(['science']).total,600);
- assert.equal(priceBag(['science','mathematics']).total,1200);
- assert.deepEqual(priceBag(IDS),{count:3,subtotal:1800,total:1500,saving:300});
- assert.equal(priceBag([...IDS,'science']).total,1500);
+ assert.equal(priceBag(['science']).total,399);
+ assert.equal(priceBag(['science','mathematics']).total,798);
+ assert.deepEqual(priceBag(IDS),{count:3,subtotal:1197,total:999,saving:198});
+ assert.equal(priceBag([...IDS,'science']).total,999);
 });

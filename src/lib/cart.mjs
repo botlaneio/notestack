@@ -1,5 +1,5 @@
-export const PRICE=600;
-export const BUNDLE_PRICE=1500;
+export const PRICE=399;
+export const BUNDLE_PRICE=999;
 export const IDS=['mathematics','science','social-science'];
 export function normaliseBag(value){return Array.isArray(value)?IDS.filter(id=>value.includes(id)):[]}
 export function addPack(bag,id){return normaliseBag([...normaliseBag(bag),id])}

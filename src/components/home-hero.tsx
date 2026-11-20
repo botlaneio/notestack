@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import {useEffect, useRef, useState, type ReactNode} from 'react';
-import {BookOpen, Calculator, Check, ChevronDown, ChevronLeft, ChevronRight, FileText, FlaskConical, Globe2, Heart, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, Search, ShoppingBag, X, type LucideIcon} from 'lucide-react';
+import {BookOpen, Calculator, Check, ChevronDown, ChevronLeft, ChevronRight, FileText, FlaskConical, Globe2, Heart, Layers, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, Search, ShoppingBag, X, type LucideIcon} from 'lucide-react';
 import {Brand} from './brand';
 import {AccountLink} from '@/components/auth/account-link';
 import {useSession} from '@/lib/auth-client';
@@ -24,6 +24,7 @@ interface MenuItem {href: string; label: string; free: string; paid: string; ico
 const studyTools: MenuItem[] = [
   {href: '/learn/maths/', label: 'Guided chapters', free: 'Chapter 1 of every subject is free', paid: 'Every chapter, step by step', icon: BookOpen, tone: 'toneBlue'},
   {href: '/learn/maths/real-numbers/practice/', label: 'Practice questions', free: 'Free for chapter 1', paid: 'Board-style questions with answers', icon: PenLine, tone: 'toneGreen'},
+  {href: '/flashcards/', label: 'Flashcards', free: 'One free deck in every subject', paid: 'A deck for every chapter', icon: Layers, tone: 'tonePurple'},
   {href: '/learn/maths/real-numbers/check/', label: 'Chapter checks', free: 'Free for chapter 1', paid: 'See what you know after each chapter', icon: ListChecks, tone: 'toneOrange'},
   {href: '#sample', label: 'Free sample notes', free: 'A PDF for every subject', paid: 'A PDF for every subject', icon: FileText, tone: 'tonePurple'},
 ];
@@ -178,8 +179,8 @@ export function HomeHero({onBrowse}: {onBrowse: () => void}) {
             <div className={styles.option}><b>C</b>Plane mirror</div>
           </div>
         </Link>
-        <Link href="/learn/social-science/" className={`${styles.card} ${styles.revision}`}>
-          <h3>Quick revision</h3><p>Key terms and dates to remember.</p>
+        <Link href="/flashcards/" className={`${styles.card} ${styles.revision}`}>
+          <h3>Quick revision</h3><p>Flashcards for key terms, formulas and dates.</p>
           <div className={styles.panel} aria-hidden="true">
             <small>SOCIAL SCIENCE · HISTORY</small>
             <div className={styles.flash}>Battle of Plassey<span>Tap to see the year</span></div>

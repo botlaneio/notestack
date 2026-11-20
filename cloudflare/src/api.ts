@@ -175,6 +175,13 @@ export async function handleApi(request: Request, env: ApiEnv, options: ApiOptio
     const ok = await auth.recordProgress(user.id, await body(request));
     return ok ? json({ok: true}) : json({code: 'invalid_input'}, 400);
   }
+  if (path === '/api/flashcards' && method === 'GET') {
+    return json({decks: await auth.flashcards(user.id)});
+  }
+  if (path === '/api/flashcards' && method === 'POST') {
+    const result = await auth.saveFlashcards(user.id, await body(request));
+    return result.ok ? json({ok: true, updatedAt: result.updatedAt}) : json({code: 'invalid_input'}, 400);
+  }
 
   // ---------- admin (house account) ----------
   if (path.startsWith('/api/admin/')) {

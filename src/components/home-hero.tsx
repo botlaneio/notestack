@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import {useEffect, useRef, useState, type ReactNode} from 'react';
-import {BookOpen, Calculator, Check, ChevronDown, ChevronLeft, ChevronRight, FileText, FlaskConical, Globe2, Heart, Layers, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, Search, ShoppingBag, X, type LucideIcon} from 'lucide-react';
+import {ArrowUpRight, Layers, BookOpen, Calculator, Check, ChevronDown, FileText, FlaskConical, Globe2, Heart, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, Search, ShoppingBag, X, type LucideIcon} from 'lucide-react';
 import {Brand} from './brand';
 import {AccountLink} from '@/components/auth/account-link';
 import {useSession} from '@/lib/auth-client';
@@ -142,10 +142,7 @@ export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}:
   </header>;
 }
 
-/** Centred headline, one primary action, and a swipeable row of study-mode cards. */
 export function HomeHero({onBrowse}: {onBrowse: () => void}) {
-  const rail = useRef<HTMLDivElement>(null);
-  const scroll = (dir: number) => rail.current?.scrollBy({left: dir * rail.current.clientWidth * 0.6, behavior: 'smooth'});
   return <>
     <section className={styles.hero}>
       <span className={styles.kicker}><span aria-hidden="true"/>Karnataka SSLC · Class 10 · English medium</span>
@@ -158,50 +155,58 @@ export function HomeHero({onBrowse}: {onBrowse: () => void}) {
     </section>
 
     <section className={styles.railWrap} aria-label="Ways to study">
-      <button type="button" className={`${styles.arrow} ${styles.arrowLeft}`} aria-label="Previous" onClick={() => scroll(-1)}><ChevronLeft size={20}/></button>
-      <div className={styles.rail} ref={rail}>
-        <Link href="/learn/maths/" className={`${styles.card} ${styles.maths}`}>
-          <h3>Guided chapters</h3><p>Every idea, one step at a time.</p>
-          <div className={styles.panel} aria-hidden="true">
-            <small>MATHS · CHAPTER 1</small><strong>Real Numbers</strong>
-            <div className={styles.progress}><i/></div>
-            <div className={styles.row}><span>5 of 8 sections</span><span>62%</span></div>
-            <div className={styles.option}><b><Check size={12}/></b>Euclid&apos;s division lemma</div>
-            <div className={styles.option}><b>6</b>Irrational numbers</div>
-          </div>
-        </Link>
-        <Link href="/learn/science/" className={`${styles.card} ${styles.science}`}>
-          <h3>Question practice</h3><p>Board-style questions with answers.</p>
-          <div className={styles.panel} aria-hidden="true">
-            <small>SCIENCE · LIGHT</small><strong>Which mirror forms a virtual, enlarged image?</strong>
-            <div className={styles.option}><b>A</b>Convex mirror</div>
-            <div className={`${styles.option} ${styles.correct}`}><b>B</b>Concave mirror, object inside F</div>
-            <div className={styles.option}><b>C</b>Plane mirror</div>
-          </div>
-        </Link>
-        <Link href="/flashcards/" className={`${styles.card} ${styles.revision}`}>
-          <h3>Quick revision</h3><p>Flashcards for key terms, formulas and dates.</p>
-          <div className={styles.panel} aria-hidden="true">
-            <small>SOCIAL SCIENCE · HISTORY</small>
-            <div className={styles.flash}>Battle of Plassey<span>Tap to see the year</span></div>
-            <div className={styles.row}><span>Card 4 of 20</span><RotateCw size={14}/></div>
-          </div>
-        </Link>
-        <button type="button" onClick={onBrowse} className={`${styles.card} ${styles.social}`}>
-          <h3>Chapter checks</h3><p>See what you know after every chapter.</p>
-          <div className={styles.panel} aria-hidden="true">
-            <small>MATHS · CHAPTER CHECK</small>
-            <div className={styles.score}><div className={styles.ring}><span>78%</span></div><div><strong>Nicely done</strong><div className={styles.row}><span>7 of 9 correct</span></div></div></div>
-            <div className={styles.row}><span>Weakest: Trigonometry</span></div>
-          </div>
-        </button>
+      <div className={styles.rail}>
+        <div className={styles.track}>
+          {[false, true].map(copy => <div key={String(copy)} className={styles.cardGroup} aria-hidden={copy || undefined}>
+            <Link tabIndex={copy ? -1 : undefined} href="/learn/maths/" className={`${styles.card} ${styles.maths}`}>
+              <div className={styles.cardTools} aria-hidden="true"><BookOpen size={23}/><ArrowUpRight size={17}/></div>
+              <h3>Guided chapters</h3><p>Every idea, one step at a time.</p>
+              <div className={styles.panel} aria-hidden="true">
+                <small>MATHS · CHAPTER 1</small><strong>Real Numbers</strong>
+                <div className={styles.progress}><i/></div>
+                <div className={styles.row}><span>5 of 8 sections</span><span>63%</span></div>
+                <div className={styles.option}><b><Check size={12}/></b>Prime factorisation</div>
+                <div className={styles.option}><b>6</b>Irrational numbers</div>
+              </div>
+            </Link>
+            <Link tabIndex={copy ? -1 : undefined} href="/learn/science/" className={`${styles.card} ${styles.science}`}>
+              <div className={styles.cardTools} aria-hidden="true"><PenLine size={23}/><ArrowUpRight size={17}/></div>
+              <h3>Question practice</h3><p>Board-style questions with answers.</p>
+              <div className={styles.panel} aria-hidden="true">
+                <small>SCIENCE · LIGHT</small><strong>Which mirror forms a virtual, enlarged image?</strong>
+                <div className={styles.option}><b>A</b>Convex mirror</div>
+                <div className={`${styles.option} ${styles.correct}`}><b>B</b>Concave mirror, object inside F</div>
+                <div className={styles.option}><b>C</b>Plane mirror</div>
+              </div>
+            </Link>
+            <Link tabIndex={copy ? -1 : undefined} href="/flashcards/" className={`${styles.card} ${styles.revision}`}>
+              <div className={styles.cardTools} aria-hidden="true"><Layers size={23}/><ArrowUpRight size={17}/></div>
+              <h3>Quick revision</h3><p>Flashcards for key terms, formulas and dates.</p>
+              <div className={styles.panel} aria-hidden="true">
+                <small>SOCIAL SCIENCE · HISTORY</small>
+                <div className={styles.flash}>Battle of Plassey<span>1757</span></div>
+                <div className={styles.row}><span>Card 4 of 20</span><RotateCw size={14}/></div>
+              </div>
+            </Link>
+            <button tabIndex={copy ? -1 : undefined} type="button" onClick={onBrowse} className={`${styles.card} ${styles.social}`}>
+              <div className={styles.cardTools} aria-hidden="true"><ListChecks size={23}/><ArrowUpRight size={17}/></div>
+              <h3>Chapter checks</h3><p>See what you know after every chapter.</p>
+              <div className={styles.panel} aria-hidden="true">
+                <small>MATHS · CHAPTER CHECK</small>
+                <div className={styles.score}><div className={styles.ring}><span>78%</span></div><div><strong>Nicely done</strong><div className={styles.row}><span>7 of 9 correct</span></div></div></div>
+                <div className={styles.row}><span>Revisit trigonometry</span></div>
+              </div>
+            </button>
+          </div>)}
+        </div>
       </div>
-      <button type="button" className={`${styles.arrow} ${styles.arrowRight}`} aria-label="Next" onClick={() => scroll(1)}><ChevronRight size={20}/></button>
-      <ul className={styles.strip}>
+      <div className={styles.priceWindow}><div className={styles.priceTrack}>
+        {[false, true].map(copy => <ul key={String(copy)} className={styles.strip} aria-hidden={copy || undefined}>
         <li><Check size={16}/>First chapter of every subject free</li>
         <li><Check size={16}/>₹399 per subject</li>
         <li><Check size={16}/>₹999 for all three</li>
-      </ul>
+        </ul>)}
+      </div></div>
     </section>
   </>;
 }

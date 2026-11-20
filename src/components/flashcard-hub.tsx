@@ -3,7 +3,7 @@
 // the cards themselves live on each chapter's locked page.
 import Link from 'next/link';
 import {useEffect, useMemo, useState} from 'react';
-import {ArrowLeft, Lock} from 'lucide-react';
+import {ArrowLeft, Layers, Lock} from 'lucide-react';
 import {Brand} from './brand';
 import {fetchFlashcards, useSession} from '@/lib/auth-client';
 import type {DeckArea, DeckSummary} from '@/lib/flashcards';
@@ -73,19 +73,26 @@ export function FlashcardHub({decks}: {decks: DeckSummary[]}) {
 
       {groups.map(([name, list]) => <section key={name} className={styles.group} aria-label={name}>
         {groups.length > 1 && <h2>{name}</h2>}
-        <div className={styles.grid}>
+        <div className={styles.grid} data-area={area}>
           {list.map(d => {
             const chapter = chapterOf(d.path);
             const k = Math.min(known[chapter] ?? 0, d.count);
             const open = d.free || ownsArea;
-            return <Link key={d.path} href={d.path} className={styles.deck}>
-              <span className={styles.deckTop}>
-                <span>{d.code ? `APPENDIX ${d.code}` : `CHAPTER ${d.number}`}</span>
-                {d.free ? <span className={styles.free}>FREE</span> : !open && <span className={styles.locked}><Lock size={13}/>Locked</span>}
+            const pct = Math.round(k / d.count * 100);
+            return <Link key={d.path} href={d.path} className={styles.deck} data-locked={!open || undefined}>
+              <span className={styles.sheet}>
+                <span className={styles.deckTop}>
+                  <span className={styles.tile} aria-hidden="true"><b>{d.code ?? d.number}</b></span>
+                  <span className={styles.label}>{d.code ? `APPENDIX ${d.code}` : `CHAPTER ${d.number}`}</span>
+                  {d.free ? <span className={styles.free}>FREE</span> : !open && <span className={styles.locked}><Lock size={13}/>Locked</span>}
+                </span>
+                <h3>{d.title}</h3>
+                <span className={styles.deckFoot}>
+                  <span className={styles.count}><Layers size={14} aria-hidden="true"/>{d.count} cards</span>
+                  {k > 0 && <span className={styles.knownCount}>{k} known <em>{pct}%</em></span>}
+                </span>
+                <span className={styles.mini} aria-hidden="true"><i style={{width: `${pct}%`}}/></span>
               </span>
-              <h3>{d.title}</h3>
-              <span className={styles.deckFoot}><span>{d.count} cards</span>{k > 0 && <span>{k} known</span>}</span>
-              <span className={styles.mini} aria-hidden="true"><i style={{width: `${Math.round(k / d.count * 100)}%`}}/></span>
             </Link>;
           })}
         </div>

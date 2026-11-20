@@ -1,6 +1,6 @@
 # NoteStack validation
 - Business rules: invalid/duplicate bag entries removed; digital packs added once; one pack ₹600, two ₹1200, all three ₹1500 with ₹300 saving.
-- React server render: three cards, three hero covers, NoteStack/Vedant Ventures branding, no FMPL product copy, valid navigation anchors.
+- React server render: three cards, three hero covers, NoteStack/Vedanta Ventures branding, no FMPL product copy, valid navigation anchors.
 - Original SVG concept cover assets parse; local samples exist as PDFs; practice answers are in range.
 - Original sample notes cover quadratic equations, acids/bases and soils. Illustrative; teacher/final syllabus review pending. Sample downloads are free, not full packs.
 - Browser visual and interactive checks: unavailable, CUA error `the gaas-browser node_repl sandbox cannot be disabled`. Managed preview previously failed with relay-readiness timeout; no unsupported alternative preview route used.

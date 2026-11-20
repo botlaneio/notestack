@@ -1,5 +1,5 @@
 # NoteStack
-The frontend for NoteStack, a Vedant Ventures study-material store for English-medium Karnataka SSLC Class 10 Mathematics, Science and Social Science.
+The frontend for NoteStack, a Vedanta Ventures study-material store for English-medium Karnataka SSLC Class 10 Mathematics, Science and Social Science.
 
 ## Stack
 - Next.js 16.4.6, App Router, React 19

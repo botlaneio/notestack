@@ -2025,246 +2025,234 @@
         "id": "sc11-090",
         "reference": "Figure 11.1",
         "title": "Simple circuit",
-        "prompt": "Trace conventional current in Figure 11.1, starting at the positive cell terminal. Where does it enter the ammeter, and what happens if the key opens?",
+        "prompt": "Trace the path when the key is closed. What changes when it opens?",
         "solution": [
-          "From the long positive plate, follow the wire up the left side, through the bulb and into the positive side of the series ammeter.",
-          "Continue through the closed key to the short negative plate. Opening the key breaks the loop, so the ammeter reads zero and the bulb goes out."
+          "Conventional current travels from the positive terminal through the external circuit to the negative terminal.",
+          "Opening the key breaks the path and stops steady current."
         ],
         "hints": [
-          "Find the longer plate and trace the arrows around the external circuit."
+          "Conventional current travels from the positive terminal through the external circuit to the negative terminal."
         ],
-        "sample": "From the long positive plate, follow the wire up the left side, through the bulb and into the positive side of the series ammeter. Continue through the closed key to the short negative plate. Opening the key breaks the loop, so the ammeter reads zero and the bulb goes out.",
+        "sample": "Conventional current travels from the positive terminal through the external circuit to the negative terminal. Opening the key breaks the path and stops steady current.",
         "checklist": [
-          "I traced a single complete path through the bulb, ammeter and key.",
-          "I explained the effect of opening the key."
+          "Conventional current travels from the positive terminal through the external circuit to the negative terminal.",
+          "Opening the key breaks the path and stops steady current."
         ]
       },
       {
         "id": "sc11-091",
         "reference": "Figure 11.2",
         "title": "Ohm-law meters",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Ohm-law meters.",
+        "prompt": "Where are the meters connected to measure the resistance of the wire?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The ammeter is in series so the wire current passes through it.",
+          "The voltmeter is across the wire so it measures the potential difference between its ends."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "The ammeter is in series so the wire current passes through it."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "The ammeter is in series so the wire current passes through it. The voltmeter is across the wire so it measures the potential difference between its ends.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The ammeter is in series so the wire current passes through it.",
+          "The voltmeter is across the wire so it measures the potential difference between its ends."
         ]
       },
       {
         "id": "sc11-092",
         "reference": "Figure 11.3",
         "title": "V–I graph",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: V–I graph.",
+        "prompt": "Label the axes of the nichrome-wire graph. What does its shape tell you, and what physical quantity does its slope give?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Current I in amperes is horizontal and potential difference V in volts is vertical.",
+          "The straight line passes through the origin. At constant temperature V is proportional to I, and the slope ΔV/ΔI gives the resistance in ohms."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Read the units on each axis before forming rise divided by run."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Current I in amperes is horizontal and potential difference V in volts is vertical. The straight line passes through the origin. At constant temperature V is proportional to I, and the slope ΔV/ΔI gives the resistance in ohms.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "I labelled both axes with quantities and units.",
+          "I linked the line through the origin to direct proportionality and identified resistance from the slope."
         ]
       },
       {
         "id": "sc11-093",
         "reference": "Figure 11.4",
         "title": "Component comparison",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Component comparison.",
+        "prompt": "How can the circuit compare different components fairly?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Connect one test component at a time in the gap, with the ammeter in series.",
+          "Compare currents at the same potential difference. A smaller current means a larger resistance at that operating point."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Connect one test component at a time in the gap, with the ammeter in series."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Connect one test component at a time in the gap, with the ammeter in series. Compare currents at the same potential difference. A smaller current means a larger resistance at that operating point.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Connect one test component at a time in the gap, with the ammeter in series.",
+          "Compare currents at the same potential difference. A smaller current means a larger resistance at that operating point."
         ]
       },
       {
         "id": "sc11-094",
         "reference": "Figure 11.5",
         "title": "Wire geometry",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Wire geometry.",
+        "prompt": "How can the wire comparison isolate the effect of length?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Compare wires of the same material and cross-sectional area at the same temperature and applied voltage.",
+          "A longer wire has greater resistance and therefore carries less current."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Compare wires of the same material and cross-sectional area at the same temperature and applied voltage."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Compare wires of the same material and cross-sectional area at the same temperature and applied voltage. A longer wire has greater resistance and therefore carries less current.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Compare wires of the same material and cross-sectional area at the same temperature and applied voltage.",
+          "A longer wire has greater resistance and therefore carries less current."
         ]
       },
       {
         "id": "sc11-095",
         "reference": "Figure 11.6",
         "title": "Series resistors",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Series resistors.",
+        "prompt": "Trace current through the three series resistors.",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "There is one path, so the current through each resistor is the same.",
+          "The voltage drops add and the equivalent resistance is R₁ + R₂ + R₃."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "There is one path, so the current through each resistor is the same."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "There is one path, so the current through each resistor is the same. The voltage drops add and the equivalent resistance is R₁ + R₂ + R₃.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "There is one path, so the current through each resistor is the same.",
+          "The voltage drops add and the equivalent resistance is R₁ + R₂ + R₃."
         ]
       },
       {
         "id": "sc11-096",
         "reference": "Figure 11.7",
         "title": "Parallel resistors",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Parallel resistors.",
+        "prompt": "Identify the two common junctions. Which quantity is shared by the parallel branches?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Each branch connects to the same pair of junctions, so all branches have the same potential difference.",
+          "The total current is the sum of the branch currents."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Each branch connects to the same pair of junctions, so all branches have the same potential difference."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Each branch connects to the same pair of junctions, so all branches have the same potential difference. The total current is the sum of the branch currents.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Each branch connects to the same pair of junctions, so all branches have the same potential difference.",
+          "The total current is the sum of the branch currents."
         ]
       },
       {
         "id": "sc11-097",
         "reference": "Figure 11.8",
         "title": "Series drops",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Series drops.",
+        "prompt": "How do the voltage drops compare with the voltage across the complete series combination?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "A voltmeter across one resistor reads its individual drop.",
+          "Adding the three drops gives the potential difference across the series combination."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "A voltmeter across one resistor reads its individual drop."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "A voltmeter across one resistor reads its individual drop. Adding the three drops gives the potential difference across the series combination.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "A voltmeter across one resistor reads its individual drop.",
+          "Adding the three drops gives the potential difference across the series combination."
         ]
       },
       {
         "id": "sc11-098",
         "reference": "Figure 11.9",
         "title": "20 Ω lamp plus4 Ω",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: 20 Ω lamp plus4 Ω.",
+        "prompt": "Calculate the current and voltage drops for the 20 Ω lamp and 4 Ω resistor in series across 6 V.",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The total resistance is 24 Ω, so the shared current is 6/24 = 0.25 A.",
+          "The lamp drop is 0.25 × 20 = 5 V and the resistor drop is 0.25 × 4 = 1 V."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "The total resistance is 24 Ω, so the shared current is 6/24 = 0.25 A."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "The total resistance is 24 Ω, so the shared current is 6/24 = 0.25 A. The lamp drop is 0.25 × 20 = 5 V and the resistor drop is 0.25 × 4 = 1 V.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The total resistance is 24 Ω, so the shared current is 6/24 = 0.25 A.",
+          "The lamp drop is 0.25 × 20 = 5 V and the resistor drop is 0.25 × 4 = 1 V."
         ]
       },
       {
         "id": "sc11-099",
         "reference": "Figure 11.10",
         "title": "Parallel total current",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Parallel total current.",
+        "prompt": "Where should the ammeter go to read the total current in the parallel network?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Place it in the common path before the split or after the branches rejoin.",
+          "It reads the sum of all branch currents."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Place it in the common path before the split or after the branches rejoin."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Place it in the common path before the split or after the branches rejoin. It reads the sum of all branch currents.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Place it in the common path before the split or after the branches rejoin.",
+          "It reads the sum of all branch currents."
         ]
       },
       {
         "id": "sc11-100",
         "reference": "Figure 11.11",
         "title": "Parallel branch current",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Parallel branch current.",
+        "prompt": "How would you measure the current in just one branch?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Put the ammeter in series within the chosen branch.",
+          "It then measures only that branch current. The total is found by adding the currents from all branches."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Put the ammeter in series within the chosen branch."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Put the ammeter in series within the chosen branch. It then measures only that branch current. The total is found by adding the currents from all branches.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Put the ammeter in series within the chosen branch.",
+          "It then measures only that branch current. The total is found by adding the currents from all branches."
         ]
       },
       {
         "id": "sc11-101",
         "reference": "Figure 11.12",
         "title": "Mixed parallel groups",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Mixed parallel groups.",
+        "prompt": "How would you reduce the mixed network to one equivalent resistance?",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Identify resistors whose two ends connect to the same two nodes and combine each parallel group using reciprocal resistances.",
+          "Add the equivalent resistances of groups connected end to end without another branch between them."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Identify resistors whose two ends connect to the same two nodes and combine each parallel group using reciprocal resistances."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Identify resistors whose two ends connect to the same two nodes and combine each parallel group using reciprocal resistances. Add the equivalent resistances of groups connected end to end without another branch between them.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Identify resistors whose two ends connect to the same two nodes and combine each parallel group using reciprocal resistances.",
+          "Add the equivalent resistances of groups connected end to end without another branch between them."
         ]
       },
       {
         "id": "sc11-102",
         "reference": "Figure 11.13",
         "title": "Heating circuit",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Heating circuit.",
+        "prompt": "Explain how the current in the resistor produces heat.",
         "solution": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Electrical energy is transferred to the resistor as charges move through a potential difference.",
+          "For a steady current the energy dissipated over time t is VIt, equivalently I²Rt."
         ],
         "hints": [
-          "Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Electrical energy is transferred to the resistor as charges move through a potential difference."
         ],
-        "sample": "Symbols describe connections, not the physical shapes or positions of apparatus. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Electrical energy is transferred to the resistor as charges move through a potential difference. For a steady current the energy dissipated over time t is VIt, equivalently I²Rt.",
         "checklist": [
-          "I explained: Symbols describe connections, not the physical shapes or positions of apparatus.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Electrical energy is transferred to the resistor as charges move through a potential difference.",
+          "For a steady current the energy dissipated over time t is VIt, equivalently I²Rt."
         ]
       }
     ],
@@ -3149,285 +3137,270 @@
         "id": "sc12-047",
         "reference": "Figure 12.1",
         "title": "Wire/compass",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Wire/compass.",
+        "prompt": "Predict the compass response near the wire when current starts and when it reverses.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Current produces a magnetic field around the wire, so the nearby compass turns toward the resultant field.",
+          "Reversing the current reverses the wire’s contribution and reverses the sense of deflection from the original compass direction."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Current produces a magnetic field around the wire, so the nearby compass turns toward the resultant field."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Current produces a magnetic field around the wire, so the nearby compass turns toward the resultant field. Reversing the current reverses the wire’s contribution and reverses the sense of deflection from the original compass direction.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Current produces a magnetic field around the wire, so the nearby compass turns toward the resultant field.",
+          "Reversing the current reverses the wire’s contribution and reverses the sense of deflection from the original compass direction."
         ]
       },
       {
         "id": "sc12-048",
         "reference": "Figure 12.2",
         "title": "Filings map",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Filings map.",
+        "prompt": "What does the filings pattern reveal, and how could you determine the direction?",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The filings align along the local magnetic field and show its pattern around the magnet.",
+          "Use the north-seeking end of a compass to assign directions to the lines."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "The filings align along the local magnetic field and show its pattern around the magnet."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "The filings align along the local magnetic field and show its pattern around the magnet. Use the north-seeking end of a compass to assign directions to the lines.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The filings align along the local magnetic field and show its pattern around the magnet.",
+          "Use the north-seeking end of a compass to assign directions to the lines."
         ]
       },
       {
         "id": "sc12-049",
         "reference": "Figure 12.3",
         "title": "Compass tracing",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Compass tracing.",
+        "prompt": "Explain how successive compass placements trace a field line.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Mark the position of the compass north end, then move the south end to that mark.",
+          "Repeat and join the marks smoothly. The north end indicates the local field direction."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Mark the position of the compass north end, then move the south end to that mark."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Mark the position of the compass north end, then move the south end to that mark. Repeat and join the marks smoothly. The north end indicates the local field direction.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Mark the position of the compass north end, then move the south end to that mark.",
+          "Repeat and join the marks smoothly. The north end indicates the local field direction."
         ]
       },
       {
         "id": "sc12-050",
         "reference": "Figure 12.4",
         "title": "Closed field lines",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Closed field lines.",
+        "prompt": "Trace a complete field line for a bar magnet.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Outside the magnet a line goes from the north pole to the south pole.",
+          "It continues inside from south to north, forming a closed curve."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Outside the magnet a line goes from the north pole to the south pole."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Outside the magnet a line goes from the north pole to the south pole. It continues inside from south to north, forming a closed curve.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Outside the magnet a line goes from the north pole to the south pole.",
+          "It continues inside from south to north, forming a closed curve."
         ]
       },
       {
         "id": "sc12-051",
         "reference": "Figure 12.5",
         "title": "Reverse current",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Reverse current.",
+        "prompt": "How does reversing current in the wire affect the compass at the same point?",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Reversing the current reverses the field produced by the wire.",
+          "The compass deflects to the opposite side of its initial direction."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Reversing the current reverses the field produced by the wire."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Reversing the current reverses the field produced by the wire. The compass deflects to the opposite side of its initial direction.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Reversing the current reverses the field produced by the wire.",
+          "The compass deflects to the opposite side of its initial direction."
         ]
       },
       {
         "id": "sc12-052",
         "reference": "Figure 12.6",
         "title": "Straight-wire field",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Straight-wire field.",
+        "prompt": "Describe the field around a straight current-carrying wire.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Field lines are circles centred on the wire in planes perpendicular to it.",
+          "At a fixed current the field is stronger nearer the wire."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Field lines are circles centred on the wire in planes perpendicular to it."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Field lines are circles centred on the wire in planes perpendicular to it. At a fixed current the field is stronger nearer the wire.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Field lines are circles centred on the wire in planes perpendicular to it.",
+          "At a fixed current the field is stronger nearer the wire."
         ]
       },
       {
         "id": "sc12-053",
         "reference": "Figure 12.7",
         "title": "Right-hand thumb rule",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Right-hand thumb rule.",
+        "prompt": "Use your right hand to relate current direction to field direction.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Point the right thumb along conventional current.",
+          "The curled fingers give the direction of the circular magnetic field."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Point the right thumb along conventional current."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Point the right thumb along conventional current. The curled fingers give the direction of the circular magnetic field.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Point the right thumb along conventional current.",
+          "The curled fingers give the direction of the circular magnetic field."
         ]
       },
       {
         "id": "sc12-054",
         "reference": "Figure 12.8",
         "title": "Circular loop",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Circular loop.",
+        "prompt": "How do the contributions from opposite sides of a circular loop combine at its centre?",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Apply the right-hand rule to the current at each side of the loop.",
+          "At the centre both contributions point the same way perpendicular to the loop and add."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Apply the right-hand rule to the current at each side of the loop."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Apply the right-hand rule to the current at each side of the loop. At the centre both contributions point the same way perpendicular to the loop and add.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Apply the right-hand rule to the current at each side of the loop.",
+          "At the centre both contributions point the same way perpendicular to the loop and add."
         ]
       },
       {
         "id": "sc12-055",
         "reference": "Figure 12.9",
         "title": "Coil field pattern",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Coil field pattern.",
+        "prompt": "Describe the field pattern near a loop wire and near the centre of the coil.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Near each wire the lines curve around the conductor.",
+          "Near the centre the lines are straighter and point along the coil axis."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Near each wire the lines curve around the conductor."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Near each wire the lines curve around the conductor. Near the centre the lines are straighter and point along the coil axis.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Near each wire the lines curve around the conductor.",
+          "Near the centre the lines are straighter and point along the coil axis."
         ]
       },
       {
         "id": "sc12-056",
         "reference": "Figure 12.10",
         "title": "Solenoid",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Solenoid.",
+        "prompt": "What do the lines inside and outside a current-carrying solenoid indicate?",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Nearly parallel, evenly spaced lines in its central region indicate an approximately uniform field.",
+          "Outside, the pattern resembles that of a bar magnet with a north and a south end."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Nearly parallel, evenly spaced lines in its central region indicate an approximately uniform field."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Nearly parallel, evenly spaced lines in its central region indicate an approximately uniform field. Outside, the pattern resembles that of a bar magnet with a north and a south end.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Nearly parallel, evenly spaced lines in its central region indicate an approximately uniform field.",
+          "Outside, the pattern resembles that of a bar magnet with a north and a south end."
         ]
       },
       {
         "id": "sc12-057",
         "reference": "Figure 12.11",
         "title": "Core magnetisation",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Core magnetisation.",
+        "prompt": "Explain how a current-carrying coil can magnetise its core.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Current in the coil produces a magnetic field along the core.",
+          "The core becomes magnetised in that field. The amount of magnetisation retained after switching off depends on the material."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Current in the coil produces a magnetic field along the core."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Current in the coil produces a magnetic field along the core. The core becomes magnetised in that field. The amount of magnetisation retained after switching off depends on the material.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Current in the coil produces a magnetic field along the core.",
+          "The core becomes magnetised in that field. The amount of magnetisation retained after switching off depends on the material."
         ]
       },
       {
         "id": "sc12-058",
         "reference": "Figure 12.12",
         "title": "Rod force",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Rod force.",
+        "prompt": "What happens to the force on the rod if only the current or only the field reverses?",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The force is perpendicular to the current and the magnetic field.",
+          "Reversing either one alone reverses the force. Reversing both preserves its direction."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "The force is perpendicular to the current and the magnetic field."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "The force is perpendicular to the current and the magnetic field. Reversing either one alone reverses the force. Reversing both preserves its direction.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "The force is perpendicular to the current and the magnetic field.",
+          "Reversing either one alone reverses the force. Reversing both preserves its direction."
         ]
       },
       {
         "id": "sc12-059",
         "reference": "Figure 12.13",
         "title": "Fleming’s left-hand rule",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Fleming’s left-hand rule.",
+        "prompt": "Identify what each digit represents in Fleming’s left-hand rule.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Hold the thumb, first finger and middle finger of the left hand mutually perpendicular.",
+          "The first finger indicates magnetic field, the middle finger conventional current and the thumb force."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Hold the thumb, first finger and middle finger of the left hand mutually perpendicular."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Hold the thumb, first finger and middle finger of the left hand mutually perpendicular. The first finger indicates magnetic field, the middle finger conventional current and the thumb force.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Hold the thumb, first finger and middle finger of the left hand mutually perpendicular.",
+          "The first finger indicates magnetic field, the middle finger conventional current and the thumb force."
         ]
       },
       {
         "id": "sc12-060",
         "reference": "Figure 12.14",
         "title": "Electron page force",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Electron page force.",
+        "prompt": "In the printed figure an electron travels down the page through a magnetic field pointing right. Which way does the magnetic force act? Explain the direction.",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "For a positive charge, downward velocity crossed with a rightward field points out of the page.",
+          "The electron has negative charge, so its force points into the page. Equivalently, use upward conventional current with Fleming’s left-hand rule."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Check whether your direction rule uses positive charge or electron motion."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "For a positive charge, downward velocity crossed with a rightward field points out of the page. The electron has negative charge, so its force points into the page. Equivalently, use upward conventional current with Fleming’s left-hand rule.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "I identified the force as pointing into the page.",
+          "I accounted for the negative charge, either by reversing the positive-charge force or by using conventional current."
         ]
       },
       {
         "id": "sc12-061",
         "reference": "Figure 12.15",
         "title": "Domestic schematic",
-        "prompt": "Draw or interpret the labelled source figure and its connections/directions: Domestic schematic.",
+        "prompt": "Why are appliances on parallel branches, and what is the purpose of protective earth?",
         "solution": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Parallel branches give each appliance the supply voltage and allow independent switching.",
+          "Protective earth provides a low-resistance fault path for exposed metal parts so a protective device can disconnect the supply."
         ],
         "hints": [
-          "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "State the connection or viewing convention, convert units and distinguish what changes from what stays fixed."
+          "Parallel branches give each appliance the supply voltage and allow independent switching."
         ],
-        "sample": "Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole. State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions.",
+        "sample": "Parallel branches give each appliance the supply voltage and allow independent switching. Protective earth provides a low-resistance fault path for exposed metal parts so a protective device can disconnect the supply.",
         "checklist": [
-          "I explained: Field direction is the orientation a small compass north end takes, or the force direction on a hypothetical test north pole.",
-          "I explained: State component labels or viewing axes; distinguish a schematic/prediction from measurements. These are not physical assembly or mains-installation instructions."
+          "Parallel branches give each appliance the supply voltage and allow independent switching.",
+          "Protective earth provides a low-resistance fault path for exposed metal parts so a protective device can disconnect the supply."
         ]
       }
     ]

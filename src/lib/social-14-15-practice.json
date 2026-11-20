@@ -511,7 +511,7 @@
         "id": "ss15-task-004",
         "title": "Two scientific contributions",
         "reference": "Exercise I Q4 · p128",
-        "prompt": "Who pioneered the high-yielding wheat research behind the Green Revolution internationally? Explain your reasoning with a chapter example.",
+        "prompt": "Who pioneered the high-yielding wheat research behind the Green Revolution internationally?",
         "sample": "Norman Borlaug. Borlaug’s wheat research in Mexico contributed to international crop improvement. M. S. Swaminathan helped adapt and advance the approach in India and is called the father of India’s Green Revolution. Specify which role the question asks about.",
         "solution": [
           "Norman Borlaug.",
@@ -521,8 +521,7 @@
           "Norman Borlaug."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Norman Borlaug)."
         ]
       },
       {
@@ -547,7 +546,7 @@
         "id": "ss15-task-006",
         "title": "A change of institution",
         "reference": "Exercise I Q6 · p128",
-        "prompt": "When was NITI Aayog established? Explain your reasoning with a chapter example.",
+        "prompt": "When was NITI Aayog established?",
         "sample": "1 January 2015. The National Institution for Transforming India replaced the Planning Commission. Its work includes advice, cooperation with States, monitoring and innovation.",
         "solution": [
           "1 January 2015.",
@@ -557,8 +556,7 @@
           "1 January 2015."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (1 January 2015)."
         ]
       },
       {
@@ -583,7 +581,7 @@
         "id": "ss15-task-008",
         "title": "The planning pioneer",
         "reference": "Exercise II Q8 · p128",
-        "prompt": "Whose 1934 book advocated a planned Indian economy? Explain your reasoning with a chapter example.",
+        "prompt": "Whose 1934 book advocated a planned Indian economy?",
         "sample": "Sir M. Visvesvaraya. His book Planned Economy for India made the case for systematic development. The textbook calls him the father of Indian economic planning.",
         "solution": [
           "Sir M. Visvesvaraya.",
@@ -593,8 +591,7 @@
           "Sir M. Visvesvaraya."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Sir M. Visvesvaraya)."
         ]
       },
       {

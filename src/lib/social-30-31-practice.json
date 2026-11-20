@@ -5,7 +5,7 @@
         "id": "ss30-task-001",
         "title": "Villages and development",
         "reference": "Exercise I Q1 · p127",
-        "prompt": "Whom does the chapter associate with the statement that India’s development depends on its villages? Explain your reasoning with a chapter example.",
+        "prompt": "Whom does the chapter associate with the statement that India’s development depends on its villages?",
         "sample": "Mahatma Gandhi. The chapter connects rural progress with the welfare of the country. Its 68.84% rural-population figure refers to Census 2011 and should retain that reference year.",
         "solution": [
           "Mahatma Gandhi.",
@@ -15,8 +15,7 @@
           "Mahatma Gandhi."
         ],
         "checklist": [
-          "I identified the relevant place, process or category.",
-          "I explained the connection using the example in the model."
+          "I identified the answer requested in the question (Mahatma Gandhi)."
         ]
       },
       {

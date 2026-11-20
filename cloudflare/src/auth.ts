@@ -34,6 +34,7 @@ export const VERIFY_LINK_HOURS = 48;
 export const MAX_VERIFY_EMAILS_PER_HOUR = 3;
 /** Chapters a student can track; more than this is ignored so the table cannot be flooded. */
 export const MAX_PROGRESS_ROWS = 400;
+export const MAX_DECK_CARDS = 300;
 /** Lesson URLs: /learn/<area>/<chapter>/… The area maps to the subject pack that unlocks it. */
 export const LEARN_AREAS: Record<string, string> = {maths: 'mathematics', science: 'science', 'social-science': 'social-science'};
 /** The first chapter of each subject stays open to everyone as a free preview. */
@@ -122,6 +123,15 @@ export const SCHEMA = [
     first_seen_at INTEGER NOT NULL,
     last_seen_at INTEGER NOT NULL,
     completed_at INTEGER,
+    PRIMARY KEY (user_id, path)
+  )`,
+  // Flashcard ratings, one row per chapter deck: card ids the student knows or is still learning.
+  `CREATE TABLE IF NOT EXISTS flashcard_progress (
+    user_id TEXT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    path TEXT NOT NULL,
+    known TEXT NOT NULL,
+    learning TEXT NOT NULL,
+    updated_at INTEGER NOT NULL,
     PRIMARY KEY (user_id, path)
   )`,
 ];
@@ -233,6 +243,7 @@ export interface AdminUser extends PublicUser {
   chaptersDone: number;
   lastSeenAt: number | null;
 }
+export interface FlashcardProgress {path: string; known: string[]; learning: string[]; updatedAt: number}
 export interface ProgressEntry {path: string; subject: string; title: string | null; lastSeenAt: number; completedAt: number | null}
 
 /** Parses a comma-separated list of admin emails, such as the ADMIN_EMAILS setting. */
@@ -494,6 +505,35 @@ export class AuthService {
     const rows = await this.db.prepare('SELECT path, subject, title, last_seen_at, completed_at FROM progress WHERE user_id = ? ORDER BY last_seen_at DESC LIMIT ?')
       .bind(userId, MAX_PROGRESS_ROWS).all<{path: string; subject: string; title: string | null; last_seen_at: number; completed_at: number | null}>();
     return (rows.results ?? []).map(r => ({path: r.path, subject: r.subject, title: r.title, lastSeenAt: r.last_seen_at, completedAt: r.completed_at}));
+  }
+
+  // ---------- flashcards ----------
+
+  /** Saves which cards of one chapter's deck a student knows and is still learning. */
+  async saveFlashcards(userId: string, input: {path?: unknown; known?: unknown; learning?: unknown}): Promise<{ok: true; updatedAt: number} | {ok: false}> {
+    const lesson = lessonPath(typeof input.path === 'string' ? input.path : '');
+    if (!lesson || !/^[a-z0-9-]{1,100}$/.test(lesson.chapter)) return {ok: false};
+    const ids = (value: unknown) => Array.isArray(value) && value.length <= MAX_DECK_CARDS && value.every(id => typeof id === 'string' && /^[a-z0-9-]{1,80}$/.test(id)) ? [...new Set(value as string[])] : null;
+    const known = ids(input.known ?? []), learning = ids(input.learning ?? []);
+    if (!known || !learning) return {ok: false};
+    const learningOnly = learning.filter(id => !known.includes(id));
+    const existing = await this.db.prepare('SELECT 1 AS x FROM flashcard_progress WHERE user_id = ? AND path = ?').bind(userId, lesson.path).first();
+    if (!existing) {
+      const count = await this.db.prepare('SELECT COUNT(*) AS n FROM flashcard_progress WHERE user_id = ?').bind(userId).first<{n: number}>();
+      if ((count?.n ?? 0) >= MAX_PROGRESS_ROWS) return {ok: false};
+    }
+    const now = this.now();
+    await this.db.prepare(`INSERT INTO flashcard_progress (user_id, path, known, learning, updated_at) VALUES (?, ?, ?, ?, ?)
+      ON CONFLICT (user_id, path) DO UPDATE SET known = excluded.known, learning = excluded.learning, updated_at = excluded.updated_at`)
+      .bind(userId, lesson.path, JSON.stringify(known), JSON.stringify(learningOnly), now).run();
+    return {ok: true, updatedAt: now};
+  }
+
+  async flashcards(userId: string): Promise<FlashcardProgress[]> {
+    const rows = await this.db.prepare('SELECT path, known, learning, updated_at FROM flashcard_progress WHERE user_id = ? ORDER BY updated_at DESC LIMIT ?')
+      .bind(userId, MAX_PROGRESS_ROWS).all<{path: string; known: string; learning: string; updated_at: number}>();
+    const parse = (text: string): string[] => {try {const v = JSON.parse(text); return Array.isArray(v) ? v.filter(x => typeof x === 'string') : [];} catch {return [];}};
+    return (rows.results ?? []).map(r => ({path: r.path, known: parse(r.known), learning: parse(r.learning), updatedAt: r.updated_at}));
   }
 
   /** Whether this user may open a lesson in the given subject. */

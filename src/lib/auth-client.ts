@@ -144,3 +144,24 @@ export function safeNext(value: string | null | undefined): string {
   if (!value || !value.startsWith('/') || value.startsWith('//') || value.startsWith('/\\')) return '/account/';
   return value;
 }
+
+// ---------- flashcards ----------
+export interface DeckProgress {path: string; known: string[]; learning: string[]; updatedAt: number}
+/** Every deck's ratings for the signed-in student, or null when signed out or offline. */
+export async function fetchFlashcards(): Promise<DeckProgress[] | null> {
+  try {
+    const {status, data} = await request('/api/flashcards');
+    return status === 200 ? (data.decks as DeckProgress[]) ?? [] : null;
+  } catch {
+    return null;
+  }
+}
+/** Saves one deck's ratings to the account. Quiet: it does not refresh the page's session. */
+export async function saveFlashcards(path: string, known: string[], learning: string[]): Promise<boolean> {
+  try {
+    const res = await fetch('/api/flashcards', {method: 'POST', credentials: 'same-origin', keepalive: true, headers: {'content-type': 'application/json'}, body: JSON.stringify({path, known, learning})});
+    return res.status === 200;
+  } catch {
+    return false;
+  }
+}

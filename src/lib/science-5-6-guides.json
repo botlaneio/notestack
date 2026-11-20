@@ -740,7 +740,7 @@
         "Use controlled evidence and distinguish structures from their functions."
       ]
     ],
-    "challenge": "Compare alveolar gas exchange with nephron filtration and reabsorption. Complete the source activities and exercises, then have a teacher verify your written explanations."
+    "challenge": "Compare alveolar gas exchange with nephron filtration and reabsorption. Complete the source activities and exercises."
   },
   {
     "number": 6,
@@ -1382,7 +1382,7 @@
         "simple": "Trace nervous pathways, distinguish turgor from growth, and match endocrine glands, hormones and feedback.",
         "example": [
           "Trace nervous pathways, distinguish turgor from growth, and match endocrine glands, hormones and feedback.",
-          "A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification."
+          "A diagram should show labelled structures and signal direction; an explanation should connect each step to the next."
         ],
         "question": "Which explanation correctly joins a stimulus and mechanism?",
         "options": [
@@ -1392,13 +1392,13 @@
         ],
         "correct": 0,
         "feedback": [
-          "Correct. A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification.",
-          "Reconsider: A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification.",
-          "Reconsider: A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification."
+          "Correct. A diagram should show labelled structures and signal direction; an explanation should connect each step to the next.",
+          "Reconsider: A diagram should show labelled structures and signal direction; an explanation should connect each step to the next.",
+          "Reconsider: A diagram should show labelled structures and signal direction; an explanation should connect each step to the next."
         ],
         "hints": [
           "Trace nervous pathways, distinguish turgor from growth, and match endocrine glands, hormones and feedback.",
-          "A diagram should show labelled structures and signal direction; an explanation should connect each step to the next. Written self-review still needs teacher verification."
+          "A diagram should show labelled structures and signal direction; an explanation should connect each step to the next."
         ],
         "explorer": "hormone-feedback"
       }

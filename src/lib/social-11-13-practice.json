@@ -571,7 +571,7 @@
         ],
         "checklist": [
           "I covered every source category or principal organ and checked its labels.",
-          "I explained relationships, recorded the reference and identified details needing teacher review."
+          "I explained relationships, recorded the reference and identified details to double-check."
         ]
       },
       {
@@ -902,13 +902,13 @@
         "title": "Tree list",
         "reference": "Activity III Q2 · p110",
         "prompt": "Compile a list of trees you recognise.",
-        "sample": "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a teacher. Use an uncertain label where identification is incomplete.",
+        "sample": "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a trusted reference. Use an uncertain label where identification is incomplete.",
         "solution": [
-          "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a teacher.",
+          "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a trusted reference.",
           "Use an uncertain label where identification is incomplete."
         ],
         "hints": [
-          "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a teacher."
+          "Record local name, location type, date and an identifying feature such as leaf shape. Verify unfamiliar names with a trusted reference."
         ],
         "checklist": [
           "I identified the relevant place, process or category.",

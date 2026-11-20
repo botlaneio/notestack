@@ -29,7 +29,7 @@
         "Separate calculations from written work awaiting verification."
       ]
     ],
-    "challenge": "Explain a new circuit or direction case with a labelled drawing. Compare written reasoning with the model and ask a teacher to verify it.",
+    "challenge": "Explain a new circuit or direction case with a labelled drawing. Compare written reasoning with the model.",
     "steps": [
       {
         "id": "sc11-charge",
@@ -536,7 +536,7 @@
         "Separate calculations from written work awaiting verification."
       ]
     ],
-    "challenge": "Explain a new circuit or direction case with a labelled drawing. Compare written reasoning with the model and ask a teacher to verify it.",
+    "challenge": "Explain a new circuit or direction case with a labelled drawing. Compare written reasoning with the model.",
     "steps": [
       {
         "id": "sc12-connection",

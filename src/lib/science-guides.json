@@ -758,7 +758,7 @@
         "Explain corrosion and rancidity using observations and chemistry."
       ]
     ],
-    "challenge": "Write the source-mapped explanations and equations without viewing the model first. Compare every step, then ask a teacher to verify your reasoning."
+    "challenge": "Write the source-mapped explanations and equations without viewing the model first. Compare every step."
   },
   {
     "number": 2,
@@ -1760,7 +1760,7 @@
         "simple": "Use the source tables and written tasks to practise explanations,not only labels.",
         "example": [
           "Use the source tables and written tasks to practise explanations,not only labels.",
-          "Teacher-reviewed reasoning is still needed after guided checks and self-review."
+          "Written reasoning matters more than guided checks alone."
         ],
         "question": "Which is the strongest study response?",
         "options": [
@@ -1771,12 +1771,12 @@
         "correct": 1,
         "feedback": [
           "Check this idea: Use the source tables and written tasks to practise explanations,not only labels.",
-          "Correct. Teacher-reviewed reasoning is still needed after guided checks and self-review.",
+          "Correct. Written reasoning matters more than guided checks alone.",
           "Check this idea: Use the source tables and written tasks to practise explanations,not only labels."
         ],
         "hints": [
           "Use the source tables and written tasks to practise explanations,not only labels.",
-          "Teacher-reviewed reasoning is still needed after guided checks and self-review."
+          "Written reasoning matters more than guided checks alone."
         ]
       }
     ],
@@ -1794,6 +1794,6 @@
         "Know the salt formulae,hydration ratios and source uses."
       ]
     ],
-    "challenge": "Write the source-mapped explanations and equations without viewing the model first. Compare every step, then ask a teacher to verify your reasoning."
+    "challenge": "Write the source-mapped explanations and equations without viewing the model first. Compare every step."
   }
 ]

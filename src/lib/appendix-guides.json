@@ -672,7 +672,7 @@
         "simple": "Try a proof without viewing the model, then compare every reason.",
         "example": [
           "Try a proof without viewing the model, then compare every reason.",
-          "Self-review records your comparison; a teacher still needs to verify validity."
+          "Self-review records your comparison against the model."
         ],
         "question": "What should you do after completing these guided checks?",
         "options": [
@@ -684,11 +684,11 @@
         "feedback": [
           "Reconsider this choice. Try a proof without viewing the model, then compare every reason.",
           "Reconsider this choice. Try a proof without viewing the model, then compare every reason.",
-          "Correct. Self-review records your comparison; a teacher still needs to verify validity."
+          "Correct. Self-review records your comparison against the model."
         ],
         "hints": [
           "Try a proof without viewing the model, then compare every reason.",
-          "Self-review records your comparison; a teacher still needs to verify validity."
+          "Self-review records your comparison against the model."
         ]
       }
     ],
@@ -706,7 +706,7 @@
         "Distinguish negation, converse and contradiction."
       ]
     ],
-    "challenge": "Complete the source-mapped written activities and explain each step. Ask a teacher to check your reasoning; guided answers and self-review do not establish mastery."
+    "challenge": "Complete the source-mapped written activities and explain each step."
   },
   {
     "number": 16,
@@ -1279,6 +1279,6 @@
         "Sampling, recurrence, probability, costs and forecasting depend on assumptions."
       ]
     ],
-    "challenge": "Complete the source-mapped written activities and explain each step. Ask a teacher to check your reasoning; guided answers and self-review do not establish mastery."
+    "challenge": "Complete the source-mapped written activities and explain each step."
   }
 ]

@@ -25,7 +25,7 @@ export function SourceMapReading({chapter}:{chapter:number}) {
       <input type="checkbox" checked={checked.includes(layer)} onChange={event=>setChecked(previous=>event.target.checked?[...previous,layer]:previous.filter(value=>value!==layer))}/>{layer}
     </label>)}</fieldset>
     <ol>{map.questions.map(question=><li key={question}>{question}</li>)}</ol>
-    <p>{checked.length} of {map.layers.length} map layers inspected in this session. Compare your annotations with the source and ask a teacher to review the completed map.</p>
+    <p>{checked.length} of {map.layers.length} map layers inspected in this session. Compare your annotations with the source.</p>
     <p>Reference maps are available from <a href="https://surveyofindia.gov.in/pages/outline-maps-of-india" target="_blank" rel="noreferrer">Survey of India</a>.</p>
   </details>;
 }

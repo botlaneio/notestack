@@ -1320,7 +1320,7 @@
         "simple": "Read coordinates, directions, regions and processes together, with a legend and source date.",
         "example": [
           "Read coordinates, directions, regions and processes together, with a legend and source date.",
-          "Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
+          "Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
         ],
         "question": "Which map response is strongest?",
         "options": [
@@ -1330,13 +1330,13 @@
         ],
         "correct": 2,
         "feedback": [
-          "Reconsider: Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps.",
-          "Reconsider: Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps.",
-          "Correct. Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
+          "Reconsider: Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps.",
+          "Reconsider: Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps.",
+          "Correct. Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
         ],
         "hints": [
           "Read coordinates, directions, regions and processes together, with a legend and source date.",
-          "Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps and teacher review. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
+          "Use the book’s grouping for its exercises while noting corrections to location, time meridian, data and boundary-line claims. Practise actual outlines using Survey of India maps. Interactive coordinate and relief views are learning aids, not authoritative boundary, navigation or administrative maps."
         ],
         "explorer": "india-locator"
       }

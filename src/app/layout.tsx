@@ -9,7 +9,7 @@ import {Providers} from './providers';
 
 export const metadata: Metadata = {
   title: {default: 'NoteStack — Make room for understanding', template: '%s | NoteStack'},
-  description: 'Karnataka SSLC Class 10 study packs for Mathematics, Science and Social Science in English medium. A Vedant Ventures project.',
+  description: 'Karnataka SSLC Class 10 study packs for Mathematics, Science and Social Science in English medium. A Vedanta Ventures project.',
   icons: {icon: '/notestack/favicon.svg'},
 };
 

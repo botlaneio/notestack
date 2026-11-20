@@ -325,6 +325,38 @@ test('progress: chapter visits and "done" marks are saved per account', async ()
   assert.equal((await handleApi(new Request(ORIGIN + '/api/progress', {method: 'POST', headers: {'content-type': 'application/json', origin: ORIGIN}, body: '{"path":"/learn/maths/polynomials/"}'}), env)).status, 401);
 });
 
+// ---------- flashcards ----------
+test('flashcards: known and still-learning cards are saved per deck and per account', async () => {
+  let clock = 1_800_000_000_000;
+  const env = {DB: memoryD1()};
+  const signUp = who => handleApi(new Request(ORIGIN + '/api/auth/sign-up', {method: 'POST', headers: {'content-type': 'application/json', origin: ORIGIN}, body: JSON.stringify(who)}), env, {now: () => clock});
+  const cookie = cookieOf(await signUp(student));
+  const post = (body, c = cookie) => handleApi(new Request(ORIGIN + '/api/flashcards', {method: 'POST', headers: {'content-type': 'application/json', origin: ORIGIN, ...(c ? {cookie: c} : {})}, body: JSON.stringify(body)}), env, {now: () => clock});
+  const get = (c = cookie) => handleApi(new Request(ORIGIN + '/api/flashcards', {headers: {cookie: c}}), env, {now: () => clock}).then(r => r.json());
+
+  assert.equal((await post({path: '/learn/maths/polynomials/flashcards/', known: ['k-1', 'q-degree'], learning: ['q-zero', 'k-1']})).status, 200);
+  clock += 1000;
+  assert.equal((await post({path: '/learn/science/electricity/flashcards/', known: [], learning: ['q-ohm']})).status, 200);
+  const {decks} = await get();
+  assert.equal(decks.length, 2);
+  assert.deepEqual(decks[0], {path: '/learn/science/electricity/', known: [], learning: ['q-ohm'], updatedAt: clock});
+  // A card cannot be both known and still learning; known wins.
+  assert.deepEqual(decks[1].known, ['k-1', 'q-degree']);
+  assert.deepEqual(decks[1].learning, ['q-zero']);
+
+  clock += 1000;
+  await post({path: '/learn/maths/polynomials/flashcards/', known: ['k-1'], learning: []});
+  assert.deepEqual((await get()).decks[0], {path: '/learn/maths/polynomials/', known: ['k-1'], learning: [], updatedAt: clock});
+
+  assert.equal((await post({path: '/learn/english/poems/flashcards/', known: []})).status, 400);
+  assert.equal((await post({path: '/learn/maths/polynomials/', known: ['<script>']})).status, 400);
+  assert.equal((await post({path: '/learn/maths/polynomials/', known: 'k-1'})).status, 400);
+  assert.equal((await post({path: '/learn/maths/polynomials/', known: []}, null)).status, 401);
+
+  const other = cookieOf(await signUp({...student, email: 'ravi@example.com'}));
+  assert.deepEqual((await get(other)).decks, []);
+});
+
 // ---------- lesson lock ----------
 test('lesson paths: chapters are recognised; subject lists and their data files are not', () => {
   assert.deepEqual(lessonPath('/learn/maths/polynomials/practice/'), {area: 'maths', subject: 'mathematics', chapter: 'polynomials', path: '/learn/maths/polynomials/', free: false});
@@ -335,6 +367,8 @@ test('lesson paths: chapters are recognised; subject lists and their data files 
   assert.equal(lessonPath('/learn//MATHS/%70olynomials/').chapter, 'polynomials');
   assert.equal(lessonPath('/learn/science/electricity').subject, 'science');
   assert.equal(lessonPath('/account/'), null);
+  assert.deepEqual(lessonPath('/learn/social-science/india-soils/flashcards/'), {area: 'social-science', subject: 'social-science', chapter: 'india-soils', path: '/learn/social-science/india-soils/', free: false});
+  assert.equal(lessonPath('/learn/maths/real-numbers/flashcards/index.txt').free, true);
 });
 
 function gateEnv(db = memoryD1(), extra = {}) {

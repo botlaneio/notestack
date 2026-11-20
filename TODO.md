@@ -12,3 +12,14 @@
 - [ ] Confirm paid lessons are protected in the production build. The README notes that lesson text is currently included in publicly served JavaScript.
 - [ ] Verify the production domain and transactional email. Test sign-up, email verification and password reset.
 - [ ] Run an end-to-end purchase test for one subject and the Core Collection. Verify receipts and account access, and test failed payments, duplicate notifications and refunds.
+
+## Later: paid mock board exam (₹199)
+
+Blocked on payments (Razorpay/Cashfree). Pilot idea: one test run in Jan/Feb 2027 using last year's SSLC paper.
+
+- [ ] Let students buy a mock board exam for ₹199 and book an exam slot.
+- [ ] Unlock the question paper at the booked start time.
+- [ ] Students write on paper, then upload photos of their answer sheets before a cutoff time.
+- [ ] Mark MCQs automatically.
+- [ ] Give teachers a marking screen for the written answers, with a 24-hour turnaround.
+- [ ] Show the grade and teacher feedback on the student's account page.

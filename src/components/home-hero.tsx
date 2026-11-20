@@ -2,19 +2,22 @@
 
 import Link from 'next/link';
 import {useEffect, useRef, useState, type ReactNode} from 'react';
-import {BookOpen, Calculator, Check, ChevronDown, ChevronLeft, ChevronRight, FileText, FlaskConical, Globe2, Heart, Layers, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, Search, ShoppingBag, X, type LucideIcon} from 'lucide-react';
+import {BookOpen, Calculator, Check, ChevronDown, ChevronLeft, ChevronRight, FileText, FlaskConical, Globe2, Layers, ListChecks, Lock, Menu, PenLine, PlayCircle, RotateCw, ShoppingBag, X, type LucideIcon} from 'lucide-react';
 import {Brand} from './brand';
 import {AccountLink} from '@/components/auth/account-link';
 import {useSession} from '@/lib/auth-client';
+import {HeroPreview} from './hero-phone';
+import {HeroCountdown} from './hero-countdown';
 import styles from './home-hero.module.css';
 
 interface TopBarProps {
-  query: string;
-  onQuery: (value: string) => void;
-  onSearch: () => void;
+  /** Kept so existing callers still type-check; the top bar no longer has a search box. */
+  query?: string;
+  onQuery?: (value: string) => void;
+  onSearch?: () => void;
   bagCount: number;
   onBag: () => void;
-  onSaved: () => void;
+  onSaved?: () => void;
 }
 
 const SUBJECT_IDS = ['mathematics', 'science', 'social-science'];
@@ -80,8 +83,16 @@ function Dropdown({label, children}: {label: string; children: (close: () => voi
 }
 
 /** White top bar. Visitors see every study tool with what is free; owners see the same menu without locks. */
-export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}: TopBarProps) {
+export function HomeTopBar({bagCount, onBag}: TopBarProps) {
   const [open, setOpen] = useState(false);
+  // Clear over the hero at the top of the page; frosted once the page scrolls.
+  const [scrolled, setScrolled] = useState(false);
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 4);
+    onScroll();
+    window.addEventListener('scroll', onScroll, {passive: true});
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
   const access = useAccess();
   const toolOpen = () => access.ownsAll;
   const subjectOpen = (i: number) => access.owned.includes(SUBJECT_IDS[i]);
@@ -91,23 +102,18 @@ export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}:
   </Link>;
   const unlockButton = access.signedIn && !access.ownsAll && <a href="#bundle" onClick={close} className={styles.unlock}>Unlock all subjects · ₹999</a>;
 
-  return <header className={styles.bar}>
+  return <header className={styles.bar} data-scrolled={scrolled || open || undefined}>
     <div className={styles.barInner}>
       <a href="#" aria-label="NoteStack home" className={styles.logo}><Brand small animated/></a>
       <nav className={styles.links} aria-label="Main navigation">
-        <Dropdown label="Study tools">{c => <MenuList items={studyTools} isOpen={toolOpen} close={c}/>}</Dropdown>
+        <Dropdown label="Resources">{c => <MenuList items={studyTools} isOpen={toolOpen} close={c}/>}</Dropdown>
         <Dropdown label="Subjects">{c => <>
           <MenuList items={subjects} isOpen={subjectOpen} close={c} subjectIds={SUBJECT_IDS}/>
           {access.lastChapter && <div className={styles.menuFooter}>{continueLink}</div>}
         </>}</Dropdown>
         <a href="#bundle" className={styles.plainLink}>Pricing</a>
       </nav>
-      <form className={styles.search} role="search" onSubmit={e => {e.preventDefault(); onSearch();}}>
-        <Search size={18} aria-hidden="true"/>
-        <input type="search" value={query} onChange={e => onQuery(e.target.value)} placeholder="Search subjects, e.g. Science" aria-label="Search subject packs"/>
-      </form>
       <div className={styles.actions}>
-        <button type="button" className={`${styles.iconButton} ${styles.hideSmall}`} onClick={onSaved} aria-label="Saved packs"><Heart size={20}/></button>
         <button type="button" className={styles.iconButton} onClick={onBag} aria-label={`Open bag, ${bagCount} subject packs`}>
           <ShoppingBag size={20}/>{bagCount > 0 && <b className={styles.count}>{bagCount}</b>}
         </button>
@@ -124,17 +130,12 @@ export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}:
       </div>
     </div>
     {open && <nav className={styles.mobileNav} aria-label="Mobile navigation">
-      <form className={styles.mobileSearch} role="search" onSubmit={e => {e.preventDefault(); close(); onSearch();}}>
-        <Search size={18} aria-hidden="true"/>
-        <input type="search" value={query} onChange={e => onQuery(e.target.value)} placeholder="Search subjects" aria-label="Search subject packs"/>
-      </form>
       {continueLink}
-      <span className={styles.mobileHeading}>Study tools</span>
+      <span className={styles.mobileHeading}>Resources</span>
       <MenuList items={studyTools} isOpen={toolOpen} close={close}/>
       <span className={styles.mobileHeading}>Subjects</span>
       <MenuList items={subjects} isOpen={subjectOpen} close={close} subjectIds={SUBJECT_IDS}/>
       <a href="#bundle" onClick={close} className={styles.mobileLink}>Pricing</a>
-      <button type="button" onClick={() => {close(); onSaved();}} className={styles.mobileLink}>Saved packs</button>
       {access.status !== 'signed-in'
         ? <div className={styles.mobileAuth}><Link href="/sign-in/" className={styles.ghost}>Log in</Link><Link href="/sign-up/" className={styles.solid}>Sign up free</Link></div>
         : unlockButton}
@@ -142,18 +143,29 @@ export function HomeTopBar({query, onQuery, onSearch, bagCount, onBag, onSaved}:
   </header>;
 }
 
-/** Centred headline, one primary action, and a swipeable row of study-mode cards. */
+/** Split hero: headline, actions and exam countdown on the left; a phone lesson preview on the right. Then the study-mode cards. */
 export function HomeHero({onBrowse}: {onBrowse: () => void}) {
   const rail = useRef<HTMLDivElement>(null);
   const scroll = (dir: number) => rail.current?.scrollBy({left: dir * rail.current.clientWidth * 0.6, behavior: 'smooth'});
   return <>
     <section className={styles.hero}>
-      <span className={styles.kicker}><span aria-hidden="true"/>Karnataka SSLC · Class 10 · English medium</span>
-      <h1 className={styles.title}>How do you want to study for your boards?</h1>
-      <p className={styles.lead}>Guided chapters, practice questions and quick revision for Maths, Science and Social Science, made to fit your phone.</p>
-      <div className={styles.cta}>
-        <Link className={styles.primary} href="/learn/maths/">Start with a free chapter</Link>
-        <button type="button" className={styles.textLink} onClick={onBrowse}>See the subject packs</button>
+      <div className={styles.heroInner}>
+        <div className={styles.copy}>
+          <span className={styles.kicker}><span aria-hidden="true"/>Karnataka SSLC · Class 10 · English medium</span>
+          <h1 className={styles.title}>Your SSLC boards,<br/>one chapter at a time.</h1>
+          <p className={styles.lead}>Guided chapters, board-style practice and flashcards for Maths, Science and Social Science. Made to fit your phone.</p>
+          <div className={styles.cta}>
+            <Link className={styles.primary} href="/learn/maths/">Start with a free chapter</Link>
+            <button type="button" className={styles.secondary} onClick={onBrowse}>See subject packs</button>
+          </div>
+          <ul className={styles.checks}>
+            <li><Check size={16}/>First chapter free</li>
+            <li><Check size={16}/>₹399 per subject</li>
+            <li><Check size={16}/>₹999 for all three</li>
+          </ul>
+          <HeroCountdown/>
+        </div>
+        <HeroPreview className={styles.preview}/>
       </div>
     </section>
 
@@ -197,11 +209,6 @@ export function HomeHero({onBrowse}: {onBrowse: () => void}) {
         </button>
       </div>
       <button type="button" className={`${styles.arrow} ${styles.arrowRight}`} aria-label="Next" onClick={() => scroll(1)}><ChevronRight size={20}/></button>
-      <ul className={styles.strip}>
-        <li><Check size={16}/>First chapter of every subject free</li>
-        <li><Check size={16}/>₹399 per subject</li>
-        <li><Check size={16}/>₹999 for all three</li>
-      </ul>
     </section>
   </>;
 }

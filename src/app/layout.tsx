@@ -6,6 +6,7 @@ import '@astryxdesign/theme-neutral/theme.css';
 import './globals.css';
 import './theme-v2.css';
 import {Providers} from './providers';
+import {Stacksy} from '@/components/stacksy/stacksy';
 
 export const metadata: Metadata = {
   title: {default: 'NoteStack — Make room for understanding', template: '%s | NoteStack'},
@@ -14,5 +15,5 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({children}: {children: ReactNode}) {
-  return <html lang="en" data-theme="light"><body><Providers>{children}</Providers></body></html>;
+  return <html lang="en" data-theme="light"><body><Providers>{children}<Stacksy/></Providers></body></html>;
 }

@@ -15,6 +15,9 @@ export default defineConfig({
       DB: bindings.d1({ name: 'notestack-accounts' }),
       // Password reset emails (resend.com). Set with: cf workers secrets update RESEND_API_KEY
       RESEND_API_KEY: bindings.secret(),
+      // Stacksy, the AI study assistant (Google Gemini). Set with: npx cf workers secrets update GEMINI_API_KEY
+      GEMINI_API_KEY: bindings.secret(),
+      GEMINI_MODEL: bindings.text('gemini-flash-latest'),
       EMAIL_FROM: bindings.text('NoteStack <no-reply@notestack.shop>'), ADMIN_EMAILS: bindings.text('admin@botlane.io'),
     },
     observability: { enabled: true, traces: { enabled: true } },

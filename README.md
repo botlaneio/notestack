@@ -60,6 +60,8 @@ Students can create an account, sign in, sign out and manage their devices. The 
 
 API: `POST /api/auth/sign-up`, `POST /api/auth/sign-in`, `POST /api/auth/sign-out`, `POST /api/auth/forgot-password`, `POST /api/auth/reset-password`, `POST /api/auth/verify-email`, `POST /api/auth/resend-verification`, `POST /api/auth/change-password`, `GET /api/auth/session`, `DELETE /api/auth/devices/:id`, `POST /api/progress`, and for admins `GET /api/admin/users?q=`, `POST /api/admin/grant`, `POST /api/admin/revoke`, `POST /api/admin/sign-out`.
 
+Stacksy (AI study assistant): a floating Flashcard Friend in the bottom-right corner of every page (except `/admin/` and `/checkout/`) opens a chat panel. It knows which chapter page the student is on. The browser calls `POST /api/stacksy/chat`; the Worker (`cloudflare/src/stacksy.ts`) asks Google Gemini, so the key never reaches the browser. Needs the `GEMINI_API_KEY` secret (`cd cloudflare && npx cf workers secrets update GEMINI_API_KEY`); without it Stacksy says it is resting. The model is `GEMINI_MODEL` in `cloudflare/cloudflare.config.ts` (`gemini-flash-latest`). Daily limits (D1 table `stacksy_usage`): 10 questions for visitors (per network address), 40 for signed-in students, 150 for students who own a subject, unlimited for admins. Failed Gemini calls are not counted. In plain `npm run dev` the button and panel show, but answers need the Worker.
+
 Local testing of accounts needs the Worker, not `npm run dev`: run `npm run build:cloudflare`, then `npx vite preview --config cloudflare/vite.config.ts` and open the printed URL. `npm run dev` still works for content pages; sign-in there reports that accounts are unavailable.
 
 

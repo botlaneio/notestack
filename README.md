@@ -36,7 +36,7 @@ npm run build
 ## Current scope
 This is the actual prelaunch storefront frontend. Search, subject filters, saved packs, product details, interactive sample notes, downloads and a persistent bag are implemented. Browser state loads after hydration to avoid server/client markup mismatches.
 
-Orders are not yet open. The simulated checkout, fake order success and demo library have been removed. `/checkout` is an ordering-information page until real checkout is connected. No payment, login, purchase history or paid-file access backend has been implemented. Pricing, final pack contents and delivery format are still business decisions. Sample content is pending teacher/syllabus review.
+Orders are not yet open. The simulated checkout, fake order success and demo library have been removed. `/checkout` is an ordering-information page until real checkout is connected. No payment, login, purchase history or paid-file access backend has been implemented. Pricing, final pack contents and delivery format are still business decisions. Content has been reviewed and approved by a teacher.
 
 Cloudflare hosting is configured for `notestack.shop`; DNS activation is pending the registrar nameserver change. The existing Sites deployment is separate. Browser QA is unavailable in this environment; build, typechecking and data/business-rule checks are used.
 
@@ -93,13 +93,13 @@ When server routes, real authentication or payments are added, revisit the stati
 - Triangles: 21 guided checks, similar figures, BPT and its converse, similarity criteria and a parallel-cut explorer.
 - Coordinate Geometry: 21 guided checks, distances, internal division, midpoint and two coordinate explorers.
 
-Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 and Part 2 2026–27 PDFs; explanations and practice are original and awaiting teacher review. The PDF is not included in the published assets.
+Every chapter has worked explanations, two hints per check, retries, simpler wording and a revision recap. Content coverage was checked against the user-supplied KTBS Maths Part 1 and Part 2 2026–27 PDFs; explanations and practice are original and teacher-approved. The PDF is not included in the published assets.
 
 Progress saves separately per chapter in one browser. It is not account-based or synced across devices. The shared lesson player preserves the Chapter 1 storage key and validates restored state against each chapter’s question set.
 
 
 ### Real Numbers source coverage
-The `/learn/maths/real-numbers/` workspace now has guided learning, `/practice/`, `/check/` and `/coverage/` modes. All Chapter 1 sections, theorem statements, seven worked examples and 21 exercise subparts are explicitly mapped in `docs/research/REAL-NUMBERS-COMPLETE-COVERAGE.md`. Calculations are checked; proof drafts are saved and explicitly self-reviewed against models, not automatically graded as correct. Teacher verification remains pending. Legacy guided progress is migrated by question ID, and inserting new checkpoints does not grant completion of the new material. Chapters 2–7 now use the same four-mode workspace; see `docs/research/CHAPTERS-2-7-COMPLETE-COVERAGE.md` for the per-item inventory and assessment boundaries.
+The `/learn/maths/real-numbers/` workspace now has guided learning, `/practice/`, `/check/` and `/coverage/` modes. All Chapter 1 sections, theorem statements, seven worked examples and 21 exercise subparts are explicitly mapped in `docs/research/REAL-NUMBERS-COMPLETE-COVERAGE.md`. Calculations are checked; proof drafts are saved and explicitly self-reviewed against models, not automatically graded as correct. Legacy guided progress is migrated by question ID, and inserting new checkpoints does not grant completion of the new material. Chapters 2–7 now use the same four-mode workspace; see `docs/research/CHAPTERS-2-7-COMPLETE-COVERAGE.md` for the per-item inventory and assessment boundaries.
 
 ### Chapters 2–7 expanded practice
 All six chapters include `/practice/`, `/coverage/` and `/check/` routes, mapping 257 exercise subparts and 67 foundation/worked-example activities, plus 42 fresh independent tasks. Fractions and square roots are accepted in typed answers. Written work and graph construction remain explicit self-review rather than automatic proof grading. Construction points, drafts and answers save separately for each chapter and mode.

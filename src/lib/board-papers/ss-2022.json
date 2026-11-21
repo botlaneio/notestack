@@ -1,0 +1,708 @@
+{
+ "id": "ss-2022",
+ "subject": "social-science",
+ "year": 2022,
+ "exam": "Main exam (March/April)",
+ "date": "2022-04-06",
+ "code": "85-E",
+ "version": "A",
+ "minutes": 195,
+ "maxMarks": 80,
+ "source": "https://kseab.karnataka.gov.in/storage/pdf-files/new/2022_MAIN_EXAM_QP_85E_A_Version.pdf",
+ "keySource": "https://kseab.karnataka.gov.in/storage/pdf-files/SSLC_2022_MAIN_EXAM_KEY_ANS_85E_A.pdf",
+ "syllabusNote": "The 2022 paper was set on the older Karnataka syllabus. Questions on topics that have since been removed are kept in the full paper and marked.",
+ "sections": [
+  {
+   "id": "I",
+   "title": "Choose the correct answer",
+   "note": "8 × 1 = 8"
+  },
+  {
+   "id": "II",
+   "title": "Answer in a sentence each",
+   "note": "8 × 1 = 8"
+  },
+  {
+   "id": "III",
+   "title": "Answer in two to four sentences or points each",
+   "note": "8 × 2 = 16"
+  },
+  {
+   "id": "IV",
+   "title": "Answer in six sentences or points each",
+   "note": "9 × 3 = 27"
+  },
+  {
+   "id": "V",
+   "title": "Answer in about eight sentences or points each",
+   "note": "4 × 4 = 16"
+  },
+  {
+   "id": "VI",
+   "title": "Map question",
+   "note": "1 + 4 = 5"
+  }
+ ],
+ "questions": [
+  {
+   "n": "1",
+   "sec": "I",
+   "marks": 1,
+   "ch": "the-advent-of-europeans-to-india",
+   "q": "The sea route between India and Europe was discovered by",
+   "opts": [
+    "Columbus",
+    "Vasco-da-Gama",
+    "Almeida",
+    "Albuquerque"
+   ],
+   "ans": "B",
+   "sol": [
+    "Vasco da Gama reached Calicut in 1498 via the Cape of Good Hope, discovering the sea route from Europe to India."
+   ]
+  },
+  {
+   "n": "2",
+   "sec": "I",
+   "marks": 1,
+   "ch": "the-freedom-struggle",
+   "q": "The movement led by the Ali brothers was",
+   "opts": [
+    "Non-Co-operation",
+    "Khilafat",
+    "Civil Disobedience",
+    "Quit India"
+   ],
+   "ans": "B",
+   "sol": [
+    "Mohammad Ali and Shaukat Ali led the Khilafat movement (1919–1924) against the British treatment of the Turkish Sultan (Khalifa)."
+   ]
+  },
+  {
+   "n": "3",
+   "sec": "I",
+   "marks": 1,
+   "ch": "indias-foreign-policy-and-global-challenges",
+   "q": "The policy of keeping safe distance from both the power blocs of the world is known as",
+   "opts": [
+    "Non-Alignment",
+    "Anti-Apartheid",
+    "Anti-Imperialism",
+    "Disarmament"
+   ],
+   "ans": "A",
+   "sol": [
+    "Non-Alignment means not joining either the US-led or the Soviet-led bloc."
+   ]
+  },
+  {
+   "n": "4",
+   "sec": "I",
+   "marks": 1,
+   "ch": "work-and-economic-life",
+   "q": "Best example for labour without pay among the following is",
+   "opts": [
+    "Nurse",
+    "Teacher",
+    "Housewife",
+    "Police"
+   ],
+   "ans": "C",
+   "sol": [
+    "A housewife's work at home is not paid, though it is useful. Nurses, teachers and police are paid workers."
+   ]
+  },
+  {
+   "n": "5",
+   "sec": "I",
+   "marks": 1,
+   "ch": "the-freedom-struggle",
+   "q": "A periodical started by Dr. B. R. Ambedkar was",
+   "opts": [
+    "Kesari",
+    "Mooka Nayaka",
+    "Maratha",
+    "Bombay Samachar"
+   ],
+   "ans": "B",
+   "sol": [
+    "Dr. Ambedkar started 'Mooka Nayaka' (Mook Nayak) in 1920. Kesari and Maratha were Tilak's papers."
+   ]
+  },
+  {
+   "n": "6",
+   "sec": "I",
+   "marks": 1,
+   "ch": "india-forest-resources",
+   "q": "The Nagarjuna Sagar wildlife sanctuary is located in the state",
+   "opts": [
+    "Karnataka",
+    "Kerala",
+    "Uttar Pradesh",
+    "Telangana"
+   ],
+   "ans": "D",
+   "sol": [
+    "Of the given options, the Nagarjuna Sagar sanctuary area lies in the Telugu states (Telangana/Andhra Pradesh) along the Krishna river, so the answer is Telangana."
+   ]
+  },
+  {
+   "n": "7",
+   "sec": "I",
+   "marks": 1,
+   "ch": "rural-development",
+   "q": "The Constitutional Amendment that brought into existence the three levels of Panchayat institutions is",
+   "opts": [
+    "24th",
+    "42nd",
+    "73rd",
+    "92nd"
+   ],
+   "ans": "C",
+   "sol": [
+    "The 73rd Constitutional Amendment (1992) created the three-tier Panchayat Raj system: Gram, Taluk and Zilla Panchayats."
+   ]
+  },
+  {
+   "n": "8",
+   "sec": "I",
+   "marks": 1,
+   "ch": "bank-transactions",
+   "q": "The type of bank account where any number of transactions can be made in a day is",
+   "opts": [
+    "Savings Bank Account",
+    "Current Account",
+    "Recurring Deposit Account",
+    "Term Deposit Account"
+   ],
+   "ans": "B",
+   "sol": [
+    "A current account allows unlimited deposits and withdrawals in a day; it is used mainly by businesses."
+   ]
+  },
+  {
+   "n": "9",
+   "sec": "II",
+   "marks": 1,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "Why did Wellesley resign from his post and return to England?",
+   "ans": "His expensive wars of expansion increased the Company's debts, so the directors were unhappy and he was recalled (1805).",
+   "sol": [
+    "Wellesley's aggressive wars under the subsidiary alliance policy were very costly; the Company's directors disapproved, so he resigned and returned to England in 1805."
+   ]
+  },
+  {
+   "n": "10",
+   "sec": "II",
+   "marks": 1,
+   "ch": "india-after-independence",
+   "q": "Who was the first President of India?",
+   "ans": "Dr. Rajendra Prasad.",
+   "sol": [
+    "Dr. Rajendra Prasad was the first President of India (1950–1962)."
+   ]
+  },
+  {
+   "n": "11",
+   "sec": "II",
+   "marks": 1,
+   "ch": "world-organisations",
+   "q": "When do we celebrate Human Rights Day every year?",
+   "ans": "10 December.",
+   "sol": [
+    "Human Rights Day is observed every year on 10 December, the day the UN adopted the Universal Declaration of Human Rights in 1948."
+   ]
+  },
+  {
+   "n": "12",
+   "sec": "II",
+   "marks": 1,
+   "ch": "collective-behaviour-and-protests",
+   "q": "What is a mob?",
+   "ans": "A large, emotionally charged crowd gathered for a common purpose, which can become violent.",
+   "sol": [
+    "A mob is a large crowd of people that gathers with a common aim and is highly emotional; it may turn violent."
+   ]
+  },
+  {
+   "n": "13",
+   "sec": "II",
+   "marks": 1,
+   "ch": "india-geographical-position-and-physical-features",
+   "q": "Where do the Eastern Ghats and the Western Ghats meet?",
+   "ans": "In the Nilgiri hills.",
+   "sol": [
+    "The Eastern Ghats and Western Ghats meet in the Nilgiri hills (Tamil Nadu)."
+   ]
+  },
+  {
+   "n": "14",
+   "sec": "II",
+   "marks": 1,
+   "ch": "india-forest-resources",
+   "q": "Which type of forests are found in the river deltas?",
+   "ans": "Mangrove (tidal) forests.",
+   "sol": [
+    "Mangrove or tidal forests grow in river deltas and coastal swamps, e.g. the Sundarbans in the Ganga delta."
+   ]
+  },
+  {
+   "n": "15",
+   "sec": "II",
+   "marks": 1,
+   "ch": "economy-and-government",
+   "q": "What is National Income?",
+   "ans": "The total money value of all final goods and services produced in a country in a year.",
+   "sol": [
+    "National income is the total value of all final goods and services produced in a country during a year (including net income from abroad)."
+   ]
+  },
+  {
+   "n": "16",
+   "sec": "II",
+   "marks": 1,
+   "ch": "entrepreneurship",
+   "q": "Who is the founder of 'Wipro Technologies'?",
+   "ans": "Azim Premji.",
+   "sol": [
+    "Azim Premji built Wipro into a major IT company and is regarded as its founder."
+   ]
+  },
+  {
+   "n": "17",
+   "sec": "III",
+   "marks": 2,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "What were the results of the battle of Buxar?",
+   "ans": "The British got the Diwani of Bengal, Bihar and Orissa (Treaty of Allahabad, 1765); Shah Alam II became their pensioner; Awadh paid war indemnity; the British became the real rulers of Bengal.",
+   "sol": [
+    "The British defeated Mir Qasim, Shuja-ud-Daula and Shah Alam II (1764).",
+    "By the Treaty of Allahabad (1765) the Company got the Diwani rights of Bengal, Bihar and Orissa.",
+    "Shah Alam II got a pension; Shuja-ud-Daula paid war indemnity.",
+    "Dual government was introduced and the British became the real power in Bengal."
+   ]
+  },
+  {
+   "n": "18",
+   "sec": "III",
+   "marks": 2,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "What were the conditions of the Subsidiary Alliance?",
+   "ans": "Keep a British army in the state and pay for it; keep a British Resident; no wars or treaties without British consent; no other Europeans in service; in return British protection.",
+   "sol": [
+    "The Indian ruler had to keep a British army in his state and pay for it.",
+    "A British Resident had to stay at his court.",
+    "He could not make war or alliances without British permission.",
+    "He could not employ other Europeans; in return the British would protect him."
+   ]
+  },
+  {
+   "n": "19",
+   "sec": "III",
+   "marks": 2,
+   "ch": "indias-foreign-policy-and-global-challenges",
+   "q": "Which are the Panchsheel principles?",
+   "ans": "Mutual respect for territorial integrity and sovereignty; mutual non-aggression; non-interference in internal affairs; equality and mutual benefit; peaceful co-existence.",
+   "sol": [
+    "Panchsheel (1954, India–China):",
+    "1. Mutual respect for each other's territorial integrity and sovereignty.",
+    "2. Mutual non-aggression.",
+    "3. Non-interference in each other's internal affairs.",
+    "4. Equality and mutual benefit.",
+    "5. Peaceful co-existence."
+   ],
+   "or": {
+    "ch": "indias-foreign-policy-and-global-challenges",
+    "q": "Explain the struggle of India for the implementation of Human Rights.",
+    "ans": "India opposed apartheid and racial discrimination, supported decolonisation, included fundamental rights in the Constitution, set up the National Human Rights Commission (1993), and supports the UN's human rights efforts.",
+    "sol": [
+     "India strongly opposed apartheid in South Africa and racial discrimination everywhere.",
+     "Supported the freedom of colonies in Asia and Africa.",
+     "Included fundamental rights in its Constitution, based on the UN declaration.",
+     "Set up the National and State Human Rights Commissions (1993) and supports UN efforts for human rights."
+    ]
+   }
+  },
+  {
+   "n": "20",
+   "sec": "III",
+   "marks": 2,
+   "ch": "work-and-economic-life",
+   "q": "List out the challenges faced by unorganised sector workers.",
+   "ans": "Low and irregular wages, no job security, no social security (pension, insurance, leave), long working hours, poor working conditions and exploitation.",
+   "sol": [
+    "Low and irregular wages.",
+    "No job security; can be removed any time.",
+    "No social security benefits like pension, provident fund, medical leave or insurance.",
+    "Long working hours and unsafe working conditions; exploitation by employers."
+   ],
+   "or": {
+    "ch": "collective-behaviour-and-protests",
+    "q": "Name any four environmental movements.",
+    "ans": "Chipko movement, Appiko movement, Narmada Bachao Andolan, Silent Valley movement (also Kaiga anti-nuclear and Western Ghats movements).",
+    "sol": [
+     "Chipko movement (Uttarakhand).",
+     "Appiko movement (Karnataka).",
+     "Narmada Bachao Andolan.",
+     "Silent Valley movement (Kerala). Others: protest against Kaiga nuclear plant, Save Western Ghats march."
+    ]
+   }
+  },
+  {
+   "n": "21",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-seasons",
+   "q": "Which are the important climatic seasons of India?",
+   "ans": "Winter (Dec–Feb), summer (Mar–May), south-west monsoon or rainy season (Jun–Sep), and retreating north-east monsoon (Oct–Nov).",
+   "sol": [
+    "1. Winter season: December to February.",
+    "2. Summer season: March to May.",
+    "3. Rainy season (south-west monsoon): June to September.",
+    "4. Retreating monsoon (north-east monsoon) season: October to November."
+   ]
+  },
+  {
+   "n": "22",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-soils",
+   "q": "What are the causes for soil erosion?",
+   "ans": "Deforestation, overgrazing, faulty farming methods, heavy rainfall and floods, strong winds, mining and construction.",
+   "sol": [
+    "Deforestation.",
+    "Overgrazing by animals.",
+    "Faulty methods of cultivation (e.g. ploughing along slopes, shifting cultivation).",
+    "Heavy rainfall, floods and strong winds; mining and construction activities."
+   ]
+  },
+  {
+   "n": "23",
+   "sec": "III",
+   "marks": 2,
+   "ch": "rural-development",
+   "q": "Mention the housing programmes.",
+   "ans": "Indira Awas Yojana / Pradhan Mantri Awas Yojana, Ashraya, Ambedkar housing scheme, Basava Vasati Yojana.",
+   "sol": [
+    "Indira Awas Yojana (now Pradhan Mantri Awas Yojana).",
+    "Ashraya and Basava Vasati Yojana (Karnataka).",
+    "Dr. B.R. Ambedkar housing scheme, Devaraj Urs housing scheme."
+   ]
+  },
+  {
+   "n": "24",
+   "sec": "III",
+   "marks": 2,
+   "ch": "consumer-education-and-protection",
+   "q": "What are the objectives of the Consumer Protection Act?",
+   "ans": "Protect consumers from exploitation, ensure their rights (safety, information, choice, being heard, redressal, education), and provide quick and cheap redressal through consumer commissions.",
+   "sol": [
+    "Protect consumers from unfair trade practices and exploitation.",
+    "Ensure consumer rights: safety, information, choice, to be heard, to seek redressal and consumer education.",
+    "Provide simple, quick and inexpensive redressal through District, State and National Commissions.",
+    "Create consumer awareness."
+   ]
+  },
+  {
+   "n": "25",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "the-impact-of-the-british-rule-in-india",
+   "q": "What were the impacts of British education in India?",
+   "ans": "Spread of English and modern western ideas, rise of educated middle class and nationalism, social reform, growth of press and literature, modern science; but neglect of mass education and Indian languages.",
+   "sol": [
+    "English became the common language for educated Indians across the country.",
+    "Western ideas of liberty, equality, democracy and nationalism spread.",
+    "A new educated middle class led the freedom struggle and reform movements.",
+    "Growth of newspapers, literature and modern scientific outlook.",
+    "Social evils were questioned.",
+    "Mass education and Indian languages were neglected."
+   ]
+  },
+  {
+   "n": "26",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "social-and-religious-reform-movements",
+   "q": "What are the aims of the Arya Samaj?",
+   "ans": "Back to the Vedas; oppose idol worship, rituals, caste system and untouchability; oppose child marriage, support widow remarriage and women's education; Shuddhi movement; spread education (DAV schools).",
+   "sol": [
+    "Founded by Swami Dayananda Saraswati in 1875; slogan 'Back to the Vedas'.",
+    "Oppose idol worship, meaningless rituals and superstitions.",
+    "Oppose the caste system and untouchability.",
+    "Oppose child marriage; support widow remarriage and women's education.",
+    "Shuddhi movement to bring back converts.",
+    "Spread education through DAV schools and colleges."
+   ],
+   "or": {
+    "ch": "india-after-independence",
+    "q": "What were the problems faced by India at the time of Independence?",
+    "ans": "Integration of princely states, partition refugees, communal riots, food shortage, poverty and unemployment, framing the Constitution, Kashmir issue, and economic backwardness.",
+    "sol": [
+     "Integration of over 560 princely states.",
+     "Rehabilitation of lakhs of refugees after partition.",
+     "Communal riots and violence.",
+     "Food shortage, poverty, unemployment and illiteracy.",
+     "Framing a Constitution and organising elections.",
+     "The Kashmir problem and relations with Pakistan."
+    ]
+   }
+  },
+  {
+   "n": "27",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "the-first-war-of-indian-independence-1857",
+   "q": "What are the reasons for the failure of the First War of Indian Independence?",
+   "ans": "Lack of unity, common aim and central leadership; limited spread; support of many rulers and educated Indians to the British; superior British army, weapons and communication.",
+   "sol": [
+    "No unity or common goal among the rebels.",
+    "Lack of central leadership and planning.",
+    "It did not spread all over India.",
+    "Many native rulers and the educated class supported the British.",
+    "The British had superior weapons, army, railways and telegraph.",
+    "Rebels lacked resources and discipline."
+   ]
+  },
+  {
+   "n": "28",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "indias-foreign-policy-and-global-challenges",
+   "q": "Explain the relationship of India and Russia.",
+   "ans": "Long friendship: USSR's support on Kashmir (veto), help with steel plants and industries, 1971 Treaty of Friendship, defence supplies, cooperation in space, nuclear energy and trade, BRICS partnership.",
+   "sol": [
+    "The USSR supported India on Kashmir in the Security Council with its veto.",
+    "Helped build Bhilai and Bokaro steel plants and other heavy industries.",
+    "Indo-Soviet Treaty of Peace, Friendship and Cooperation (1971).",
+    "Supplies defence equipment; joint projects like BrahMos missile.",
+    "Cooperation in space and nuclear energy (Kudankulam).",
+    "Both are members of BRICS and SCO; strong trade ties."
+   ]
+  },
+  {
+   "n": "29",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "social-stratification",
+   "q": "Write the legal measures to eradicate untouchability in India.",
+   "ans": "Article 17 abolishes untouchability; Untouchability (Offences) Act 1955 renamed Protection of Civil Rights Act 1976; SC/ST (Prevention of Atrocities) Act 1989; reservation in education, jobs and legislatures; special courts and commissions.",
+   "sol": [
+    "Article 17 of the Constitution abolishes untouchability and makes its practice an offence.",
+    "Untouchability (Offences) Act, 1955, renamed the Protection of Civil Rights Act, 1976.",
+    "SC and ST (Prevention of Atrocities) Act, 1989.",
+    "Reservation in education, government jobs and legislatures.",
+    "Special courts, National Commission for Scheduled Castes.",
+    "Articles 15 and 46 prevent discrimination and promote their welfare."
+   ]
+  },
+  {
+   "n": "30",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "india-major-industries",
+   "q": "What are the factors that influence the localisation of industries?",
+   "ans": "Raw materials, power, water, labour, transport, market, capital and government policy.",
+   "sol": [
+    "Availability of raw materials.",
+    "Power supply.",
+    "Water supply.",
+    "Cheap and skilled labour.",
+    "Transport and communication facilities.",
+    "Market, capital and government policies (concessions)."
+   ],
+   "or": {
+    "ch": "india-natural-disasters",
+    "q": "List out the effects of cyclones.",
+    "ans": "Loss of life, damage to houses, crops and infrastructure, floods and storm surges, salinity of farmland, disruption of power and communication, disease.",
+    "sol": [
+     "Loss of human and animal life.",
+     "Destruction of houses, roads, power and communication lines.",
+     "Heavy rain and storm surges cause floods in coastal areas.",
+     "Crops destroyed; farmland becomes saline.",
+     "Fishing and trade are disrupted.",
+     "Spread of diseases and great economic loss."
+    ]
+   }
+  },
+  {
+   "n": "31",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "india-transport-and-communication",
+   "q": "What is the importance of transport? Explain.",
+   "ans": "Moves goods and people, supplies raw materials and markets for industries and farms, aids trade, employment, tourism, defence and disaster relief, and national integration.",
+   "sol": [
+    "Carries raw materials to industries and finished goods to markets.",
+    "Helps agriculture by moving inputs and produce.",
+    "Promotes internal and foreign trade.",
+    "Provides employment and develops tourism.",
+    "Helps in defence and relief work during disasters.",
+    "Promotes national unity and cultural exchange."
+   ]
+  },
+  {
+   "n": "32",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "social-challenges",
+   "q": "Point out the various dimensions of gender discrimination prevailing in present day India.",
+   "ans": "Female foeticide and infanticide, lower literacy, unequal wages, less participation in decision-making and politics, dowry and domestic violence, unequal property and health care.",
+   "sol": [
+    "Female foeticide and infanticide; adverse sex ratio.",
+    "Lower literacy and education of girls.",
+    "Unequal wages and fewer job opportunities.",
+    "Less representation in politics and decision-making.",
+    "Dowry, domestic violence and harassment.",
+    "Unequal share in property, nutrition and health care."
+   ],
+   "or": {
+    "ch": "rural-development",
+    "q": "Explain the features of the Panchayat Raj system adopted in India.",
+    "ans": "Three-tier system (Gram, Taluk, Zilla Panchayats) under the 73rd Amendment; Gram Sabha; elections every 5 years by the State Election Commission; reservation for SC/ST, backward classes and women; State Finance Commission; local planning.",
+    "sol": [
+     "Three-tier system: Gram Panchayat, Taluk Panchayat and Zilla Panchayat.",
+     "Gram Sabha of all voters of the village.",
+     "Regular elections every five years by the State Election Commission.",
+     "Reservation of seats for SC/ST, backward classes and women (50% in Karnataka).",
+     "State Finance Commission to share funds.",
+     "Power to plan and carry out local development work."
+    ]
+   }
+  },
+  {
+   "n": "33",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "bank-transactions",
+   "q": "What are the functions of banks?",
+   "ans": "Accept deposits, give loans and overdrafts, transfer funds, provide lockers, agency services and encourage savings.",
+   "sol": [
+    "Accept deposits (savings, current, fixed, recurring).",
+    "Give loans and overdrafts.",
+    "Transfer money by cheque, draft and electronic means.",
+    "Safe deposit lockers.",
+    "Agency services like paying bills and collecting dividends.",
+    "Encourage savings and support economic development."
+   ],
+   "or": {
+    "ch": "entrepreneurship",
+    "q": "What is the entrepreneur's role in economic development?",
+    "ans": "Creates employment, increases production and national income, uses resources well, brings innovation, promotes balanced regional development and exports, raises living standards.",
+    "sol": [
+     "Generates employment.",
+     "Increases production and national income.",
+     "Makes better use of local resources and capital.",
+     "Brings innovation and new technology.",
+     "Promotes balanced regional development and exports.",
+     "Improves the standard of living."
+    ]
+   }
+  },
+  {
+   "n": "34",
+   "sec": "V",
+   "marks": 4,
+   "ch": "opposition-to-british-rule-in-karnataka-and-wodeyars-of-mysore",
+   "q": "How did Dhondia Wagh fight against the British?",
+   "ans": "After Tipu's fall he gathered Tipu's soldiers and others, captured forts in north Karnataka (Shivamogga, Chitradurga areas), called himself 'King of the Two Worlds', fought guerrilla war against the British and Marathas, and was killed at Konagal in 1800.",
+   "sol": [
+    "Dhondia Wagh was a soldier who had served Hyder Ali and Tipu; he was imprisoned by Tipu and freed when Srirangapatna fell in 1799.",
+    "He gathered Tipu's unemployed soldiers and discontented local chiefs and formed an army.",
+    "He captured forts and territories in the Shivamogga, Chitradurga and Dharwad region.",
+    "He called himself 'King of the Two Worlds' (Ubhaya Lokadheeshwara).",
+    "He used guerrilla tactics against the British and the Marathas.",
+    "Colonel Arthur Wellesley pursued him; he was killed in battle at Konagal (Raichur) in 1800."
+   ],
+   "or": {
+    "ch": "the-freedom-struggle",
+    "q": "Explain the role of Radicals in the Indian Independence Movement.",
+    "ans": "Leaders like Tilak, Lala Lajpat Rai and Bipin Chandra Pal (Lal-Bal-Pal) and Aurobindo demanded Swaraj, used boycott, swadeshi, national education, mass mobilisation and festivals; 'Swaraj is my birthright'.",
+    "sol": [
+     "Radicals (extremists) included Bal Gangadhar Tilak, Lala Lajpat Rai, Bipin Chandra Pal and Aurobindo Ghosh.",
+     "They criticised the moderates' petitions and demanded Swaraj; Tilak said 'Swaraj is my birthright and I shall have it'.",
+     "Led the Swadeshi and Boycott movements against the partition of Bengal (1905).",
+     "Promoted national education and swadeshi industries.",
+     "Used Ganesh and Shivaji festivals and newspapers (Kesari, Maratha) to unite people.",
+     "Turned the freedom movement into a mass movement."
+    ]
+   }
+  },
+  {
+   "n": "35",
+   "sec": "V",
+   "marks": 4,
+   "ch": "the-freedom-struggle",
+   "q": "What is the role of Subhash Chandra Bose in the freedom struggle?",
+   "ans": "Congress president 1938–39, Forward Bloc, escaped abroad, led the INA and the Azad Hind government, 'Delhi Chalo', 'Give me blood, I will give you freedom'; INA reached Imphal–Kohima.",
+   "sol": [
+    "Gave up the ICS and joined the freedom movement.",
+    "Elected Congress president (1938, 1939); formed the Forward Bloc.",
+    "Escaped from house arrest (1941) and sought help from Germany and Japan.",
+    "Led the Indian National Army (Azad Hind Fauj) and formed the Provisional Government of Free India in Singapore (1943).",
+    "Slogans: 'Delhi Chalo', 'Jai Hind', 'Give me blood, I will give you freedom'.",
+    "The INA fought up to Imphal and Kohima; the INA trials stirred the nation."
+   ]
+  },
+  {
+   "n": "36",
+   "sec": "V",
+   "marks": 4,
+   "ch": "social-challenges",
+   "q": "Which measures are taken to improve the status of women in India?",
+   "ans": "Constitutional equality, laws against dowry, domestic violence, sexual harassment and child marriage, equal property rights, reservation in local bodies, education and employment schemes, self-help groups, National Commission for Women.",
+   "sol": [
+    "Constitution guarantees equality and prohibits discrimination by sex.",
+    "Dowry Prohibition Act, Protection of Women from Domestic Violence Act, Prohibition of Child Marriage Act.",
+    "Equal property rights (Hindu Succession Amendment 2005) and Equal Remuneration Act.",
+    "Reservation for women in Panchayats and local bodies.",
+    "Free education for girls, scholarships, Beti Bachao Beti Padhao.",
+    "Stree Shakti and self-help groups; National Commission for Women."
+   ]
+  },
+  {
+   "n": "37",
+   "sec": "V",
+   "marks": 4,
+   "ch": "india-land-use-and-agriculture",
+   "q": "List out the types of agriculture followed in India.",
+   "ans": "Subsistence, intensive, extensive, commercial, plantation, mixed, dry and wet farming (and shifting cultivation).",
+   "sol": [
+    "Subsistence farming: crops grown mainly for the family's own needs.",
+    "Intensive farming: high inputs on small land to get maximum yield.",
+    "Extensive farming: large areas with machines, less labour per hectare.",
+    "Commercial farming: crops grown for sale.",
+    "Plantation farming: single crops like tea, coffee, rubber on large estates.",
+    "Mixed farming (crops with livestock), dry farming (rain-fed), wet farming (irrigated or high rainfall) and shifting cultivation."
+   ]
+  },
+  {
+   "n": "38",
+   "sec": "VI",
+   "marks": 5,
+   "ch": "india-geographical-position-and-physical-features",
+   "q": "Draw an outline map of India and mark the following: (a) 23½° North latitude (b) Bhakra-Nangal (c) River Kaveri (d) Mumbai.",
+   "ans": "Outline of India (1 mark). 23½°N: Tropic of Cancer across Gujarat to Mizoram. Bhakra-Nangal: on the Sutlej in Himachal Pradesh/Punjab. Kaveri: from Talakaveri (Kodagu) south-east through Karnataka and Tamil Nadu to the Bay of Bengal. Mumbai: west coast of Maharashtra.",
+   "sol": [
+    "Draw a neat outline of India (1 mark).",
+    "(a) 23½° N (Tropic of Cancer): passes through Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+    "(b) Bhakra-Nangal: dam on the Sutlej river on the Himachal Pradesh–Punjab border.",
+    "(c) River Kaveri: rises at Talakaveri in Kodagu, flows south-east through Karnataka and Tamil Nadu into the Bay of Bengal.",
+    "(d) Mumbai: port city on the west coast of Maharashtra."
+   ],
+   "or": {
+    "ch": "india-water-resources",
+    "q": "Alternative for visually impaired candidates only: Mention the main aims of the Multipurpose River Valley Projects.",
+    "ans": "Irrigation, hydroelectricity, flood control, drinking water, navigation, fisheries, soil conservation and tourism.",
+    "sol": [
+     "Irrigation.",
+     "Hydroelectric power.",
+     "Flood control.",
+     "Drinking water and water for industries.",
+     "Inland navigation and fish breeding.",
+     "Soil conservation, afforestation and recreation."
+    ]
+   }
+  }
+ ]
+}

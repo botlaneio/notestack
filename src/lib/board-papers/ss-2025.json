@@ -1,0 +1,700 @@
+{
+ "id": "ss-2025",
+ "subject": "social-science",
+ "year": 2025,
+ "exam": "Exam 1",
+ "date": "2025-03-29",
+ "code": "85-E",
+ "version": "A",
+ "minutes": 195,
+ "maxMarks": 80,
+ "source": "https://kseeb.karnataka.gov.in/QP/SSLC2025_EXAM1_QP",
+ "sections": [
+  {
+   "id": "I",
+   "title": "Choose the correct answer",
+   "note": "8 × 1 = 8"
+  },
+  {
+   "id": "II",
+   "title": "Answer in a sentence each",
+   "note": "8 × 1 = 8"
+  },
+  {
+   "id": "III",
+   "title": "Answer in two to four sentences or points each",
+   "note": "8 × 2 = 16"
+  },
+  {
+   "id": "IV",
+   "title": "Answer in six sentences or points each",
+   "note": "9 × 3 = 27"
+  },
+  {
+   "id": "V",
+   "title": "Answer in about eight sentences or points each",
+   "note": "4 × 4 = 16"
+  },
+  {
+   "id": "VI",
+   "title": "Map question",
+   "note": "1 × 5 = 5"
+  }
+ ],
+ "questions": [
+  {
+   "n": "1",
+   "sec": "I",
+   "marks": 1,
+   "ch": "indias-foreign-policy-and-global-challenges",
+   "q": "The policy of not joining any power bloc is",
+   "opts": [
+    "Blue water policy",
+    "Racial discrimination policy",
+    "Non-Alignment policy",
+    "Human Rights policy"
+   ],
+   "ans": "C",
+   "sol": [
+    "After the Second World War the world split into the US bloc and the Soviet bloc. India chose not to join either; this is the policy of Non-Alignment, led by Nehru."
+   ]
+  },
+  {
+   "n": "2",
+   "sec": "I",
+   "marks": 1,
+   "ch": "india-land-use-and-agriculture",
+   "q": "The progress of Horticultural field is called as",
+   "opts": [
+    "Yellow Revolution",
+    "Golden Revolution",
+    "Blue Revolution",
+    "Red Revolution"
+   ],
+   "ans": "B",
+   "sol": [
+    "The rapid growth in production of fruits, vegetables and flowers (horticulture) is called the Golden Revolution. Yellow = oilseeds, Blue = fisheries, Red = meat/tomato."
+   ]
+  },
+  {
+   "n": "3",
+   "sec": "I",
+   "marks": 1,
+   "ch": "india-major-industries",
+   "q": "The reason to call 'Mumbai' as Manchester of India is",
+   "opts": [
+    "It has highest cotton mills",
+    "It is the centre of Information Technology",
+    "It is famous for Sugar industry",
+    "It is famous for Aluminium industry"
+   ],
+   "ans": "A",
+   "sol": [
+    "Mumbai has the largest number of cotton textile mills in India, like Manchester in England."
+   ]
+  },
+  {
+   "n": "4",
+   "sec": "I",
+   "marks": 1,
+   "ch": "work-and-economic-life",
+   "q": "Unorganised workers among the following are",
+   "opts": [
+    "Domestic servants",
+    "Police",
+    "Bank employees",
+    "Insurance employees"
+   ],
+   "ans": "A",
+   "sol": [
+    "Unorganised workers have no fixed terms of employment, job security or social security benefits. Domestic servants are unorganised; police, bank and insurance employees are organised."
+   ]
+  },
+  {
+   "n": "5",
+   "sec": "I",
+   "marks": 1,
+   "ch": "the-impact-of-the-british-rule-in-india",
+   "q": "In order to provide separate representation for Muslims, \"Separate Electorate\" was created by",
+   "opts": [
+    "Charter Act of 1833",
+    "Indian Councils Act of 1892",
+    "Government of India Act of 1935",
+    "Indian Councils Act of 1909"
+   ],
+   "ans": "D",
+   "sol": [
+    "The Indian Councils Act of 1909 (Minto-Morley Reforms) introduced separate electorates for Muslims."
+   ]
+  },
+  {
+   "n": "6",
+   "sec": "I",
+   "marks": 1,
+   "ch": "public-finance-and-budget",
+   "q": "Non-planned expenditure among the following is",
+   "opts": [
+    "Agricultural expenditure",
+    "Transport expenditure",
+    "Defence expenditure",
+    "Educational expenditure"
+   ],
+   "ans": "C",
+   "sol": [
+    "Non-plan expenditure is spending that is not part of the development plans, such as defence, interest payments and subsidies. Agriculture, transport and education are plan expenditures."
+   ]
+  },
+  {
+   "n": "7",
+   "sec": "I",
+   "marks": 1,
+   "ch": "consumer-education-and-protection",
+   "q": "In the case of compensation to consumers of more than Rs. 10 crore, the complaint has to be submitted to",
+   "opts": [
+    "The District Commission",
+    "The State Commission",
+    "The Taluk Commission",
+    "The National Commission"
+   ],
+   "ans": "D",
+   "sol": [
+    "Under the Consumer Protection Act, 2019: District Commission up to ₹1 crore, State Commission from ₹1 crore to ₹10 crore, National Commission above ₹10 crore."
+   ]
+  },
+  {
+   "n": "8",
+   "sec": "I",
+   "marks": 1,
+   "ch": "the-freedom-struggle",
+   "q": "'Mahad Tank' and 'Kalaram' movements were started by Dr. B. R. Ambedkar to",
+   "opts": [
+    "prove that the untouchables had been denied basic facilities",
+    "work towards the progress of agricultural labours",
+    "demand separate electoral constituencies for untouchables",
+    "publish 'Prabuddha Bharata' and 'Mukanayaka'"
+   ],
+   "ans": "A",
+   "sol": [
+    "Ambedkar led the Mahad Tank satyagraha (for the right to draw water from a public tank) and the Kalaram temple entry movement to show that untouchables were denied basic facilities and rights."
+   ]
+  },
+  {
+   "n": "9",
+   "sec": "II",
+   "marks": 1,
+   "ch": "india-seasons",
+   "q": "Which place has recorded the highest temperature in our country?",
+   "ans": "Sri Ganganagar in Rajasthan.",
+   "sol": [
+    "The highest temperature in India has been recorded at Sri Ganganagar in Rajasthan (about 52.6 °C)."
+   ]
+  },
+  {
+   "n": "10",
+   "sec": "II",
+   "marks": 1,
+   "ch": "social-challenges",
+   "q": "What is female foeticide?",
+   "ans": "Killing a female foetus in the womb, after finding out its sex.",
+   "sol": [
+    "Female foeticide is the abortion of a female foetus after identifying its sex, only because it is a girl."
+   ]
+  },
+  {
+   "n": "11",
+   "sec": "II",
+   "marks": 1,
+   "ch": "bank-transactions",
+   "q": "In which type of bank account can any number of transactions be made in a day?",
+   "ans": "Current account.",
+   "sol": [
+    "A current account (mostly used by businesses) allows any number of deposits and withdrawals in a day."
+   ]
+  },
+  {
+   "n": "12",
+   "sec": "II",
+   "marks": 1,
+   "ch": "rural-development",
+   "q": "Why is decentralisation of power needed?",
+   "ans": "So that local people take part in decisions and administration about their own area, making democracy stronger and development faster.",
+   "sol": [
+    "Decentralisation passes power to local bodies so that people participate directly in planning and administration of their own villages, which strengthens grassroots democracy."
+   ]
+  },
+  {
+   "n": "13",
+   "sec": "II",
+   "marks": 1,
+   "ch": "social-stratification",
+   "q": "Which section of our constitution prohibits the practice of untouchability?",
+   "ans": "Article 17.",
+   "sol": [
+    "Article 17 of the Constitution abolishes untouchability and forbids its practice in any form."
+   ]
+  },
+  {
+   "n": "14",
+   "sec": "II",
+   "marks": 1,
+   "ch": "public-administration-an-introduction",
+   "q": "What is public administration according to Woodrow Wilson?",
+   "ans": "\"Public administration is detailed and systematic application of law.\"",
+   "sol": [
+    "Woodrow Wilson defined public administration as the detailed and systematic application (execution) of law."
+   ]
+  },
+  {
+   "n": "15",
+   "sec": "II",
+   "marks": 1,
+   "ch": "world-wars-and-indias-role",
+   "q": "Where is Teen Murti Haifa Chowk located?",
+   "ans": "In New Delhi.",
+   "sol": [
+    "Teen Murti Haifa Chowk is in New Delhi. It honours Indian soldiers who fought at Haifa (in present Israel) during the First World War."
+   ]
+  },
+  {
+   "n": "16",
+   "sec": "II",
+   "marks": 1,
+   "ch": "the-freedom-struggle",
+   "q": "Who is known as the 'Iron man of India'?",
+   "ans": "Sardar Vallabhbhai Patel.",
+   "sol": [
+    "Sardar Vallabhbhai Patel is called the Iron Man of India for his firm leadership, especially in integrating the princely states."
+   ]
+  },
+  {
+   "n": "17",
+   "sec": "III",
+   "marks": 2,
+   "ch": "challenges-of-india-and-their-remedies",
+   "q": "What are the measures undertaken to eliminate discrimination of gender minorities?",
+   "ans": "Legal recognition as third gender, the Transgender Persons (Protection of Rights) Act 2019, reservation and welfare schemes, awareness programmes.",
+   "sol": [
+    "The Supreme Court recognised transgender persons as the 'third gender' (2014).",
+    "The Transgender Persons (Protection of Rights) Act, 2019 bans discrimination in education, jobs and health care.",
+    "Governments give identity cards, welfare schemes, scholarships and job opportunities.",
+    "Awareness programmes help remove social prejudice."
+   ],
+   "or": {
+    "ch": "world-organisations",
+    "q": "What are the functions of UNESCO?",
+    "ans": "Promotes education, science and culture; spreads literacy; protects world heritage sites; encourages cultural exchange and research.",
+    "sol": [
+     "Promotes international cooperation in education, science and culture.",
+     "Works to spread literacy and universal education.",
+     "Protects and maintains world heritage sites and cultural treasures.",
+     "Encourages research, exchange of scholars and freedom of the press."
+    ]
+   }
+  },
+  {
+   "n": "18",
+   "sec": "III",
+   "marks": 2,
+   "ch": "collective-behaviour-and-protests",
+   "q": "How are mobs different from riots?",
+   "ans": "A mob is an emotionally charged crowd with a common goal, usually temporary; a riot is violent mob behaviour that destroys property and life.",
+   "sol": [
+    "Mob: a large, emotionally excited crowd gathered for a particular purpose; it may be peaceful or turn violent.",
+    "Riot: when a mob becomes violent, attacks people, loots and destroys property, it is a riot.",
+    "Every riot involves a mob, but every mob is not a riot."
+   ],
+   "or": {
+    "ch": "social-challenges",
+    "q": "How can we prevent child marriage?",
+    "ans": "Strict enforcement of the Prohibition of Child Marriage Act 2006, education of girls, awareness campaigns, reporting to Childline 1098 and local officers.",
+    "sol": [
+     "Strictly enforce the Prohibition of Child Marriage Act, 2006 (minimum age 18 for girls, 21 for boys).",
+     "Educate girls and keep them in school.",
+     "Create awareness about the harmful effects through media, schools and NGOs.",
+     "Report child marriages to Childline 1098, police or child marriage prohibition officers."
+    ]
+   }
+  },
+  {
+   "n": "19",
+   "sec": "III",
+   "marks": 2,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "How did the battle of Buxar make the British the real power holders of Bengal?",
+   "ans": "After defeating Mir Qasim, Shuja-ud-Daula and Shah Alam II (1764), the British got the Diwani rights of Bengal, Bihar and Orissa through the Treaty of Allahabad (1765).",
+   "sol": [
+    "In 1764 the British defeated the combined forces of Mir Qasim, Shuja-ud-Daula of Awadh and the Mughal emperor Shah Alam II at Buxar.",
+    "By the Treaty of Allahabad (1765) the Company got the Diwani (right to collect revenue) of Bengal, Bihar and Orissa.",
+    "Robert Clive's dual government left the Nawab only nominal power, so the British became the real rulers of Bengal."
+   ]
+  },
+  {
+   "n": "20",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-after-independence",
+   "q": "How was Goa liberated from the Portuguese?",
+   "ans": "The Portuguese refused to leave after 1947; after protests and satyagraha failed, the Indian army entered Goa in 1961 (Operation Vijay) and it became part of India.",
+   "sol": [
+    "Even after independence the Portuguese did not leave Goa, Daman and Diu.",
+    "Satyagrahas and protests by Goans and Indian volunteers were suppressed.",
+    "In December 1961 the Indian army took military action (Operation Vijay) and liberated Goa; it became part of India and later a state (1987)."
+   ]
+  },
+  {
+   "n": "21",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-transport-and-communication",
+   "q": "What are the differences between GIS and GPS?",
+   "ans": "GIS stores, analyses and displays geographic data as maps; GPS is a satellite navigation system that gives the exact location (latitude, longitude) of a place.",
+   "sol": [
+    "GIS (Geographic Information System): a computer system that collects, stores, analyses and displays spatial data in the form of maps and layers. It is used for planning and analysis.",
+    "GPS (Global Positioning System): a satellite-based system that finds the exact location, speed and time of a point on the earth. It is used for navigation."
+   ]
+  },
+  {
+   "n": "22",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-major-industries",
+   "q": "What are the outstanding achievements of ISRO?",
+   "ans": "Launch vehicles PSLV and GSLV, INSAT and IRS satellites, Chandrayaan missions, Mangalyaan (Mars Orbiter Mission), launching many foreign satellites.",
+   "sol": [
+    "Developed launch vehicles such as PSLV and GSLV.",
+    "Launched INSAT (communication) and IRS (remote sensing) satellites.",
+    "Chandrayaan missions to the moon (Chandrayaan-3 landed near the south pole in 2023) and Mangalyaan to Mars in the first attempt.",
+    "Launched over 100 satellites in a single mission and satellites of many other countries."
+   ]
+  },
+  {
+   "n": "23",
+   "sec": "III",
+   "marks": 2,
+   "ch": "rural-development",
+   "q": "Name the housing programmes taken up by the Government for shelterless people.",
+   "ans": "Indira Awas Yojana / Pradhan Mantri Awas Yojana, Ashraya, Ambedkar Housing scheme, Basava Vasati Yojana.",
+   "sol": [
+    "Indira Awas Yojana (now Pradhan Mantri Awas Yojana – Gramin).",
+    "Ashraya housing scheme and Basava Vasati Yojana in Karnataka.",
+    "Dr. B.R. Ambedkar housing scheme, Devaraj Urs housing scheme."
+   ]
+  },
+  {
+   "n": "24",
+   "sec": "III",
+   "marks": 2,
+   "ch": "entrepreneurship",
+   "q": "How is entrepreneurship a creative activity?",
+   "ans": "An entrepreneur brings new ideas, new products, new methods of production and new markets; innovation is at the heart of entrepreneurship.",
+   "sol": [
+    "An entrepreneur turns new ideas into products or services.",
+    "Introduces new methods of production, new markets and new ways of organising business.",
+    "Innovation and imagination are needed to see opportunities others miss, so entrepreneurship is creative."
+   ]
+  },
+  {
+   "n": "25",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "social-and-religious-reform-movements",
+   "q": "Explain the social reforms of Swami Dayananda Saraswati.",
+   "ans": "Founded Arya Samaj (1875), 'Back to the Vedas', opposed idol worship, caste system, untouchability and child marriage, supported widow remarriage and women's education, Shuddhi movement, DAV schools.",
+   "sol": [
+    "Founded the Arya Samaj in 1875 and gave the call 'Back to the Vedas'.",
+    "Opposed idol worship, rituals, superstitions and the caste system and untouchability.",
+    "Opposed child marriage and supported widow remarriage and women's education.",
+    "Started the Shuddhi movement to bring back converts to Hinduism.",
+    "His followers started Dayananda Anglo-Vedic (DAV) schools and colleges.",
+    "Wrote 'Satyartha Prakash'."
+   ],
+   "or": {
+    "ch": "the-extension-of-the-british-rule",
+    "q": "Explain the conditions of Subsidiary Alliance.",
+    "ans": "The Indian ruler had to keep a British army in his state and pay for it, accept a British Resident, not make alliances or wars without British consent, and not employ other Europeans; in return the British protected him.",
+    "sol": [
+     "Introduced by Lord Wellesley.",
+     "The Indian ruler had to keep a British army in his state and pay for its maintenance (or give territory).",
+     "A British Resident had to be kept at his court.",
+     "He could not make war or treaties with other rulers without British permission.",
+     "He could not employ other Europeans except the British.",
+     "In return, the British promised to protect him from external attacks and internal revolts."
+    ]
+   }
+  },
+  {
+   "n": "26",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "india-forest-resources",
+   "q": "Forests are most useful sources. Justify.",
+   "ans": "Forests give timber, fuel, raw materials and medicines, maintain rainfall and climate, prevent soil erosion and floods, shelter wildlife, and provide livelihoods and recreation.",
+   "sol": [
+    "Provide timber, firewood and raw materials for paper, plywood and match industries.",
+    "Give minor products like honey, gum, lac, medicinal herbs.",
+    "Help in rainfall, control temperature and maintain ecological balance.",
+    "Prevent soil erosion and floods.",
+    "Provide shelter to wildlife and support tourism.",
+    "Give employment and livelihood to tribal people."
+   ],
+   "or": {
+    "ch": "india-water-resources",
+    "q": "Multi-purpose river valley projects are very essential for the development of the nation. Justify.",
+    "ans": "They provide irrigation, hydroelectricity, flood control, drinking water, inland navigation, fisheries and tourism, and prevent soil erosion.",
+    "sol": [
+     "Provide water for irrigation, increasing agricultural production.",
+     "Generate hydroelectricity for industries and homes.",
+     "Control floods.",
+     "Supply drinking water to towns and industries.",
+     "Help inland navigation, fish breeding and tourism.",
+     "Help in afforestation and soil conservation."
+    ]
+   }
+  },
+  {
+   "n": "27",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "economy-and-government",
+   "q": "What are the objectives of Five Year Plans?",
+   "ans": "Increase national and per capita income, achieve self-reliance, generate employment, reduce inequality and poverty, increase agricultural and industrial production, balanced regional development.",
+   "sol": [
+    "Increase national income and per capita income.",
+    "Increase agricultural and industrial production.",
+    "Create more employment opportunities.",
+    "Reduce inequalities of income and wealth, and remove poverty.",
+    "Achieve self-reliance and modernisation.",
+    "Achieve balanced regional development."
+   ],
+   "or": {
+    "ch": "public-finance-and-budget",
+    "q": "Which are the non-tax revenue sources of the Central Government?",
+    "ans": "Profits of public sector enterprises, interest receipts, fees and fines, dividends, grants, revenue from railways, posts and other public services.",
+    "sol": [
+     "Profits from public sector enterprises (e.g. Railways).",
+     "Interest received on loans given to states and others.",
+     "Fees, fines and penalties.",
+     "Dividends from investments.",
+     "Income from post and telegraph and other government services.",
+     "Grants and gifts."
+    ]
+   }
+  },
+  {
+   "n": "28",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "bank-transactions",
+   "q": "What are the functions of a bank?",
+   "ans": "Accepting deposits, lending loans, overdrafts, transfer of money (cheques, drafts, online), safe deposit lockers, collecting bills and agency services, encouraging savings.",
+   "sol": [
+    "Accept deposits from the public (savings, current, fixed and recurring).",
+    "Lend loans and give overdrafts to individuals and businesses.",
+    "Transfer money through cheques, demand drafts, NEFT/RTGS and online banking.",
+    "Provide safe deposit lockers.",
+    "Collect bills, pay insurance premiums and act as agents for customers.",
+    "Encourage savings and help in economic development."
+   ],
+   "or": {
+    "ch": "consumer-education-and-protection",
+    "q": "What are the methods to be followed to file a case in the Consumer Court?",
+    "ans": "Write the complaint on plain paper with name and address of complainant and opposite party, facts, bills/receipts as proof, relief sought; file within 2 years at the proper commission with the small fee; can be filed online (e-Daakhil).",
+    "sol": [
+     "The complaint can be written on plain paper; no lawyer is needed.",
+     "Give the name and address of the complainant and the opposite party (trader/service provider).",
+     "State the facts of the complaint and when and where the goods were bought.",
+     "Attach copies of bills, receipts and warranty as evidence.",
+     "State the relief or compensation sought.",
+     "File it within two years at the District, State or National Commission depending on the value, with the prescribed fee (it can also be filed online)."
+    ]
+   }
+  },
+  {
+   "n": "29",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "world-wars-and-indias-role",
+   "q": "What were the results of the World War II?",
+   "ans": "Huge loss of life and property, atomic bombing of Japan, defeat of fascism, formation of the UN, decline of European colonial powers and decolonisation, rise of USA and USSR as superpowers and the Cold War.",
+   "sol": [
+    "Enormous loss of life and property; atomic bombs on Hiroshima and Nagasaki.",
+    "Fascism and Nazism were defeated.",
+    "The United Nations Organisation was formed in 1945.",
+    "European powers weakened, leading to independence of many colonies including India.",
+    "USA and USSR emerged as superpowers, leading to the Cold War.",
+    "Germany was divided."
+   ]
+  },
+  {
+   "n": "30",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "the-impact-of-the-british-rule-in-india",
+   "q": "How did the British land tax system exploit Indian farmers?",
+   "ans": "Permanent Zamindari, Ryotwari and Mahalwari systems fixed high revenue, demanded cash regardless of harvest, made farmers sell land or borrow from moneylenders, and created a class of absentee landlords.",
+   "sol": [
+    "Permanent Settlement (Zamindari) made zamindars the owners; peasants became tenants and were made to pay heavy rent.",
+    "Ryotwari system fixed very high revenue directly on peasants, payable in cash even in drought.",
+    "Mahalwari system collected revenue from the whole village, often harshly.",
+    "Farmers had to borrow from moneylenders and lost their lands.",
+    "Commercial crops were forced, leading to food shortage and famines.",
+    "Farmers became poorer and indebted."
+   ]
+  },
+  {
+   "n": "31",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "challenges-of-india-and-their-remedies",
+   "q": "Make a list of programmes implemented to eradicate illiteracy.",
+   "ans": "Sarva Shiksha Abhiyan, Mid-day meal scheme, Right to Education Act, National Literacy Mission, Saakshar Bharat, adult education.",
+   "sol": [
+    "Sarva Shiksha Abhiyan (education for all).",
+    "Right to Education Act, 2009 (free and compulsory education for 6 to 14 years).",
+    "Mid-day meal scheme.",
+    "National Literacy Mission and Saakshar Bharat.",
+    "Adult and continuing education programmes.",
+    "Free textbooks, uniforms and scholarships."
+   ]
+  },
+  {
+   "n": "32",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "social-challenges",
+   "q": "What are the effects of child labour?",
+   "ans": "Children lose education and childhood, suffer poor health and injury, are exploited with low wages, remain poor and unskilled, and the nation loses human resources.",
+   "sol": [
+    "Children are deprived of education and their childhood.",
+    "Work in unsafe conditions harms their physical and mental health.",
+    "They are exploited with very low wages and long hours.",
+    "They remain unskilled and poor as adults; the cycle of poverty continues.",
+    "It increases unemployment among adults.",
+    "The nation's human resource development suffers."
+   ]
+  },
+  {
+   "n": "33",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "india-soils",
+   "q": "How can soil erosion be prevented?",
+   "ans": "Afforestation, controlled grazing, contour ploughing, terrace farming, building check dams and bunds, strip cropping and crop rotation.",
+   "sol": [
+    "Plant trees (afforestation) and stop deforestation.",
+    "Control overgrazing.",
+    "Contour ploughing and terrace farming on slopes.",
+    "Build check dams and bunds across gullies.",
+    "Strip cropping, crop rotation and cover crops.",
+    "Use gully plugging and shelter belts."
+   ]
+  },
+  {
+   "n": "34",
+   "sec": "V",
+   "marks": 4,
+   "ch": "opposition-to-british-rule-in-karnataka-and-wodeyars-of-mysore",
+   "q": "Explain the achievements of Krishnaraja Wodeyar IV.",
+   "ans": "Model state of Mysore: KRS dam, Shivanasamudra hydroelectricity, Bhadravati iron and steel works, Mysore University (1916), Mysore Bank, sandalwood oil and soap factories, Legislative Council, reservation for backward classes.",
+   "sol": [
+    "Called 'Rajarshi'; Mysore became a model state.",
+    "Built the Krishnaraja Sagar dam (with Sir M. Visvesvaraya).",
+    "Bangalore was among the first cities in Asia to get electric lights; Shivanasamudra hydroelectric project.",
+    "Started the Bhadravati iron and steel works, sandalwood oil factory, soap factory and silk industry.",
+    "Founded Mysore University (1916), the Bank of Mysore, and the Mysore Chamber of Commerce.",
+    "Formed a Legislative Council and introduced reservation (Miller Committee) for backward classes; supported education of women."
+   ],
+   "or": {
+    "ch": "the-first-war-of-indian-independence-1857",
+    "q": "Explain the causes for the failure of the first war of Indian Independence.",
+    "ans": "No unity or common aim, lack of central leadership and plan, many rulers and educated Indians supported the British, superior British army, communications and resources, limited to some regions.",
+    "sol": [
+     "No common aim or national feeling; leaders fought for their own interests.",
+     "Lack of central leadership and a common plan.",
+     "It was limited to north and central India; the south and many regions stayed away.",
+     "Many native rulers (e.g. Sindhia, Nizam) and the educated class supported the British.",
+     "The British had a better army, weapons, telegraph and railways, and more resources.",
+     "The rebels lacked money, modern weapons and discipline."
+    ]
+   }
+  },
+  {
+   "n": "35",
+   "sec": "V",
+   "marks": 4,
+   "ch": "the-freedom-struggle",
+   "q": "\"The role of Subhash Chandra Bose in the freedom struggle of India is a milestone.\" Justify.",
+   "ans": "Congress president (1938, 1939), founded the Forward Bloc, escaped to Germany and Japan, led the Indian National Army (Azad Hind Fauj), formed the Azad Hind government, 'Delhi Chalo' and 'Give me blood, I will give you freedom'.",
+   "sol": [
+    "Left the ICS to join the freedom struggle; a radical leader.",
+    "Elected Congress president in 1938 and 1939; resigned due to differences and formed the Forward Bloc.",
+    "Escaped from house arrest and sought help from Germany and Japan.",
+    "Took over the Indian National Army (Azad Hind Fauj) with Indian soldiers taken prisoner by Japan.",
+    "Formed the Provisional Government of Free India in Singapore; gave the slogans 'Delhi Chalo' and 'Give me blood, I will give you freedom'.",
+    "The INA reached the Indian border at Imphal and Kohima; the INA trials inspired the nation and shook British rule."
+   ]
+  },
+  {
+   "n": "36",
+   "sec": "V",
+   "marks": 4,
+   "ch": "world-organisations",
+   "q": "Explain the achievements of the United Nations.",
+   "ans": "Prevented major wars and kept peace through peacekeeping forces, solved disputes, promoted human rights (1948 declaration), decolonisation, disarmament efforts, worked on health, education, food and refugees through its agencies.",
+   "sol": [
+    "Helped maintain world peace and prevented a third world war; settled disputes such as Suez, Korea, Congo.",
+    "Peacekeeping forces in many troubled regions.",
+    "Universal Declaration of Human Rights (1948).",
+    "Supported independence of colonies (decolonisation) and opposed apartheid.",
+    "Worked for disarmament and against nuclear weapons.",
+    "Its agencies (WHO, UNESCO, UNICEF, FAO, ILO) improved health, education, child welfare and food security; eradicated smallpox."
+   ]
+  },
+  {
+   "n": "37",
+   "sec": "V",
+   "marks": 4,
+   "ch": "india-natural-disasters",
+   "q": "Explain the causes for floods.",
+   "ans": "Heavy rainfall, cyclones, cloudbursts, melting of snow, deforestation, silting of river beds, encroachment and poor drainage, breaching of dams.",
+   "sol": [
+    "Heavy and continuous rainfall during the monsoon.",
+    "Cyclones and cloudbursts.",
+    "Melting of snow in the Himalayas.",
+    "Deforestation, which increases run-off.",
+    "Silting of river beds, reducing their capacity.",
+    "Encroachment on river banks, poor drainage in cities and breaching of dams and embankments."
+   ]
+  },
+  {
+   "n": "38",
+   "sec": "VI",
+   "marks": 5,
+   "ch": "india-geographical-position-and-physical-features",
+   "q": "In the outline map of India, mark any five of the following: (a) Coromandel Coast (b) 82° 30′ Eastern longitude (c) Hirakud (d) Rana Pratap Sagar (e) River Narmada (f) Kanyakumari (g) Visakhapatnam.",
+   "ans": "Coromandel Coast: east coast of Tamil Nadu. 82°30′E: line through Mirzapur (near Allahabad) and Kakinada. Hirakud: dam on Mahanadi in Odisha. Rana Pratap Sagar: dam on Chambal in Rajasthan. Narmada: flows west through MP and Gujarat into the Gulf of Khambhat. Kanyakumari: southern tip. Visakhapatnam: port on Andhra coast.",
+   "sol": [
+    "(a) Coromandel Coast: the eastern coast of Tamil Nadu, from about Chennai south to Kanyakumari.",
+    "(b) 82° 30′ E: the Standard Meridian of India; draw a north-south line passing close to Mirzapur (Uttar Pradesh) and Kakinada (Andhra Pradesh).",
+    "(c) Hirakud: dam across the Mahanadi near Sambalpur, Odisha.",
+    "(d) Rana Pratap Sagar: dam on the Chambal river in south-east Rajasthan.",
+    "(e) River Narmada: rises at Amarkantak (MP), flows west between the Vindhya and Satpura ranges into the Gulf of Khambhat.",
+    "(f) Kanyakumari: southernmost tip of mainland India.",
+    "(g) Visakhapatnam: port on the coast of north Andhra Pradesh."
+   ],
+   "or": {
+    "ch": "india-geographical-position-and-physical-features",
+    "q": "Alternative for visually impaired candidates only: What are the uses of the Himalayan Mountains?",
+    "ans": "They block cold winds from Central Asia, cause monsoon rainfall, are the source of perennial rivers, have forests, minerals and medicinal plants, attract tourists, and protect India as a natural barrier.",
+    "sol": [
+     "Act as a natural barrier protecting India from invasions.",
+     "Block cold winds from Central Asia and make India warmer.",
+     "Stop the monsoon winds, causing heavy rainfall in north India.",
+     "Source of perennial rivers (Ganga, Brahmaputra, Indus) useful for irrigation and hydroelectricity.",
+     "Rich in forests, medicinal plants and minerals.",
+     "Hill stations and pilgrim centres attract tourists."
+    ]
+   }
+  }
+ ]
+}

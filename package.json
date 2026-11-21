@@ -16,6 +16,7 @@
   "dependencies": {
     "@astryxdesign/core": "0.7.16",
     "@astryxdesign/theme-neutral": "0.7.16",
+    "@elevenlabs/react": "1.21.1",
     "@stylexjs/stylex": "latest",
     "lucide-react": "latest",
     "next": "16.4.6",

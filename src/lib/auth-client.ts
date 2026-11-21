@@ -87,7 +87,8 @@ export const adminSignOut = (userId: string) => post('/api/admin/sign-out', {use
 /** /learn/<area>/<chapter>/… → the chapter's own address, or null when not on a chapter page. */
 export function chapterPath(pathname: string): string | null {
   const m = pathname.match(/^\/learn\/(maths|science|social-science)\/([a-z0-9-]+)(?:\/|$)/);
-  if (!m || m[2].startsWith('index')) return null;
+  // Full past papers live under /learn/<area>/board-papers/; they are not a chapter.
+  if (!m || m[2].startsWith('index') || m[2] === 'board-papers') return null;
   return `/learn/${m[1]}/${m[2]}/`;
 }
 

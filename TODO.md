@@ -13,6 +13,12 @@
 - [ ] Verify the production domain and transactional email. Test sign-up, email verification and password reset.
 - [ ] Run an end-to-end purchase test for one subject and the Core Collection. Verify receipts and account access, and test failed payments, duplicate notifications and refunds.
 
+## Past board papers
+
+- [ ] Have a teacher check the worked answers, starting with the items in `docs/board-papers-review.md`. KSEAB published key answers only for 2022, so 2024 and 2025 answers are NoteStack's own.
+- [ ] Add the 2023 and 2026 papers only if KSEAB publishes them on kseab.karnataka.gov.in (checked 20 Nov 2026: not there). Official papers only.
+- [ ] Consider adding Exam 2 and Exam 3 papers for 2024 and 2025 (they are on KSEAB too).
+
 ## Later: paid mock board exam (₹199)
 
 Blocked on payments (Razorpay/Cashfree). Pilot idea: one test run in Jan/Feb 2027 using last year's SSLC paper.

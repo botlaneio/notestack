@@ -1,0 +1,692 @@
+{
+ "id": "ss-2024",
+ "subject": "social-science",
+ "year": 2024,
+ "exam": "Exam 1",
+ "date": "2024-03-27",
+ "code": "85-E",
+ "version": "A",
+ "minutes": 195,
+ "maxMarks": 80,
+ "source": "https://kseeb.karnataka.gov.in/QP/SSLC2024_EXAM1_QP",
+ "sections": [
+  {
+   "id": "I",
+   "title": "Choose the correct answer",
+   "note": "8 × 1 = 8"
+  },
+  {
+   "id": "II",
+   "title": "Answer in a sentence each",
+   "note": "8 × 1 = 8"
+  },
+  {
+   "id": "III",
+   "title": "Answer in two to four sentences or points each",
+   "note": "8 × 2 = 16"
+  },
+  {
+   "id": "IV",
+   "title": "Answer in six sentences or points each",
+   "note": "9 × 3 = 27"
+  },
+  {
+   "id": "V",
+   "title": "Answer in about eight sentences or points each",
+   "note": "4 × 4 = 16"
+  },
+  {
+   "id": "VI",
+   "title": "Map question",
+   "note": "1 + 4 = 5"
+  }
+ ],
+ "questions": [
+  {
+   "n": "1",
+   "sec": "I",
+   "marks": 1,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "Punjab was merged into the British empire by",
+   "opts": [
+    "Dalhousie",
+    "Wellesley",
+    "Robert Clive",
+    "Cornwallis"
+   ],
+   "ans": "A",
+   "sol": [
+    "After the second Anglo-Sikh war (1849), Lord Dalhousie annexed Punjab to the British empire."
+   ]
+  },
+  {
+   "n": "2",
+   "sec": "I",
+   "marks": 1,
+   "ch": "world-wars-and-indias-role",
+   "q": "Teen Murti Bhavan is in",
+   "opts": [
+    "Jodhpur",
+    "Mysore",
+    "Hyderabad",
+    "New Delhi"
+   ],
+   "ans": "D",
+   "sol": [
+    "Teen Murti Bhavan is in New Delhi. It was Nehru's residence; the 'three soldiers' statue honours Indian soldiers of the First World War (Haifa)."
+   ]
+  },
+  {
+   "n": "3",
+   "sec": "I",
+   "marks": 1,
+   "ch": "india-soils",
+   "q": "The type of soil that occupies the largest area in the peninsular plateau is",
+   "opts": [
+    "Black soil",
+    "Red soil",
+    "Alluvial soil",
+    "Desert soil"
+   ],
+   "ans": "B",
+   "sol": [
+    "Red soils, formed by weathering of granite and gneiss, are the most extensive soils across the peninsular plateau. (Across India as a whole, alluvial soil covers the largest area.)"
+   ]
+  },
+  {
+   "n": "4",
+   "sec": "I",
+   "marks": 1,
+   "ch": "economy-and-government",
+   "q": "The father of Green Revolution in India is",
+   "opts": [
+    "Verghese Kurien",
+    "Sir M. Visvesvaraya",
+    "Dr. M. S. Swaminathan",
+    "Norman Borlaug"
+   ],
+   "ans": "C",
+   "sol": [
+    "Dr. M. S. Swaminathan led the introduction of high-yielding varieties in India and is called the father of the Green Revolution in India. Norman Borlaug is the father of the Green Revolution worldwide."
+   ]
+  },
+  {
+   "n": "5",
+   "sec": "I",
+   "marks": 1,
+   "ch": "india-geographical-position-and-physical-features",
+   "q": "The highest peak in South India is",
+   "opts": [
+    "Armaconda",
+    "Anaimudi",
+    "Mahendragiri",
+    "Gourishankar"
+   ],
+   "ans": "B",
+   "sol": [
+    "Anaimudi (about 2,695 m) in the Anamalai hills of Kerala is the highest peak in South India."
+   ]
+  },
+  {
+   "n": "6",
+   "sec": "I",
+   "marks": 1,
+   "ch": "social-challenges",
+   "q": "Children helpline number is",
+   "opts": [
+    "1089",
+    "1098",
+    "101",
+    "108"
+   ],
+   "ans": "B",
+   "sol": [
+    "Childline 1098 is the free 24-hour helpline for children in distress."
+   ]
+  },
+  {
+   "n": "7",
+   "sec": "I",
+   "marks": 1,
+   "ch": "world-organisations",
+   "q": "The declaration of Human Rights was made by the UNO in the year",
+   "opts": [
+    "1947",
+    "1945",
+    "2007",
+    "1948"
+   ],
+   "ans": "D",
+   "sol": [
+    "The Universal Declaration of Human Rights was adopted by the UN General Assembly on 10 December 1948."
+   ]
+  },
+  {
+   "n": "8",
+   "sec": "I",
+   "marks": 1,
+   "ch": "consumer-education-and-protection",
+   "q": "Every year 'World Consumers Day' is celebrated on",
+   "opts": [
+    "March 15th",
+    "December 10th",
+    "July 11th",
+    "June 5th"
+   ],
+   "ans": "A",
+   "sol": [
+    "World Consumer Rights Day is observed on 15 March. (In India, National Consumer Day is 24 December.)"
+   ]
+  },
+  {
+   "n": "9",
+   "sec": "II",
+   "marks": 1,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "Why did Wellesley resign from his post and return to England?",
+   "ans": "His aggressive wars of expansion caused huge expenditure, so the Company's directors were unhappy and he was recalled (1805).",
+   "sol": [
+    "Wellesley's expensive wars under the subsidiary alliance policy increased the Company's debts; the directors disapproved, so he resigned and returned to England in 1805."
+   ]
+  },
+  {
+   "n": "10",
+   "sec": "II",
+   "marks": 1,
+   "ch": "world-wars-and-indias-role",
+   "q": "What was the immediate cause for the first World War?",
+   "ans": "The assassination of Archduke Franz Ferdinand of Austria at Sarajevo in 1914.",
+   "sol": [
+    "The heir to the Austro-Hungarian throne, Archduke Franz Ferdinand, was assassinated at Sarajevo by a Serbian youth on 28 June 1914. Austria declared war on Serbia."
+   ]
+  },
+  {
+   "n": "11",
+   "sec": "II",
+   "marks": 1,
+   "ch": "world-organisations",
+   "q": "Which organ is known as the cabinet of the UNO?",
+   "ans": "The Security Council.",
+   "sol": [
+    "The Security Council is called the cabinet (executive) of the UNO because it has the main responsibility for maintaining world peace and security."
+   ]
+  },
+  {
+   "n": "12",
+   "sec": "II",
+   "marks": 1,
+   "ch": "social-stratification",
+   "q": "What is meant by social stratification?",
+   "ans": "Division of society into different layers (strata) arranged one above another, based on caste, class, wealth, power etc.",
+   "sol": [
+    "Social stratification is the arrangement of people in society into higher and lower layers based on factors like caste, class, wealth, power and occupation."
+   ]
+  },
+  {
+   "n": "13",
+   "sec": "II",
+   "marks": 1,
+   "ch": "social-challenges",
+   "q": "Why was the Child Labour (Prohibition and Regulation) Act 1986 enacted?",
+   "ans": "To prohibit employment of children below 14 in hazardous occupations and regulate their working conditions elsewhere.",
+   "sol": [
+    "The Act was enacted to ban employing children (below 14 years) in hazardous jobs and to regulate their working conditions, so that children are protected and can go to school."
+   ]
+  },
+  {
+   "n": "14",
+   "sec": "II",
+   "marks": 1,
+   "ch": "india-water-resources",
+   "q": "Well irrigation is the most important type of irrigation. Why?",
+   "ans": "It is cheap, simple, can be dug anywhere with groundwater, and irrigates the largest area in India.",
+   "sol": [
+    "Wells (including tube wells) irrigate the largest area in India; they are cheap and easy to build, can be used by individual farmers, and water is available throughout the year where groundwater is good."
+   ]
+  },
+  {
+   "n": "15",
+   "sec": "II",
+   "marks": 1,
+   "ch": "public-finance-and-budget",
+   "q": "What is fiscal policy?",
+   "ans": "The government's policy on taxation, public expenditure and public debt.",
+   "sol": [
+    "Fiscal policy is the policy of the government regarding its revenue (taxes), expenditure and borrowing, used to achieve economic goals."
+   ]
+  },
+  {
+   "n": "16",
+   "sec": "II",
+   "marks": 1,
+   "ch": "consumer-education-and-protection",
+   "q": "\"Teleshopping has become more popular nowadays.\" Why?",
+   "ans": "People can see products on TV or online and buy them from home, saving time, with home delivery and easy payment.",
+   "sol": [
+    "Teleshopping lets consumers choose products shown on TV or the internet and order them from home, saving time and travel, with home delivery and many choices."
+   ]
+  },
+  {
+   "n": "17",
+   "sec": "III",
+   "marks": 2,
+   "ch": "challenges-of-india-and-their-remedies",
+   "q": "How is the government trying to increase literacy in India?",
+   "ans": "Through Sarva Shiksha Abhiyan, Right to Education Act, mid-day meals, National Literacy Mission / Saakshar Bharat, adult education and scholarships.",
+   "sol": [
+    "Free and compulsory education for children aged 6 to 14 (Right to Education Act, 2009).",
+    "Sarva Shiksha Abhiyan and mid-day meal scheme to enrol and keep children in school.",
+    "National Literacy Mission, Saakshar Bharat and adult education programmes.",
+    "Free textbooks, uniforms, bicycles and scholarships."
+   ],
+   "or": {
+    "ch": "world-organisations",
+    "q": "How is the Security Council of UNO formed?",
+    "ans": "It has 15 members: 5 permanent members with veto power (USA, UK, France, Russia, China) and 10 non-permanent members elected by the General Assembly for two years.",
+    "sol": [
+     "The Security Council has 15 members.",
+     "5 are permanent members with veto power: USA, UK, France, Russia and China.",
+     "10 are non-permanent members elected by the General Assembly for a term of two years."
+    ]
+   }
+  },
+  {
+   "n": "18",
+   "sec": "III",
+   "marks": 2,
+   "ch": "work-and-economic-life",
+   "q": "How is paid work different from unpaid work?",
+   "ans": "Paid work earns wages or salary (e.g. a teacher, factory worker); unpaid work earns no money although it is useful (e.g. housework, caring for family).",
+   "sol": [
+    "Paid work: work done for which a person receives wages, salary or income, e.g. teachers, doctors, labourers.",
+    "Unpaid work: work done without any payment, e.g. household work done by a housewife, looking after children and elders, voluntary service.",
+    "Unpaid work is often not counted in national income though it is valuable."
+   ],
+   "or": {
+    "ch": "collective-behaviour-and-protests",
+    "q": "How can riots be controlled?",
+    "ans": "Quick action by police, imposing curfew and prohibitory orders, stopping rumours, punishing culprits, peace committees and public awareness about harmony.",
+    "sol": [
+     "Police and administration should act quickly; impose prohibitory orders (Section 144) or curfew.",
+     "Stop the spread of rumours, including on social media.",
+     "Arrest and punish the culprits.",
+     "Form peace committees with community leaders and promote communal harmony through awareness."
+    ]
+   }
+  },
+  {
+   "n": "19",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-after-independence",
+   "q": "How was Junagadh merged into the Indian Union?",
+   "ans": "The Nawab wanted to join Pakistan, but the people wanted India; they revolted, the Nawab fled to Pakistan, and after a plebiscite in 1948 Junagadh joined India.",
+   "sol": [
+    "The Nawab of Junagadh wanted to join Pakistan, though most people were Hindus and wanted to join India.",
+    "The people revolted and the Nawab fled to Pakistan; the Indian army entered.",
+    "A plebiscite (referendum) held in 1948 showed the people wanted India, so Junagadh joined the Indian Union."
+   ]
+  },
+  {
+   "n": "20",
+   "sec": "III",
+   "marks": 2,
+   "ch": "the-impact-of-the-british-rule-in-india",
+   "q": "\"The Indian military was the base of British administration during the British rule.\" Justify.",
+   "ans": "The army helped the British conquer and control India, suppress revolts, collect revenue and protect their trade; it was kept loyal with British officers and key posts.",
+   "sol": [
+    "The British conquered Indian kingdoms with the help of their army.",
+    "The army suppressed revolts such as 1857 and maintained British control.",
+    "It protected British trade, revenue collection and the empire's borders; Indian soldiers were also used in wars abroad.",
+    "After 1857 the army was reorganised so that key posts stayed with the British, keeping it loyal."
+   ]
+  },
+  {
+   "n": "21",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-land-use-and-agriculture",
+   "q": "\"Indian agriculture is a gamble with the monsoons.\" How?",
+   "ans": "Most agriculture depends on monsoon rain, which is uncertain, uneven and irregular; failure causes drought, excess causes floods, so crops depend on luck.",
+   "sol": [
+    "Most Indian farming depends on monsoon rainfall because irrigation is limited.",
+    "The monsoon is uncertain: it may come late, end early, be too little (drought) or too much (floods), or be unevenly distributed.",
+    "So crop production rises and falls with the monsoon, like a gamble."
+   ]
+  },
+  {
+   "n": "22",
+   "sec": "III",
+   "marks": 2,
+   "ch": "india-mineral-and-power-resources",
+   "q": "\"It has become inevitable in India to take necessary remedies to prevent the deficit in energy resources.\" Why?",
+   "ans": "Demand for energy is rising fast with population and industry, while coal and petroleum are limited and imports are costly; so we must conserve energy and use renewable sources.",
+   "sol": [
+    "Energy demand is growing fast due to population growth, industrialisation, transport and urbanisation.",
+    "Coal, petroleum and natural gas are limited and non-renewable; India imports a large share of its oil at high cost.",
+    "Shortage of energy slows down economic development.",
+    "So it is necessary to conserve energy and develop renewable sources such as solar, wind and hydro power."
+   ]
+  },
+  {
+   "n": "23",
+   "sec": "III",
+   "marks": 2,
+   "ch": "rural-development",
+   "q": "\"The migration of rural people to cities can be avoided.\" How?",
+   "ans": "By creating jobs in villages (rural industries, MGNREGA), improving agriculture and providing education, health, roads and other facilities in rural areas.",
+   "sol": [
+    "Create employment in villages through cottage and small industries and schemes like MGNREGA.",
+    "Improve agriculture with irrigation, credit and fair prices.",
+    "Provide education, health care, roads, electricity, drinking water and internet in villages (rural development).",
+    "Strengthen Panchayat Raj institutions to plan local development."
+   ]
+  },
+  {
+   "n": "24",
+   "sec": "III",
+   "marks": 2,
+   "ch": "bank-transactions",
+   "q": "How do post offices help to save money?",
+   "ans": "They offer savings bank accounts, recurring and time deposits, National Savings Certificates, Kisan Vikas Patra, PPF and Sukanya Samriddhi, safe and available even in villages.",
+   "sol": [
+    "Post offices are spread even in remote villages, so savings facilities reach everyone.",
+    "Schemes: post office savings account, recurring deposit, time deposit, monthly income scheme, National Savings Certificate, Kisan Vikas Patra, Public Provident Fund, Sukanya Samriddhi Yojana.",
+    "They are safe (government guaranteed) and give good interest."
+   ]
+  },
+  {
+   "n": "25",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "bank-transactions",
+   "q": "How do banks serve the customers?",
+   "ans": "Accept deposits, give loans, transfer money, provide lockers, ATM/debit/credit cards and online banking, pay bills and give agency services.",
+   "sol": [
+    "Accept deposits in savings, current, fixed and recurring accounts.",
+    "Give loans and overdrafts for agriculture, business, education and housing.",
+    "Transfer money through cheques, drafts, NEFT/RTGS, UPI and online banking.",
+    "Provide ATM, debit and credit cards.",
+    "Provide safe deposit lockers.",
+    "Pay bills, insurance premiums and collect dividends on behalf of customers."
+   ],
+   "or": {
+    "ch": "entrepreneurship",
+    "q": "Which characteristics should a person possess to become an entrepreneur?",
+    "ans": "Creativity and innovation, risk-taking, leadership, hard work, self-confidence, decision making, foresight and good organising ability.",
+    "sol": [
+     "Creativity and innovation.",
+     "Willingness to take risks.",
+     "Leadership and organising ability.",
+     "Self-confidence and hard work.",
+     "Quick and correct decision making.",
+     "Foresight, patience and good communication."
+    ]
+   }
+  },
+  {
+   "n": "26",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "the-extension-of-the-british-rule",
+   "q": "What were the effects of the battle of Buxar on the East India Company?",
+   "ans": "The Company got the Diwani of Bengal, Bihar and Orissa (Treaty of Allahabad, 1765), became the real ruler of Bengal, gained wealth and control over Awadh and the Mughal emperor, and introduced dual government.",
+   "sol": [
+    "The British defeated Mir Qasim, Shuja-ud-Daula and Shah Alam II in 1764.",
+    "By the Treaty of Allahabad (1765) the Company got the Diwani rights of Bengal, Bihar and Orissa.",
+    "Shah Alam II became a pensioner of the Company; Awadh had to pay war indemnity.",
+    "Robert Clive introduced the dual government in Bengal, making the Company the real power.",
+    "The Company's wealth and prestige increased greatly, paving the way for British rule in India."
+   ],
+   "or": {
+    "ch": "the-freedom-struggle",
+    "q": "How were the revolutionary methods different in the freedom struggle of India?",
+    "ans": "Revolutionaries believed in armed struggle rather than non-violence; they formed secret societies, used bombs and weapons against British officials, looted government treasuries, and inspired youth with sacrifice (Bhagat Singh, Chandrashekhar Azad).",
+    "sol": [
+     "Revolutionaries did not believe in petitions or non-violence; they wanted to drive out the British by force.",
+     "They formed secret societies like Abhinav Bharat, Anushilan Samiti and the Hindustan Socialist Republican Association.",
+     "They attacked British officials, used bombs and looted government treasuries (Kakori).",
+     "Leaders like Bhagat Singh, Chandrashekhar Azad and Khudiram Bose sacrificed their lives and inspired the youth."
+    ]
+   }
+  },
+  {
+   "n": "27",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "india-transport-and-communication",
+   "q": "The role of transportation in economic development is significant. How?",
+   "ans": "Transport moves raw materials and goods, widens markets, helps agriculture and industry, creates jobs, aids trade and tourism, helps in emergencies and defence, and unites the nation.",
+   "sol": [
+    "Carries raw materials to industries and finished goods to markets.",
+    "Helps farmers sell produce and get inputs.",
+    "Widens markets and helps internal and foreign trade.",
+    "Creates employment and promotes tourism.",
+    "Helps in times of natural disasters and for defence.",
+    "Promotes national integration."
+   ],
+   "or": {
+    "ch": "india-major-industries",
+    "q": "In India localisation of industries is influenced by many factors. How?",
+    "ans": "Availability of raw materials, power, water, labour, transport, market, capital, and government policies.",
+    "sol": [
+     "Raw materials nearby.",
+     "Supply of power (electricity, coal).",
+     "Water supply.",
+     "Cheap and skilled labour.",
+     "Transport and communication facilities.",
+     "Market, capital and favourable government policies."
+    ]
+   }
+  },
+  {
+   "n": "28",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "public-finance-and-budget",
+   "q": "Explain the importance of public finance.",
+   "ans": "It helps provide public goods, economic development, reduce inequality, maintain stability, manage resources, and defence and welfare.",
+   "sol": [
+    "Helps the government raise revenue and spend it on public welfare like education, health and infrastructure.",
+    "Promotes economic development and balanced regional growth.",
+    "Reduces inequality of income through progressive taxes and welfare schemes.",
+    "Controls inflation and maintains economic stability.",
+    "Finances defence and law and order.",
+    "Helps in efficient use of resources."
+   ],
+   "or": {
+    "ch": "economy-and-government",
+    "q": "Explain how pre-harvest and post-harvest technologies brought the Green Revolution.",
+    "ans": "Pre-harvest: high-yielding seeds, chemical fertilisers, pesticides, irrigation and modern machines. Post-harvest: storage, marketing, minimum support price, food processing.",
+    "sol": [
+     "Pre-harvest technologies: high-yielding variety seeds; chemical fertilisers; pesticides; expansion of irrigation; tractors and modern implements; multiple cropping.",
+     "Post-harvest technologies: better storage and warehouses; regulated markets; minimum support price and procurement; transport and processing.",
+     "Together these greatly increased production of wheat and rice, bringing the Green Revolution."
+    ]
+   }
+  },
+  {
+   "n": "29",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "opposition-to-british-rule-in-karnataka-and-wodeyars-of-mysore",
+   "q": "\"Dewan K. Sheshadri Iyer played an important role in the development of Mysore.\" Justify.",
+   "ans": "Longest-serving Dewan (1883–1901): Shivanasamudra hydroelectric project, Kolar gold fields development, railways, irrigation projects (Vani Vilas Sagar), Victoria Hospital, Indian Institute of Science and modern Bangalore extensions.",
+   "sol": [
+    "Dewan of Mysore from 1883 to 1901 under Chamarajendra Wodeyar X and Krishnaraja Wodeyar IV.",
+    "Shivanasamudra hydroelectric project; Bangalore got electricity in 1905.",
+    "Developed gold mining at Kolar and extended railways.",
+    "Built irrigation works such as Vani Vilas Sagar (Mari Kanive).",
+    "Developed Bangalore with new extensions (Basavanagudi, Malleswaram) and Victoria Hospital; Lalbagh development.",
+    "Helped found the Indian Institute of Science; improved finances and administration."
+   ]
+  },
+  {
+   "n": "30",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "social-and-religious-reform-movements",
+   "q": "\"Annie Besant gave a new vitality to the activities of the Theosophical Society.\" Justify.",
+   "ans": "She spread theosophy in India, revived pride in Hinduism and Indian culture, started the Central Hindu School (later BHU), worked for women's education and against child marriage, and started the Home Rule League.",
+   "sol": [
+    "Annie Besant became the leader of the Theosophical Society (headquarters at Adyar, Chennai).",
+    "She spread the study of Indian religions and philosophy and revived pride in Indian culture.",
+    "Started the Central Hindu School at Banaras, which grew into Banaras Hindu University.",
+    "Worked for women's education and opposed child marriage and caste discrimination.",
+    "Started the Home Rule League (1916) and the newspapers New India and Commonweal.",
+    "Became the first woman president of the Indian National Congress (1917)."
+   ]
+  },
+  {
+   "n": "31",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "indias-foreign-policy-and-global-challenges",
+   "q": "\"India has had a better relationship with Russia from the beginning.\" Explain.",
+   "ans": "The USSR supported India on Kashmir in the UN (veto), helped build steel plants (Bhilai, Bokaro), signed the 1971 Treaty of Friendship, supplies defence equipment, and cooperates in space, nuclear energy and trade.",
+   "sol": [
+    "The USSR supported India's stand on Kashmir in the Security Council using its veto.",
+    "Helped set up heavy industries such as Bhilai and Bokaro steel plants.",
+    "Signed the Indo-Soviet Treaty of Peace, Friendship and Cooperation (1971).",
+    "Major supplier of defence equipment; joint production (BrahMos).",
+    "Cooperation in space (first Indian astronaut Rakesh Sharma), nuclear energy (Kudankulam) and trade.",
+    "Both are members of BRICS and SCO."
+   ]
+  },
+  {
+   "n": "32",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "challenges-of-india-and-their-remedies",
+   "q": "Why is the problem of unemployment experienced in India?",
+   "ans": "Rapid population growth, slow industrial growth, dependence on seasonal agriculture, education not job-oriented, lack of skills, decline of cottage industries, and use of machines.",
+   "sol": [
+    "Rapid growth of population and labour force.",
+    "Slow growth of industries and jobs.",
+    "Dependence on seasonal agriculture causes disguised and seasonal unemployment.",
+    "Education system is not job-oriented; lack of skills.",
+    "Decline of cottage and small industries.",
+    "Mechanisation and lack of capital."
+   ]
+  },
+  {
+   "n": "33",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "india-forest-resources",
+   "q": "How are evergreen forests different from desert forests?",
+   "ans": "Evergreen: regions with over 250 cm rain, tall dense trees, leaves all year (rosewood, ebony, mahogany). Desert: below 50 cm rain, scattered thorny bushes with small leaves and long roots (babul, khejri, cactus).",
+   "sol": [
+    "Evergreen forests: found where annual rainfall is above 250 cm (Western Ghats, North-east).",
+    "Trees are tall, dense and remain green throughout the year; e.g. rosewood, ebony, mahogany.",
+    "Desert (thorny) forests: found where rainfall is below 50 cm (Rajasthan, Gujarat).",
+    "Plants are scattered, thorny bushes with small leaves, thick stems and long roots; e.g. babul, khejri, cactus."
+   ]
+  },
+  {
+   "n": "34",
+   "sec": "V",
+   "marks": 4,
+   "ch": "the-freedom-struggle",
+   "q": "Explain the Jallianwala Bagh massacre.",
+   "ans": "On 13 April 1919 (Baisakhi), General Dyer ordered troops to fire without warning on a peaceful meeting at Jallianwala Bagh, Amritsar, protesting the Rowlatt Act and arrest of leaders; hundreds were killed; Tagore returned his knighthood; the nation was angered.",
+   "sol": [
+    "The Rowlatt Act (1919) allowed arrest and imprisonment without trial; people protested across India.",
+    "In Punjab, leaders Dr. Satyapal and Dr. Saifuddin Kitchlew were arrested.",
+    "On 13 April 1919 (Baisakhi day) a peaceful meeting was held at Jallianwala Bagh, Amritsar, an enclosed ground with one narrow exit.",
+    "General Dyer blocked the exit and ordered his troops to fire without warning.",
+    "Hundreds were killed and over a thousand wounded.",
+    "Rabindranath Tagore returned his knighthood; the massacre led to the Non-Cooperation Movement. Udham Singh later killed Michael O'Dwyer."
+   ],
+   "or": {
+    "ch": "the-impact-of-the-british-rule-in-india",
+    "q": "Explain the impact of British education in India.",
+    "ans": "Spread of English and modern western ideas of liberty, democracy and nationalism; rise of an educated middle class and leaders; social reform movements; modern science; growth of press and literature; also neglect of mass education and Indian languages.",
+    "sol": [
+     "English became the link language for educated Indians across regions.",
+     "Indians learnt western ideas of liberty, equality, democracy and nationalism.",
+     "An educated middle class emerged and led the freedom movement and social reforms.",
+     "Growth of newspapers, literature and modern science.",
+     "Social evils were questioned (sati, child marriage, caste).",
+     "But mass education was neglected and Indian languages and traditional knowledge were ignored."
+    ]
+   }
+  },
+  {
+   "n": "35",
+   "sec": "V",
+   "marks": 4,
+   "ch": "the-first-war-of-indian-independence-1857",
+   "q": "\"The first war of Indian Independence failed.\" Why?",
+   "ans": "Lack of unity, common aim and central leadership; limited spread; many rulers and the educated class supported the British; British had a better army, weapons, communications and resources.",
+   "sol": [
+    "No unity or common aim; leaders fought for local or personal reasons.",
+    "No central leadership or planned strategy.",
+    "Limited to parts of north and central India; south India, Punjab and Bengal mostly stayed away.",
+    "Many native rulers and the educated middle class supported the British.",
+    "The British had superior weapons, trained soldiers, telegraph, railways and money.",
+    "Rebels lacked modern weapons, discipline and resources."
+   ]
+  },
+  {
+   "n": "36",
+   "sec": "V",
+   "marks": 4,
+   "ch": "social-challenges",
+   "q": "\"Status of women in India is improving nowadays.\" Justify.",
+   "ans": "Constitutional equality, laws against dowry, domestic violence and sexual harassment, reservation in local bodies, education and employment growth, schemes like Beti Bachao Beti Padhao, women in leadership roles.",
+   "sol": [
+    "The Constitution gives equal rights and prohibits discrimination based on sex.",
+    "Laws: Dowry Prohibition Act, Protection of Women from Domestic Violence Act, laws against sexual harassment at the workplace, equal property rights.",
+    "Reservation for women in Panchayats and local bodies (73rd and 74th amendments) and now in legislatures.",
+    "Literacy and higher education of women are increasing; more women are employed in all fields.",
+    "Schemes such as Beti Bachao Beti Padhao, Stree Shakti self-help groups.",
+    "Women are leaders in politics, science, sports, defence and business."
+   ]
+  },
+  {
+   "n": "37",
+   "sec": "V",
+   "marks": 4,
+   "ch": "india-natural-disasters",
+   "q": "\"Cyclones are hazardous.\" Justify.",
+   "ans": "They bring very strong winds, heavy rain and storm surges, causing loss of life, destroying houses, crops, roads and power lines, flooding coasts, salinising farmland and spreading disease.",
+   "sol": [
+    "Very strong winds uproot trees and damage houses, power lines and communication.",
+    "Heavy rainfall causes floods.",
+    "Storm surges flood coastal areas and make farmland saline.",
+    "Loss of human lives and livestock.",
+    "Destruction of crops, boats and fishing activity.",
+    "Spread of diseases and huge economic loss; mostly affects the east coast (Odisha, Andhra Pradesh, West Bengal)."
+   ]
+  },
+  {
+   "n": "38",
+   "sec": "VI",
+   "marks": 5,
+   "ch": "india-geographical-position-and-physical-features",
+   "q": "Draw an outline map of India and mark the following: (a) 23½° North latitude (b) River Narmada (c) Visakhapatnam (d) Amritsar.",
+   "ans": "Draw the outline of India (1 mark). 23½°N: Tropic of Cancer, passing through Gujarat, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Narmada: from Amarkantak west to the Gulf of Khambhat. Visakhapatnam: north Andhra coast. Amritsar: Punjab near the Pakistan border.",
+   "sol": [
+    "Draw a neat outline of India (1 mark).",
+    "(a) 23½° N is the Tropic of Cancer; it passes through roughly the middle of India: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+    "(b) River Narmada rises at Amarkantak and flows west between the Vindhyas and Satpuras into the Gulf of Khambhat.",
+    "(c) Visakhapatnam: port city on the coast of north Andhra Pradesh.",
+    "(d) Amritsar: in Punjab, close to the border with Pakistan."
+   ],
+   "or": {
+    "ch": "india-water-resources",
+    "q": "Alternative for visually impaired candidates only: Mention the main aims of multipurpose river valley projects.",
+    "ans": "Irrigation, hydroelectricity, flood control, drinking water, navigation, fisheries, soil conservation, afforestation and recreation.",
+    "sol": [
+     "Provide irrigation.",
+     "Generate hydroelectricity.",
+     "Control floods.",
+     "Supply drinking water and water for industries.",
+     "Develop inland navigation and fisheries.",
+     "Prevent soil erosion, encourage afforestation and tourism."
+    ]
+   }
+  }
+ ]
+}

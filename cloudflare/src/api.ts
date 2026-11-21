@@ -1,7 +1,7 @@
 // HTTP layer for /api/auth/*. Kept separate from the Worker entry so tests can call it directly.
 import {AuthService, BUNDLES, RESET_LINK_MINUTES, SESSION_COOKIE, SUBJECTS, VERIFY_LINK_HOURS, parseAdminEmails, type D1Database, type PublicUser, type SessionCreated} from './auth.ts';
 import {emailConfigured, resetEmail, sendEmail, unlockedEmail, verifyEmail, type EmailEnv, type FetchLike} from './email.ts';
-import {stacksyChat, type StacksyEnv, type StacksyTier} from './stacksy.ts';
+import {stacksyVoice, type StacksyEnv, type StacksyTier} from './stacksy.ts';
 
 export interface ApiEnv extends EmailEnv, StacksyEnv {DB: D1Database; ADMIN_EMAILS?: string}
 
@@ -156,16 +156,17 @@ export async function handleApi(request: Request, env: ApiEnv, options: ApiOptio
     return json({ok: true}, 200, deviceMatch[1] === session.sessionId ? {'set-cookie': clearCookie(request)} : {});
   }
 
-  // Stacksy chat: open to visitors with a small daily allowance; more for signed-in students and owners.
-  if (path === '/api/stacksy/chat' && method === 'POST') {
+  // Stacksy voice: hands out one ElevenLabs conversation token per call. Open to visitors with a small
+  // daily allowance; more for signed-in students and owners.
+  if (path === '/api/stacksy/voice' && method === 'POST') {
     let tier: StacksyTier = 'guest';
     let who = `ip:${request.headers.get('cf-connecting-ip') ?? 'unknown'}`;
     if (session.user) {
       who = `user:${session.user.id}`;
       tier = session.admin ? 'admin' : (await auth.entitlements(session.user.id)).length ? 'member' : 'student';
     }
-    const result = await stacksyChat({db: env.DB, env, input: await body(request), who, tier, now: now ? now() : Date.now(), fetcher});
-    return json({...result.body, signedIn: Boolean(session.user)}, result.status);
+    const result = await stacksyVoice({db: env.DB, env, who, tier, now: now ? now() : Date.now(), fetcher});
+    return json({...result.body, signedIn: Boolean(session.user)}, result.status, {'cache-control': 'no-store'});
   }
 
   // Everything below needs a signed-in account.

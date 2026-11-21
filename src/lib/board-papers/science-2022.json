@@ -1,0 +1,691 @@
+{
+ "id": "science-2022",
+ "subject": "science",
+ "year": 2022,
+ "exam": "Main exam (March/April)",
+ "date": "2022-04-11",
+ "code": "83-E",
+ "version": "A",
+ "minutes": 195,
+ "maxMarks": 80,
+ "source": "https://kseab.karnataka.gov.in/storage/pdf-files/new/2022_MAIN_EXAM_QP_83-E-(RF+RR)-A.pdf",
+ "keySource": "https://kseab.karnataka.gov.in/storage/pdf-files/2022_SSLC_MAIN_EXAM_KEY_%20ANS_83E_Phy_A.pdf",
+ "syllabusNote": "The 2022 paper was set on the older Karnataka syllabus. Questions on topics that have since been removed are kept in the full paper and marked.",
+ "sections": [
+  {
+   "id": "I",
+   "part": "Part A · Physics",
+   "title": "Choose the correct alternative",
+   "note": "4 × 1 = 4"
+  },
+  {
+   "id": "II",
+   "title": "Answer the following questions",
+   "note": "2 × 1 = 2"
+  },
+  {
+   "id": "III",
+   "title": "Answer the following questions",
+   "note": "2 × 2 = 4"
+  },
+  {
+   "id": "IV",
+   "title": "Answer the following questions",
+   "note": "3 × 3 = 9"
+  },
+  {
+   "id": "V",
+   "title": "Answer the following question",
+   "note": "1 × 4 = 4"
+  },
+  {
+   "id": "VI",
+   "title": "Answer the following question",
+   "note": "1 × 5 = 5"
+  },
+  {
+   "id": "VII",
+   "part": "Part B · Chemistry",
+   "title": "Choose the correct alternative",
+   "note": "2 × 1 = 2"
+  },
+  {
+   "id": "VIII",
+   "title": "Answer the following questions",
+   "note": "4 × 1 = 4"
+  },
+  {
+   "id": "IX",
+   "title": "Answer the following questions",
+   "note": "3 × 2 = 6"
+  },
+  {
+   "id": "X",
+   "title": "Answer the following questions",
+   "note": "3 × 3 = 9"
+  },
+  {
+   "id": "XI",
+   "title": "Answer the following question",
+   "note": "1 × 4 = 4"
+  },
+  {
+   "id": "XII",
+   "part": "Part C · Biology",
+   "title": "Choose the correct alternative",
+   "note": "2 × 1 = 2"
+  },
+  {
+   "id": "XIII",
+   "title": "Answer the following questions",
+   "note": "2 × 1 = 2"
+  },
+  {
+   "id": "XIV",
+   "title": "Answer the following questions",
+   "note": "3 × 2 = 6"
+  },
+  {
+   "id": "XV",
+   "title": "Answer the following questions",
+   "note": "3 × 3 = 9"
+  },
+  {
+   "id": "XVI",
+   "title": "Answer the following questions",
+   "note": "2 × 4 = 8"
+  }
+ ],
+ "questions": [
+  {
+   "n": "1",
+   "sec": "I",
+   "marks": 1,
+   "ch": "magnetic-effects-of-electric-current",
+   "q": "The device used to produce electricity is",
+   "opts": [
+    "Galvanometer",
+    "Electric generator",
+    "Ammeter",
+    "Electric motor"
+   ],
+   "ans": "B",
+   "sol": [
+    "An electric generator converts mechanical energy into electrical energy. A motor does the opposite; a galvanometer and ammeter only detect or measure current."
+   ]
+  },
+  {
+   "n": "2",
+   "sec": "I",
+   "marks": 1,
+   "ch": "electricity",
+   "q": "The correct formula that shows the relationship between potential difference, electric current and resistance in an electric circuit is",
+   "opts": [
+    "I = R/V",
+    "I = VR",
+    "V = I/R",
+    "R = V/I"
+   ],
+   "ans": "D",
+   "sol": [
+    "Ohm's law: V = IR. Rearranging gives R = V/I and I = V/R.",
+    "Of the given options only R = V/I is correct."
+   ]
+  },
+  {
+   "n": "3",
+   "sec": "I",
+   "marks": 1,
+   "ch": "magnetic-effects-of-electric-current",
+   "q": "In Fleming's right hand rule, the middle finger indicates the direction of",
+   "opts": [
+    "induced electric current",
+    "magnetic field",
+    "motion of the conductor",
+    "mechanical force"
+   ],
+   "ans": "A",
+   "sol": [
+    "Fleming's right hand rule: forefinger = magnetic field, thumb = motion of the conductor, middle finger = induced current."
+   ]
+  },
+  {
+   "n": "4",
+   "sec": "I",
+   "marks": 1,
+   "ch": "light-reflection-and-refraction",
+   "q": "To get a diminished and real image of an object from a convex lens, the object should be placed",
+   "opts": [
+    "at principal focus F₁",
+    "between principal focus F₁ and 2F₁",
+    "beyond 2F₁",
+    "between principal focus F₁ and optical centre O"
+   ],
+   "ans": "C",
+   "sol": [
+    "When the object is beyond 2F₁, the image forms between F₂ and 2F₂ and is real, inverted and diminished."
+   ]
+  },
+  {
+   "n": "5",
+   "sec": "II",
+   "marks": 1,
+   "ch": "magnetic-effects-of-electric-current",
+   "q": "Magnetic field lines do not intersect each other. Why?",
+   "ans": "If they crossed, the compass needle at that point would point in two directions at once, which is impossible.",
+   "sol": [
+    "At any point the magnetic field has only one direction. If two field lines crossed, there would be two directions of the field at that point, which is not possible."
+   ]
+  },
+  {
+   "n": "6",
+   "sec": "II",
+   "marks": 1,
+   "ch": "light-reflection-and-refraction",
+   "q": "Mention the SI unit of power of lens.",
+   "ans": "Dioptre (D)",
+   "sol": [
+    "The SI unit of power of a lens is the dioptre (D). 1 D is the power of a lens of focal length 1 m."
+   ]
+  },
+  {
+   "n": "7",
+   "sec": "III",
+   "marks": 2,
+   "ch": "electricity",
+   "q": "Draw the schematic diagram of an electric circuit comprising an electric cell, electric bulb, ammeter and plug key.",
+   "ans": "A closed loop with a cell, a plug key, a bulb and an ammeter all in series.",
+   "sol": [
+    "Draw a closed rectangular loop.",
+    "Insert in series: a cell (long and short line), a plug key (closed), a bulb symbol, and an ammeter (a circle marked A, with + towards the cell's positive side).",
+    "Label each component."
+   ]
+  },
+  {
+   "n": "8",
+   "sec": "III",
+   "marks": 2,
+   "ch": "light-reflection-and-refraction",
+   "q": "An object is placed at 25 cm in front of a concave mirror of focal length 15 cm. At what distance from the mirror should a screen be placed in order to obtain a sharp image?",
+   "ans": "37.5 cm in front of the mirror (v = −37.5 cm)",
+   "sol": [
+    "u = −25 cm, f = −15 cm (concave mirror).",
+    "Mirror formula: 1/v + 1/u = 1/f, so 1/v = 1/f − 1/u = −1/15 + 1/25 = (−5 + 3)/75 = −2/75.",
+    "v = −37.5 cm. The screen should be placed 37.5 cm in front of the mirror (a real image)."
+   ],
+   "or": {
+    "ch": "light-reflection-and-refraction",
+    "q": "A concave lens has focal length of 15 cm. At what distance should the object be placed from the lens so that it forms an image at 10 cm from the lens?",
+    "ans": "30 cm from the lens (u = −30 cm)",
+    "sol": [
+     "For a concave lens f = −15 cm, and the image is virtual on the same side, so v = −10 cm.",
+     "Lens formula: 1/v − 1/u = 1/f, so 1/u = 1/v − 1/f = −1/10 + 1/15 = (−3 + 2)/30 = −1/30.",
+     "u = −30 cm. The object should be placed 30 cm in front of the lens."
+    ]
+   }
+  },
+  {
+   "n": "9",
+   "sec": "IV",
+   "marks": 3,
+   "ch": null,
+   "topic": "Sources of Energy",
+   "q": "Which is the major component of biogas? Write four characteristics of a good source of energy.",
+   "ans": "Methane (up to 75%). A good source does a large amount of work per unit mass, is easily accessible, easy to store and transport, and is economical.",
+   "sol": [
+    "Biogas contains up to 75% methane.",
+    "A good source of energy: (1) does a large amount of work per unit volume or mass; (2) is easily accessible; (3) is easy to store and transport; (4) is economical. (Also: causes little pollution.)"
+   ],
+   "or": {
+    "ch": null,
+    "topic": "Sources of Energy",
+    "q": "Which element is used in making solar cells? Write any four advantages of solar cells.",
+    "ans": "Silicon. No moving parts, little maintenance, work without focusing devices, can be set up in remote areas, and cause no pollution.",
+    "sol": [
+     "Solar cells are made mainly from silicon.",
+     "Advantages (any four): no moving parts; need little maintenance; work quite well without any focusing device; can be set up in remote, inaccessible areas with no power lines; cause no pollution; use a free, renewable source."
+    ]
+   }
+  },
+  {
+   "n": "10",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "light-reflection-and-refraction",
+   "q": "Draw the ray diagram to show the image formation by a convex lens when the object is kept at 2F₁ of the lens. With the help of the ray diagram mention the position and nature of the image formed. [F₁: principal focus of the lens]",
+   "ans": "Image at 2F₂; real, inverted and of the same size.",
+   "sol": [
+    "Draw the convex lens and principal axis; mark F₁, 2F₁ on the left and F₂, 2F₂ on the right.",
+    "Object AB at 2F₁. A ray from A parallel to the axis refracts through F₂; a ray from A through the optical centre goes straight on.",
+    "They meet at A′ at 2F₂ below the axis.",
+    "Position: at 2F₂. Nature: real, inverted, same size as the object."
+   ]
+  },
+  {
+   "n": "11",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "magnetic-effects-of-electric-current",
+   "q": "What are the functions of an earth wire? It is necessary to connect electric appliances having a metallic body to the earth wire in a domestic electric circuit. Why? Explain.",
+   "ans": "The earth wire gives a low-resistance path for leaking current to the earth. If the metal body becomes live, current flows to earth instead of through the user, preventing a severe shock.",
+   "sol": [
+    "The earth wire (green insulation) is connected to a metal plate buried deep in the earth near the house.",
+    "Function: it provides a low-resistance conducting path for current that leaks to the body of an appliance.",
+    "Appliances such as an electric iron, toaster or refrigerator have metal bodies. If a live wire touches the body, the leaked current flows to the earth through the earth wire, keeping the body at the earth's potential, so the user does not get a severe electric shock."
+   ],
+   "or": {
+    "ch": "magnetic-effects-of-electric-current",
+    "q": "Explain Faraday's experiment related to electromagnetic induction. Mention the difference between direct and alternating current.",
+    "ans": "Moving a magnet into or out of a coil connected to a galvanometer causes deflection (induced current); no deflection when the magnet is still. DC flows in one direction only; AC reverses direction periodically.",
+    "sol": [
+     "Take a coil of many turns connected to a galvanometer. Push a bar magnet towards the coil: the needle deflects momentarily one way. Pull it away: the needle deflects the other way. Hold it still: no deflection.",
+     "So a changing magnetic field through a coil induces a current. This is electromagnetic induction.",
+     "Direct current (DC) flows in one direction only (e.g. from a cell). Alternating current (AC) reverses its direction periodically (in India every 1/100 s, frequency 50 Hz)."
+    ]
+   }
+  },
+  {
+   "n": "12",
+   "sec": "V",
+   "marks": 4,
+   "ch": "electricity",
+   "q": "(a) What are the advantages of connecting electrical devices in parallel in an electric circuit instead of connecting them in series? (b) How are ammeter and voltmeter connected in an electric circuit? What are their functions?",
+   "ans": "(a) Each device gets the full supply voltage; if one fails the others keep working; each draws the current it needs; total resistance is lower. (b) Ammeter in series, measures current; voltmeter in parallel, measures potential difference.",
+   "sol": [
+    "(a) In parallel: each appliance gets the full supply voltage; if one appliance fails or is switched off, the others still work; each appliance draws the current it needs, which suits devices of different resistances; total resistance is lower.",
+    "(b) An ammeter is connected in series in the circuit and measures the electric current.",
+    "A voltmeter is connected in parallel across the points whose potential difference is to be measured, and it measures potential difference."
+   ]
+  },
+  {
+   "n": "13",
+   "sec": "VI",
+   "marks": 5,
+   "ch": "light-reflection-and-refraction",
+   "q": "(a) What is refraction of light? State two laws of refraction of light. (b) What is refractive index? \"The refractive index of diamond is 2.42.\" What is the meaning of this statement?",
+   "ans": "(a) Bending of light when it passes from one medium into another. Laws: incident ray, refracted ray and normal lie in one plane; sin i / sin r is constant (Snell's law). (b) Ratio of speed of light in vacuum (or one medium) to that in the medium. Light travels 2.42 times slower in diamond than in vacuum.",
+   "sol": [
+    "(a) Refraction: the change in direction of light when it passes obliquely from one transparent medium into another.",
+    "Laws of refraction: (1) the incident ray, the refracted ray and the normal at the point of incidence all lie in the same plane; (2) for a given pair of media and a given colour, sin i / sin r is a constant (Snell's law).",
+    "(b) Refractive index of a medium = speed of light in vacuum / speed of light in the medium (n = c/v).",
+    "\"Refractive index of diamond is 2.42\" means the speed of light in air (vacuum) is 2.42 times the speed of light in diamond. Diamond is optically very dense."
+   ]
+  },
+  {
+   "n": "14",
+   "sec": "VII",
+   "marks": 1,
+   "ch": "chemical-reactions-and-equations",
+   "q": "The gas liberated at the cathode in the electrolysis of water is",
+   "opts": [
+    "Oxygen",
+    "Hydrogen",
+    "Chlorine",
+    "Nitrogen"
+   ],
+   "ans": "B",
+   "sol": [
+    "2H₂O → 2H₂ + O₂. Hydrogen is collected at the cathode (negative electrode), and its volume is twice that of oxygen at the anode."
+   ]
+  },
+  {
+   "n": "15",
+   "sec": "VII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Periodic Classification of Elements",
+   "q": "Atomic number of chlorine is 17. The period number of this element in the modern periodic table is",
+   "opts": [
+    "2",
+    "7",
+    "4",
+    "3"
+   ],
+   "ans": "D",
+   "sol": [
+    "Electronic configuration of chlorine: 2, 8, 7. It has 3 shells, so it is in period 3."
+   ]
+  },
+  {
+   "n": "16",
+   "sec": "VIII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Periodic Classification of Elements",
+   "q": "State modern periodic law.",
+   "ans": "Properties of elements are a periodic function of their atomic number.",
+   "sol": [
+    "Modern periodic law: the properties of elements are a periodic function of their atomic number."
+   ]
+  },
+  {
+   "n": "17",
+   "sec": "VIII",
+   "marks": 1,
+   "ch": "acids-bases-and-salts",
+   "q": "Write any two uses of Plaster of Paris.",
+   "ans": "Plastering fractured bones; making toys, decorative items and statues; making surfaces smooth.",
+   "sol": [
+    "Uses of Plaster of Paris (any two): by doctors as plaster for supporting fractured bones; for making toys, decoration materials and statues; for making surfaces smooth."
+   ]
+  },
+  {
+   "n": "18",
+   "sec": "VIII",
+   "marks": 1,
+   "ch": "carbon-and-its-compounds",
+   "q": "Write the structural formula of ethene molecule.",
+   "ans": "H₂C=CH₂: two carbon atoms joined by a double bond, each carrying two hydrogen atoms.",
+   "sol": [
+    "Ethene is C₂H₄. Draw two C atoms joined by a double bond (C=C), and two H atoms attached to each carbon by single bonds."
+   ]
+  },
+  {
+   "n": "19",
+   "sec": "VIII",
+   "marks": 1,
+   "ch": "chemical-reactions-and-equations",
+   "q": "ZnO + C → Zn + CO. In this reaction name the reactant (i) that is oxidised and (ii) that is reduced.",
+   "ans": "(i) Carbon (C) is oxidised. (ii) Zinc oxide (ZnO) is reduced.",
+   "sol": [
+    "Carbon gains oxygen to become CO, so it is oxidised.",
+    "Zinc oxide loses oxygen to become Zn, so it is reduced."
+   ]
+  },
+  {
+   "n": "20",
+   "sec": "IX",
+   "marks": 2,
+   "ch": "acids-bases-and-salts",
+   "q": "The pH values of A, B and C solutions are 5, 6 and 7 respectively. Which of these solutions is more acidic in nature? Why?",
+   "ans": "A (pH 5), because lower pH means a higher concentration of H⁺ ions.",
+   "sol": [
+    "Solutions with pH less than 7 are acidic, and the lower the pH, the more acidic the solution (higher H⁺ ion concentration).",
+    "A has the lowest pH (5), so A is the most acidic. C (pH 7) is neutral."
+   ]
+  },
+  {
+   "n": "21",
+   "sec": "IX",
+   "marks": 2,
+   "ch": "metals-and-non-metals",
+   "q": "Draw the diagram to show the arrangement of the apparatus used for testing the conductivity of salt solution and label 'graphite rod'.",
+   "ans": "A beaker of salt solution with two graphite rods dipped in it, connected through a bulb (and switch) to a battery. The bulb glows.",
+   "sol": [
+    "Draw a beaker containing salt (sodium chloride) solution.",
+    "Dip two graphite rods in it as electrodes (label 'graphite rod').",
+    "Connect the rods with wires through a bulb and a switch to a battery to complete the circuit.",
+    "The bulb glows, showing that the salt solution conducts electricity because it contains ions."
+   ]
+  },
+  {
+   "n": "22",
+   "sec": "IX",
+   "marks": 2,
+   "ch": "metals-and-non-metals",
+   "q": "Give reason: (a) Metals are used in making cooking vessels. (b) Sodium metal is stored in kerosene.",
+   "ans": "(a) Metals are good conductors of heat and have high melting points. (b) Sodium reacts vigorously with air and water and catches fire, so it is kept under kerosene.",
+   "sol": [
+    "(a) Metals are good conductors of heat and have high melting points, so food is heated quickly and the vessel does not melt.",
+    "(b) Sodium is very reactive: it reacts so vigorously with oxygen and moisture in air that it catches fire. Kerosene keeps air and water away from it."
+   ],
+   "or": {
+    "ch": "metals-and-non-metals",
+    "q": "Give reason: (a) When calcium metal reacts with water, the liberated hydrogen gas does not catch fire. (b) Ionic compounds have high melting and boiling points.",
+    "ans": "(a) The reaction is less violent, so the heat evolved is not enough to ignite the hydrogen (bubbles stick to the metal and it floats). (b) A lot of energy is needed to break the strong electrostatic forces between oppositely charged ions.",
+    "sol": [
+     "(a) Calcium reacts with water less violently than sodium. The heat produced is not enough for the hydrogen to catch fire; the hydrogen bubbles stick to the calcium and it starts floating.",
+     "(b) In ionic compounds, oppositely charged ions are held by strong forces of attraction. A large amount of energy is needed to overcome these forces, so their melting and boiling points are high."
+    ]
+   }
+  },
+  {
+   "n": "23",
+   "sec": "X",
+   "marks": 3,
+   "ch": null,
+   "topic": "Periodic Classification of Elements",
+   "q": "What is atomic size? In the modern periodic table the atomic size decreases along a 'period' and increases down the 'group'. Why? Explain.",
+   "ans": "Atomic size is the radius of an atom (distance from the centre of the nucleus to the outermost shell). Across a period nuclear charge increases and pulls electrons closer; down a group a new shell is added each time.",
+   "sol": [
+    "Atomic size is the radius of an atom, the distance between the centre of the nucleus and the outermost shell.",
+    "Along a period: electrons are added to the same shell while the nuclear charge increases, so electrons are pulled closer to the nucleus and the size decreases.",
+    "Down a group: a new shell is added at each step, so the outermost electrons are farther from the nucleus and the size increases, even though nuclear charge also increases."
+   ]
+  },
+  {
+   "n": "24",
+   "sec": "X",
+   "marks": 3,
+   "ch": "acids-bases-and-salts",
+   "q": "Draw the diagram of the arrangement of the apparatus to show the reaction of zinc granules with dilute sulphuric acid and testing hydrogen gas by burning. Label: (i) zinc granules (ii) delivery tube.",
+   "ans": "Test tube with zinc granules and dilute H₂SO₄; delivery tube leading gas into soap solution; candle near bubble gives a pop.",
+   "sol": [
+    "Draw a test tube containing zinc granules and dilute sulphuric acid, fitted with a cork and a delivery tube.",
+    "Lead the delivery tube into a trough of soap solution so that hydrogen forms bubbles.",
+    "Bring a burning candle near a bubble: hydrogen burns with a pop sound.",
+    "Label zinc granules and delivery tube. Zn + H₂SO₄ → ZnSO₄ + H₂."
+   ]
+  },
+  {
+   "n": "25",
+   "sec": "X",
+   "marks": 3,
+   "ch": "chemical-reactions-and-equations",
+   "q": "Write the balanced chemical equations for: (i) Calcium carbonate → (heat) Calcium oxide + Carbon dioxide (ii) Hydrogen + Chlorine → Hydrogen chloride (iii) Magnesium + Hydrochloric acid → Magnesium chloride + Hydrogen.",
+   "ans": "(i) CaCO₃ → CaO + CO₂ (ii) H₂ + Cl₂ → 2HCl (iii) Mg + 2HCl → MgCl₂ + H₂",
+   "sol": [
+    "(i) CaCO₃(s) —heat→ CaO(s) + CO₂(g)",
+    "(ii) H₂(g) + Cl₂(g) → 2HCl(g)",
+    "(iii) Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)",
+    "Check: the number of atoms of each element is the same on both sides."
+   ],
+   "or": {
+    "ch": "chemical-reactions-and-equations",
+    "q": "Which type of chemical reaction takes place when an iron nail is dipped in copper sulphate solution? Why? Write a balanced chemical equation for this chemical reaction.",
+    "ans": "Displacement reaction, because iron is more reactive than copper and displaces it. Fe + CuSO₄ → FeSO₄ + Cu.",
+    "sol": [
+     "It is a displacement reaction.",
+     "Iron is more reactive than copper, so it displaces copper from copper sulphate solution. The nail gets a brownish coat of copper and the blue solution turns light green.",
+     "Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)"
+    ]
+   }
+  },
+  {
+   "n": "26",
+   "sec": "XI",
+   "marks": 4,
+   "ch": "carbon-and-its-compounds",
+   "q": "(a) What are structural isomers? Write the molecular and structural formula of butane. (b) What is catenation? Write the general formula for alkenes.",
+   "ans": "(a) Compounds with the same molecular formula but different structures. Butane: C₄H₁₀, CH₃–CH₂–CH₂–CH₃. (b) The ability of carbon to bond with other carbon atoms forming long chains, branches or rings. Alkenes: CₙH₂ₙ.",
+   "sol": [
+    "(a) Structural isomers are compounds that have the same molecular formula but different structural formulae.",
+    "Butane: molecular formula C₄H₁₀; structural formula CH₃–CH₂–CH₂–CH₃ (a straight chain of four carbons, each completing four bonds with hydrogen). Its isomer is isobutane (2-methylpropane).",
+    "(b) Catenation: the unique ability of carbon to form bonds with other carbon atoms, giving long chains, branched chains or rings.",
+    "General formula of alkenes: CₙH₂ₙ."
+   ]
+  },
+  {
+   "n": "27",
+   "sec": "XII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Our Environment",
+   "q": "The atmospheric layer that absorbs ultraviolet radiation from sunlight is made up of this molecule.",
+   "opts": [
+    "N₂",
+    "H₂",
+    "O₃",
+    "O₂"
+   ],
+   "ans": "C",
+   "sol": [
+    "The ozone layer (O₃) in the upper atmosphere absorbs harmful UV radiation from the sun."
+   ]
+  },
+  {
+   "n": "28",
+   "sec": "XII",
+   "marks": 1,
+   "ch": "how-do-organisms-reproduce",
+   "q": "In humans, sexually transmitted viral infection is",
+   "opts": [
+    "AIDS",
+    "Syphilis",
+    "Tuberculosis",
+    "Gonorrhoea"
+   ],
+   "ans": "A",
+   "sol": [
+    "AIDS is caused by a virus (HIV). Syphilis and gonorrhoea are bacterial infections, and tuberculosis is not sexually transmitted."
+   ]
+  },
+  {
+   "n": "29",
+   "sec": "XIII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Our Environment",
+   "q": "What is the role of decomposers in an ecosystem?",
+   "ans": "They break down dead plants and animals into simple substances that go back into the soil, recycling nutrients and cleaning the environment.",
+   "sol": [
+    "Decomposers (bacteria and fungi) break down complex organic substances in dead remains and wastes into simple inorganic substances, which go back into the soil and are used again by plants. This recycles nutrients."
+   ]
+  },
+  {
+   "n": "30",
+   "sec": "XIII",
+   "marks": 1,
+   "ch": "how-do-organisms-reproduce",
+   "q": "In males, testes are located outside the abdominal cavity in the scrotum. Why?",
+   "ans": "Sperm formation needs a temperature lower than normal body temperature.",
+   "sol": [
+    "Sperm are produced at a temperature slightly lower than normal body temperature. Keeping the testes in the scrotum outside the abdominal cavity provides this lower temperature."
+   ]
+  },
+  {
+   "n": "31",
+   "sec": "XIV",
+   "marks": 2,
+   "ch": "control-and-coordination",
+   "q": "Mention the function of the following plant hormones: (i) Auxin (ii) Cytokinin.",
+   "ans": "(i) Auxin promotes cell elongation and growth at shoot tips, and causes bending towards light. (ii) Cytokinin promotes cell division (found where cells divide fast, e.g. fruits and seeds).",
+   "sol": [
+    "(i) Auxin: synthesised at the shoot tip; promotes cell elongation and helps the shoot bend towards light (phototropism).",
+    "(ii) Cytokinin: promotes cell division; present in higher concentration in areas of rapid cell division such as fruits and seeds."
+   ]
+  },
+  {
+   "n": "32",
+   "sec": "XIV",
+   "marks": 2,
+   "ch": "how-do-organisms-reproduce",
+   "q": "Draw the diagram showing the longitudinal section of a flower and label 'ovary'.",
+   "ans": "LS of a flower showing sepal, petal, stamen (anther and filament) and the pistil (stigma, style, ovary with ovules). Label 'ovary'.",
+   "sol": [
+    "Draw the thalamus at the base with sepals and petals around.",
+    "Draw stamens (anther on a filament) and the central pistil: stigma at the top, style, and a swollen ovary at the base containing ovules.",
+    "Label the ovary (and other parts if you have time)."
+   ]
+  },
+  {
+   "n": "33",
+   "sec": "XIV",
+   "marks": 2,
+   "ch": "life-processes",
+   "q": "Give reason: (a) Ventricles of the human heart have thick walls. (b) It is necessary to separate oxygenated and deoxygenated blood in mammals and birds.",
+   "ans": "(a) Ventricles pump blood to the whole body and the lungs, so they need thick muscular walls. (b) Separation gives a highly efficient supply of oxygen, needed because birds and mammals use a lot of energy to keep a constant body temperature.",
+   "sol": [
+    "(a) Ventricles have to pump blood with high pressure to various organs of the body (and to the lungs), so they have thicker muscular walls than the atria.",
+    "(b) Keeping oxygenated and deoxygenated blood separate gives an efficient supply of oxygen to the body. Birds and mammals need this because they have high energy needs to maintain a constant body temperature."
+   ]
+  },
+  {
+   "n": "34",
+   "sec": "XV",
+   "marks": 3,
+   "ch": "heredity",
+   "q": "When a tall (TT) pea plant is crossed with a dwarf (tt) pea plant, represent the result obtained in the F₂ generation of the monohybrid cross with the help of a checker board and mention the ratio of varieties of plants.",
+   "ans": "F₁ all Tt (tall). F₂ checker board: TT, Tt, Tt, tt. Phenotype ratio 3 tall : 1 dwarf; genotype ratio 1 TT : 2 Tt : 1 tt.",
+   "sol": [
+    "Parents: TT (tall) × tt (dwarf). Gametes: T and t. F₁: all Tt (tall).",
+    "F₁ selfed: Tt × Tt. Gametes from each parent: T and t.",
+    "Checker board: T×T = TT (tall), T×t = Tt (tall), t×T = Tt (tall), t×t = tt (dwarf).",
+    "Phenotypic ratio: 3 tall : 1 dwarf. Genotypic ratio: 1 TT : 2 Tt : 1 tt."
+   ]
+  },
+  {
+   "n": "35",
+   "sec": "XV",
+   "marks": 3,
+   "ch": null,
+   "topic": "Our Environment",
+   "q": "What is trophic level? Flow of energy in an ecosystem is always unidirectional. Why? Explain.",
+   "ans": "Each step of a food chain where transfer of energy occurs. Energy captured by producers does not go back to the sun, and energy passed to herbivores does not return to plants; it is lost as heat at each step.",
+   "sol": [
+    "Trophic level: each step or level of a food chain at which transfer of food (energy) takes place, e.g. producers, herbivores, carnivores.",
+    "Energy flow is unidirectional: the energy captured by autotrophs does not go back to the sun, and the energy passed on to herbivores does not come back to autotrophs. It moves step by step to higher levels and is partly lost as heat at each level, so it is not available to the previous level."
+   ]
+  },
+  {
+   "n": "36",
+   "sec": "XV",
+   "marks": 3,
+   "ch": "heredity",
+   "topic": "Heredity and evolution",
+   "q": "(a) Mention any four main factors that lead to the rise of new species. (b) The experiences of an individual acquired during its lifetime cannot be passed on to its progeny. Give reason.",
+   "ans": "(a) Genetic drift, natural selection, geographical isolation (stopping gene flow), and variations/mutations in the DNA. (b) Such changes affect only body (somatic) cells, not the DNA of germ cells.",
+   "sol": [
+    "(a) Factors leading to new species: (1) geographical isolation that stops gene flow between populations; (2) genetic drift (accidental changes in gene frequency in small populations); (3) natural selection; (4) variations and severe DNA changes such as changes in chromosome number.",
+    "(b) Experiences acquired during a lifetime cause changes only in non-reproductive (somatic) tissues. They do not change the DNA of the germ cells, so they cannot be passed on to the progeny."
+   ],
+   "or": {
+    "ch": null,
+    "topic": "Evolution",
+    "q": "What are fossils? Mention the methods of estimating the age of fossils and explain briefly.",
+    "ans": "Preserved traces of living organisms of the past. Age is estimated by the relative method (depth of the layer) and by radioactive (carbon) dating.",
+    "sol": [
+     "Fossils are the preserved traces or remains of organisms that lived long ago.",
+     "Relative method: when we dig into the earth, fossils found closer to the surface are more recent than those found in deeper layers.",
+     "Radioactive (carbon) dating: the ratio of different isotopes of the same element (such as carbon) in the fossil material is measured to find its age."
+    ]
+   }
+  },
+  {
+   "n": "37",
+   "sec": "XVI",
+   "marks": 4,
+   "ch": "life-processes",
+   "q": "Which molecule is formed during the first step of cellular respiration by the breakdown of a glucose molecule in the cytoplasm? Mention the types of respiration and write any two differences between them.",
+   "ans": "Pyruvate. Aerobic and anaerobic respiration. Aerobic uses oxygen, occurs in mitochondria, gives CO₂ + H₂O and more energy; anaerobic is without oxygen, in cytoplasm, gives ethanol + CO₂ or lactic acid and less energy.",
+   "sol": [
+    "Glucose (6-carbon) is broken down into pyruvate (3-carbon) in the cytoplasm.",
+    "Types: aerobic respiration and anaerobic respiration.",
+    "Differences (any two): aerobic needs oxygen, anaerobic does not; aerobic occurs in mitochondria, anaerobic in the cytoplasm; aerobic gives carbon dioxide and water, anaerobic gives ethanol and CO₂ (yeast) or lactic acid (muscles); aerobic releases much more energy."
+   ],
+   "or": {
+    "ch": "life-processes",
+    "q": "Which are the factors essential for photosynthesis? Mention the events that occur during this process and represent this process by a balanced chemical equation.",
+    "ans": "Sunlight, chlorophyll, carbon dioxide and water. Events: absorption of light by chlorophyll; splitting of water into hydrogen and oxygen; reduction of CO₂ to carbohydrates. 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (sunlight, chlorophyll).",
+    "sol": [
+     "Essential factors: sunlight, chlorophyll, carbon dioxide and water.",
+     "Events: (1) absorption of light energy by chlorophyll; (2) conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen; (3) reduction of carbon dioxide to carbohydrates.",
+     "6CO₂ + 12H₂O —(sunlight, chlorophyll)→ C₆H₁₂O₆ + 6O₂ + 6H₂O"
+    ]
+   }
+  },
+  {
+   "n": "38",
+   "sec": "XVI",
+   "marks": 4,
+   "ch": "control-and-coordination",
+   "q": "Draw the diagram showing the structure of the human brain and label the following parts: (i) Cerebrum (ii) Cerebellum.",
+   "ans": "Side view of the brain: large folded cerebrum (fore-brain) on top, mid-brain, and pons, medulla and cerebellum (hind-brain) at the back, continuing into the spinal cord.",
+   "sol": [
+    "Draw the outline of the brain in side view with the large, folded cerebrum occupying the top and front.",
+    "At the lower back draw the smaller, ridged cerebellum below the cerebrum, with the pons and medulla in front of it continuing into the spinal cord.",
+    "Label cerebrum and cerebellum (also fore-brain, mid-brain, hind-brain, medulla, spinal cord if possible)."
+   ]
+  }
+ ]
+}

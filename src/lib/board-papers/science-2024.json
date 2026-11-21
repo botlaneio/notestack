@@ -1,0 +1,708 @@
+{
+ "id": "science-2024",
+ "subject": "science",
+ "year": 2024,
+ "exam": "Exam 1",
+ "date": "2024-03-30",
+ "code": "83-E",
+ "version": "A",
+ "minutes": 195,
+ "maxMarks": 80,
+ "source": "https://kseeb.karnataka.gov.in/QP/SSLC2024_EXAM1_QP",
+ "sections": [
+  {
+   "id": "I",
+   "part": "Part A · Physics",
+   "title": "Choose the correct alternative",
+   "note": "3 × 1 = 3"
+  },
+  {
+   "id": "II",
+   "title": "Answer the following questions",
+   "note": "2 × 1 = 2"
+  },
+  {
+   "id": "III",
+   "title": "Answer the following questions",
+   "note": "3 × 2 = 6"
+  },
+  {
+   "id": "IV",
+   "title": "Answer the following questions",
+   "note": "3 × 3 = 9"
+  },
+  {
+   "id": "V",
+   "title": "Answer the following questions",
+   "note": "2 × 4 = 8"
+  },
+  {
+   "id": "VI",
+   "part": "Part B · Chemistry",
+   "title": "Choose the correct alternative",
+   "note": "3 × 1 = 3"
+  },
+  {
+   "id": "VII",
+   "title": "Answer the following questions",
+   "note": "3 × 1 = 3"
+  },
+  {
+   "id": "VIII",
+   "title": "Answer the following questions",
+   "note": "3 × 2 = 6"
+  },
+  {
+   "id": "IX",
+   "title": "Answer the following questions",
+   "note": "3 × 3 = 9"
+  },
+  {
+   "id": "X",
+   "title": "Answer the following question",
+   "note": "1 × 4 = 4"
+  },
+  {
+   "id": "XI",
+   "part": "Part C · Biology",
+   "title": "Choose the correct alternative",
+   "note": "2 × 1 = 2"
+  },
+  {
+   "id": "XII",
+   "title": "Answer the following questions",
+   "note": "3 × 1 = 3"
+  },
+  {
+   "id": "XIII",
+   "title": "Answer the following questions",
+   "note": "2 × 2 = 4"
+  },
+  {
+   "id": "XIV",
+   "title": "Answer the following questions",
+   "note": "3 × 3 = 9"
+  },
+  {
+   "id": "XV",
+   "title": "Answer the following question",
+   "note": "1 × 4 = 4"
+  },
+  {
+   "id": "XVI",
+   "title": "Answer the following question",
+   "note": "1 × 5 = 5"
+  }
+ ],
+ "questions": [
+  {
+   "n": "1",
+   "sec": "I",
+   "marks": 1,
+   "ch": null,
+   "topic": "Sources of Energy",
+   "q": "Element used in the solar cell is",
+   "opts": [
+    "carbon",
+    "silicon",
+    "phosphorus",
+    "sulphur"
+   ],
+   "ans": "B",
+   "sol": [
+    "Solar cells are made mainly of silicon, a semiconductor that produces a small voltage when light falls on it."
+   ]
+  },
+  {
+   "n": "2",
+   "sec": "I",
+   "marks": 1,
+   "ch": "electricity",
+   "q": "Four resistors of 2 Ω each are first connected in series to get an equivalent resistance Rₛ. Later the same resistors are connected in parallel to get an equivalent resistance Rₚ. Then the ratio Rₛ / Rₚ is",
+   "opts": [
+    "16 : 1",
+    "2 : 1",
+    "4 : 1",
+    "8 : 1"
+   ],
+   "ans": "A",
+   "sol": [
+    "Series: Rₛ = 2 + 2 + 2 + 2 = 8 Ω.",
+    "Parallel: 1/Rₚ = 4 × (1/2) = 2, so Rₚ = 0.5 Ω.",
+    "Rₛ / Rₚ = 8 / 0.5 = 16, so the ratio is 16 : 1."
+   ]
+  },
+  {
+   "n": "3",
+   "sec": "I",
+   "marks": 1,
+   "ch": "human-eye-and-the-colourful-world",
+   "q": "Right statement regarding the colour of the scattered sunlight and the size of scattering atmospheric particles is",
+   "opts": [
+    "small particles scatter red colour",
+    "big particles scatter blue colour",
+    "big particles scatter violet colour",
+    "too larger particles scatter all colours equally"
+   ],
+   "ans": "D",
+   "sol": [
+    "Very fine particles scatter mainly blue (shorter wavelengths).",
+    "Particles that are large enough scatter all wavelengths about equally, so the scattered light looks white (this is why clouds look white)."
+   ]
+  },
+  {
+   "n": "4",
+   "sec": "II",
+   "marks": 1,
+   "ch": "electricity",
+   "q": "Write the symbols of the following components used in an electric circuit: (i) combination of two cells (ii) wires crossing without joining.",
+   "ans": "Battery: two long-short cell symbols joined in series. Wires crossing without joining: two lines crossing with no dot (or one line looping over the other).",
+   "sol": [
+    "(i) A combination of two cells (battery) is drawn as two cell symbols side by side, each a long thin line (+) and a short thick line (−), joined in series.",
+    "(ii) Wires crossing without joining are drawn as two lines that cross with no dot at the crossing (or one wire drawn as a small hump over the other). A dot would mean the wires are joined."
+   ]
+  },
+  {
+   "n": "5",
+   "sec": "II",
+   "marks": 1,
+   "ch": "electricity",
+   "q": "Can an electric heater of 2 kW be connected to a domestic circuit rated 15 A that has a potential difference of 220 V? Support your answer.",
+   "ans": "Yes. I = P/V = 2000/220 ≈ 9.1 A, which is less than 15 A.",
+   "sol": [
+    "Current drawn I = P / V = 2000 W / 220 V ≈ 9.1 A.",
+    "9.1 A is less than the 15 A rating, so the heater can be used safely on this circuit."
+   ]
+  },
+  {
+   "n": "6",
+   "sec": "III",
+   "marks": 2,
+   "ch": "human-eye-and-the-colourful-world",
+   "q": "What is spectrum of white light? Name any two phenomena that occur in the atmosphere due to the refraction of light.",
+   "ans": "The band of seven colours (VIBGYOR) obtained when white light is dispersed. Twinkling of stars; advance sunrise and delayed sunset.",
+   "sol": [
+    "Spectrum: the band of colours (violet, indigo, blue, green, yellow, orange, red) obtained when white light splits up, for example on passing through a prism.",
+    "Atmospheric refraction causes: (1) twinkling of stars, (2) the sun being visible about 2 minutes before actual sunrise and after actual sunset. (Also: stars appear higher than their real position.)"
+   ],
+   "or": {
+    "ch": "human-eye-and-the-colourful-world",
+    "q": "What is cataract of eye? What are the near point and far point of the human eye with normal vision?",
+    "ans": "Cataract: the crystalline lens becomes milky and cloudy, causing partial or complete loss of vision. Near point 25 cm, far point infinity.",
+    "sol": [
+     "Cataract: in old age the crystalline lens of the eye often becomes milky and cloudy, leading to partial or total loss of vision. It is treated by cataract surgery.",
+     "Near point of a normal eye = 25 cm (least distance of distinct vision).",
+     "Far point of a normal eye = infinity."
+    ]
+   }
+  },
+  {
+   "n": "7",
+   "sec": "III",
+   "marks": 2,
+   "ch": null,
+   "topic": "Sources of Energy",
+   "q": "\"Production of nuclear energy is advantageous and also disadvantageous.\" Clarify this statement with suitable explanation.",
+   "ans": "Advantage: a tiny mass of fuel releases a huge amount of energy without greenhouse gases. Disadvantages: radioactive waste is hard to store and dispose of, risk of leaks, and high set-up cost.",
+   "sol": [
+    "Advantages: nuclear fission of a small amount of fuel (uranium) releases a very large amount of energy; it does not release carbon dioxide or smoke.",
+    "Disadvantages: the spent fuel is radioactive and must be stored safely for a very long time; accidental leakage of radiation is dangerous; plants are costly to build and uranium is limited."
+   ]
+  },
+  {
+   "n": "8",
+   "sec": "III",
+   "marks": 2,
+   "ch": "human-eye-and-the-colourful-world",
+   "q": "A person who has a defect of the eye as shown in the figure purchases a spectacle having a lens of −2.0 D power. Is this lens suitable to rectify the eye defect of that person? Analyse.",
+   "fig": "An eye with rays from a near object N′ meeting behind the retina.",
+   "ans": "No. The figure shows hypermetropia (image of a near object forms behind the retina). It needs a convex lens (positive power); a −2.0 D lens is concave.",
+   "sol": [
+    "In the figure, light from a nearby object (at N′) comes to focus behind the retina. This is hypermetropia (long-sightedness): the person cannot see nearby objects clearly.",
+    "Hypermetropia is corrected by a convex (converging) lens, which has positive power.",
+    "A −2.0 D lens has negative power, so it is a concave lens, used for myopia. It would make the defect worse, so it is not suitable."
+   ]
+  },
+  {
+   "n": "9",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "light-reflection-and-refraction",
+   "q": "Draw the ray diagram of image formation when the object is kept at 2F₁ of a convex lens. With the help of the ray diagram mention the position and the nature of the image formed. (F₁: principal focus of the lens)",
+   "ans": "Image at 2F₂; real, inverted and of the same size as the object.",
+   "sol": [
+    "Draw the principal axis and the convex lens, and mark F₁, 2F₁ on the left and F₂, 2F₂ on the right.",
+    "Place the object AB at 2F₁. Ray 1: from the top A parallel to the axis; after refraction it passes through F₂. Ray 2: from A through the optical centre O, going straight.",
+    "The two rays meet at A′ below the axis at 2F₂. Draw the image A′B′ there.",
+    "Position: at 2F₂. Nature: real, inverted, same size as the object."
+   ]
+  },
+  {
+   "n": "10",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "electricity",
+   "q": "200 J of heat is produced each second in an 8 Ω resistance. Find the potential difference across the resistor.",
+   "ans": "40 V",
+   "sol": [
+    "Heat produced per second is the power: P = 200 J/s = 200 W.",
+    "P = V²/R, so V² = P × R = 200 × 8 = 1600.",
+    "V = √1600 = 40 V."
+   ],
+   "or": {
+    "ch": "electricity",
+    "q": "An electric refrigerator rated 300 W operates 6 hours in a day. What is the cost of the energy to operate it for 30 days at Rs. 7.00 per kWh?",
+    "ans": "Rs. 378",
+    "sol": [
+     "Energy per day = 300 W × 6 h = 1800 Wh = 1.8 kWh.",
+     "Energy for 30 days = 1.8 × 30 = 54 kWh.",
+     "Cost = 54 × Rs. 7.00 = Rs. 378."
+    ]
+   }
+  },
+  {
+   "n": "11",
+   "sec": "IV",
+   "marks": 3,
+   "ch": "magnetic-effects-of-electric-current",
+   "q": "In domestic circuits, (i) what are the reasons for overloading? (ii) Explain the working of earth wire.",
+   "ans": "(i) Live and neutral wires touching (short circuit) or too many appliances on one socket, or a rise in supply voltage. (ii) The earth wire connects the metal body of an appliance to the earth, giving leaking current a low-resistance path so the user does not get a shock.",
+   "sol": [
+    "(i) Overloading happens when too much current is drawn: when many appliances are connected to a single socket, or when the live and neutral wires come into direct contact (short circuit), or there is an accidental rise in supply voltage.",
+    "(ii) The earth wire (green insulation) is connected to a metal plate buried deep in the earth. The metal body of an appliance such as an iron or fridge is connected to it.",
+    "If current leaks to the metal body, it flows to the earth through this low-resistance path, so the body stays at earth potential and the user does not get a severe shock."
+   ],
+   "or": {
+    "ch": "magnetic-effects-of-electric-current",
+    "q": "A coil of insulated copper wire is connected to a galvanometer. What will happen if a bar magnet is (i) pushed into the coil? (ii) withdrawn from inside the coil? (iii) held stationary inside the coil?",
+    "ans": "(i) Momentary deflection in one direction. (ii) Momentary deflection in the opposite direction. (iii) No deflection.",
+    "sol": [
+     "(i) Pushing the magnet in changes the magnetic field through the coil, so a current is induced and the galvanometer needle deflects momentarily in one direction.",
+     "(ii) Withdrawing the magnet changes the field the other way, so the needle deflects momentarily in the opposite direction.",
+     "(iii) When the magnet is held still there is no change in the magnetic field, so no current is induced and there is no deflection."
+    ]
+   }
+  },
+  {
+   "n": "12",
+   "sec": "V",
+   "marks": 4,
+   "ch": "magnetic-effects-of-electric-current",
+   "q": "(a) State the right hand thumb rule. Write any two properties of the magnetic field lines. (b) What is a solenoid? How can this be converted into an electromagnet?",
+   "ans": "(a) Hold the straight conductor in the right hand with the thumb along the current; the curled fingers give the direction of the magnetic field. Field lines never intersect; they are closer where the field is stronger. (b) A coil of many circular turns of insulated wire wrapped like a cylinder; placing a soft iron core inside and passing current makes it an electromagnet.",
+   "sol": [
+    "(a) Right hand thumb rule: imagine holding a current-carrying straight conductor in your right hand so that the thumb points in the direction of the current. Then the fingers wrapped around the conductor show the direction of the magnetic field lines.",
+    "Properties of field lines (any two): they never intersect each other; they are closer together where the field is stronger; outside a magnet they go from north pole to south pole; they form closed loops.",
+    "(b) A solenoid is a coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder.",
+    "When a soft iron rod (core) is placed inside the solenoid and current is passed, the strong field inside magnetises the iron. This arrangement is an electromagnet."
+   ]
+  },
+  {
+   "n": "13",
+   "sec": "V",
+   "marks": 4,
+   "ch": "light-reflection-and-refraction",
+   "q": "(a) State two laws of reflection of light. (b) Write any two differences between concave mirror and convex mirror.",
+   "ans": "(a) Angle of incidence equals angle of reflection; incident ray, normal and reflected ray lie in the same plane. (b) Concave: reflecting surface curved inwards, converges light, can form real images. Convex: curved outwards, diverges light, always virtual, erect, diminished images.",
+   "sol": [
+    "(a) Laws of reflection: (1) the angle of incidence is equal to the angle of reflection; (2) the incident ray, the normal to the mirror at the point of incidence and the reflected ray all lie in the same plane.",
+    "(b) Differences (any two):",
+    "Concave mirror: reflecting surface is curved inwards; it converges light; it can form real and inverted or virtual and enlarged images; focus is in front of the mirror.",
+    "Convex mirror: reflecting surface is curved outwards; it diverges light; it always forms a virtual, erect and diminished image; focus is behind the mirror."
+   ]
+  },
+  {
+   "n": "14",
+   "sec": "VI",
+   "marks": 1,
+   "ch": "carbon-and-its-compounds",
+   "q": "Organic compounds obtained by the reaction between carboxylic acid and alcohol are",
+   "opts": [
+    "Aldehydes",
+    "Ketones",
+    "Esters",
+    "Hydrocarbons"
+   ],
+   "ans": "C",
+   "sol": [
+    "A carboxylic acid reacts with an alcohol in the presence of an acid catalyst to form an ester (esterification)."
+   ]
+  },
+  {
+   "n": "15",
+   "sec": "VI",
+   "marks": 1,
+   "ch": "chemical-reactions-and-equations",
+   "q": "Ferrous sulphate crystals lose green colour when heated, because this compound",
+   "opts": [
+    "decomposes into simpler products",
+    "loses water molecules",
+    "releases sulphur dioxide gas",
+    "produces brown fumes"
+   ],
+   "ans": "B",
+   "sol": [
+    "Ferrous sulphate crystals (FeSO₄·7H₂O) contain water of crystallisation, which gives the green colour. On gentle heating they lose these water molecules and the colour fades."
+   ]
+  },
+  {
+   "n": "16",
+   "sec": "VI",
+   "marks": 1,
+   "ch": null,
+   "topic": "Periodic Classification of Elements",
+   "q": "One limitation of Mendeleev's periodic table is, this classification",
+   "opts": [
+    "was applicable only up to calcium",
+    "suitable only for lighter elements",
+    "has not provided definite position for noble gases",
+    "has not assigned a fixed position to hydrogen"
+   ],
+   "ans": "D",
+   "sol": [
+    "Hydrogen resembles both alkali metals and halogens, so Mendeleev could not give it a fixed position."
+   ]
+  },
+  {
+   "n": "17",
+   "sec": "VII",
+   "marks": 1,
+   "ch": "acids-bases-and-salts",
+   "q": "Write any two uses of washing soda.",
+   "ans": "Used in glass, soap and paper industries; used for removing permanent hardness of water; cleaning agent at home; manufacture of borax.",
+   "sol": [
+    "Washing soda (Na₂CO₃·10H₂O) uses (any two): in the glass, soap and paper industries; for removing permanent hardness of water; as a cleaning agent for domestic purposes; in making sodium compounds such as borax."
+   ]
+  },
+  {
+   "n": "18",
+   "sec": "VII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Periodic Classification of Elements",
+   "q": "What are 'periods' and 'groups' in modern periodic table?",
+   "ans": "Periods are the 7 horizontal rows; groups are the 18 vertical columns.",
+   "sol": [
+    "Periods: the seven horizontal rows of the modern periodic table.",
+    "Groups: the eighteen vertical columns of the modern periodic table."
+   ]
+  },
+  {
+   "n": "19",
+   "sec": "VII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Periodic Classification of Elements",
+   "q": "The electronic configurations of four elements are: e = 2, 8, 2; f = 2, 7; g = 2, 8, 8, 1; h = 2, 8, 7. Arrange these elements in the decreasing order of their atomic radii (atomic size).",
+   "ans": "g > e > h > f",
+   "sol": [
+    "Atomic size increases down a group (more shells) and decreases across a period (more nuclear charge pulls electrons in).",
+    "g has 4 shells, so it is the largest. e and h have 3 shells; e (2, 8, 2) is to the left of h (2, 8, 7) in the same period, so e is larger. f has only 2 shells, so it is the smallest.",
+    "Order: g > e > h > f."
+   ]
+  },
+  {
+   "n": "20",
+   "sec": "VIII",
+   "marks": 2,
+   "ch": "acids-bases-and-salts",
+   "q": "Draw the diagram of the arrangement of apparatus showing the reaction of zinc granules with dilute sulphuric acid and testing hydrogen gas by burning.",
+   "ans": "Test tube with zinc granules and dilute H₂SO₄, delivery tube leading the gas into soap solution; a burning candle brought near the bubbles makes a pop sound.",
+   "sol": [
+    "Draw a test tube (held in a stand) containing zinc granules and dilute sulphuric acid.",
+    "Fit a cork with a delivery tube leading into a trough of soap solution, so hydrogen forms soap bubbles.",
+    "Show a burning candle brought near a gas-filled bubble. Label: zinc granules, dilute sulphuric acid, delivery tube, soap solution, bubbles of hydrogen, burning candle.",
+    "Hydrogen burns with a pop sound. Zn + H₂SO₄ → ZnSO₄ + H₂."
+   ]
+  },
+  {
+   "n": "21",
+   "sec": "VIII",
+   "marks": 2,
+   "ch": "acids-bases-and-salts",
+   "q": "Red and blue litmus papers are dipped in brine solution, and then in the aqueous product obtained by electrolysis of that solution. What changes do you observe in the litmus papers? Support your answer with reasons.",
+   "ans": "In brine, no change (it is neutral). In the product (sodium hydroxide solution), red litmus turns blue and blue stays blue, because NaOH is a base.",
+   "sol": [
+    "Brine (NaCl solution) is neutral, so neither red nor blue litmus changes colour.",
+    "Electrolysis of brine (chlor-alkali process): 2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g).",
+    "The aqueous product is sodium hydroxide, a strong base. So red litmus turns blue and blue litmus stays blue."
+   ],
+   "or": {
+    "ch": "acids-bases-and-salts",
+    "q": "The pH values of four solutions are: P = 10.0, Q = 13.7, R = 7.0, S = 1.2. (i) Which solution can be used to prepare an antacid? Why? (ii) Which two solutions can be used to get a neutral salt? Why?",
+    "ans": "(i) P, because it is a mild base that neutralises excess stomach acid without harming the body. (ii) Q and S, a strong base and a strong acid, give a neutral salt (pH 7).",
+    "sol": [
+     "(i) An antacid must be a mild base. P (pH 10) is mildly basic, so it can neutralise excess acid in the stomach safely. Q (pH 13.7) is a strong base and would be harmful.",
+     "(ii) A neutral salt is formed when a strong acid reacts with a strong base. S (pH 1.2) is a strong acid and Q (pH 13.7) is a strong base, so Q and S together give a neutral salt."
+    ]
+   }
+  },
+  {
+   "n": "22",
+   "sec": "VIII",
+   "marks": 2,
+   "ch": "metals-and-non-metals",
+   "q": "Draw the diagram of arrangement of apparatus showing the electrolytic refining of copper and label 'acidified copper sulphate' solution.",
+   "ans": "Tank of acidified copper sulphate solution with a thick impure copper anode (+) and a thin pure copper cathode (−) connected to a battery; anode mud collects below the anode.",
+   "sol": [
+    "Draw an electrolytic tank filled with acidified copper sulphate solution (label it).",
+    "Dip a thick block of impure copper as the anode, connected to the positive terminal of the battery, and a thin strip of pure copper as the cathode, connected to the negative terminal.",
+    "Show anode mud (insoluble impurities) settling below the anode.",
+    "On passing current, copper dissolves from the anode and pure copper deposits on the cathode."
+   ]
+  },
+  {
+   "n": "23",
+   "sec": "IX",
+   "marks": 3,
+   "ch": "chemical-reactions-and-equations",
+   "q": "(a) Identify the substances that are oxidised and reduced in the reaction ZnO + C → Zn + CO. (b) What is rancidity? Mention any two methods to prevent rancidity.",
+   "ans": "(a) C is oxidised (to CO); ZnO is reduced (to Zn). (b) Oxidation of fats and oils in food that changes smell and taste. Prevent by adding antioxidants, flushing packets with nitrogen, storing in airtight containers or refrigerating.",
+   "sol": [
+    "(a) Carbon gains oxygen to form CO, so carbon is oxidised. Zinc oxide loses oxygen to form zinc, so ZnO is reduced.",
+    "(b) Rancidity: when fats and oils in food are oxidised, their smell and taste change and the food becomes unpleasant.",
+    "Prevention (any two): adding antioxidants; flushing food packets (such as chips) with nitrogen; keeping food in airtight containers; storing in a refrigerator."
+   ]
+  },
+  {
+   "n": "24",
+   "sec": "IX",
+   "marks": 3,
+   "ch": "carbon-and-its-compounds",
+   "q": "An incomplete equation represents a chemical process of converting an unsaturated carbon compound to a saturated carbon compound (an unsaturated hydrocarbon reacting with gas x in the presence of substance y). (i) Complete the equation. (ii) Name the gas 'x' and the substance 'y'. (iii) What happens if the end products of this reaction react with chlorine in the presence of sunlight?",
+   "fig": "Unsaturated hydrocarbon + x —(y)→ saturated hydrocarbon",
+   "ans": "(i) CH₂=CH₂ + H₂ —(Ni)→ CH₃–CH₃. (ii) x = hydrogen, y = nickel (or palladium) catalyst. (iii) Substitution: hydrogen atoms are replaced by chlorine, e.g. CH₃–CH₃ + Cl₂ → CH₃–CH₂Cl + HCl.",
+   "sol": [
+    "(i) This is hydrogenation (an addition reaction). For example: CH₂=CH₂ + H₂ —(Ni catalyst)→ CH₃–CH₃. In general the C=C double bond becomes a single bond as two hydrogen atoms are added.",
+    "(ii) Gas x is hydrogen (H₂). Substance y is a catalyst such as nickel (or palladium).",
+    "(iii) The product is a saturated hydrocarbon. In sunlight it undergoes a substitution reaction with chlorine: hydrogen atoms are replaced one by one by chlorine atoms, e.g. CH₃–CH₃ + Cl₂ → CH₃–CH₂Cl + HCl."
+   ]
+  },
+  {
+   "n": "25",
+   "sec": "IX",
+   "marks": 3,
+   "ch": "carbon-and-its-compounds",
+   "q": "(a) Carbon could not form C⁴⁺ or C⁴⁻ ions. Why? (b) Write the electron dot structure of methane.",
+   "ans": "(a) Gaining 4 electrons (C⁴⁻) is hard because 6 protons cannot hold 10 electrons; losing 4 electrons (C⁴⁺) needs a lot of energy. So carbon shares electrons (covalent bonds). (b) C in the centre sharing one pair of electrons with each of four H atoms.",
+   "sol": [
+    "(a) Carbon has 4 valence electrons. To form C⁴⁻ it must gain 4 electrons, but its nucleus of 6 protons cannot hold 10 electrons easily. To form C⁴⁺ it must lose 4 electrons, which needs a large amount of energy. So carbon completes its octet by sharing electrons, forming covalent bonds.",
+    "(b) Methane (CH₄): write C in the centre with four H atoms around it. Between C and each H draw a shared pair of electrons (one dot from C, one cross from H), so carbon has 8 electrons around it and each hydrogen has 2."
+   ],
+   "or": {
+    "ch": "carbon-and-its-compounds",
+    "q": "(a) How are micelles formed during cleansing action of soap? (b) Which are the salts responsible for hardness of water? Detergents are effective even in hard water. Why?",
+    "ans": "(a) Soap molecules arrange with hydrophobic tails inward around the oily dirt and ionic heads outward toward water, forming a cluster (micelle). (b) Calcium and magnesium salts. Detergents do not form insoluble scum with calcium and magnesium ions.",
+    "sol": [
+     "(a) A soap molecule has an ionic (hydrophilic) end that dissolves in water and a long hydrocarbon (hydrophobic) tail that dissolves in oil. In water, the tails point inward toward the oily dirt and the ionic heads face the water, forming a spherical cluster called a micelle. The dirt is trapped in the centre and washed away by rinsing.",
+     "(b) Hardness of water is caused by calcium and magnesium salts (hydrogencarbonates, chlorides and sulphates).",
+     "Soap reacts with these ions to form insoluble scum. The charged ends of detergents do not form insoluble precipitates with calcium and magnesium ions, so detergents still work in hard water."
+    ]
+   }
+  },
+  {
+   "n": "26",
+   "sec": "X",
+   "marks": 4,
+   "ch": "metals-and-non-metals",
+   "q": "(a) How do silver and copper articles lose their shining surface? How does galvanisation protect iron articles? (b) Aluminium oxide is an amphoteric oxide. Why?",
+   "ans": "(a) Silver reacts with sulphur in air forming black silver sulphide; copper reacts with moist CO₂ forming a green basic copper carbonate layer. Galvanisation coats iron with zinc, which keeps out air and moisture and corrodes first itself. (b) It reacts with both acids and bases to form salt and water.",
+   "sol": [
+    "(a) Silver articles turn black because silver reacts with sulphur compounds in air to form silver sulphide (Ag₂S).",
+    "Copper articles develop a green coat because copper reacts with moist carbon dioxide in air to form basic copper carbonate.",
+    "Galvanisation: iron is coated with a thin layer of zinc. The zinc layer keeps air and moisture away from the iron; even if the coating is scratched, zinc being more reactive corrodes first, so iron is protected.",
+    "(b) Aluminium oxide reacts with acids as well as bases to give salt and water, so it is amphoteric:",
+    "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O",
+    "Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O"
+   ]
+  },
+  {
+   "n": "27",
+   "sec": "XI",
+   "marks": 1,
+   "ch": "control-and-coordination",
+   "q": "An illustration for reflex action among the following is",
+   "opts": [
+    "moving a chair",
+    "feeling the taste",
+    "withdrawing hands back when unknowingly touching a hot pan",
+    "clapping at the end of the function"
+   ],
+   "ans": "C",
+   "sol": [
+    "A reflex action is a sudden, automatic response to a stimulus without thinking. Pulling the hand back from a hot pan is a reflex controlled by the spinal cord."
+   ]
+  },
+  {
+   "n": "28",
+   "sec": "XI",
+   "marks": 1,
+   "ch": "heredity",
+   "q": "Pea plants with round seeds (RR) are crossed with pea plants with wrinkled seeds (rr). The percentage of plants having RR genetic make-up in the F₂ generation is",
+   "opts": [
+    "25%",
+    "50%",
+    "30%",
+    "75%"
+   ],
+   "ans": "A",
+   "sol": [
+    "F₁ plants are all Rr. Selfing Rr × Rr gives RR : Rr : rr = 1 : 2 : 1.",
+    "So RR is 1 out of 4 = 25%."
+   ]
+  },
+  {
+   "n": "29",
+   "sec": "XII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Our Environment",
+   "q": "\"Though ozone is a deadly poison, it is essential for life on the earth.\" Justify this statement.",
+   "ans": "The ozone layer in the upper atmosphere absorbs harmful ultraviolet radiation from the sun, which would otherwise cause skin cancer and harm living things.",
+   "sol": [
+    "Ozone (O₃) is poisonous if breathed in, but at the higher level of the atmosphere it forms a layer that shields the earth from the sun's ultraviolet (UV) radiation.",
+    "UV radiation causes skin cancer and damages living organisms, so the ozone layer is essential for life."
+   ]
+  },
+  {
+   "n": "30",
+   "sec": "XII",
+   "marks": 1,
+   "ch": "life-processes",
+   "q": "A schematic representation of blood circulation in mammals is given. (i) Name the blood vessels 'x' and 'y'. (ii) Which blood vessel has valves?",
+   "fig": "Schematic diagram of double circulation with vessel x leaving the heart to body organs and vessel y returning to the heart.",
+   "ans": "(i) x = artery, y = vein. (ii) Veins have valves.",
+   "sol": [
+    "(i) x carries blood away from the heart to the body organs, so it is an artery. y brings blood from the body organs back to the heart, so it is a vein.",
+    "(ii) Veins have valves, which make sure the blood flows only in one direction (towards the heart)."
+   ]
+  },
+  {
+   "n": "31",
+   "sec": "XII",
+   "marks": 1,
+   "ch": null,
+   "topic": "Our Environment",
+   "q": "\"The number of organisms decreases by reaching higher trophic level of a food chain in an ecosystem.\" Why?",
+   "ans": "Only about 10% of the energy at one trophic level passes to the next, so less energy is available at each higher level to support organisms.",
+   "sol": [
+    "At each trophic level most of the energy is used for life processes or lost as heat. Only about 10% is passed to the next level (10 percent law).",
+    "So higher levels get much less energy and can support fewer organisms."
+   ]
+  },
+  {
+   "n": "32",
+   "sec": "XIII",
+   "marks": 2,
+   "ch": "how-do-organisms-reproduce",
+   "q": "Draw the diagram showing the germination of pollen on stigma and label 'pollen tube'.",
+   "ans": "Stigma with pollen grains; one grain grows a pollen tube down through the style to the ovule in the ovary. Label 'pollen tube'.",
+   "sol": [
+    "Draw the pistil: stigma at the top, style, and ovary at the base containing an ovule.",
+    "Show pollen grains on the stigma, one of which has grown a long tube down through the style into the ovary to reach the ovule (female germ cell).",
+    "Label: stigma, pollen grain, pollen tube, style, ovary, ovule (female germ cell)."
+   ]
+  },
+  {
+   "n": "33",
+   "sec": "XIII",
+   "marks": 2,
+   "ch": "life-processes",
+   "q": "Draw the diagram showing excretory system in human beings and label 'urinary bladder'.",
+   "ans": "Two bean-shaped kidneys, a ureter from each running down to the urinary bladder, and the urethra leading out. Label 'urinary bladder'.",
+   "sol": [
+    "Draw two bean-shaped kidneys on either side of the backbone, with the aorta and vena cava between them.",
+    "From each kidney draw a ureter running down to a bag-shaped urinary bladder; draw the urethra below the bladder.",
+    "Label: kidney, ureter, urinary bladder, urethra (and aorta, vena cava)."
+   ]
+  },
+  {
+   "n": "34",
+   "sec": "XIV",
+   "marks": 3,
+   "ch": null,
+   "topic": "Management of Natural Resources",
+   "q": "(a) Measures of recharging underground water are better than the storage of water on the surface levels of the ground. How? Explain. (b) Reuse is better than recycling. Why?",
+   "ans": "(a) Groundwater does not evaporate, spreads out to recharge wells, provides moisture for vegetation over a wide area, and does not breed mosquitoes or get polluted by waste. (b) Reuse needs no energy for processing, while recycling uses energy.",
+   "sol": [
+    "(a) Water stored underground: does not evaporate; spreads out to recharge wells and provides moisture to crops over a wide area; does not become a breeding ground for mosquitoes; is protected from contamination by human and animal waste.",
+    "(b) Recycling needs energy to collect and process materials. Reuse uses the same thing again in the same or another way without spending energy, so it is better."
+   ]
+  },
+  {
+   "n": "35",
+   "sec": "XIV",
+   "marks": 3,
+   "ch": "how-do-organisms-reproduce",
+   "q": "(a) \"In human reproduction, the placenta performs a significant role in the development of a foetus into a child.\" Justify this statement. (b) How can DNA copying be decided as one of the ways of reproduction in lower organisms?",
+   "ans": "(a) The placenta passes glucose and oxygen from the mother's blood to the embryo and removes the embryo's wastes. (b) DNA copying makes two copies of the genetic information, one for each new cell, so the offspring get the same basic body design; small copying variations give variety.",
+   "sol": [
+    "(a) The placenta is a disc-like tissue embedded in the uterine wall. It has villi on the embryo's side and blood spaces on the mother's side, giving a large surface area.",
+    "Glucose and oxygen pass from the mother to the embryo through the placenta, and wastes produced by the embryo are removed into the mother's blood. So the foetus can grow into a child.",
+    "(b) Reproduction must pass the body design to the offspring. The cell makes a copy of its DNA, and the two copies separate into two cells along with the cell apparatus, giving two similar cells.",
+    "Because DNA copying is not perfectly accurate, small variations arise, which help species survive over time."
+   ]
+  },
+  {
+   "n": "36",
+   "sec": "XIV",
+   "marks": 3,
+   "ch": "life-processes",
+   "q": "What product is formed in the first step that takes place in the cytoplasm during respiration in animals? Write any two differences between aerobic and anaerobic respiration.",
+   "ans": "Pyruvate (a three-carbon molecule). Aerobic: uses oxygen, occurs in mitochondria, gives CO₂ + water + much energy. Anaerobic: without oxygen, occurs in cytoplasm, gives lactic acid or ethanol + CO₂ and less energy.",
+   "sol": [
+    "In the first step, glucose (6 carbon) is broken down in the cytoplasm into pyruvate (3 carbon).",
+    "Differences (any two):",
+    "Aerobic respiration: takes place in the presence of oxygen; occurs in mitochondria; end products are carbon dioxide and water; releases much more energy.",
+    "Anaerobic respiration: takes place without oxygen; occurs in the cytoplasm; end products are lactic acid (in muscles) or ethanol and carbon dioxide (in yeast); releases less energy."
+   ],
+   "or": {
+    "ch": "life-processes",
+    "q": "(a) In what form are the waste products stored in old xylems of plants? (b) How do the products of photosynthesis transport to all parts of the plant?",
+    "ans": "(a) As resins and gums. (b) By translocation through phloem, using energy (ATP) to move sucrose by osmotic pressure.",
+    "sol": [
+     "(a) Plants store some waste products as resins and gums, especially in old xylem.",
+     "(b) Food made in the leaves is moved through the phloem; this is called translocation. Sucrose is loaded into phloem using energy from ATP. This raises the osmotic pressure, water moves in, and the pressure pushes the food to the parts that need it."
+    ]
+   }
+  },
+  {
+   "n": "37",
+   "sec": "XV",
+   "marks": 4,
+   "ch": "control-and-coordination",
+   "q": "(a) Which part of the human brain controls the following activities? (i) Involuntary activities (ii) Thinking process (iii) Posture and balance of the body. (b) What are phytohormones? Name three phytohormones that promote growth.",
+   "ans": "(a) (i) Medulla (hind-brain) (ii) Cerebrum (fore-brain) (iii) Cerebellum. (b) Chemical substances that coordinate growth and responses in plants. Auxins, gibberellins, cytokinins.",
+   "sol": [
+    "(a) (i) Involuntary actions such as blood pressure, salivation and vomiting are controlled by the medulla in the hind-brain.",
+    "(ii) Thinking is controlled by the cerebrum (fore-brain).",
+    "(iii) Posture and balance are controlled by the cerebellum.",
+    "(b) Phytohormones (plant hormones) are chemicals that coordinate growth, development and responses to the environment in plants.",
+    "Growth promoters: auxins, gibberellins, cytokinins."
+   ],
+   "or": {
+    "ch": "control-and-coordination",
+    "q": "(a) Name the hormones that control the following activities in man: (i) regulating sugar level in the blood (ii) regulating the menstrual cycle (iii) preparing the body to face a situation (iv) regulating the metabolism. (b) Name any two tropisms that occur in plants. Give an example for each.",
+    "ans": "(a) (i) Insulin (ii) Oestrogen and progesterone (iii) Adrenaline (iv) Thyroxine. (b) Phototropism: shoots bend towards light. Geotropism: roots grow downwards.",
+    "sol": [
+     "(a) (i) Insulin from the pancreas. (ii) Oestrogen and progesterone from the ovaries. (iii) Adrenaline from the adrenal glands. (iv) Thyroxine from the thyroid.",
+     "(b) Any two: phototropism (shoot bends towards light); geotropism (roots grow down towards the earth); hydrotropism (roots grow towards water); chemotropism (pollen tube grows towards the ovule)."
+    ]
+   }
+  },
+  {
+   "n": "38",
+   "sec": "XVI",
+   "marks": 5,
+   "ch": "heredity",
+   "topic": "Heredity and evolution",
+   "q": "(a) Human hands and wings of the bird help to trace the evolutionary relationships. How? Explain the methods of dating of fossils. (b) Changes in the non-reproductive tissues will not inherit. Why?",
+   "ans": "(a) They are homologous organs: same basic structure, different functions, showing a common ancestor. Fossils are dated by depth (deeper = older) and by radioactive (carbon) dating. (b) Changes in body cells do not reach the DNA of germ cells, so they are not passed on.",
+   "sol": [
+    "(a) The forelimb of humans and the wing of birds have the same basic bone structure but are used for different functions. Such organs are homologous organs, which show that these animals evolved from a common ancestor.",
+    "Dating fossils: (1) relative method: fossils found deeper in the earth are older than those nearer the surface; (2) radioactive (carbon) dating: the ratio of different isotopes of the same element in the fossil tells its age.",
+    "(b) Changes in non-reproductive (body) tissues do not change the DNA of the germ cells. Only the DNA in germ cells is passed to the next generation, so such acquired traits are not inherited."
+   ]
+  }
+ ]
+}

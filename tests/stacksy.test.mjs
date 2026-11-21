@@ -4,6 +4,7 @@ import {DatabaseSync} from 'node:sqlite';
 import {DAILY_LIMITS, stacksyVoice, takeCall} from '../cloudflare/src/stacksy.ts';
 import {handleApi} from '../cloudflare/src/api.ts';
 import {resolveNavigation, cleanTitle} from '../src/lib/stacksy-pages.ts';
+import {boardReducer, EMPTY_BOARD, MAX_LINES, cleanText, parseLabels, labelValue, numberLinePositions} from '../src/lib/stacksy-board.ts';
 
 function memoryD1() {
   const db = new DatabaseSync(':memory:');
@@ -88,4 +89,47 @@ test('Stacksy only opens real pages the student can open', () => {
   assert.equal(resolveNavigation(42, null).ok, false);
   assert.equal(cleanTitle('Polynomials — guided chapter | NoteStack'), 'Polynomials');
   assert.equal(cleanTitle('NoteStack — Make room for understanding'), 'Home');
+});
+
+test('the blackboard opens clean, keeps lines in order and only accepts known styles and diagrams', () => {
+  let board = boardReducer(EMPTY_BOARD, {type: 'open', title: "  **Euclid's lemma** "});
+  assert.equal(board.open, true);
+  assert.equal(board.title, "Euclid's lemma");
+  board = boardReducer(board, {type: 'write', text: 'a = bq + r,  0 ≤ r < b', style: 'equation'});
+  board = boardReducer(board, {type: 'write', text: 'Right angle at B', style: 'shout', diagram: 'right triangle', labels: 'A, B, C, 3 cm, 4 cm, 5 cm'});
+  board = boardReducer(board, {type: 'write', text: '', diagram: 'none'});
+  assert.equal(board.lines.length, 2, 'an empty line is ignored');
+  assert.deepEqual(board.lines.map(l => l.style), ['equation', 'step']);
+  assert.equal(board.lines[1].diagram, 'right_triangle');
+  assert.deepEqual(board.lines[1].labels, ['A', 'B', 'C', '3 cm', '4 cm', '5 cm']);
+  assert.ok(board.lines[1].id > board.lines[0].id);
+
+  const reopened = boardReducer(board, {type: 'open', title: 'Next idea'});
+  assert.equal(reopened.lines.length, 0, 'a new explanation starts on a clean board');
+  assert.ok(reopened.nextId >= board.nextId, 'line ids keep growing');
+  assert.equal(boardReducer(board, {type: 'close'}).open, false);
+
+  let full = boardReducer(EMPTY_BOARD, {type: 'open', title: 'Long'});
+  for (let i = 0; i < MAX_LINES + 3; i++) full = boardReducer(full, {type: 'write', text: `step ${i}`});
+  assert.equal(full.lines.length, MAX_LINES);
+  assert.equal(full.lines[0].text, 'step 3', 'old lines are wiped off the top');
+
+  const auto = boardReducer(EMPTY_BOARD, {type: 'write', text: 'x² + 5x + 6'});
+  assert.equal(auto.open, true, 'writing on a closed board opens it');
+});
+
+test('chalk text is tidied and number-line labels are placed by value', () => {
+  assert.equal(cleanText('x^2 + sqrt(2)\n= `7`'), 'x² + √2 = 7');
+  assert.equal(cleanText(42), '');
+  assert.ok(cleanText('a'.repeat(300)).length <= 140);
+  assert.deepEqual(parseLabels(['3', 4, '']), ['3', '4']);
+  assert.equal(labelValue('-2'), -2);
+  assert.equal(labelValue('3/4'), 0.75);
+  assert.ok(Math.abs(labelValue('√2') - 1.41421) < 1e-4);
+  assert.ok(Math.abs(labelValue('2√3') - 3.4641) < 1e-3);
+  assert.ok(Math.abs(labelValue('π') - Math.PI) < 1e-9);
+  assert.equal(labelValue('x'), null);
+  const at = numberLinePositions(['-2', '0', '√2', '3']);
+  assert.ok(at[0] < at[1] && at[1] < at[2] && at[2] < at[3]);
+  assert.equal(numberLinePositions(['a', 'b', 'c'])[1], 0.5);
 });

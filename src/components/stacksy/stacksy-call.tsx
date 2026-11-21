@@ -7,6 +7,7 @@ import {useEffect, useRef, type RefObject} from 'react';
 import {ConversationProvider, useConversation} from '@elevenlabs/react';
 import type {SessionState} from '@/lib/auth-client';
 import {AREA_PRODUCT, cleanTitle, resolveNavigation} from '@/lib/stacksy-pages';
+import type {BoardAction} from '@/lib/stacksy-board';
 import type {CallPhase, Notice} from './stacksy';
 
 interface Props {
@@ -17,6 +18,9 @@ interface Props {
   levelRef: RefObject<HTMLDivElement | null>;
   onPhase: (phase: CallPhase) => void;
   onNotice: (notice: Notice) => void;
+  onBoard: (action: BoardAction) => void;
+  /** Goes up by one each time the student closes the blackboard. */
+  boardClosedBy: number;
 }
 
 const SUBJECT_NAMES: Record<string, string> = {mathematics: 'Maths', science: 'Science', 'social-science': 'Social Science'};
@@ -55,11 +59,11 @@ async function microphoneReady(): Promise<Notice | null> {
   }
 }
 
-function Call({wanted, muted, session, pathname, levelRef, onPhase, onNotice}: Props) {
+function Call({wanted, muted, session, pathname, levelRef, onPhase, onNotice, onBoard, boardClosedBy}: Props) {
   const router = useRouter();
   // Fresh values for callbacks that the voice SDK keeps hold of.
-  const live = useRef({session, pathname, router, onPhase, onNotice});
-  live.current = {session, pathname, router, onPhase, onNotice};
+  const live = useRef({session, pathname, router, onPhase, onNotice, onBoard});
+  live.current = {session, pathname, router, onPhase, onNotice, onBoard};
   const startedRef = useRef(false);
 
   const conversation = useConversation({
@@ -104,6 +108,19 @@ function Call({wanted, muted, session, pathname, levelRef, onPhase, onNotice}: P
               live.current.router.push(target.path);
               return `Opened ${target.path}. The call is still going; tell the student it is open.`;
             },
+            // The blackboard: Stacksy writes one short line per step, just before he says it.
+            blackboard_open: async (parameters: {title?: unknown}) => {
+              live.current.onBoard({type: 'open', title: parameters.title});
+              return 'The blackboard is open and clean. Write the first step with blackboard_write.';
+            },
+            blackboard_write: async (parameters: {text?: unknown; style?: unknown; diagram?: unknown; labels?: unknown}) => {
+              live.current.onBoard({type: 'write', text: parameters.text, style: parameters.style, diagram: parameters.diagram, labels: parameters.labels});
+              return 'Written on the board.';
+            },
+            blackboard_close: async () => {
+              live.current.onBoard({type: 'close'});
+              return 'The blackboard is closed.';
+            },
           },
         });
       })();
@@ -129,6 +146,12 @@ function Call({wanted, muted, session, pathname, levelRef, onPhase, onNotice}: P
     }, 600);
     return () => window.clearTimeout(t);
   }, [pathname, status]);
+
+  // The student closed the blackboard themselves.
+  useEffect(() => {
+    if (boardClosedBy === 0 || api.current.status !== 'connected') return;
+    api.current.sendContextualUpdate('The student closed the blackboard. Do not reopen it unless they ask for another explanation.');
+  }, [boardClosedBy]);
 
   // The halo behind Stacksy follows whoever is talking.
   useEffect(() => {

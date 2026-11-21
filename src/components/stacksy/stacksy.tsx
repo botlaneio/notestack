@@ -2,14 +2,17 @@
 
 import Link from 'next/link';
 import {usePathname} from 'next/navigation';
-import {lazy, Suspense, useCallback, useEffect, useRef, useState} from 'react';
+import {lazy, Suspense, useCallback, useEffect, useReducer, useRef, useState} from 'react';
 import {Mic, MicOff, PhoneOff} from 'lucide-react';
 import {chapterPath, useSession} from '@/lib/auth-client';
+import {boardReducer, EMPTY_BOARD} from '@/lib/stacksy-board';
 import {StacksyFace, type StacksyMood} from './stacksy-face';
 import styles from './stacksy.module.css';
 
 /** The voice SDK is large, so it only loads the first time a student taps Stacksy. */
 const StacksyCall = lazy(() => import('./stacksy-call'));
+/** The blackboard only appears during a call, so it loads then too. */
+const StacksyBoard = lazy(() => import('./stacksy-board').then(m => ({default: m.StacksyBoard})));
 
 export type CallPhase = 'idle' | 'starting' | 'listening' | 'speaking';
 export interface Notice {text: string; signIn?: boolean}
@@ -35,6 +38,9 @@ export function Stacksy() {
   const [nudge, setNudge] = useState(false);
   const [greeted, setGreeted] = useState(false);
   const levelRef = useRef<HTMLDivElement>(null);
+  // The blackboard Stacksy writes on while he explains. It stays open after a call so the student can read it.
+  const [board, dispatchBoard] = useReducer(boardReducer, EMPTY_BOARD);
+  const [boardClosedBy, setBoardClosedBy] = useState(0);
 
   const inCall = phase !== 'idle' || wanted;
   const hidden = HIDDEN_ON.some(p => pathname.startsWith(p)) && !inCall;
@@ -80,6 +86,12 @@ export function Stacksy() {
     if (next === 'idle') setWanted(false);
   }, []);
 
+  // The student closed the board: tell Stacksy (if the call is still on) so he doesn't keep writing.
+  const closeBoard = useCallback(() => {
+    dispatchBoard({type: 'close'});
+    setBoardClosedBy(n => n + 1);
+  }, []);
+
   if (hidden) return null;
 
   const status = phase === 'starting' ? 'Calling Stacksy…'
@@ -90,7 +102,11 @@ export function Stacksy() {
 
   return <div className={styles.root} data-phase={phase} data-muted={muted || undefined}>
     {loaded && <Suspense fallback={null}>
-      <StacksyCall wanted={wanted} muted={muted} session={session} pathname={pathname} levelRef={levelRef} onPhase={onPhase} onNotice={setNotice}/>
+      <StacksyCall wanted={wanted} muted={muted} session={session} pathname={pathname} levelRef={levelRef} onPhase={onPhase} onNotice={setNotice}
+        onBoard={dispatchBoard} boardClosedBy={boardClosedBy}/>
+    </Suspense>}
+    {board.open && <Suspense fallback={null}>
+      <StacksyBoard board={board} writing={phase === 'speaking'} onClose={closeBoard}/>
     </Suspense>}
 
     <div className={styles.dock}>
